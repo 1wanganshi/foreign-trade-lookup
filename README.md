@@ -1,5 +1,8 @@
 # 外贸快查 · 产品出海市场地图（移动端）
 
+> **在线体验（Cloudflare，完整功能含 AI）**：https://foreign-trade-lookup.w13365179393.workers.dev
+> **静态版（GitHub Pages）**：https://1wanganshi.github.io/foreign-trade-lookup/
+
 一个手机优先的单页 Web 应用：**输入产品名 → 1 秒内看到「哪些国家要 / 为什么 / 用什么工具 + 投流还是自然流」**。
 核心知识库随页面一起加载，**离线即可查询**（索引后单次查询实测 **0.007 ms 均值**，渲染 < 50 ms）；未收录的产品走
 「品类池规则推断」，并可叠加本机服务端的联网搜索结果。

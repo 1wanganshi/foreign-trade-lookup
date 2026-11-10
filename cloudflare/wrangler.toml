@@ -1,0 +1,14 @@
+name = "foreign-trade-lookup"
+main = "worker.mjs"
+compatibility_date = "2026-01-01"
+
+# 静态资源目录（web/ 下的前端）
+[assets]
+directory = "../web"
+binding = "ASSETS"
+not_found_handling = "single-page-application"
+
+# 可选：绑定 KV 持久化"未命中记录"
+# [[kv_namespaces]]
+# binding = "MISS_KV"
+# id = "<your-kv-namespace-id>"
