@@ -335,6 +335,18 @@
   /** \u4f4e\u7f6e\u4fe1\u515c\u5e95\uff1a\u53ea\u63d0\u793a\uff0c\u4e0d\u7ed9\u56fd\u5bb6/\u539f\u56e0/\u6295\u6d41\u7ed3\u8bba */
   /* ---------- 地区模式 ---------- */
   function renderRegion(res) {
+    return regionBody(res);
+  }
+  // qa 块的标题节点位置不固定，统一做安全写入
+  function setQTitle(id, html) {
+    var card = $(id);
+    if (!card) return;
+    var t = card.querySelector('.q-t');
+    if (!t) t = card.querySelector('.qa-t') || card;
+    if (t && t !== card) t.innerHTML = html;
+  }
+
+  function regionBody(res) {
     showState('result');
     var rg = res.region || {};
     var prods = res.products || [];
@@ -347,8 +359,8 @@
     $('noticeBox').hidden = true;
 
     // 头部：地区概况
-    $('qa1').querySelector('.q-t').innerHTML = '<i class="blk-no">1</i>这个地区的市场特征';
-    $('qa2').querySelector('.q-t').innerHTML = '<i class="blk-no">2</i>适合卖的商品 <span class="rg-hint">' + prods.length + ' 个 · 点开看国家/平台/流量</span>';
+    setQTitle('qa1', '<i class="blk-no">1</i>这个地区的市场特征');
+    setQTitle('qa2', '<i class="blk-no">2</i>适合卖的商品 <span class="rg-hint">' + prods.length + ' 个 · 点开看国家/平台/流量</span>');
     $('qa1v').innerHTML = (rg.summary ? esc(rg.summary) : '') +
       (rg.markets && rg.markets.length
         ? '<div class="rg-tags" style="margin-top:6px">' + rg.markets.slice(0, 8)
