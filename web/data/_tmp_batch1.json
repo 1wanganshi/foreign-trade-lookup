@@ -1,0 +1,2551 @@
+[
+  {
+    "id": "kitchen-silicone-foldable-cup",
+    "name": "硅胶折叠水杯",
+    "aliases": [
+      "Collapsible Silicone Cup",
+      "折叠杯 / 便携水杯",
+      "硅胶伸缩杯"
+    ],
+    "category": "厨房用品",
+    "summary": "可压缩至扁平的硅胶杯，户外与通勤收纳零占位",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "户外徒步与露营人口庞大，背包空间以克计较，可压缩杯具比硬质保温杯更省位，单价 12-18 美元属冲动购买区间"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "TikTok Shop",
+          "Etsy"
+        ],
+        "entry": "主打露营与徒步场景视频，做 3 色套装拉高客单，主图展示压缩前后厚度对比",
+        "risk": "硅胶需 FDA 食品接触检测，BPA 与异味投诉风险高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国徒步与自行车出行普及，背包与车架空间有限，可折叠杯具契合轻量化户外习惯"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Decathlon 线上",
+          "OTTO",
+          "Globetrotter"
+        ],
+        "entry": "德语标注食品级与耐温范围，配登山扣做配件差异化",
+        "risk": "需 LFGB 食品接触检测，硅胶异味会被差评放大"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本通勤与登山文化并存，包内空间小，可折叠杯适合收纳意识强的用户群体"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "Loft"
+        ],
+        "entry": "日文标注容量与折叠后尺寸，主打通勤与防灾应急双场景",
+        "risk": "日本食品接触器具需符合食品卫生法，检测报告必需"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲户外露营与海滩出行频繁，硅胶耐摔且不惧沙石，比玻璃与陶瓷更适合户外"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kathmandu 线上",
+          "Kogan"
+        ],
+        "entry": "主打海滩与露营场景，强调耐摔与可洗碗机清洗",
+        "risk": "需符合澳新食品接触标准，紫外线下硅胶老化需说明"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "why": [
+          "东南亚户外与夜市出行多，轻便可折叠杯便于摩托通勤携带，价格敏感但复购配件稳定"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH"
+        ],
+        "entry": "低价单只装配合直播演示折叠动作，做流量款拉店铺权重",
+        "risk": "潮湿高温环境下硅胶易发霉，需加强防霉工艺说明"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以美国站为主测款，FBA 发货做户外季节铺货",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "压缩演示短视频转化极高，是主流量入口",
+        "priority": 2
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "自动跑词后收口户外与露营长尾词",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌贴牌与礼品渠道批量单",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查露营相关词搜索量与竞品客单",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做套装组合与户外内容沉淀复购",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "短视频素材投流 CTR 高于关键词",
+        "竞品 ASIN 定投强调压缩体积",
+        "户外季前 45 天加预算"
+      ],
+      "organic": [
+        "压缩对比视频做详情页首图",
+        "A+ 标注耐温与食品级认证",
+        "户外社区测评沉淀长尾搜索"
+      ],
+      "budget": "$300-800/月，先测 2 个配色",
+      "kpi": "ACoS<30%，退货率<7%"
+    },
+    "sources": [
+      "Amazon.com 户外水具 Best Sellers",
+      "FDA 食品接触材料检测指南",
+      "TikTok 露营装备话题页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "kitchen-silicone-baking-mat",
+    "name": "硅胶烘焙垫",
+    "aliases": [
+      "Silicone Baking Mat",
+      "烤盘垫 / 硅胶烤垫",
+      "不粘烤布"
+    ],
+    "category": "厨房用品",
+    "summary": "可重复使用的不粘烤垫，替代烘焙纸的省钱方案",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国家庭烘焙普及率高，硅胶垫可重复使用替代一次性烘焙纸，长期成本叙事清晰"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Etsy",
+          "Williams Sonoma 线上"
+        ],
+        "entry": "主图做一次性用纸与可重复垫的成本对比，做 2 片与 4 片套装",
+        "risk": "需 FDA 食品接触检测，耐温虚标易烤毁引发投诉"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "why": [
+          "法国家庭甜点与面包烘焙传统深厚，烘焙频率高，垫具属高频消耗品"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "Fnac Marketplace",
+          "本土厨具连锁"
+        ],
+        "entry": "法语 listing 标注耐温与适配烤盘尺寸，切马卡龙与可颂场景",
+        "risk": "需 LFGB 与 REACH 检测，硅胶与玻璃纤维复合需说明"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国烘焙文化强且讲究可重复使用与减废，硅胶垫契合零浪费消费观"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "德语强调减废与耐用次数，附清洗与卷收说明",
+        "risk": "LFGB 检测必需，尺寸与德式烤箱不匹配会退货"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本家庭烤箱偏小，烘焙以少量多次为主，垫具需按日式烤盘尺寸定制"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "按日本常见烤盘尺寸分规格，日文标注耐温",
+        "risk": "日本食品卫生法检测，尺寸规格错配退货率高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭烧烤与烘焙并存，硅胶垫耐高温可进烤箱与烤架，适配户外烹饪"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kitchen Warehouse",
+          "Kogan"
+        ],
+        "entry": "做烧烤场景大尺寸款，主打耐高温与易清洗",
+        "risk": "需食品接触标准检测，紫外与高温叠加老化需说明"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以美国站主力，做单片与套装梯度铺货",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "烘焙长尾词精准投放，成本低转化稳",
+        "priority": 2
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "烘焙爱好者与手作人群聚集，做礼盒装",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接烘焙品牌与厨具渠道贴牌订单",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "比对竞品尺寸矩阵与评价痛点",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "少量精准词维持曝光",
+        "竞品定投比价成本优势"
+      ],
+      "organic": [
+        "成本对比图提升自然点击",
+        "A+ 标注认证与耐温实测",
+        "烘焙内容社区做口碑"
+      ],
+      "budget": "$200-600/月",
+      "kpi": "ACoS<25%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Baking Mats 类目",
+      "FDA 食品接触材料检测指南",
+      "Etsy 烘焙厨具类目页"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-bamboo-cutting-board-set",
+    "name": "竹制砧板套装",
+    "aliases": [
+      "Bamboo Cutting Board Set",
+      "竹菜板 / 分类砧板",
+      "竹制切菜板"
+    ],
+    "category": "厨房用品",
+    "summary": "按食材分类的竹砧板组，兼顾生熟分离与环保",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国食品安全宣传强调生熟分开，分类砧板成为家庭标配，竹材耐刀痕且价格优于实木"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "HomeGoods",
+          "Etsy"
+        ],
+        "entry": "做 3 片分类套装附带食材标识，主图展示生熟分离逻辑",
+        "risk": "竹制品需防霉防裂处理，甲醛释放需符合要求"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国厨房讲究卫生分区，竹材可再生符合环保消费偏好，木竹制品接受度高"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "本地厨具连锁"
+        ],
+        "entry": "德语强调可再生长材料与食品级油养护，标注尺寸",
+        "risk": "木材需熏蒸与甲醛检测，欧盟对竹制品归类偶有争议"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本厨房砧板按用途细分，追求薄型与易收纳，竹材薄板更适配狭小台面"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "东急Hands"
+        ],
+        "entry": "按日式台面做窄身薄板款，日文强调抗菌与干燥性",
+        "risk": "食品卫生法检测，潮湿气候下霉变投诉风险高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲厨房使用强度高，竹砧板厚度与耐刀痕成为关键，户外烧烤也需木质砧板"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "Bunnings",
+          "eBay AU",
+          "Kogan"
+        ],
+        "entry": "做加大加厚款适配烧烤场景，主打不开裂",
+        "risk": "需符合澳新食品接触标准，运输防潮包装必需"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "why": [
+          "中东家庭宴客频繁，大尺寸砧板与耐用性需求突出，竹子比塑料更符合招待场景观感"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地家居卖场"
+        ],
+        "entry": "做加大尺寸款主打宴客与处理整羊场景",
+        "risk": "高温干燥易开裂，需说明养护油使用"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站为主，做分类套装主推",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "生熟分开等场景词精准投放",
+        "priority": 2
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "美国第二渠道铺货，做尺寸矩阵",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接厨具批发商与超市自有品牌",
+        "priority": 4
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "刻字定制做礼品，提升客单与溢价",
+        "priority": 5
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "追踪竹制品竞品评价与价格带",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "分类与卫生场景词投放",
+        "竞品定投强调竹材与认证"
+      ],
+      "organic": [
+        "A+ 展示生熟分离用法",
+        "养护说明减少开裂差评",
+        "礼品刻字做差异化"
+      ],
+      "budget": "$400-900/月",
+      "kpi": "ACoS<28%，退货率<8%"
+    },
+    "sources": [
+      "Amazon.com Cutting Boards 类目",
+      "USDA 食品安全生熟分开建议",
+      "Etsy 厨具定制类目页"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-silicone-stretch-lids",
+    "name": "硅胶保鲜拉伸盖",
+    "aliases": [
+      "Silicone Stretch Lids",
+      "硅胶保鲜盖 / 万能盖",
+      "弹性保鲜套"
+    ],
+    "category": "厨房用品",
+    "summary": "一套覆盖所有碗盆的弹性硅胶盖，替代保鲜膜",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国家庭食物储存量大，保鲜膜消耗高，可重复硅胶盖以省钱减废双叙事切入"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "TikTok Shop",
+          "Etsy"
+        ],
+        "entry": "做 6 与 12 片多尺寸套装，主图做盖住西瓜与碗的特写",
+        "risk": "需 FDA 食品接触检测，密封不严漏水是差评主因"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "欧盟一次性塑料指令推动减塑，德国家庭对可重复用品接受度高，保鲜膜替代品需求真实"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "德语强调零塑料与减废，标注适配碗径范围",
+        "risk": "LFGB 检测必需，尺寸不匹配碗型退货率高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭户外野餐与剩菜冷藏频繁，硅胶盖便于携带与重复使用"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan",
+          "Kitchen Warehouse"
+        ],
+        "entry": "主打野餐与烧烤剩菜场景，做多尺寸套装",
+        "risk": "食品接触标准检测，紫外与油脂影响寿命需说明"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本厨房台面小、碗具尺寸统一，多尺寸硅胶盖可一物多用，收纳叠放体积小"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "按日式碗盘口径分规格，日文强调可叠放收纳",
+        "risk": "食品卫生法检测，异味与染色投诉风险"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "why": [
+          "巴西家庭烹饪量大、剩菜储存普遍，保鲜膜价格上升让可重复盖具具备性价比"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Shopee BR",
+          "Amazon.com.br"
+        ],
+        "entry": "低价多片装走量，葡语说明耐温与清洗",
+        "risk": "需符合当地食品接触标准，客单低物流占比高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站为主，做多尺寸套装",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "密封演示短视频转化高，主流量入口",
+        "priority": 2
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "保鲜膜替代与减塑词投放",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接超市与家居渠道批量贴牌",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查竞品尺寸组合与差评痛点",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "短视频投流 ROI 高于关键词",
+        "竞品定投强调密封与耐温"
+      ],
+      "organic": [
+        "密封演示视频做详情页首位",
+        "A+ 列明适配碗径表",
+        "减塑内容做长期自然流"
+      ],
+      "budget": "$300-700/月",
+      "kpi": "ACoS<28%，差评率<4%"
+    },
+    "sources": [
+      "Amazon.com Food Storage 类目",
+      "欧盟一次性塑料指令公开信息",
+      "FDA 食品接触检测指南"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-garlic-press-stainless",
+    "name": "不锈钢压蒜器",
+    "aliases": [
+      "Stainless Garlic Press",
+      "蒜泥器 / 压蒜器",
+      "大蒜压榨器"
+    ],
+    "category": "厨房用品",
+    "summary": "一体成型压蒜器，厨房里出单最稳的小工具刚需",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美式烹饪大量使用蒜末，压蒜器属厨房常备小工具，单价低且更换周期短"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "Etsy"
+        ],
+        "entry": "做加厚一体成型款主打不变形，配清洁刷做赠品",
+        "risk": "需 FDA 食品接触检测，廉价款铆钉脱落是投诉主因"
+      },
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "why": [
+          "意大利菜系离不开蒜，家庭烹饪频率高，对压蒜器手感与清洗便利性要求具体"
+        ],
+        "channels": [
+          "Amazon.it",
+          "Amazon.de",
+          "Cdiscount",
+          "本地厨具连锁"
+        ],
+        "entry": "意语强调可洗碗机清洗与省力杠杆，做橄榄绿配色",
+        "risk": "LFGB 检测必需，镀层脱落会引发投诉"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本家庭厨房工具讲究小巧易收纳，压蒜器需薄型可挂，适配窄抽屉"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "做薄型可挂款，日文标注收纳尺寸",
+        "risk": "食品卫生法检测，做工毛刺在日本会直接差评"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲烧烤与地中海饮食流行，蒜在烧烤与蘸酱中用量大，压蒜器属高频工具"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kitchen Warehouse",
+          "Kogan"
+        ],
+        "entry": "主打烧烤腌料场景，强调可拆洗",
+        "risk": "食品接触标准检测，盐分环境下不锈钢耐蚀需说明"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "why": [
+          "中东菜肴蒜与香料用量大，家庭宴客频率高，耐用压蒜器比塑料款更受青睐"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地家居卖场"
+        ],
+        "entry": "做加大容量款，英文阿拉伯语双语说明耐蚀",
+        "risk": "高温潮湿环境下劣质不锈钢易锈"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站为主，做加厚主力款",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "厨具长尾词低成本精准投放",
+        "priority": 2
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "美国第二渠道铺货",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接厨具批发与超市自有品牌",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "查小工具客单与评价痛点",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "精准词小预算维持",
+        "竞品定投比价耐用性"
+      ],
+      "organic": [
+        "A+ 展示一体成型结构",
+        "清洁便利卖点做图片表达",
+        "评测视频沉淀"
+      ],
+      "budget": "$200-500/月",
+      "kpi": "ACoS<22%，评分≥4.5"
+    },
+    "sources": [
+      "Amazon.com Kitchen Gadgets 类目",
+      "FDA 食品接触材料指南",
+      "Walmart 厨具货架页"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-stainless-mixing-bowl-set",
+    "name": "不锈钢搅拌盆套装",
+    "aliases": [
+      "Stainless Mixing Bowl Set",
+      "打蛋盆 / 料理盆",
+      "不锈钢盆组"
+    ],
+    "category": "厨房用品",
+    "summary": "带盖嵌套不锈钢盆组，烘焙与备菜一盆到底",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国家庭备餐与烘焙并存，嵌套盆省橱柜空间，带盖可当保鲜盆两用"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "HomeGoods"
+        ],
+        "entry": "做带硅胶底防滑与盖款，主图展示嵌套收纳厚度",
+        "risk": "食品级不锈钢需检测，底部脱落与变形是投诉点"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国厨房讲究收纳效率，嵌套盆组契合小橱柜，不锈钢耐洗耐摔适配高频使用"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "本地厨具连锁"
+        ],
+        "entry": "德语标注容量与嵌套后高度，主打可入洗碗机",
+        "risk": "需 LFGB 食品接触检测，钢种宣称需可验证"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本厨房收纳空间紧张，盆具需按抽屉深度设计，薄壁嵌套款更受欢迎"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "Nitori 平替"
+        ],
+        "entry": "按日式橱柜深度做规格，日文标注叠放高度",
+        "risk": "食品卫生法检测，薄壁变形在日本易被差评"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "why": [
+          "中东家庭宴客与备菜量大，大容量盆具需求突出，不锈钢耐热便于清洗"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地家居卖场"
+        ],
+        "entry": "做加大容量款配合宴客备菜场景",
+        "risk": "高温环境与盐分对钢种耐蚀要求高"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "why": [
+          "巴西家庭烹饪量大、厨房使用强度高，不锈钢盆耐用好洗符合当地使用习惯"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Shopee BR",
+          "Amazon.com.br"
+        ],
+        "entry": "做大容量平价套装走量",
+        "risk": "需符合当地食品接触标准，物流重货成本占比高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站为主，做带盖嵌套套装",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "烘焙与备菜场景词投放",
+        "priority": 2
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "家居平台做厨具类目扩展",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接餐饮与酒店用品批量采购",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "比对容量矩阵与竞品评价",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做厨具套装组合提升客单",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "嵌套收纳卖点做视频广告",
+        "竞品定投强调钢种与厚度"
+      ],
+      "organic": [
+        "收纳前后对比图提升点击",
+        "A+ 标注容量与钢种",
+        "烘焙内容社区合作"
+      ],
+      "budget": "$400-900/月",
+      "kpi": "ACoS<26%，退货率<8%"
+    },
+    "sources": [
+      "Amazon.com Mixing Bowls 类目",
+      "FDA 食品接触材料指南",
+      "Wayfair 厨具类目页"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-collapsible-dish-rack",
+    "name": "折叠沥水碗架",
+    "aliases": [
+      "Collapsible Dish Drying Rack",
+      "折叠碗架 / 沥水架",
+      "可收起碗碟架"
+    ],
+    "category": "厨房用品",
+    "summary": "用完可压平的沥水架，小厨房台面的救命设计",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国租房与公寓厨房台面狭小，用完可压平的沥水架能释放备菜空间"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "OBI"
+        ],
+        "entry": "德语强调折叠后厚度与承重，配硅胶脚防滑",
+        "risk": "需 LFGB 检测，折叠机构寿命是投诉点"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本厨房台面极小，沥水架必须可收起，折叠款正对应用户的核心收纳焦虑"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "东急Hands"
+        ],
+        "entry": "按日式水槽尺寸定制，日文标注折叠厚度",
+        "risk": "食品卫生法检测，日本对折页卡顿极敏感"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国公寓与宿舍厨房台面小，可折叠沥水架契合临时居住与搬家需求"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "TikTok Shop"
+        ],
+        "entry": "做可折叠加沥水盘两用款，主打宿舍与公寓场景",
+        "risk": "需 FDA 食品接触检测，掉落与卡扣断裂引发退货"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "why": [
+          "新加坡组屋厨房面积小、湿气重，折叠沥水架便于收纳且需防霉设计"
+        ],
+        "channels": [
+          "Shopee SG",
+          "Lazada SG",
+          "Amazon.sg"
+        ],
+        "entry": "主打防霉与可拆洗，做组屋场景图",
+        "risk": "高湿环境金属件易锈，需盐雾测试"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭水槽偏大但台面紧张，折叠架兼顾日常与大件清洗"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Bunnings",
+          "Kogan"
+        ],
+        "entry": "做加大可扩展款，主打家庭多人口场景",
+        "risk": "食品接触标准检测，户外强晒下塑料老化快"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以德国站与日本站双主线测款",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "小厨房与折叠收纳词精准投放",
+        "priority": 2
+      },
+      {
+        "name": "OTTO Marketplace",
+        "type": "B2C",
+        "use": "德国本土渠道做家居收纳扩展",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "折叠演示短视频转化高",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接家居渠道批量与贴牌",
+        "priority": 5
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查折叠类目竞品与评价痛点",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "德语与日语精准词成本低",
+        "竞品定投强调折叠耐用"
+      ],
+      "organic": [
+        "折叠演示视频做首位素材",
+        "A+ 列明水槽适配尺寸",
+        "收纳内容社区沉淀"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<28%，退货率<9%"
+    },
+    "sources": [
+      "Amazon.de 沥水架类目",
+      "Amazon.co.jp 水切りかご 类目",
+      "LFGB 食品接触材料说明"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-electric-kettle-stainless",
+    "name": "不锈钢电热水壶",
+    "aliases": [
+      "Stainless Electric Kettle",
+      "电水壶 / 烧水壶",
+      "电热水壶"
+    ],
+    "category": "厨房用品",
+    "summary": "温控电热水壶，全球家庭最普及的小家电之一",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国家庭煮咖啡与泡茶需求并存，温控电水壶从单品升级为台面常备"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "Wayfair"
+        ],
+        "entry": "做控温与保温款，主图标注材质与功率，配滤网",
+        "risk": "需 UL 或 ETL 认证，FDA 食品接触检测，UL 缺失不得上架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "why": [
+          "英国饮茶文化深，电水壶是家庭必备，单杯速热与静音成为换代卖点"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Argos",
+          "Currys",
+          "Wayfair UK"
+        ],
+        "entry": "做英规插头版本，主打速热与静音",
+        "risk": "CE 与 LVD 指令，ERP 能效标签，英规插头与认证缺一不可"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本家庭饮茶与泡面场景多，电水壶讲究容量小与保温，需符合当地电气认证"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "Yodobashi"
+        ],
+        "entry": "做 0.8 升小容量款，办理 PSE 认证并日文标注",
+        "risk": "日本 PSE 电气用品安全法认证，缺证不得销售"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国水质偏硬，用户关注除垢与不锈钢内胆，控温与保温是主要换机动因"
+        ],
+        "channels": [
+          "Amazon.de",
+          "MediaMarkt 线上",
+          "OTTO",
+          "Kaufland"
+        ],
+        "entry": "主打除垢设计与不锈钢内胆，德语标注能效等级",
+        "risk": "CE 与 ERP 能效标签，食品接触部件需符合 EU 1935/2004"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲饮茶咖啡习惯普及，电水壶属高频更换小家电，澳规插头是硬前提"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan",
+          "JB Hi-Fi 线上"
+        ],
+        "entry": "做澳规插头版本，主打速热与防干烧",
+        "risk": "需 RCM 认证与澳规插头，认证不符直接下架"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "英国站与日本站为主，双认证版本分开上架",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "速热与静音卖点词投放",
+        "priority": 2
+      },
+      {
+        "name": "TUV / Intertek",
+        "type": "数据",
+        "use": "办理 UL、CE、PSE、RCM 多国认证",
+        "priority": 3
+      },
+      {
+        "name": "MediaMarkt / Currys 线上",
+        "type": "B2C",
+        "use": "欧洲本土小家电分销做品牌背书",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "对接电水壶整机厂与温控器供应商",
+        "priority": 5
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "追踪小家电季节性销量与评价",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "速热与静音视频广告",
+        "竞品定投比较除垢与保温",
+        "节礼季前加投"
+      ],
+      "organic": [
+        "A+ 列明认证编号与功率",
+        "材质对比图建立信任",
+        "测评视频沉淀长尾"
+      ],
+      "budget": "$800-1500/月",
+      "kpi": "ACoS<32%，退货率<9%"
+    },
+    "sources": [
+      "Amazon.co.uk 电水壶 Best Sellers",
+      "日本 PSE 认证分类说明",
+      "CE 与 LVD 指令公开信息"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-air-fryer-disposable-liners",
+    "name": "空气炸锅一次性烘焙纸盘",
+    "aliases": [
+      "Air Fryer Paper Liners",
+      "炸锅纸 / 一次性烤盘纸",
+      "空气炸锅垫纸"
+    ],
+    "category": "厨房用品",
+    "summary": "空气炸锅专用垫纸，高复购的耗材型爆款",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国家庭空气炸锅保有量高且清洗麻烦，一次性垫纸解决油污痛点，属高频复购耗材"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "TikTok Shop",
+          "Etsy"
+        ],
+        "entry": "做多尺寸适配套装，主图标注适配口径，主打免清洗",
+        "risk": "需 FDA 食品接触检测，耐温虚标引发焦化投诉"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国空气炸锅流行但用户在意减废，可降解与耐温参数成为选择关键"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "德语标注耐温与可降解认证，避开一次性塑料禁令",
+        "risk": "需 LFGB 检测，一次性用品受欧盟限塑法规约束"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本厨房小家电占比高且注重清洁便利，一次性垫纸契合少清洗的生活习惯"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "按日式炸锅口径分规格，日文标注耐温",
+        "risk": "食品卫生法检测，尺寸不匹配退货多"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭空气炸锅普及快，清洗成本高让一次性垫纸成为消耗品"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan"
+        ],
+        "entry": "做 100 片量贩装走量，主打家庭囤货",
+        "risk": "食品接触标准检测，纸质来源与漂白工艺需说明"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "why": [
+          "中东家庭烹饪量大，空气炸锅增长快，一次性垫纸属高复购低决策品"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地超市渠道"
+        ],
+        "entry": "做加大口径量贩装，英文阿语双语说明",
+        "risk": "高温环境需标注实际耐温上限"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站主推，做多尺寸与量贩装",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "清洗痛点演示视频转化极高",
+        "priority": 2
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "空气炸锅配件词截流投放",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接商超与厨具渠道量贩贴牌",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查空气炸锅配件的关联购买",
+        "priority": 5
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "美国第二渠道铺量贩装",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "短视频素材投流成本最优",
+        "空气炸锅品牌词周边截流"
+      ],
+      "organic": [
+        "清洗对比视频做详情页首位",
+        "A+ 标注适配口径表",
+        "量贩装梯度提升客单"
+      ],
+      "budget": "$500-1200/月",
+      "kpi": "ACoS<30%，复购率>20%"
+    },
+    "sources": [
+      "Amazon.com Air Fryer Accessories 类目",
+      "FDA 食品接触材料指南",
+      "欧盟一次性塑料指令公开信息"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-oil-sprayer-bottle",
+    "name": "厨房玻璃喷油瓶",
+    "aliases": [
+      "Oil Sprayer Bottle",
+      "喷油壶 / 油雾瓶",
+      "控油喷雾瓶"
+    ],
+    "category": "厨房用品",
+    "summary": "按压雾化喷油瓶，健康控油趋势下的轻决策品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国健康饮食与减脂风潮推动控油，喷油瓶让用油量可视化，属低成本改善型产品"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "TikTok Shop",
+          "Etsy"
+        ],
+        "entry": "做玻璃防漏款，主图演示按压雾化与油量控制",
+        "risk": "需 FDA 食品接触检测，漏油与泵头堵塞是投诉主因"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国厨房讲究精准用油与不粘锅养护，玻璃瓶耐洗且不吸附异味"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "德语强调玻璃材质与可清洗，做橄榄油场景图",
+        "risk": "LFGB 检测必需，玻璃运输破损率高需气柱包装"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本少油烹饪与便当文化流行，喷油瓶契合精细控油习惯，体积需适配小橱柜"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "做小容量细雾款，日文标注每喷油量",
+        "risk": "食品卫生法检测，泵头精度在日本要求高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲烧烤文化浓，喷油瓶便于控制烤架用油且适配户外使用"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan",
+          "Kitchen Warehouse"
+        ],
+        "entry": "做耐高温大容量款，主打烧烤喷油场景",
+        "risk": "食品接触标准检测，高温下泵头材料需耐温"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "why": [
+          "中东烹饪用油量偏大但健康意识上升，喷油瓶契合控油与喷洒香料油需求"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地家居卖场"
+        ],
+        "entry": "做加大容量款，双语说明耐热与清洗",
+        "risk": "高温环境影响塑料泵头寿命，需选耐温材质"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站为主，做玻璃防漏主力款",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "雾化演示短视频转化高",
+        "priority": 2
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "健康控油与减脂场景词投放",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接厨具与礼品渠道贴牌",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查喷油瓶竞品与差评集中点",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "雾化效果视频广告",
+        "竞品定投强调防漏设计"
+      ],
+      "organic": [
+        "A+ 展示每次喷油量",
+        "玻璃破损包装做说明",
+        "健康饮食内容合作"
+      ],
+      "budget": "$300-800/月",
+      "kpi": "ACoS<28%，破损率<3%"
+    },
+    "sources": [
+      "Amazon.com Oil Sprayers 类目",
+      "FDA 食品接触材料指南",
+      "TikTok 厨房好物话题页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "kitchen-sink-caddy-sponge-holder",
+    "name": "水槽海绵收纳架",
+    "aliases": [
+      "Sink Caddy / Sponge Holder",
+      "水槽置物架 / 海绵架",
+      "洗碗棉收纳盒"
+    ],
+    "category": "厨房用品",
+    "summary": "让洗碗海绵快速沥干的台面小件，高频小单快出",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国厨房水槽周边杂物多，海绵与刷子无处放置，收纳架解决台面凌乱且易更换"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "TikTok Shop"
+        ],
+        "entry": "做可拆洗沥水盘款，主图对比凌乱与整洁台面",
+        "risk": "食品接触与防锈检测，锈蚀投诉会快速拉低评分"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国厨房讲究干爽卫生，海绵积水易生味，带沥水的收纳件契合当地清洁习惯"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "OBI"
+        ],
+        "entry": "德语强调沥水与可拆洗，标注不锈钢防锈",
+        "risk": "LFGB 检测与盐雾测试，长期潮湿环境需防腐"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本厨房水槽窄小，收纳件需按水槽边宽定制，紧凑与易清洁是核心"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "东急Hands"
+        ],
+        "entry": "按日式水槽宽度做窄身款，日文强调可拆洗",
+        "risk": "食品卫生法检测，潮湿环境霉斑是投诉点"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "why": [
+          "东南亚高湿环境下海绵极易发霉，带沥水与通风设计的收纳件有明确痛点价值"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH"
+        ],
+        "entry": "主打防霉沥水与可拆洗，做直播演示",
+        "risk": "湿热环境金属易锈，需选耐蚀材质"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭水槽使用频繁且户外水槽多，耐晒耐湿的收纳件更耐用"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Bunnings",
+          "Kogan"
+        ],
+        "entry": "做耐候材质款兼顾户外水槽场景",
+        "risk": "紫外与盐分对材质考验大，需说明使用环境"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站主力，做可拆洗沥水款",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "水槽收纳长尾词精准投放",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "台面整理短视频带动转化",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接家居渠道批量与贴牌",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "查台面收纳价格带与评价",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "少量精准词维持曝光",
+        "竞品定投强调沥水设计"
+      ],
+      "organic": [
+        "台面对比图提升点击",
+        "A+ 展示可拆洗结构",
+        "清洁类内容合作"
+      ],
+      "budget": "$200-500/月",
+      "kpi": "ACoS<24%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Sink Caddies 类目",
+      "LFGB 食品接触材料说明",
+      "Walmart 厨房收纳页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "kitchen-manual-food-chopper-pull",
+    "name": "手拉式拉绳绞菜器",
+    "aliases": [
+      "Manual Pull Food Chopper",
+      "手拉拉蒜器 / 绞菜器",
+      "拉绳切碎器"
+    ],
+    "category": "厨房用品",
+    "summary": "拉绳驱动免电绞碎器，露营与无电源厨房的经典款",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国露营与房车用户无稳定电源，免电手拉切碎器解决户外备菜，单价低易冲动购买"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "TikTok Shop",
+          "REI 线上"
+        ],
+        "entry": "做露营套装，主图演示拉绳切蒜与切洋葱",
+        "risk": "FDA 食品接触检测，刀片脱落与绳断是投诉点"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国露营与房车旅行普及，无电厨房备菜需求真实，手拉款不占电不占位"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Decathlon 线上",
+          "OTTO",
+          "Globetrotter"
+        ],
+        "entry": "德语强调免电与可拆洗，标注露营场景",
+        "risk": "LFGB 检测必需，刀片清洁安全需说明"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本露营与单人居住场景多，免电小工具契合小厨房与防灾储备需求"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "做小容量款适配一人食，日文标注清洗方式",
+        "risk": "食品卫生法检测，日本对刀片锋利度与安全要求高"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "why": [
+          "越南家庭烹饪备料量大但部分家庭厨房电器少，手拉款价格友好且耐用"
+        ],
+        "channels": [
+          "Shopee VN",
+          "Lazada VN",
+          "TikTok Shop VN"
+        ],
+        "entry": "低价单只装走量，主打耐用与易清洗",
+        "risk": "潮湿环境刀片易锈，需选不锈钢"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲露营与越野出行频繁，免电工具适配野外备菜，耐用性是关键"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan",
+          "Bunnings"
+        ],
+        "entry": "做加大容量耐用款，主打户外备菜",
+        "risk": "食品接触标准检测，强晒下塑料件老化需说明"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站主力，做露营场景套装",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "手拉切碎演示视频转化高",
+        "priority": 2
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "露营与免电厨房词投放",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与商超贴牌",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查露营厨具关联购买机会",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "演示类视频广告转化最优",
+        "竞品定投强调免电与耐用"
+      ],
+      "organic": [
+        "露营场景视频做详情页首位",
+        "A+ 标注刀片结构与清洗",
+        "户外社区测评沉淀"
+      ],
+      "budget": "$300-700/月",
+      "kpi": "ACoS<30%，退货率<8%"
+    },
+    "sources": [
+      "Amazon.com Manual Choppers 类目",
+      "FDA 食品接触材料指南",
+      "REI 露营厨具页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "kitchen-silicone-spatula-wood-handle",
+    "name": "木柄硅胶锅铲",
+    "aliases": [
+      "Wood Handle Silicone Spatula",
+      "不粘锅铲 / 硅胶铲",
+      "耐高温硅胶锅铲"
+    ],
+    "category": "厨房用品",
+    "summary": "单支木柄硅胶铲，入门门槛最低的厨房快消品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国不粘锅普及率高，硅胶铲防刮涂层，单价低更换快，属厨房工具常备品"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "Etsy"
+        ],
+        "entry": "做单支与三支装梯度，主打耐温与不伤锅",
+        "risk": "FDA 食品接触检测，硅胶异味与木柄开裂是投诉点"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国厨房用具讲究材质安全，木柄配食品级硅胶契合北欧风审美与耐用偏好"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "本地厨具连锁"
+        ],
+        "entry": "德语标注耐温与食品级检测，配色走低饱和",
+        "risk": "LFGB 检测必需，木柄需防霉处理"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "why": [
+          "法式烹饪搅拌与翻面频繁，锅铲属高频消耗，设计感强的款式溢价空间大"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "Fnac Marketplace",
+          "本土买手店"
+        ],
+        "entry": "做法式配色与挂环设计，强调可洗碗机清洗",
+        "risk": "需 LFGB 与 REACH 检测，染色木柄需合规"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭烧烤与开放厨房并存，耐高温硅胶铲适配铁板与不粘锅"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kitchen Warehouse",
+          "Kogan"
+        ],
+        "entry": "做加长烧烤铲款，主打耐 250 度",
+        "risk": "食品接触标准检测，高温下木柄变形需说明"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "why": [
+          "中东菜肴翻炒频繁，硅胶铲不伤锅且易清洗，家庭宴客使用强度高"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地家居卖场"
+        ],
+        "entry": "做加宽款适应大锅翻炒，双语说明耐温",
+        "risk": "高温环境下硅胶老化，需标注实际耐温"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站为主，做单支与套装梯度",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "不粘锅与耐温词低成本投放",
+        "priority": 2
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "美国第二渠道铺货",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接厨具批发与超市自有品牌",
+        "priority": 4
+      },
+      {
+        "name": "SGS / Intertek",
+        "type": "数据",
+        "use": "办理 LFGB 与 FDA 食品接触报告",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "查厨房工具客单与竞争强度",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "精准词小预算维持",
+        "竞品定投比价单支性价比"
+      ],
+      "organic": [
+        "不伤锅演示图做卖点",
+        "A+ 标注耐温与认证",
+        "套装组合拉客单"
+      ],
+      "budget": "$200-600/月",
+      "kpi": "ACoS<24%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Spatulas 类目",
+      "SGS 食品接触材料指南",
+      "Walmart 厨具页"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-thermos-food-jar",
+    "name": "焖烧保温饭罐",
+    "aliases": [
+      "Insulated Food Jar",
+      "焖烧罐 / 保温饭盒",
+      "真空保温饭桶"
+    ],
+    "category": "厨房用品",
+    "summary": "免加热焖熟食物的保温罐，通勤与学生的刚需",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国上班族与学生自带午餐普遍，保温罐可免微波加热，办公室无微波炉场景真实存在"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "Etsy"
+        ],
+        "entry": "做分格保温罐，主打免加热与密封防漏",
+        "risk": "需 FDA 食品接触检测，内胆材质与焊缝是关键"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本便当文化根深蒂固，保温饭罐需按便当容量分规格，密封与分格设计是核心"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "东急Hands"
+        ],
+        "entry": "按日式便当容量分规格，日文强调密封与保温时长",
+        "risk": "食品卫生法检测，保温宣称需实测数据支撑"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "why": [
+          "英国上班族带饭与学生午餐普遍，冬季湿冷让保温容器的实用性更加凸显"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Argos",
+          "Dunelm",
+          "Wayfair UK"
+        ],
+        "entry": "做防漏保温罐，主打冬季带汤与咖喱",
+        "risk": "需 LFGB 检测，不锈钢内胆需符合食品接触要求"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲通勤距离远、户外作业多，保温容器能保证数小时后仍温热"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan"
+        ],
+        "entry": "做加大容量款适配户外作业，主打长效保温",
+        "risk": "食品接触标准检测，保温时长虚标会引发投诉"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "why": [
+          "新加坡上班族外食成本高，自带午饭普遍，轻量保温罐更适配通勤携带"
+        ],
+        "channels": [
+          "Shopee SG",
+          "Lazada SG",
+          "Amazon.sg"
+        ],
+        "entry": "做轻量化款，主打通勤与办公室场景",
+        "risk": "湿热环境下密封圈易发霉，需可拆洗"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站与日本站双主线，做容量矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "便当与免加热场景词投放",
+        "priority": 2
+      },
+      {
+        "name": "乐天 RMS",
+        "type": "B2C",
+        "use": "日本本土渠道做便当场景主推",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接礼品与商超渠道批量贴牌",
+        "priority": 4
+      },
+      {
+        "name": "SGS / Intertek",
+        "type": "数据",
+        "use": "办理食品接触与保温性能检测",
+        "priority": 5
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查保温容器价格带与差评",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "免加热场景视频广告",
+        "竞品定投强调密封与分格",
+        "开学季前加投"
+      ],
+      "organic": [
+        "A+ 标注保温时长实测",
+        "便当内容合作沉淀",
+        "容量矩阵占据搜索位"
+      ],
+      "budget": "$500-1100/月",
+      "kpi": "ACoS<28%，退货率<8%"
+    },
+    "sources": [
+      "Amazon.com Insulated Food Jars 类目",
+      "乐天 保温弁当箱 类目页",
+      "FDA 食品接触材料指南"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-pasta-maker-manual",
+    "name": "手摇意面机",
+    "aliases": [
+      "Manual Pasta Maker",
+      "压面机 / 手摇面条机",
+      "意面压制器"
+    ],
+    "category": "厨房用品",
+    "summary": "家用压面机，意大利与欧美家庭的手作面食刚需",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "why": [
+          "意大利家庭自制意面传统深厚，手摇压面机是厨房常备，面宽规格需对齐当地用途"
+        ],
+        "channels": [
+          "Amazon.it",
+          "本地厨具连锁",
+          "Etsy IT",
+          "Amazon.de"
+        ],
+        "entry": "做多档厚度与宽面窄面双切款，意语说明清洗与固定",
+        "risk": "需食品接触检测，镀层与轴承锈蚀是投诉点"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国家庭手作意面与烘焙内容流行，压面机从餐厅走入家用，客单 30-60 美元"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "Williams Sonoma 线上",
+          "Target Marketplace"
+        ],
+        "entry": "做带夹具套装，主打家用手作与送礼场景",
+        "risk": "FDA 食品接触检测，夹紧不牢与变形引发退货"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "why": [
+          "法国南部与意大利接壤地区面食传统强，家庭自制意面接受度高"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "Fnac Marketplace"
+        ],
+        "entry": "法语强调面宽选择与清洗便利",
+        "risk": "LFGB 检测必需，做工细节影响口碑"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭烹饪节目带动手作意面潮流，家用小型压面机需求上升"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kitchen Warehouse"
+        ],
+        "entry": "做家用紧凑款，主打收纳与配件",
+        "risk": "食品接触标准检测，金属件耐蚀需说明"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "why": [
+          "巴西意裔人口多、面食文化强，家庭自制意面与面点传统延续"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Amazon.com.br",
+          "Shopee BR"
+        ],
+        "entry": "做耐用平价款走量，葡语说明使用与保养",
+        "risk": "需符合当地食品接触标准，镀层质量要求高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "意大利站与美国站双主线",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "手作意面与家庭烘焙词投放",
+        "priority": 2
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "手作厨具受众集中，做礼盒与配件",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接厨具渠道与贴牌订单",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查压面机客单与竞争密度",
+        "priority": 5
+      },
+      {
+        "name": "YouTube 厨艺 KOL",
+        "type": "社交",
+        "use": "手作意面教程植入带动转化",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "手作意面内容投放",
+        "竞品定投比较面宽与夹具"
+      ],
+      "organic": [
+        "教程内容沉淀长尾搜索",
+        "A+ 标注档位与材质",
+        "礼品季做礼盒表达"
+      ],
+      "budget": "$400-900/月",
+      "kpi": "ACoS<30%，退货率<9%"
+    },
+    "sources": [
+      "Amazon.it 压面机类目",
+      "Etsy 手作厨具类目",
+      "FDA 食品接触材料指南"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "kitchen-dish-drying-mat-microfiber",
+    "name": "超细纤维沥水垫",
+    "aliases": [
+      "Microfiber Dish Drying Mat",
+      "吸水垫 / 沥水布",
+      "碗碟吸水垫"
+    ],
+    "category": "厨房用品",
+    "summary": "吸水速干的台面垫，与沥水架并行的低客单高频品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国家庭碗碟清洗量大，吸水垫替代晾架占地，清洗后可反复使用"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "Etsy"
+        ],
+        "entry": "做多尺寸与花色套装，主打吸水速干",
+        "risk": "纺织品需 REACH 与色牢度检测，掉色是投诉点"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国厨房讲究干爽台面，吸水垫替代水渍残留，洗涤频率高需耐用"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "德语强调吸水与可机洗，做花色系列",
+        "risk": "纺织品需 REACH 与偶氮检测，尺寸与欧式台面匹配"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本厨房台面小而精，吸水垫需按水槽边缘尺寸裁切，速干性要求高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "Nitori 平替"
+        ],
+        "entry": "按日式台面尺寸分规格，日文强调速干",
+        "risk": "纺织检测与染色牢度要求高"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "why": [
+          "东南亚高湿环境台面易积水，吸水垫配合通风能减少霉斑与细菌"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH"
+        ],
+        "entry": "主打防霉速干，做低价多片装走量",
+        "risk": "湿热环境易霉，需抗菌处理说明"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭厨房开放且户外备菜多，吸水垫可兼作隔热垫使用"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan",
+          "Kitchen Warehouse"
+        ],
+        "entry": "做加厚隔热两用款，主打烧烤台面场景",
+        "risk": "纺织检测与耐热说明需准确"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站主力，做尺寸与花色矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "沥水与吸水长尾词投放",
+        "priority": 2
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "家居平台做厨房纺织扩展",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接家居渠道批量与贴牌",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查纺织类厨房件竞品评价",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "少量精准词维持",
+        "竞品定投强调吸水与可机洗"
+      ],
+      "organic": [
+        "吸水演示图提升点击",
+        "A+ 标注材质与洗护",
+        "花色系列做连带购买"
+      ],
+      "budget": "$200-500/月",
+      "kpi": "ACoS<24%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Drying Mats 类目",
+      "REACH 纺织品检测指南",
+      "Wayfair 厨房纺织页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "kitchen-measuring-cups-glass-set",
+    "name": "玻璃量杯套装",
+    "aliases": [
+      "Glass Measuring Cup Set",
+      "玻璃刻度杯 / 量杯",
+      "烘焙量杯组"
+    ],
+    "category": "厨房用品",
+    "summary": "耐热刻度玻璃量杯，烘焙与调酱的通用品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国烘焙用量以杯为单位，玻璃量杯刻度直观，耐热可微波是选购关键"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "Etsy"
+        ],
+        "entry": "做刻度量杯套装，主图展示刻度与微波场景",
+        "risk": "FDA 食品接触检测，玻璃耐热虚标会炸裂"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国烘焙按克与毫升精算，玻璃量杯容量标注需精确，耐热与清洗便利是重点"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "本地厨具连锁"
+        ],
+        "entry": "德语标注耐温与容量刻度精度，做窄口倒液款",
+        "risk": "LFGB 检测，硼硅玻璃耐热需第三方验证"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本料理讲究配比精准，量杯刻度需细密且可微波，薄壁玻璃更受欢迎"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "做细刻度薄壁款，日文标注耐热温差",
+        "risk": "食品卫生法检测，急冷急热炸裂风险需警示"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲家庭烘焙普及，量杯需适配烤箱与微波，耐热玻璃是主流材质"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kitchen Warehouse",
+          "Kogan"
+        ],
+        "entry": "做耐热硼硅玻璃款，主打烘焙场景",
+        "risk": "食品接触标准检测，运输破损需加强包装"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "why": [
+          "中东家庭烘焙与宴客备料量大，大容量量杯需求突出"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地家居卖场"
+        ],
+        "entry": "做加大容量款配合宴客备料",
+        "risk": "高温环境玻璃耐热需真实标注"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站为主，做刻度套装矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "烘焙用具长尾词精准投放",
+        "priority": 2
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "烘焙爱好者做礼盒与定制",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接厨具批发与超市自有品牌",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "查玻璃厨具破损率与评价",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "精准词小预算投放",
+        "竞品定投强调耐热与刻度精度"
+      ],
+      "organic": [
+        "刻度特写图做卖点",
+        "A+ 标注耐温差范围",
+        "烘焙内容做长期流量"
+      ],
+      "budget": "$200-600/月",
+      "kpi": "ACoS<26%，破损率<4%"
+    },
+    "sources": [
+      "Amazon.com Measuring Cups 类目",
+      "FDA 食品接触材料指南",
+      "Etsy 烘焙类目页"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "kitchen-utensil-holder-crock",
+    "name": "厨房刀铲收纳筒",
+    "aliases": [
+      "Utensil Holder Crock",
+      "刀架筒 / 厨具筒",
+      "台面收纳桶"
+    ],
+    "category": "厨房用品",
+    "summary": "台面立式厨具筒，与整套厨具配套的高频小件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "why": [
+          "美国厨房台面厨具多而分散，立式收纳筒让常用工具随手可取，更换成本低"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "HomeGoods"
+        ],
+        "entry": "做陶瓷与不锈钢双材质，主打容量与沥水",
+        "risk": "需食品接触与铅镉溶出检测，陶瓷款尤甚"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "why": [
+          "德国厨房讲究台面整齐与易清洁，收纳筒需耐油耐水，材质与配色要匹配橱柜"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "本地厨具连锁"
+        ],
+        "entry": "做不锈钢与哑光烤漆款，德语标注承重与清洗",
+        "risk": "LFGB 检测，烤漆掉漆是主投诉点"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "why": [
+          "日本厨房台面窄，收纳筒需窄身分格，避免厨具互相碰撞"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "Loft"
+        ],
+        "entry": "做窄身分格款，日文标注底部沥水",
+        "risk": "食品卫生法检测，做工细节要求高"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "why": [
+          "巴西家庭厨房用具多且烹饪频繁，大容量收纳筒更符合实际使用强度"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Shopee BR",
+          "Amazon.com.br"
+        ],
+        "entry": "做加大容量平价款走量",
+        "risk": "需符合当地标准，运输轻抛货比需优化"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "why": [
+          "澳洲开放厨房与烧烤台并存，收纳筒需耐晒耐潮，兼顾室内外使用"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan",
+          "Bunnings"
+        ],
+        "entry": "做耐候材质款兼顾户外台面",
+        "risk": "紫外与潮湿对材质考验大"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站主力，做材质与尺寸矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads",
+        "type": "B2C",
+        "use": "厨房收纳长尾词投放",
+        "priority": 2
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "家居平台做厨房小件扩展",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接家居渠道批量与贴牌",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "查台面收纳客单与竞争",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "少量精准词维持",
+        "竞品定投强调容量"
+      ],
+      "organic": [
+        "台面整理前后对比图",
+        "A+ 标注材质与清洗",
+        "配套厨具组合销售"
+      ],
+      "budget": "$200-500/月",
+      "kpi": "ACoS<24%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Utensil Holders 类目",
+      "FDA 食品接触与铅镉溶出指南",
+      "Wayfair 厨房小件页"
+    ],
+    "confidence": "medium"
+  }
+]

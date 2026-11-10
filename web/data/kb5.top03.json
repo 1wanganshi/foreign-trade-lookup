@@ -1,0 +1,6407 @@
+[
+  {
+    "id": "apparel-women-knit-cardigan",
+    "name": "女式针织开衫",
+    "aliases": [
+      "Women's Knit Cardigan",
+      "针织外套",
+      "毛线开衫"
+    ],
+    "category": "服饰",
+    "summary": "秋冬薄外套刚需，版型与克重决定复购。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "德国春秋温差大且室内外切换频繁，薄开衫常年在办公室与通勤包里反复穿脱。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "Otto",
+          "独立站"
+        ],
+        "entry": "做基础圆领与V领两版，300-500克中厚克重更适配春秋通勤场景。",
+        "risk": "纺织品需REACH合规，纤维成分须实测标注，否则易被下架。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "美国办公室空调常年偏冷，女性员工把薄开衫当常备层，四季都有下单需求。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shein",
+          "独立站"
+        ],
+        "entry": "走oversize落肩版型，配短视频穿搭演示，先测出爆款再放大备货。",
+        "risk": "加州Prop65与纤维标签须齐备，缺一容易被平台下架。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "日本通勤族室内外温差明显，合身开衫配可水洗材质更符合日常打理习惯。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "ZOZOTOWN"
+        ],
+        "entry": "做合身日系版型与低饱和色系，标注可机洗与缩水率等关键参数。需结合当地渠道与消费习惯判断。",
+        "risk": "日文洗水标与成分标识必须齐全，缺失会被渠道拒收。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "巴西南部冬季湿冷，针织开衫在六七月的冬季采购季集中走量，客群偏中青年。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee",
+          "本地批发"
+        ],
+        "entry": "备货赶在五月前到港，配色跟当季流行色做套装提升客单价。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西进口税负复杂，需按DDP核算到岸成本再定价。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "越南办公室与商场冷气足，薄款开衫在湿热天气里作为空调衫高频使用。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做超薄冰丝款与空调衫定位，走低价冲量并绑定直播秒杀节奏。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段竞争激烈，单件毛利依赖规模，需控物流成本。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架针织类目并用A+讲克重与成分，数据回传指导翻单节奏。",
+        "priority": 1
+      },
+      {
+        "name": "Zalando Partner Program",
+        "type": "B2C",
+        "use": "欧洲时尚垂类入驻，获取德法荷等站点的站内时尚流量。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "短视频测款，两周内跑出爆款苗头再批量备货放量。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧洲买手小单与样衣询盘，用样品间视频缩短决策。",
+        "priority": 4
+      },
+      {
+        "name": "OEKO-TEX认证服务商",
+        "type": "数据",
+        "use": "完成纺织品有害物质检测，满足欧盟零售上架要求。",
+        "priority": 5
+      },
+      {
+        "name": "Google Trends",
+        "type": "数据",
+        "use": "追踪款式关键词搜索趋势，提前一个季度安排排产节奏。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP广告",
+        "Google Shopping",
+        "TikTok Spark Ads"
+      ],
+      "organic": [
+        "穿搭短视频",
+        "尺码答疑内容",
+        "红人寄样"
+      ],
+      "budget": "投放占GMV 12-18%，新品期上探到25%",
+      "kpi": "ACOS<25%，新款30天动销率>60%"
+    },
+    "sources": [
+      "https://www.reuters.com/business/retail-consumer/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "apparel-denim-shorts",
+    "name": "水洗牛仔短裤",
+    "aliases": [
+      "Denim Shorts",
+      "牛仔热裤",
+      "磨破短裤"
+    ],
+    "category": "服饰",
+    "summary": "夏季高周转牛仔单品，版型与洗水是分水岭。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国夏季漫长且牛仔短裤是校园与度假季基础款，返校季前集中下单。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shein",
+          "独立站"
+        ],
+        "entry": "做高腰直筒与破洞两版，尺码表按英寸平铺标注降低退货。需结合当地渠道与消费习惯判断。",
+        "risk": "尺码退货率高，需提供详细平铺尺寸表并预留退货成本。"
+      },
+      {
+        "region": "欧洲",
+        "country": "西班牙",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "西班牙夏季炎热且海滨度假场景多，短裤是海滩与城市两用的必备单品。"
+        ],
+        "channels": [
+          "Amazon.es",
+          "Zalando",
+          "本地批发"
+        ],
+        "entry": "做高腰阔腿度假款，配色走浅蓝与米白，配度假场景图。需结合当地渠道与消费习惯判断。",
+        "risk": "洗水工艺需环保合规，注意欧盟REACH对化学品的限制。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "巴西全年炎热且海滩文化强，牛仔短裤属高频替换的日常单品，女性客群为主。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee",
+          "本地批发"
+        ],
+        "entry": "做翘臀版型与弹力面料，切本地身材差异带来的版型空缺。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西进口税负复杂，需按州分别核算税费再报价。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "沙特夏季高温且室内外切换频繁，短裤主要面向私域与女性居家场景。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做居家与外穿分线，注意遮盖度与当地文化敏感的边界。需结合当地渠道与消费习惯判断。",
+        "risk": "需符合当地着装规范，公开渠道慎推短款避免争议。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "泰国全年高温，牛仔短裤在学生与旅游人群中属常年热卖款。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价弹力款，配直播冲量与秒杀活动提升单场成交。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段价格战激烈，利润依赖单量，需严控成本。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "用评论沉淀尺码反馈，反推版型修正与尺寸表更新。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "试穿与行走短视频，转化路径短且适合测款。",
+        "priority": 2
+      },
+      {
+        "name": "SHEIN卖家入驻",
+        "type": "B2C",
+        "use": "进入快时尚供应链，用小单快反方式测试新款式。",
+        "priority": 3
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚站点铺货，主推泰国与菲律宾两个市场。",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "抓取美站竞品价格带与销量区间，指导备货深度。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接拉美与中东批发订单，用样品间视频促成交。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP广告",
+        "Meta Reels",
+        "Google PMax"
+      ],
+      "organic": [
+        "试穿短视频",
+        "UGC买家秀"
+      ],
+      "budget": "首月测试5000-8000美元，跑出款式后加投",
+      "kpi": "退货率<15%，单SKU月销>300件"
+    },
+    "sources": [
+      "https://www.fibre2fashion.com/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "apparel-plaid-flannel-shirt",
+    "name": "法兰绒格纹衬衫",
+    "aliases": [
+      "Flannel Shirt",
+      "格子衬衫",
+      "磨毛衬衫"
+    ],
+    "category": "服饰",
+    "summary": "秋冬经典格纹衬衫，男女通穿易做爆款。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国秋冬季户外与露营文化浓厚，法兰绒格纹衬衫是标志性穿搭单品。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "eBay",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做男女同款加大码，配户外露营场景图直接切目标人群。需结合当地渠道与消费习惯判断。",
+        "risk": "纤维成分与阻燃宣称需有检测依据，不可随意标注。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "英国湿冷多风，磨毛厚衬衫可当薄外套穿，通勤与乡野场景都常见。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay",
+          "独立站"
+        ],
+        "entry": "做加厚磨毛与衬衫外套两版，配色走经典红黑格提升辨识度。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，成分标注必须真实可查。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本秋冬叠穿文化成熟，格纹衬衫常作为中层搭配而非单穿。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "ZOZOTOWN"
+        ],
+        "entry": "做合身版型与中性色格纹，强调叠穿场景与搭配建议。需结合当地渠道与消费习惯判断。",
+        "risk": "日文成分与洗水标必须齐全，缺失会被渠道退回。"
+      },
+      {
+        "region": "南美",
+        "country": "智利",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "智利南部冬季气温低，厚衬衫在户外劳作与日常通勤中均被广泛使用。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地批发"
+        ],
+        "entry": "做加厚加大版，切南美偏壮体型带来的尺码缺口。需结合当地渠道与消费习惯判断。",
+        "risk": "智利清关周期长，需预留补货提前量避免断货。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 55,
+        "why": [
+          "越南北部冬季较凉，薄格纹衬衫在学生与年轻上班族中属入门单品。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做薄款棉质，价格带压到本地可接受区间再走量。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段利润薄，需严格控制物流与仓储成本。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "用A+展示面料克重与洗后不变形等核心卖点。",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "二手与新品混卖，适合卖复古格纹款和尾货。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "户外露营穿搭短视频自然带量，转化成本低。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧美中小品牌贴牌订单与样衣打样需求。",
+        "priority": 4
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查格纹花色与克重的热门供应款快速跟进。",
+        "priority": 5
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "沉淀复购会员，做季节性套装与新品预告。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP广告",
+        "Meta",
+        "Google Shopping"
+      ],
+      "organic": [
+        "户外场景内容",
+        "叠穿教程"
+      ],
+      "budget": "占GMV 12%",
+      "kpi": "ACOS<28%，评分维持4.5以上"
+    },
+    "sources": [
+      "https://www.fibre2fashion.com/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "apparel-windbreaker-jacket",
+    "name": "轻薄冲锋衣",
+    "aliases": [
+      "Windbreaker Jacket",
+      "防风夹克",
+      "户外风衣"
+    ],
+    "category": "服饰",
+    "summary": "轻户外入口级外套，防风防泼水是核心卖点。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "德国徒步与骑行文化普及，轻薄冲锋衣可压缩收进背包，适合多变天气常备。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "独立站",
+          "展会"
+        ],
+        "entry": "做可压缩收纳与防泼水，标注防水等级参数便于比价。需结合当地渠道与消费习惯判断。",
+        "risk": "防水与透气等级宣称需第三方检测支撑，不可虚标。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "美国国家公园与户外徒步人流大，轻量冲锋衣是入门级户外装备标配。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI批发",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做全压胶与可收纳款，配户外实拍视频展示防护效果。需结合当地渠道与消费习惯判断。",
+        "risk": "户外装备的防护宣称需检测报告支撑，否则涉虚假宣传。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "日本梅雨与台风季多雨，轻便防风外套是通勤与周末户外的两用装备。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten",
+          "ZOZOTOWN"
+        ],
+        "entry": "做轻量化与便携收纳，配色走日系低调色更易被接受。需结合当地渠道与消费习惯判断。",
+        "risk": "日文防水标识与洗水标须齐全，标识不全易被退货。"
+      },
+      {
+        "region": "亚太",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "澳洲户外运动普及且紫外线强，带防晒指标的薄外套在南半球夏季同样有需求。"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "独立站",
+          "eBay"
+        ],
+        "entry": "做UPF防晒标注款，切防晒细分场景做差异化定位。需结合当地渠道与消费习惯判断。",
+        "risk": "UPF防晒宣称需有检测依据，否则构成误导宣传。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "泰国雨季突降阵雨频繁，轻薄防泼水外套在摩托车通勤人群中需求稳定。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做超薄速干款，定价压到入门价位再配合直播起量。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需控制成本，避免以次充好影响店铺评分。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "A+展示压胶工艺与防水测试，降低决策门槛。",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧美中小户外品牌代工与样衣订单。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "户外实测视频，泼水演示的转化效果尤其强。",
+        "priority": 3
+      },
+      {
+        "name": "ISPO户外展",
+        "type": "展会",
+        "use": "对接欧洲户外品牌与经销商渠道资源。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "完成防水与透气等级检测，支撑产品宣称。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与联名限量发售，提升整体溢价。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP广告",
+        "Meta",
+        "Google PMax"
+      ],
+      "organic": [
+        "户外场景内容",
+        "防水实测短视频"
+      ],
+      "budget": "占GMV 15%",
+      "kpi": "退货率<12%，评分4.5以上"
+    },
+    "sources": [
+      "https://www.ispo.com/",
+      "https://www.rei.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "apparel-kids-cotton-set",
+    "name": "儿童纯棉家居服套装",
+    "aliases": [
+      "Kids Cotton Pajama Set",
+      "儿童睡衣",
+      "宝宝家居服"
+    ],
+    "category": "服饰",
+    "summary": "婴童刚需家居服，面料安全是第一门槛。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国家长对儿童睡衣的阻燃与甲醛标准审查严格，合规款反而形成壁垒。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "独立站",
+          "TikTok Shop"
+        ],
+        "entry": "做A类纯棉与无骨缝制，详情页直接放检测报告建立信任。需结合当地渠道与消费习惯判断。",
+        "risk": "美国童装睡衣需符合CPSC阻燃要求并完成备案。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国家长注重天然材质与可机洗，纯棉家居服在换季采购中属刚需。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "Zalando"
+        ],
+        "entry": "做OEKO-TEX认证款，强调无荧光剂与亲肤等核心卖点。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH与OEKO-TEX等合规文件齐全。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本育儿家庭讲究贴身衣物的柔软度，纯棉家居服对缝制精度要求高。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten",
+          "西松屋批发"
+        ],
+        "entry": "做工细节优先，避免线头与硬标签等高频差评来源。需结合当地渠道与消费习惯判断。",
+        "risk": "日文成分标注与安全标准须齐全，否则无法上架。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "沙特家庭多子女且重视节庆赠礼，儿童家居服礼盒在节庆前形成采购高峰。"
+        ],
+        "channels": [
+          "Noon",
+          "本地母婴连锁",
+          "Instagram"
+        ],
+        "entry": "做节庆礼盒装与多件组合，配色走金白提升礼品感。需结合当地渠道与消费习惯判断。",
+        "risk": "需符合SASO儿童纺织品相关要求与标签规定。"
+      },
+      {
+        "region": "东南亚",
+        "country": "印度尼西亚",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "印尼出生人口多且气候湿热，薄棉家居服属高频更换的日常消耗品。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做超薄纯棉与低价多件套，配合直播冲量做单场爆发。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需保障面料安全，严防甲醛与色牢度超标。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "婴童类需过合规审核，详情页放检测报告。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "OEKO-TEX认证",
+        "type": "数据",
+        "use": "取得纺织品安全认证，满足欧美母婴准入要求。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "宝宝穿搭与开箱内容转化高，适合母婴人群。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外母婴连锁与礼品批发的大额订单。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚站点铺货，做新生儿礼包组合销售。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做礼盒定制与满月礼场景营销，提升客单。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "Shopee广告"
+      ],
+      "organic": [
+        "新手爸妈内容",
+        "安全材质科普"
+      ],
+      "budget": "占GMV 15-18%，礼盒季加投",
+      "kpi": "评分4.7以上，退货率<8%"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://www.oeko-tex.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "apparel-boho-summer-maxi-dress",
+    "name": "波西米亚度假长裙",
+    "aliases": [
+      "Boho Maxi Dress",
+      "度假长裙",
+      "沙滩长裙"
+    ],
+    "category": "服饰",
+    "summary": "度假场景强需求，印花与垂坠感决定转化。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "西班牙",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "西班牙海岛度假客流大，度假长裙在夏季购买频次高且客单价可接受。"
+        ],
+        "channels": [
+          "Amazon.es",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做印花与纯色两线，配度假场景图直接切旅游人群。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，成分与洗水标须齐全。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "美国波西米亚风格穿搭流行，度假与音乐节场景带动长裙销量。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shein"
+        ],
+        "entry": "做音乐节与度假双场景款，用短视频展示走动垂坠感。需结合当地渠道与消费习惯判断。",
+        "risk": "加州Prop65与纤维标签须齐备，避免下架风险。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "阿联酋度假与商场场景多，长裙需兼顾遮盖度与时尚感。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做长袖长款与高遮盖度设计，配色偏素更契合本地审美。需结合当地渠道与消费习惯判断。",
+        "risk": "需尊重当地着装规范，避免透薄面料引发争议。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "泰国海岛旅游与夜市文化带动度假长裙的高频购买，游客客群占比高。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价印花款，切旅游场景并配合景点实拍内容。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段同质化严重，需靠款式更新维持转化。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "巴西海滩文化强，长裙在海滩与派对场景中常被使用，节庆前走量明显。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee"
+        ],
+        "entry": "做鲜艳印花与弹性面料，节庆前两个月完成备货。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西税负与清关复杂，需本地代理配合处理。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "女装类目，A+展示面料垂坠与尺码对照。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "度假穿搭短视频转化强，适合快速测款。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "品牌化与度假系列企划，承载高客单转化。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "SHEIN卖家入驻",
+        "type": "B2C",
+        "use": "快时尚小单快反测款，验证款式后放量。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "度假场景图集种草，长期沉淀视觉资产。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚铺货走量，主推泰国与菲律宾。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta Reels",
+        "TikTok Spark Ads"
+      ],
+      "organic": [
+        "度假场景内容",
+        "达人OOTD"
+      ],
+      "budget": "占GMV 14%",
+      "kpi": "加购率>8%，退货率<15%"
+    },
+    "sources": [
+      "https://www.modaes.com/",
+      "https://datawrapper.dwcdn.net/GVdk5/1/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "apparel-merino-wool-socks",
+    "name": "美利奴羊毛袜",
+    "aliases": [
+      "Merino Wool Socks",
+      "羊毛袜",
+      "户外登山袜"
+    ],
+    "category": "服饰",
+    "summary": "户外与通勤高复购消耗品，混纺比例是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国户外徒步与滑雪人群需要长时间穿着不闷的羊毛袜，属高频替换品。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI批发",
+          "独立站",
+          "TikTok Shop"
+        ],
+        "entry": "做美利奴混纺与加厚脚底，标注羊毛含量提升信任。需结合当地渠道与消费习惯判断。",
+        "risk": "羊毛含量宣称需有纤维检测报告支撑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国徒步与骑行普及，羊毛袜的排汗与防臭性能是选购关键指标。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做排汗防臭与无接缝趾部，切长时间户外使用场景。需结合当地渠道与消费习惯判断。",
+        "risk": "纤维成分需实测标注，欧盟需符合REACH限制。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本冬季通勤与户外活动多，羊毛袜对舒适度与贴合度要求高。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten"
+        ],
+        "entry": "做精细针织与无骨缝头，强调贴合不磨脚的穿着体验。需结合当地渠道与消费习惯判断。",
+        "risk": "日文成分标注须真实，虚标会被渠道追责。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "亚太",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "澳洲羊毛产地优势使消费者对羊毛制品认知高，对成分真实性要求严格。"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "独立站"
+        ],
+        "entry": "做美利奴高含量款，成分标注准确并在详情页说明。需结合当地渠道与消费习惯判断。",
+        "risk": "羊毛含量虚标在澳洲风险高，需备检测报告。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "英国湿冷天气多，羊毛袜在乡村与通勤场景中长期使用，属常备消耗品。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "独立站",
+          "Etsy"
+        ],
+        "entry": "做加厚户外款与商务薄款两条线，覆盖不同使用场景。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，纤维标签须实测。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "服饰类目，A+展示混纺比例与织法结构。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做户外专业线品牌，沉淀复购与订阅模式。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "户外场景实测与排汗演示，转化直观。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "ISPO户外展",
+        "type": "展会",
+        "use": "对接欧洲户外渠道与专业买手资源。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做羊毛含量与纤维成分检测，支撑宣称。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接户外品牌代工与批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "Google Shopping"
+      ],
+      "organic": [
+        "户外场景内容",
+        "成分科普"
+      ],
+      "budget": "占GMV 13%",
+      "kpi": "复购率>20%，评分4.6以上"
+    },
+    "sources": [
+      "https://www.rei.com/",
+      "https://www.ispo.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "apparel-bamboo-fiber-underwear",
+    "name": "竹纤维内裤三件装",
+    "aliases": [
+      "Bamboo Fiber Underwear",
+      "竹纤维内裤",
+      "抑菌内裤"
+    ],
+    "category": "服饰",
+    "summary": "贴身耗材高频复购，抑菌与透气是卖点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国消费者对贴身衣物材质敏感，竹纤维的抑菌与透气概念接受度高。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做三件装与多码覆盖，标注纤维比例提升可信度。需结合当地渠道与消费习惯判断。",
+        "risk": "抑菌宣称需有检测报告，否则属虚假宣传。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国注重面料安全与环保，竹纤维属于可持续材质叙事，易获认同。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做OEKO-TEX认证与环保说明，切可持续消费人群。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH与OEKO-TEX等合规文件。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本贴身衣物讲究亲肤与洗后不变形，竹纤维手感是选购关键。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp"
+        ],
+        "entry": "做精细缝制与无痕边，强调洗后不变形等耐用指标。需结合当地渠道与消费习惯判断。",
+        "risk": "日文成分标注与洗水标须齐全。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "泰国湿热气候下透气内裤是刚需，低价多件套走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做超薄透气款，用多件套组合提升单笔订单金额。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需确保材质安全，避免甲醛与色牢度问题。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 5,
+        "heat": 52,
+        "why": [
+          "沙特高温气候下贴身衣物透气性受关注，属私域与本地电商复购品。"
+        ],
+        "channels": [
+          "Noon",
+          "独立站"
+        ],
+        "entry": "做低调款与多件装，切本地电商的复购需求。需结合当地渠道与消费习惯判断。",
+        "risk": "需符合SASO纺织品标签与成分标注要求。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "内衣类目，A+展示纤维与透气测试。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "订阅复购与多件装组合，锁定长期客单。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "材质科普与开箱内容，降低解释成本。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "OEKO-TEX认证",
+        "type": "数据",
+        "use": "取得纺织品安全认证，满足欧美准入。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚低价铺货，主推泰国与越南市场。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接品牌代工与批量订单需求。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "TikTok Spark Ads"
+      ],
+      "organic": [
+        "材质科普",
+        "复购订阅"
+      ],
+      "budget": "占GMV 13%",
+      "kpi": "复购率>25%，评分4.5以上"
+    },
+    "sources": [
+      "https://www.oeko-tex.com/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "apparel-sports-compression-shirt",
+    "name": "运动压缩紧身衣",
+    "aliases": [
+      "Compression Shirt",
+      "紧身速干衣",
+      "压缩打底衫"
+    ],
+    "category": "服饰",
+    "summary": "运动打底刚需，压缩支撑与排汗是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国健身房与篮球文化普及，压缩打底衣是训练时的标准装备。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做分区压缩与速干面料，标注克重让专业用户可比。需结合当地渠道与消费习惯判断。",
+        "risk": "UPF与压缩性能宣称需有检测依据支撑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国健身与骑行人群对排汗与支撑要求高，压缩衣属专业装备。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做骑行与健身两条产品线，分别切不同运动场景。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，功能性宣称须有依据。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "阿联酋健身房密集，高温环境下速干压缩衣更受欢迎。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "Instagram"
+        ],
+        "entry": "做高透气与UPF防晒款，切户外与高温健身场景。需结合当地渠道与消费习惯判断。",
+        "risk": "需符合SASO纺织品要求与防晒宣称规范。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "韩国健身文化普及，压缩衣可作外穿搭配，版型要求高。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver"
+        ],
+        "entry": "做外穿友好版型与潮流配色，切健身穿搭人群。需结合当地渠道与消费习惯判断。",
+        "risk": "日韩对成分标注与洗水标要求严格，需备齐。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "越南健身人口增长，低价压缩衣在入门人群中走量。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价速干款，配合直播与健身房合作渠道起量。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需防止面料以次充好影响评分。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "运动类目，A+展示压缩分区与面料结构。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "训练实拍与压缩效果演示，转化直观。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "品牌化与队伍团体定制，切入B端需求。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接运动品牌代工与批量订单。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做UPF与排汗性能检测，支撑功能宣称。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "健身博主种草，长期沉淀内容资产。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "TikTok Spark Ads",
+        "Meta"
+      ],
+      "organic": [
+        "健身内容",
+        "压缩实测"
+      ],
+      "budget": "占GMV 14%",
+      "kpi": "ACOS<25%，评分4.5以上"
+    },
+    "sources": [
+      "https://sellingpartners.aboutamazon.com/",
+      "https://datawrapper.dwcdn.net/GVdk5/1/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "shoes-women-ankle-boots",
+    "name": "女士切尔西短靴",
+    "aliases": [
+      "Chelsea Boots",
+      "切尔西靴",
+      "女士短靴"
+    ],
+    "category": "鞋靴",
+    "summary": "秋冬百搭短靴，鞋楦舒适度决定退货率。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 1,
+        "heat": 85,
+        "why": [
+          "英国秋冬阴冷多雨，切尔西靴是通勤标配且便于穿脱，通勤族高频更换。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "ASOS",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做防滑厚底与防泼水鞋面，补齐半码能直接降低退货率。需结合当地渠道与消费习惯判断。",
+        "risk": "鞋类需耐磨与防滑测试，皮革来源需如实声明。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国注重足部舒适与实用性，靴类的宽楦与半码覆盖直接影响差评率。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "Otto"
+        ],
+        "entry": "补宽楦与半码，详情页放足型适配说明降低退货率。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革与合成材质须如实标注，虚标易被投诉。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "美国秋冬靴类市场规模大，学生与通勤族价格带竞争激烈但需求稳定。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "走学生价格带，配合季末清仓节奏运营控制尾货。需结合当地渠道与消费习惯判断。",
+        "risk": "鞋类标签与材质标注需符合CPSC相关要求。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "韩国秋冬穿搭中靴类为核心单品，方头厚底款随潮流快速更替。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store"
+        ],
+        "entry": "做韩系方头厚底款，配穿搭内容快速上新跟进潮流。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，滞销风险需靠小单快反控制。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "阿联酋冬季夜间温度下降，短靴在商场与室内场景形成季节性窗口。"
+        ],
+        "channels": [
+          "Noon",
+          "本地零售",
+          "Instagram"
+        ],
+        "entry": "做低调素色款，适合搭配当地日常着装与长袍外穿。需结合当地渠道与消费习惯判断。",
+        "risk": "需符合SASO鞋类相关准入要求与标签规定。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "鞋类A+展示鞋底与内里，减少舒适度退货。",
+        "priority": 1
+      },
+      {
+        "name": "Zalando Partner Program",
+        "type": "B2C",
+        "use": "欧洲时尚平台铺货，获取靴类季节流量。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "上脚与走路舒适度测试视频，转化路径短。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "SATRA鞋类检测",
+        "type": "数据",
+        "use": "做耐磨与防滑测试，支撑欧美市场宣称。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧洲买手与品牌代工的批量订单。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做季末订阅与新品尝鲜，沉淀复购用户。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Google Shopping",
+        "Meta"
+      ],
+      "organic": [
+        "穿搭内容",
+        "舒适度实测"
+      ],
+      "budget": "秋冬2个月为投放高峰，占GMV 20%",
+      "kpi": "退货率<18%，季节清仓率<15%"
+    },
+    "sources": [
+      "https://www.satra.com/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "shoes-men-casual-loafer",
+    "name": "男士乐福鞋",
+    "aliases": [
+      "Men's Loafers",
+      "豆豆鞋",
+      "一脚蹬皮鞋"
+    ],
+    "category": "鞋靴",
+    "summary": "商务与休闲两用男鞋，舒适度决定复购。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国办公着装宽松化后，乐福鞋成为通勤与半正式场合的折中选择。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Zappos批发",
+          "独立站"
+        ],
+        "entry": "做记忆棉鞋垫与软底，强调久站不累切通勤人群。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革或合成材质须如实标注，避免误导。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "意大利男装配饰讲究，乐福鞋是夏季与半正式场合的标准搭配。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.it",
+          "本地买手店",
+          "展会"
+        ],
+        "entry": "做手工缝线与真皮鞋面，走中高端定位提升溢价。需结合当地渠道与消费习惯判断。",
+        "risk": "真皮宣称需有材质检测与来源说明支撑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "韩国商务通勤频繁，一脚蹬乐福鞋在办公室与社交场合两用。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver",
+          "独立站"
+        ],
+        "entry": "做窄楦与韩系简约款，配穿搭内容打入通勤人群。需结合当地渠道与消费习惯判断。",
+        "risk": "需符合韩国鞋类标签与成分标注规定。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "沙特男性在正式场合着装讲究，乐福鞋常配传统服饰外穿使用。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "本地零售",
+          "Instagram"
+        ],
+        "entry": "做深色与亮面款，适配传统服饰搭配与正式场合。需结合当地渠道与消费习惯判断。",
+        "risk": "需符合SASO鞋类准入与相关标签要求。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "新加坡商务环境正式且炎热，透气软底乐福鞋更适应长时间通勤。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "独立站"
+        ],
+        "entry": "做透气内里与轻量底，强调闷热天气下的舒适性。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需注意环保胶水与气味控制问题。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "鞋类A+展示鞋垫与软底结构，降低决策门槛。",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧美品牌代工与区域代理的批量需求。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "上脚舒适度与通勤场景视频，天然适配。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "SATRA检测",
+        "type": "数据",
+        "use": "完成防滑与耐磨测试，支撑产品卖点。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "展会",
+        "type": "展会",
+        "use": "对接欧美鞋类买手与连锁采购渠道。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌沉淀与复购订阅，提升客单价值。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Google Shopping",
+        "Meta"
+      ],
+      "organic": [
+        "通勤穿搭内容",
+        "舒适度实测"
+      ],
+      "budget": "占GMV 16%",
+      "kpi": "退货率<18%，评分4.4以上"
+    },
+    "sources": [
+      "https://www.satra.com/",
+      "https://www.zappos.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "shoes-kids-canvas-sneakers",
+    "name": "儿童帆布鞋",
+    "aliases": [
+      "Kids Canvas Sneakers",
+      "儿童板鞋",
+      "小童帆布鞋"
+    ],
+    "category": "鞋靴",
+    "summary": "低单价高频童鞋，易穿脱与耐穿是家长关注点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国童鞋属高频替换品类，孩子脚长得快导致换新周期短。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做魔术贴与宽楦，减少穿脱摩擦提升使用体验。需结合当地渠道与消费习惯判断。",
+        "risk": "儿童产品需CPSC合规与邻苯二甲酸盐检测。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "德国家长重视足部健康，鞋头活动空间与软底是选购重点。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "Zalando"
+        ],
+        "entry": "做宽鞋头与柔软鞋底，配足健说明进入专业渠道。需结合当地渠道与消费习惯判断。",
+        "risk": "儿童鞋类需符合REACH与相关安全标准。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "沙特家庭子女多且重视节庆送礼，童鞋礼盒在开斋节前销量集中。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "本地母婴连锁",
+          "Instagram"
+        ],
+        "entry": "做节庆礼盒与多双组合装，切礼品场景提升客单。需结合当地渠道与消费习惯判断。",
+        "risk": "儿童用品需SASO相关认证与规范标签。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "印度尼西亚",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "印尼出生人口规模大，低价耐穿帆布鞋是学生日常刚需。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价轻便款，控制单双成本再配合直播冲量。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需防止邻苯类增塑剂超标被查。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "墨西哥",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "墨西哥学校普遍要求统一校服与鞋款，开学季形成集中采购窗口。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地分销"
+        ],
+        "entry": "做校园基础款，贴合校服配色切开学季采购。需结合当地渠道与消费习惯判断。",
+        "risk": "墨西哥清关与税务流程复杂，需本地代理。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "童鞋需儿童产品合规，A+展示鞋款细节工艺。",
+        "priority": 1
+      },
+      {
+        "name": "SGS儿童用品检测",
+        "type": "数据",
+        "use": "做邻苯二甲酸盐与重金属检测，通过欧美准入。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "家长视角开箱与试穿视频，信任度更高。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚铺货，做开学季集中促销活动。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "墨西哥站铺货，配本地仓缩短履约时效。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外母婴连锁采购与批量订单。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "Shopee广告"
+      ],
+      "organic": [
+        "家长测评",
+        "开学季内容"
+      ],
+      "budget": "开学季与节庆前两个月加投",
+      "kpi": "退货率<10%，评分4.6以上"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://www.6wresearch.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "shoes-eva-garden-clogs",
+    "name": "EVA花园洞洞鞋",
+    "aliases": [
+      "EVA Garden Clogs",
+      "洞洞鞋",
+      "沙滩凉拖"
+    ],
+    "category": "鞋靴",
+    "summary": "低克重高周转塑胶鞋，防滑与耐穿是核心。",
+    "markets": [
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "巴西全年炎热且海滩文化强，塑料洞洞鞋属高频替换的日常鞋款。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee",
+          "本地批发"
+        ],
+        "entry": "做厚底增高与鲜艳配色，以套装出货降低单件物流成本。需结合当地渠道与消费习惯判断。",
+        "risk": "邻苯二甲酸盐需检测，避免超标被退运。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "泰国雨季湿滑且常年高温，防滑耐水的洞洞鞋更适合日常出行。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做深纹防滑与轻量设计，定价亲民配合直播冲量。需结合当地渠道与消费习惯判断。",
+        "risk": "防滑等级宣称需有物性检测报告支撑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "西班牙",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "西班牙海滨旅游带动沙滩鞋季节需求，销售窗口集中在夏季几个月。"
+        ],
+        "channels": [
+          "Amazon.es",
+          "本地批发",
+          "独立站"
+        ],
+        "entry": "赶在五月前完成到仓，配色走夏季色系抢季节窗口。需结合当地渠道与消费习惯判断。",
+        "risk": "欧盟REACH对增塑剂有限制，需提供检测报告。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "阿联酋高温与室内外频繁切换，洞洞鞋在家庭与泳池场景中使用频次高。"
+        ],
+        "channels": [
+          "Noon",
+          "本地零售"
+        ],
+        "entry": "做高档质感款，切酒店与企业定制提升客单价。需结合当地渠道与消费习惯判断。",
+        "risk": "高温环境易致变形，材料耐热等级需提高。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "美国园艺与居家场景普遍使用洞洞鞋，属低成本替换品。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "eBay"
+        ],
+        "entry": "做园艺防污与可水洗卖点，切居家与庭院场景。需结合当地渠道与消费习惯判断。",
+        "risk": "美国对邻苯二甲酸盐等化学指标审查严格。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主站铺货，做套装组合提高整体客单价。",
+        "priority": 1
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚走量，配直播秒杀打爆单品。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "踩踏回弹与防滑实测视频，转化直观。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "SGS物性检测",
+        "type": "数据",
+        "use": "做防滑与邻苯二甲酸盐检测，满足准入。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接酒店与商超的定制批量订单。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "追踪EVA模具新款式，快速跟上潮流。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Mercado Ads",
+        "Shopee广告",
+        "TikTok"
+      ],
+      "organic": [
+        "夏日场景内容",
+        "亲子套装展示"
+      ],
+      "budget": "低价高频，占GMV 8-12%",
+      "kpi": "单款月销>2000双，退货率<6%"
+    },
+    "sources": [
+      "https://www.trademap.org/",
+      "https://deepmarketinsights.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "shoes-men-sport-sandals",
+    "name": "男士运动凉鞋",
+    "aliases": [
+      "Sport Sandals",
+      "运动沙滩鞋",
+      "户外凉鞋"
+    ],
+    "category": "鞋靴",
+    "summary": "夏季户外两用鞋，防滑与支撑是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国夏季户外徒步与溯溪活动多，运动凉鞋兼顾涉水与足部支撑。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI批发",
+          "独立站"
+        ],
+        "entry": "做防滑橡胶底与可调节绑带，切涉水徒步场景。需结合当地渠道与消费习惯判断。",
+        "risk": "防滑与耐磨宣称需有物性检测报告支撑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国夏季徒步与河道涉水活动普遍，凉鞋需满足长时间行走需求。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做足弓支撑与耐磨大底，切长距离徒步人群。需结合当地渠道与消费习惯判断。",
+        "risk": "鞋类需REACH合规，材质标注须真实。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "泰国雨季涉水场景多，运动凉鞋比普通拖鞋更稳固不易滑落。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做快干与防滑款，定价亲民配合直播冲量。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需防止鞋底脱胶等质量问题。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "阿联酋高温与户外步行场景多，轻便凉鞋是夏季日常鞋款。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae"
+        ],
+        "entry": "做轻量与透气鞋面，切高温环境下的日常出行。需结合当地渠道与消费习惯判断。",
+        "risk": "需符合SASO鞋类准入要求与标签规定。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "巴西海滩与户外活动频繁，运动凉鞋属夏季替换刚需。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地批发"
+        ],
+        "entry": "做鲜艳配色与低价位，切海滩与日常场景。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西税负复杂，需核算到岸成本再定价。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "鞋类A+展示大底与水洗快干等性能。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "涉水与徒步实测视频，转化效果直观。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "SATRA检测",
+        "type": "数据",
+        "use": "做防滑与耐磨测试，支撑欧美宣称。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接户外品牌代工与批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与套装组合，提升整体客单价。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚铺货走量，主推泰国与越南。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "Shopee广告"
+      ],
+      "organic": [
+        "户外场景内容",
+        "涉水实测"
+      ],
+      "budget": "占GMV 14%",
+      "kpi": "退货率<15%，评分4.4以上"
+    },
+    "sources": [
+      "https://www.satra.com/",
+      "https://www.rei.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "shoes-women-ballet-flats",
+    "name": "女士平底芭蕾鞋",
+    "aliases": [
+      "Ballet Flats",
+      "芭蕾舞鞋",
+      "软底单鞋"
+    ],
+    "category": "鞋靴",
+    "summary": "通勤百搭平底鞋，舒适与耐穿是复购点。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "法国女性日常通勤偏爱平底单鞋，软底与轻便是核心诉求。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做软底与折叠便携款，配色走法式素雅风格。需结合当地渠道与消费习惯判断。",
+        "risk": "鞋类需REACH合规，材质标注须真实可靠。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "美国职场女性长时间步行通勤，平底芭蕾鞋是舒适替代高跟的选择。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Zappos批发",
+          "TikTok Shop"
+        ],
+        "entry": "做记忆棉鞋垫与宽楦款，切久站与通勤人群。需结合当地渠道与消费习惯判断。",
+        "risk": "鞋类标签与材质标注需符合CPSC相关要求。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本通勤依赖电车与步行，软底单鞋需兼顾耐穿性与轻便性。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten",
+          "ZOZOTOWN"
+        ],
+        "entry": "做轻量与耐折弯鞋面，强调长时间步行的舒适度。需结合当地渠道与消费习惯判断。",
+        "risk": "日文标签与成分标注须齐全，否则难以进渠道。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "韩国女性通勤与校园场景普遍穿平底单鞋，款式跟潮流走。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver"
+        ],
+        "entry": "做方头与圆头两条版型，切不同穿搭风格人群。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需靠小单快反控制滞销。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "新加坡商务与炎热气候并存，透气平底鞋更适应长时间通勤。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "独立站"
+        ],
+        "entry": "做透气内里与轻量底，切湿热气候下的通勤需求。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需注意胶水气味与环保合规问题。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "鞋类A+展示软底与鞋垫结构等卖点。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Zalando Partner Program",
+        "type": "B2C",
+        "use": "欧洲时尚平台铺货，获取女鞋类目流量。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "SATRA检测",
+        "type": "数据",
+        "use": "做耐磨与防滑测试，支撑产品宣称。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "通勤穿搭与舒适度实测视频，转化自然。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接品牌代工与买手批量订单需求。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做季末订阅与品牌沉淀，提升复购率。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Google Shopping",
+        "Meta"
+      ],
+      "organic": [
+        "通勤穿搭内容",
+        "舒适度实测"
+      ],
+      "budget": "占GMV 15%",
+      "kpi": "退货率<18%，评分4.4以上"
+    },
+    "sources": [
+      "https://www.satra.com/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "bag-mini-backpack",
+    "name": "迷你双肩背包",
+    "aliases": [
+      "Mini Backpack",
+      "小背包",
+      "通勤迷你双肩包"
+    ],
+    "category": "箱包",
+    "summary": "小体积通勤包，容量适配与防盗设计是卖点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国城市通勤者与学生对轻装出行需求上升，迷你包正在替代大书包成新宠。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做防盗拉链与USB口，切通勤与轻装出行场景。需结合当地渠道与消费习惯判断。",
+        "risk": "包袋类需REACH与加州Prop65化学合规。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国通勤与骑行普遍，小背包需适配自行车与地铁安检的紧凑尺寸。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做反光条与紧凑尺寸，贴合骑行安全这一细分需求。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品与皮革配件需REACH合规验证。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本电车通勤拥挤，迷你背包可前背减少被挤占的空间浪费。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "ZOZOTOWN"
+        ],
+        "entry": "做可前背结构与轻量化，配色走简约日系风格。需结合当地渠道与消费习惯判断。",
+        "risk": "日文成分与材质标注须齐全，缺失难进渠道。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "越南摩托车通勤为主，小背包便于背负且不占车身空间。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做防泼水与低价款，配合直播冲量快速起量。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段五金与拉链质量易引发差评。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "阿联酋商场与户外场景多，轻便小包适配短途出行与日常购物。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做轻奢皮质外观，切礼品化定位提升溢价空间。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革来源与环保宣称需有依据，不可虚标。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "箱包类目，A+展示内部结构与真实容量。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "装包实测视频，展示容量真实度避免退货。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚铺货，主推越南与菲律宾两个市场。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与联名限量款，提升整体溢价。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查内部结构与热门配色供应款。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外品牌贴牌与批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "TikTok Spark Ads",
+        "Meta"
+      ],
+      "organic": [
+        "通勤场景内容",
+        "装包实测"
+      ],
+      "budget": "占GMV 15%",
+      "kpi": "ACOS<25%，评分4.5以上"
+    },
+    "sources": [
+      "https://sellingpartners.aboutamazon.com/",
+      "https://www.upkuajing.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "bag-pu-crossbody",
+    "name": "PU单肩斜挎包",
+    "aliases": [
+      "PU Crossbody Bag",
+      "斜挎小包",
+      "女式单肩包"
+    ],
+    "category": "箱包",
+    "summary": "低价高频女包，五金与油边决定质感。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 85,
+        "why": [
+          "美国女性日常出行以轻装为主，斜挎包兼顾手机、卡包与钥匙即可出门。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shein",
+          "独立站"
+        ],
+        "entry": "做多色与可换背带，配穿搭短视频快速测款。需结合当地渠道与消费习惯判断。",
+        "risk": "包袋类需Prop65与REACH化学合规文件。"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "法国女性讲究搭配，小包作为配饰属性强，款式更新频率高。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "独立站",
+          "买手店"
+        ],
+        "entry": "做法式极简与链条款，走配饰化路线提升溢价。需结合当地渠道与消费习惯判断。",
+        "risk": "材质标注与皮革来源需真实，避免误导。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "韩国潮流迭代快，斜挎小包随穿搭趋势快速更换，属快消型配饰。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store"
+        ],
+        "entry": "跟韩剧同款，做微距细节图强调质感差异。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，滞销风险需小单快反控制。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "巴西女性日常出行依赖公交与步行，斜挎包兼顾防盗与便利性。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee",
+          "本地批发"
+        ],
+        "entry": "做前背防盗结构与低价多色，切通勤与步行人群。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西税负复杂，需核算到岸成本再定价。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "沙特女性外出携带物品少，小包在购物与社交场合使用频次高。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做亮面与金属扣款，走轻奢视觉切社交场景。需结合当地渠道与消费习惯判断。",
+        "risk": "五金件需盐雾测试，否则易氧化退货。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "箱包类目A+展示内部隔层与五金细节。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "穿搭短视频天然适配，转化路径非常短。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "SHEIN卖家入驻",
+        "type": "B2C",
+        "use": "快时尚供应链小单快反，快速测试新款式。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚低价铺货，主推泰国与印尼市场。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接拉美与中东的批发订单需求。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查五金与油边工艺的热门供应款。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "TikTok Spark Ads"
+      ],
+      "organic": [
+        "穿搭内容",
+        "开箱UGC"
+      ],
+      "budget": "占GMV 12-15%",
+      "kpi": "ACOS<25%，退货率<8%"
+    },
+    "sources": [
+      "https://sellingpartners.aboutamazon.com/",
+      "https://datawrapper.dwcdn.net/GVdk5/1/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "bag-laptop-sleeve",
+    "name": "笔记本电脑内胆包",
+    "aliases": [
+      "Laptop Sleeve",
+      "电脑包内胆",
+      "保护套"
+    ],
+    "category": "箱包",
+    "summary": "办公刚需小件，尺寸覆盖与防震是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国远程办公人群多，笔记本随身携带普遍，内胆包属低单价刚需配件。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "eBay",
+          "独立站"
+        ],
+        "entry": "做全尺寸覆盖13-16寸，标注适配机型减少退货。需结合当地渠道与消费习惯判断。",
+        "risk": "电子配件需Prop65与化工材料合规。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "德国通勤与骑行普遍，内胆包需兼顾防震与可塞入背包的薄型设计。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "独立站",
+          "Otto"
+        ],
+        "entry": "做超薄防震款，强调可放入背包的厚度优势。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品与泡棉需REACH合规，材料不可虚标。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本商务通勤依赖电车，内胆包需紧凑轻便并保护机身避免磕碰。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten",
+          "独立站"
+        ],
+        "entry": "做轻量与防刮内衬，配色走商务低调风格。需结合当地渠道与消费习惯判断。",
+        "risk": "日文尺寸标注须准确，错标易引发退货。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "越南办公与外包产业发展，笔记本持有量大，低价内胆包需求稳定。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价加厚款，配合直播冲量打入年轻办公人群。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需防止内衬掉色污染电脑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "阿联酋商务与自由职业人群多，内胆包常配合商务包一起使用。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "独立站"
+        ],
+        "entry": "做皮质外观与轻奢定位，切商务礼品与自用场景。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革宣称需有来源依据，避免误导。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "电脑配件类目，主图标注适配尺寸对照表。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "电子配件二手与新品混卖，适合长尾机型。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与商务套件组合销售提升客单。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查内衬材质与防震结构供应款。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接企业批量采购与印LOGO定制。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "装包与防震实测视频，展示保护效果。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP",
+        "Google Shopping",
+        "Meta"
+      ],
+      "organic": [
+        "防震实测",
+        "办公场景内容"
+      ],
+      "budget": "占GMV 10%",
+      "kpi": "ACOS<20%，评分4.5以上"
+    },
+    "sources": [
+      "https://sellingpartners.aboutamazon.com/",
+      "https://www.upkuajing.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bag-foldable-shopping-tote",
+    "name": "折叠购物袋",
+    "aliases": [
+      "Foldable Shopping Tote",
+      "折叠环保袋",
+      "购物袋"
+    ],
+    "category": "箱包",
+    "summary": "超低单价环保袋，定制印刷带来B端订单。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "德国限塑与包装费政策稳定，超市购物需自带或购买可重复使用袋。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "独立站",
+          "本地礼品批发"
+        ],
+        "entry": "做有机棉与回收料，配环保认证说明建立信任。需结合当地渠道与消费习惯判断。",
+        "risk": "环保材质宣称需有检测与溯源依据。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "美国多州塑料袋收费或禁用，可折叠购物袋成为日常随身携带品。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做小体积折叠收纳，强调可挂钥匙扣的便携设计。需结合当地渠道与消费习惯判断。",
+        "risk": "加州Prop65与纤维标签须齐备。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本塑料袋收费后，随身购物袋属日常必备，消费者对折叠体积敏感。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "本地批发"
+        ],
+        "entry": "做极致折叠体积与轻量化，配色走素雅日系风格。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质与承重标注需真实，避免虚标。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "亚太",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "澳洲各州限塑政策持续推进，可重复使用购物袋需求长期存在。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "独立站",
+          "Amazon.com.au",
+          "本地批发"
+        ],
+        "entry": "做加固承重与防泼水内衬，切日常买菜大宗使用场景。需结合当地渠道与消费习惯判断。",
+        "risk": "承重宣称需实测，虚标易被投诉。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "南非禁塑政策带来布袋替代需求，商超定制订单量大且稳定。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Takealot",
+          "本地代理",
+          "独立站"
+        ],
+        "entry": "做商超定制款，用产能优势承接长期大单。需结合当地渠道与消费习惯判断。",
+        "risk": "需提供BSCI等验厂文件，商超审核严格。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接企业礼品与商超定制的大额订单。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "定制印花小单成交，避开与大厂比价。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "上印刷模拟器，用户上传图稿自动预览。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "套装上架，做家庭与车载多场景组合。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Trade Map",
+        "type": "数据",
+        "use": "查目标国袋类进口规模，锁定优先市场。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "展会",
+        "type": "展会",
+        "use": "礼品类采购商集中，适合现场拿定制单。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Etsy Ads",
+        "Google Shopping",
+        "Meta"
+      ],
+      "organic": [
+        "定制案例集",
+        "环保理念内容"
+      ],
+      "budget": "小预算起步，占GMV 10%",
+      "kpi": "定制询盘月>30条，单均>500美元"
+    },
+    "sources": [
+      "https://www.trademap.org/",
+      "https://www.yilantop.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bag-pet-outdoor-backpack",
+    "name": "宠物外出双肩包",
+    "aliases": [
+      "Pet Carrier Backpack",
+      "宠物太空舱包",
+      "猫咪出行包"
+    ],
+    "category": "箱包",
+    "summary": "带宠出行刚需，透气结构与承重是决策点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国宠物出行频繁，航空与自驾场景都要求符合航司尺寸的合规宠物包。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy批发",
+          "独立站",
+          "TikTok Shop"
+        ],
+        "entry": "对照主流航司登机尺寸做规格，直接命中长途出行痛点。需结合当地渠道与消费习惯判断。",
+        "risk": "宠物用品需符合材料安全与透气性要求。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "日本公共交通限制多，合规便携宠物包是带宠通勤与就医的刚需。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten",
+          "宠物店"
+        ],
+        "entry": "做电动车与地铁友好款，强调轻量化与合规尺寸。需结合当地渠道与消费习惯判断。",
+        "risk": "日本对宠物运输容器有空间标准，需符合规定。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "德国带宠出行文化普及，宠物包强调通风与可拆洗内衬等实用性。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus批发",
+          "独立站"
+        ],
+        "entry": "做多向通风与可拆洗内衬，切长途自驾与公共交通场景。需结合当地渠道与消费习惯判断。",
+        "risk": "动物运输空间存在伦理争议，需说明舒适性。"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "新加坡组屋养猫政策放宽后，宠物出行用品需求上升明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做防泼水与轻量款，适配热带气候下的日常出行。需结合当地渠道与消费习惯判断。",
+        "risk": "湿热环境易致异味霉变，需抗菌后处理。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "迪拜宠物饲养率高，高端出行包在宠物店渠道有明显溢价空间。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "本地宠物店",
+          "Instagram"
+        ],
+        "entry": "做皮质外观与轻奢定位，切高端宠物店渠道。需结合当地渠道与消费习惯判断。",
+        "risk": "高温环境下包体材料易老化，需耐热测试。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "主图标注航司适配尺寸表，大幅减少退货。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与套件组合销售，提升客单价。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "带宠出行实拍视频，内容天然有传播力。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Zooplus批发",
+        "type": "B2C",
+        "use": "欧洲宠物垂类渠道铺货，触达专业客群。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Global Pet Expo",
+        "type": "展会",
+        "use": "对接北美宠物连锁与专业采购商。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "对比结构与功能的供应端热门款式。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Google Shopping",
+        "Meta"
+      ],
+      "organic": [
+        "出行指南",
+        "尺寸对照内容"
+      ],
+      "budget": "占GMV 15%",
+      "kpi": "退货率<10%，AOV>45美元"
+    },
+    "sources": [
+      "https://www.globalpetexpo.org/",
+      "https://www.jinhanfair.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bag-canvas-messenger",
+    "name": "帆布邮差包",
+    "aliases": [
+      "Canvas Messenger Bag",
+      "帆布单肩包",
+      "学生斜挎包"
+    ],
+    "category": "箱包",
+    "summary": "学生与文艺人群基础包，耐磨与容量是卖点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国学生与文创人群偏好复古帆布包，兼具通勤与校园场景属性。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做加厚帆布与多隔层，配校园场景图切学生人群。需结合当地渠道与消费习惯判断。",
+        "risk": "加州Prop65与纤维标签须齐备，避免下架。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "英国校园与市集文化中帆布包普遍使用，耐磨度与肩带舒适度受关注。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做加宽肩带与加固车线，强调耐用与承重表现。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，成分标注须真实。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本通勤讲究收纳分隔，多隔层邮差包更符合日常携带习惯。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "独立站"
+        ],
+        "entry": "做多隔层与轻量化设计，配色走素色日系风格。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质标注与承重说明需真实可靠。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "巴西学生使用单肩包为主的习惯明显，低价耐用是核心诉求。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee"
+        ],
+        "entry": "做低价耐用款，走批发链条覆盖本地零售终端。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西税负重，需核算到岸成本再定零售价。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "越南学生通勤以摩托车为主，斜挎包便于背负且不易掉落。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做防泼水与低价款，配合校园开学季冲量。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段需防止车线与五金断裂问题。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "定制印花与文艺款溢价，避开与快时尚比价。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "箱包类目，A+展示加固工艺与内部结构。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与定制印LOGO服务，切文创与社团。",
+        "priority": 3
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚铺货走量，主推越南与学生人群。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接企业定制与文创礼品批量的订单。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查帆布克重与隔层结构的供应款。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Etsy Ads",
+        "Amazon SP",
+        "Meta"
+      ],
+      "organic": [
+        "校园场景内容",
+        "定制案例"
+      ],
+      "budget": "占GMV 10%",
+      "kpi": "ACOS<20%，评分4.5以上"
+    },
+    "sources": [
+      "https://www.trademap.org/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bag-rfid-card-holder",
+    "name": "RFID防盗卡包",
+    "aliases": [
+      "RFID Card Holder",
+      "卡包",
+      "防盗刷钱包"
+    ],
+    "category": "箱包",
+    "summary": "轻量钱包替代品，防盗刷与轻薄是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国无现金支付普及后，钱包被卡包替代，防盗刷是主要购买动因。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做RFID屏蔽与铝合金外壳，标注测试数据建立信任。需结合当地渠道与消费习惯判断。",
+        "risk": "RFID屏蔽效果宣称需第三方测试报告支撑。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国银行卡与电子支付普遍，卡包需兼顾防磁与便携的日常需求。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "独立站",
+          "Etsy"
+        ],
+        "entry": "做极简设计与金属卡片取出结构，切商务通勤人群。需结合当地渠道与消费习惯判断。",
+        "risk": "材质与屏蔽性能需有检测，虚标易被投诉。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本现金使用仍普遍，卡包需同时容纳硬币与卡片两种需求。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp"
+        ],
+        "entry": "做卡片加硬币的复合结构，切通勤与日常消费场景。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质标注与规格说明须准确。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "阿联酋高净值人群使用高端卡包作为商务配饰与礼品。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做皮质与轻薄金属款，走礼品定位提升客单价。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革来源与动物福利宣称需有依据。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "新加坡电子支付普及，轻便卡包替代传统钱包成为日常选择。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价入门款，配合直播冲量打开年轻人群。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段屏蔽性能常不达标，易引发差评。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "钱包类目，主图展示防盗刷原理与结构。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "手作与定制刻字溢价，避开标准化比价。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做礼盒与刻字定制，切企业礼品渠道。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "防盗刷演示视频转化强，天然适配短视频。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接企业礼品定制与批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查金属结构与屏蔽材料供应款。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "Etsy Ads"
+      ],
+      "organic": [
+        "防盗刷演示",
+        "礼品定制内容"
+      ],
+      "budget": "占GMV 12%",
+      "kpi": "ACOS<22%，评分4.5以上"
+    },
+    "sources": [
+      "https://www.upkuajing.com/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bag-waterproof-dry-bag",
+    "name": "防水漂流干袋",
+    "aliases": [
+      "Waterproof Dry Bag",
+      "防水袋",
+      "漂流防水包"
+    ],
+    "category": "箱包",
+    "summary": "户外水上场景刚需，气密与卷口设计是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国漂流、皮划艇与海滩活动普及，干袋是保护手机与衣物水上装备。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI批发",
+          "独立站",
+          "TikTok Shop"
+        ],
+        "entry": "做20L与10L两规格，标注气密测试结果提升信任。需结合当地渠道与消费习惯判断。",
+        "risk": "防水与气密宣称需有检测报告支撑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "亚太",
+        "country": "澳大利亚",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "澳洲海滩与水上运动普及，干袋是冲浪与游泳时保护随身物品的常备装备。"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "独立站",
+          "eBay"
+        ],
+        "entry": "做加厚PVC与双肩带款，切冲浪与海滩客群需求。需结合当地渠道与消费习惯判断。",
+        "risk": "PVC材质环保争议大，需说明可回收方案。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "德国湖泊与河道皮划艇活动多，干袋属入门级户外配件。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "独立站",
+          "展会"
+        ],
+        "entry": "做环保TPU材质，切可持续定位与专业户外人群。需结合当地渠道与消费习惯判断。",
+        "risk": "材料环保宣称需有认证依据，不可虚标。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "泰国海岛跳岛游与水上游乐丰富，干袋在游客中需求集中且季节性强。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价轻便款，切海岛游客场景并配合景点内容。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段卷口密封易失效，需出厂做气密抽检。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "阿联酋水上乐园与游艇活动多，干袋作为高端配件有溢价空间。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "本地零售",
+          "Instagram"
+        ],
+        "entry": "做高档外观与品牌联名，切高端水上运动客群。需结合当地渠道与消费习惯判断。",
+        "risk": "高温环境材料易老化，需耐候测试。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "户外类目，A+展示气密结构与卷口工艺。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "水中实测视频天然强转化，适合短视频。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接户外品牌代工与批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "ISPO户外展",
+        "type": "展会",
+        "use": "对接欧洲户外经销渠道与专业买手。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与套装组合，提升整体客单价。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "完成防水与气密测试，支撑产品宣称。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "TikTok Spark Ads",
+        "Meta"
+      ],
+      "organic": [
+        "水上场景内容",
+        "防水实测"
+      ],
+      "budget": "占GMV 15%",
+      "kpi": "ACOS<25%，评分4.5以上"
+    },
+    "sources": [
+      "https://www.ispo.com/",
+      "https://www.rei.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bag-nylon-beach-tote",
+    "name": "尼龙沙滩托特包",
+    "aliases": [
+      "Nylon Beach Tote",
+      "沙滩包",
+      "大容量托特包"
+    ],
+    "category": "箱包",
+    "summary": "度假大容量包，防水耐脏是主要卖点。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "西班牙",
+        "rank": 1,
+        "heat": 74,
+        "why": [
+          "西班牙海滨度假客流量大，大容量沙滩包是度假场景的必备单品。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.es",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做防泼水与内衬分隔，配度假场景图切旅游客群。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，材质标注须真实。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "美国海滩与泳池场景多，尼龙包耐脏易清洗更符合当地使用习惯。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做多口袋与可机洗款，切家庭海滩与泳池场景。需结合当地渠道与消费习惯判断。",
+        "risk": "包袋类需Prop65与化工材料合规文件。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 3,
+        "heat": 64,
+        "why": [
+          "泰国海岛旅游旺盛，游客需要能装毛巾与大件物品的沙滩包。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价大容量款，切游客场景并绑定酒店与导游渠道。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段车线与拉链易断，需出厂抽检。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "阿联酋海边与游艇活动多，大容量包在度假场景中使用频繁。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做高档质感与品牌联名，切高端度假客群溢价。需结合当地渠道与消费习惯判断。",
+        "risk": "高温高湿易致染色脱落，需做色牢度测试。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 52,
+        "why": [
+          "巴西海滩文化强，沙滩包属夏季高频替换单品，节庆前走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地批发"
+        ],
+        "entry": "做鲜艳印花与低价位，节庆前两个月完成备货。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西税负复杂，需核算到岸成本再定价。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "箱包类目，A+展示容量与内衬分隔结构。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "装包实测与度假场景视频，转化自然。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做度假系列与品牌联名，提升整体溢价。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚旅游场景铺货，主推泰国与越南。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查尼龙克重与内衬结构的供应款。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接品牌代工与批量采购订单需求。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "TikTok Spark Ads"
+      ],
+      "organic": [
+        "度假场景内容",
+        "装包实测"
+      ],
+      "budget": "占GMV 13%",
+      "kpi": "ACOS<25%，评分4.5以上"
+    },
+    "sources": [
+      "https://www.trademap.org/",
+      "https://www.modaes.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "bag-quilted-shoulder",
+    "name": "菱格链条单肩包",
+    "aliases": [
+      "Quilted Shoulder Bag",
+      "菱格包",
+      "链条小方包"
+    ],
+    "category": "箱包",
+    "summary": "轻奢视觉女包，五金与走线决定溢价。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 1,
+        "heat": 76,
+        "why": [
+          "法国女性把包当配饰，菱格链条款在通勤与社交两用场景接受度高。"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "独立站",
+          "买手店"
+        ],
+        "entry": "做菱格绗缝与链条肩带，走轻奢视觉切配饰人群。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革与合成材质须如实标注，避免误导。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "美国轻奢替代款需求稳定，菱格包是高端品牌的平替首选造型。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shein"
+        ],
+        "entry": "做平替定位，强调五金质感与走线工艺差异。需结合当地渠道与消费习惯判断。",
+        "risk": "包袋类需Prop65与REACH化学合规。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "韩国通勤穿搭讲究包型，小方包随潮流款式快速更替。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver"
+        ],
+        "entry": "跟韩剧同款，做微距细节图强调质感与工艺。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需小单快反控制库存风险。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "中东消费者对大牌风格包接受度高，轻奢款存在明显溢价空间。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做亮面与金色五金款，切社交与礼赠场景。需结合当地渠道与消费习惯判断。",
+        "risk": "五金需盐雾测试，高温高湿易氧化。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "越南年轻女性社媒消费活跃，低价菱格包通过直播走量。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "做低价款，配直播成交并绑定达人分销渠道。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段五金易掉色，差评会拉低店铺评分。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "箱包类目，A+展示五金与绗缝工艺细节。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "穿搭与开箱短视频，转化路径非常短。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "品牌化与联名限量，提升整体溢价空间。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "SHEIN卖家入驻",
+        "type": "B2C",
+        "use": "快时尚小单快反测款，验证款式后放量。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚铺货走量，主推越南与菲律宾。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查五金与绗缝工艺的热门供应款。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "TikTok Spark Ads",
+        "Meta"
+      ],
+      "organic": [
+        "穿搭内容",
+        "开箱UGC"
+      ],
+      "budget": "占GMV 14%",
+      "kpi": "ACOS<26%，退货率<9%"
+    },
+    "sources": [
+      "https://datawrapper.dwcdn.net/GVdk5/1/",
+      "https://www.upkuajing.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-silicone-watch-band",
+    "name": "硅胶替换表带",
+    "aliases": [
+      "Silicone Watch Band",
+      "手表表带",
+      "替换表带"
+    ],
+    "category": "饰品",
+    "summary": "低单价高频配件，尺寸兼容决定SKU数量。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国智能手表持有量大，原装表带单一，替换表带属高频风格化消费。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "eBay",
+          "独立站"
+        ],
+        "entry": "做全尺寸兼容矩阵，标注适配机型避免退货。需结合当地渠道与消费习惯判断。",
+        "risk": "表带材质需符合Prop65与皮肤接触安全要求。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "德国消费者偏好实用更换而非换机，表带替换周期短且需求稳定。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "独立站",
+          "Otto"
+        ],
+        "entry": "做多色套装与快拆结构，切更换而非换机的需求。需结合当地渠道与消费习惯判断。",
+        "risk": "硅胶与金属件需REACH合规，皮肤接触材料需检测。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本用户注重细节做工，表带的扣具与贴合度是差评主要来源。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten"
+        ],
+        "entry": "做精细扣具与亲肤材质，用细节图强调做工差异。需结合当地渠道与消费习惯判断。",
+        "risk": "日文适配机型标注需准确，错标易引发退货。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "泰国年轻用户换表带作为穿搭配饰，低价多色走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价多色组合，配直播冲量提升单场成交。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段硅胶异味与掉色问题易引发差评。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "阿联酋用户偏好金属与亮面表带，装饰属性强于功能性。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做金属与亮面款，切配饰定位与礼赠场景。需结合当地渠道与消费习惯判断。",
+        "risk": "高温易致硅胶老化，材料耐热等级需提高。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "配件类目，用变体矩阵化管理多尺寸SKU。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "换表带穿搭短视频，内容成本低传播快。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做订阅制配色盲盒，提升复购频次。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接品牌配件代工与批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查扣具与材质的供应端热门款式。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "老机型配件长尾渠道，覆盖换代需求。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "TikTok Spark Ads",
+        "Meta"
+      ],
+      "organic": [
+        "穿搭内容",
+        "兼容尺寸表"
+      ],
+      "budget": "占GMV 12%",
+      "kpi": "ACOS<22%，退货率<8%"
+    },
+    "sources": [
+      "https://sellingpartners.aboutamazon.com/",
+      "https://www.upkuajing.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-stainless-ring-set",
+    "name": "不锈钢戒指套装",
+    "aliases": [
+      "Stainless Steel Ring Set",
+      "钛钢戒指",
+      "多件套戒指"
+    ],
+    "category": "饰品",
+    "summary": "低单价不易掉色饰品，多件套提升客单。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国年轻人叠戴戒指风格流行，不锈钢与钛钢因不掉色更受欢迎。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Etsy"
+        ],
+        "entry": "做3-5件套叠戴组合，标注材质与不掉色测试结果。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放需符合欧洲标准，美国需Prop65提示。"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "法国饰品讲究设计感，套装组合更易表达搭配层次与风格。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "独立站",
+          "Etsy",
+          "买手店"
+        ],
+        "entry": "做法式极简套装，配礼盒包装切入礼品渠道。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放限量严格，需提供合规检测报告。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "韩国饰品潮流迭代快，戒指套装随穿搭趋势快速更换。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver",
+          "独立站"
+        ],
+        "entry": "跟韩剧同款，做微距细节图强调质感与工艺。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需小单快反控制滞销风险。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "中东饰品消费力强，金色与厚镀层款接受度高且溢价空间大。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做厚镀层与金色款，标注金层厚度建立信任。需结合当地渠道与消费习惯判断。",
+        "risk": "高温高湿加速氧化，需提升电镀工艺标准。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "巴西女性饰品佩戴频率高，多件套性价比款走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee"
+        ],
+        "entry": "做多件组套，压低单件感知价格提升转化。需结合当地渠道与消费习惯判断。",
+        "risk": "拉美清关周期长，节庆前须提前两个月发货。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "饰品需A+材质说明，减少过敏投诉与差评。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "洗澡不掉色实拍是最强转化素材，成本低。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "SGS镍释放检测",
+        "type": "数据",
+        "use": "完成欧盟镍释放与Prop65合规检测。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "套装与订阅盒模式提升复购频次与客单。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "手作感设计款溢价，避开标准化比价。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "叠戴教程图集种草，长期沉淀视觉资产。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "TikTok Spark Ads",
+        "Meta"
+      ],
+      "organic": [
+        "叠戴教程",
+        "防过敏实测"
+      ],
+      "budget": "占GMV 13%",
+      "kpi": "ROAS>3，差评率<2%"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://www.ccpc.ie/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-layered-necklace-set",
+    "name": "叠戴项链套装",
+    "aliases": [
+      "Layered Necklace Set",
+      "多层项链",
+      "项链组合套装"
+    ],
+    "category": "饰品",
+    "summary": "强搭配属性饰品，层次感与不掉色决定口碑。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 83,
+        "why": [
+          "美国层次叠戴穿搭流行，单买难搭配，成套出售更符合购物决策路径。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做2-3层成套，配搭配示图降低用户决策成本。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放与重金属需检测，美国需Prop65提示。"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 2,
+        "heat": 75,
+        "why": [
+          "法国人讲究饰品与领口的呼应，叠戴套装可降低搭配门槛。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "独立站",
+          "Etsy",
+          "买手店"
+        ],
+        "entry": "做法式细链条与珍珠组合，切日常与正式双场景。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放限量严格，镀层厚度需真实标注。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "中东女性饰品佩戴层数多，金色与珍珠是高频选择。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做金色厚镀与珍珠款，礼盒化切婚礼与节庆场景。需结合当地渠道与消费习惯判断。",
+        "risk": "高温高湿易氧化，需提高电镀工艺标准。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "越南年轻女性社媒活跃，低价叠戴套装容易通过直播起量。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "做低价款，配直播批量成交并绑定达人分销。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段镀层易掉色，差评会拉低整体评分。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "巴西女性叠戴项链与穿搭绑定紧密，节日季需求集中爆发。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地批发"
+        ],
+        "entry": "做节庆套装，提前两个月发货确保节前到仓。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西税负复杂，需核算到岸成本再定价。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "饰品类目，A+展示链条与扣具细节工艺。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "叠戴教程与穿搭视频，转化路径短。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "图集种草适配珠宝视觉，天然适合内容。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "SGS镍释放检测",
+        "type": "数据",
+        "use": "完成欧美镍释放与重金属合规检测。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "套装与订阅盒模式提升复购与客单价。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "设计感单款溢价，避开与快时尚比价。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "TikTok Spark Ads"
+      ],
+      "organic": [
+        "叠戴教程",
+        "开箱UGC"
+      ],
+      "budget": "占GMV 12%",
+      "kpi": "ROAS>3，评分4.5以上"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://datawrapper.dwcdn.net/GVdk5/1/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-minimalist-bracelet",
+    "name": "极简手链套装",
+    "aliases": [
+      "Minimalist Bracelet Set",
+      "串珠手链",
+      "简约手链"
+    ],
+    "category": "饰品",
+    "summary": "配饰型高频小件，混搭与不掉色是卖点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国年轻人偏爱极简与串珠混搭，节日与生日送礼场景多。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "TikTok Shop"
+        ],
+        "entry": "做多件混搭套装，配礼盒切入送礼与自用场景。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放与重金属需检测，美国需Prop65提示。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "英国送礼文化成熟，手链套装作为轻礼品价格带合适。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做礼盒装与祝福卡片，切轻礼品定位提升溢价。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放限量严格，需提供合规检测报告。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "日本手链讲究细链与贴合，做工精度决定复购与口碑。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp"
+        ],
+        "entry": "做精细细链与调节扣，强调贴合度与佩戴舒适。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质与成分标注须准确，不可虚标。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "沙特女性配饰佩戴层数多，手链属日常叠戴的高频单品。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做金色厚镀与珍珠款，切日常叠戴与礼赠场景。需结合当地渠道与消费习惯判断。",
+        "risk": "高温高湿易氧化，需提升电镀与封装标准。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "印度尼西亚",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "印尼年轻女性社媒消费活跃，低价手链通过直播走量。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价混搭款，配秒杀活动快速起量打开市场。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段镀层易掉色，差评风险需前置预防。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "饰品类目，用变体管理多色SKU降低运营成本。",
+        "priority": 1
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "手作感套装溢价，避开标准化比价竞争。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "叠戴与送礼场景短视频，转化自然。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "节日礼盒与定制刻字，提升礼品溢价。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "SGS镍释放检测",
+        "type": "数据",
+        "use": "完成镍释放合规检测，满足欧美准入。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "图集种草，切珠宝类目视觉优势。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "Etsy Ads"
+      ],
+      "organic": [
+        "叠戴教程",
+        "送礼场景内容"
+      ],
+      "budget": "占GMV 10%",
+      "kpi": "ROAS>2.5，评分4.5以上"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://www.upkuajing.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "acc-acrylic-hair-claw-clip",
+    "name": "醋酸发抓夹",
+    "aliases": [
+      "Acrylic Hair Claw Clip",
+      "鲨鱼夹",
+      "发夹"
+    ],
+    "category": "饰品",
+    "summary": "低单价高毛利发饰，抓力与耐用性是差评源。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国抓夹发型内容流量大，抓夹是低成本快速造型工具。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shein"
+        ],
+        "entry": "做加大抓力与哑光醋酸款，配造型视频承接流量。需结合当地渠道与消费习惯判断。",
+        "risk": "材质需符合Prop65，锐边与夹手问题需控。"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "法国女性日常盘发习惯普遍，抓夹兼具实用与装饰属性。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做法式玳瑁与素色款，切日常盘发与通勤场景。需结合当地渠道与消费习惯判断。",
+        "risk": "欧盟对发饰锐边与材质安全有限制，需留意。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本发饰搭配精致，抓夹的齿距与开合手感是选购关键。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp"
+        ],
+        "entry": "做精细齿距与静音开合，强调手感与耐用度。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质标注须准确，做工问题易被差评。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "中东女性头巾与发型搭配场景多，发夹作为内层固定件需求稳定。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做金色与珍珠款，礼盒化切婚礼与社交场合。需结合当地渠道与消费习惯判断。",
+        "risk": "金属件需盐雾测试，避免氧化影响体验。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "越南低价饰品社媒活跃，抓夹通过直播批量成交明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "做低价多色装，走直播冲量并绑定达人分销。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段齿部易断，需做跌落与开合测试。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "抓夹造型短视频，传播快且内容成本极低。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "套装上架，做节日季礼盒提升客单价。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚直播与低价组合铺货，走量明显。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "抓取醋酸材质与齿型的热门供应款。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "义乌小商品市场",
+        "type": "B2B",
+        "use": "现场组货，低起订量快速上新款式。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "订阅盒模式提升复购频次与用户粘性。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "TikTok Spark Ads",
+        "Amazon SP"
+      ],
+      "organic": [
+        "发型教程",
+        "开箱内容"
+      ],
+      "budget": "日预算20-50美元，高频测试",
+      "kpi": "点击率>2%，30天动销>70%"
+    },
+    "sources": [
+      "https://www.upkuajing.com/",
+      "https://paper.cnstock.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-titanium-steel-earrings",
+    "name": "钛钢耳钉套装",
+    "aliases": [
+      "Titanium Steel Earrings",
+      "钛钢耳环",
+      "防过敏耳钉"
+    ],
+    "category": "饰品",
+    "summary": "防过敏刚需饰品，材质安全是核心承诺。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国饰品过敏投诉多，敏感肌可戴的钛钢材质形成明确购买动机。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Etsy"
+        ],
+        "entry": "主打敏感肌可戴与医用级宣称，配测试报告背书。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放与铅含量须检测，美国需Prop65提示。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国消费者对镍过敏认知高，欧盟镍释放限值严格，合规款更易获信任。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "独立站",
+          "Otto"
+        ],
+        "entry": "做镍释放检测报告公示，用合规差异化建立信任。需结合当地渠道与消费习惯判断。",
+        "risk": "欧盟镍释放限值极严，超标将被强制下架。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "韩国潮牌耳饰更新快，钛钢材质支持更多造型且不易氧化。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver",
+          "独立站"
+        ],
+        "entry": "跟潮流造型，做多款混搭装提升单次购买件数。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需小单快反控制库存风险。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "沙特女性佩戴耳饰频繁，防过敏与不掉色是复购主因。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做金色厚镀款，标注金层厚度建立信任感。需结合当地渠道与消费习惯判断。",
+        "risk": "高温高湿加速氧化，需提升镀层与封装工艺。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "巴西女性耳饰佩戴频率高，性价比套装走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee"
+        ],
+        "entry": "做多件套组合，压低单件感知价格提升转化。需结合当地渠道与消费习惯判断。",
+        "risk": "拉美清关周期长，需预留补货提前量。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "饰品需A+材质说明，减少过敏投诉与差评。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "防过敏实测与佩戴演示，转化效果直观。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "SGS镍释放检测",
+        "type": "数据",
+        "use": "完成欧盟镍释放与重金属合规检测。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做敏感肌人群专属品牌，建立差异化定位。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "设计感单款溢价，避开标准化比价。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "佩戴效果图集种草，视觉优势明显。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "TikTok Spark Ads",
+        "Meta"
+      ],
+      "organic": [
+        "防过敏实测",
+        "佩戴教程"
+      ],
+      "budget": "占GMV 13%",
+      "kpi": "差评率<2%，评分4.6以上"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://www.ccpc.ie/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-scrunchie-set",
+    "name": "丝绒大肠发圈套装",
+    "aliases": [
+      "Velvet Scrunchie Set",
+      "发圈",
+      "大肠圈"
+    ],
+    "category": "饰品",
+    "summary": "超低单价高频发饰，掉色与弹力是差评源。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国抓发不需要打理的发圈是日常必需品，多色套装更符合消费习惯。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shein"
+        ],
+        "entry": "做6-12色套装，配发型教程承接内容流量。需结合当地渠道与消费习惯判断。",
+        "risk": "纤维材质需Prop65合规，掉色问题需控。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "英国校园与办公场景对发饰需求稳定，丝绒材质在秋冬更受欢迎。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做秋冬丝绒与春夏棉质两季款，覆盖全年四季需求。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，染料安全需检测。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "日本发饰讲究与服装呼应，成套配色比单色更好卖。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp"
+        ],
+        "entry": "做成套配色方案，配穿搭示图降低搭配门槛。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质标注须真实，虚标易被渠道追责。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "泰国学生群体普遍使用发圈，低价多色走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价大包装，配合直播冲量快速打开市场。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段弹力带易断，需做拉伸耐久测试。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 52,
+        "why": [
+          "中东女性发型较厚，弹力强的发圈更容易固定不易滑落。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做加大弹力款，配色走深色更契合本地审美。需结合当地渠道与消费习惯判断。",
+        "risk": "高温下弹力衰减快，需选用耐候氨纶材料。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "发型教程短视频，传播成本极低易扩散。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "套装上架，做节日礼盒提升客单价。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚低价走量，配秒杀活动起量快。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查丝绒克重与弹力带供应端款式。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "订阅盒与配色盲盒模式提升复购频次。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "义乌小商品市场",
+        "type": "B2B",
+        "use": "现场组货，低起订量快速上新。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "TikTok Spark Ads",
+        "Amazon SP"
+      ],
+      "organic": [
+        "发型教程",
+        "开箱内容"
+      ],
+      "budget": "日预算20-40美元",
+      "kpi": "点击率>2%，动销>70%"
+    },
+    "sources": [
+      "https://www.upkuajing.com/",
+      "https://paper.cnstock.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-layered-bangle-set",
+    "name": "欧式手镯套装",
+    "aliases": [
+      "Bangle Bracelet Set",
+      "银手镯",
+      "多件手镯"
+    ],
+    "category": "饰品",
+    "summary": "强装饰性饰品，硬度与镀层决定口碑。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国派对与节日穿搭中手镯叠戴常见，成套出售降低搭配难度。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做3-5件叠戴套装，配礼盒切送礼与派对场景。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放与镀层需检测，美国需Prop65提示。"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "法国饰品讲究层次与质感，欧式宽镯适合正式场合佩戴。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "独立站",
+          "Etsy",
+          "买手店"
+        ],
+        "entry": "做法式宽镯与素圈组合，切正式与日常双场景。需结合当地渠道与消费习惯判断。",
+        "risk": "欧盟镍释放限量极严，镀层厚度需真实标注。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "中东饰金文化浓厚，亮金手镯在社交场合佩戴频率高且溢价好。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做厚镀层与亮面款，标注金层厚度建立信任。需结合当地渠道与消费习惯判断。",
+        "risk": "高温高湿易氧化，需提高电镀与封装标准。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "韩国手镯随穿搭潮流更换，宽镯与细圈混搭流行。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver"
+        ],
+        "entry": "跟潮流款做快速上新，用细节图强调工艺。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需小单快反控制库存风险。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 52,
+        "why": [
+          "巴西女性饰品佩戴层数多，多件套性价比款走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee"
+        ],
+        "entry": "做多件组套，压低价提升转化并走批发链条。需结合当地渠道与消费习惯判断。",
+        "risk": "拉美清关周期长，需提前备货避免断货。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "饰品类目，A+展示镀层与扣具工艺细节。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "叠戴教程与穿搭视频，转化路径短。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "SGS镍释放检测",
+        "type": "数据",
+        "use": "完成镍释放与镀层厚度检测，支撑宣称。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "礼盒与刻字定制，切企业礼品渠道。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "设计感套装溢价，避开标准化比价。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "图集种草，珠宝视觉优势明显。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "TikTok Spark Ads"
+      ],
+      "organic": [
+        "叠戴教程",
+        "开箱内容"
+      ],
+      "budget": "占GMV 11%",
+      "kpi": "ROAS>2.5，差评率<3%"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://www.upkuajing.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "acc-pearl-earrings",
+    "name": "珍珠耳环套装",
+    "aliases": [
+      "Pearl Earrings",
+      "珍珠耳钉",
+      "仿珍珠耳饰"
+    ],
+    "category": "饰品",
+    "summary": "婚礼与通勤两用耳饰，珍珠来源与镀层是关键。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 1,
+        "heat": 76,
+        "why": [
+          "英国婚礼与正式场合多，珍珠耳饰是宾客与新娘都常用的安全选择。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做婚礼系列与通勤简约款双线，覆盖全年婚季。需结合当地渠道与消费习惯判断。",
+        "risk": "珍珠材质需如实标注，仿制不可冒充天然。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "美国职场与婚礼场景对珍珠耳饰需求稳定，仿珍珠价格带更宽。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Etsy"
+        ],
+        "entry": "做仿珍珠与淡水珍珠两档，标清材质避免纠纷。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放与重金属需检测，美国需Prop65提示。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本正式场合着装讲究，珍珠耳饰是通勤与礼仪场合的稳妥搭配。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp"
+        ],
+        "entry": "做小颗精工款，优先做工精度与佩戴舒适度。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质与规格标注须准确，不可虚标。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "中东婚礼与社交场合佩戴珍珠饰品频繁，金色与珍珠组合受欢迎。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做金底珍珠与礼盒装，切婚礼与节庆送礼场景。需结合当地渠道与消费习惯判断。",
+        "risk": "高温高湿易致镀层脱落，需提升工艺标准。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "菲律宾节庆与婚礼场景多，仿珍珠饰品性价比高易走量。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价礼盒款，切节庆送礼并配合直播成交。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段镀层与珍珠粘接易脱落，需抽检。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "饰品类目，A+标注珍珠材质与镀层工艺。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "婚礼与手作定位溢价，避开标准化比价。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "婚礼系列与伴手礼定制，切B端站点。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "佩戴与搭配演示，转化效果直观。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "完成镀层与镍释放检测，支撑宣称。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "婚礼场景图集种草，长期沉淀内容。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP",
+        "Etsy Ads",
+        "Meta"
+      ],
+      "organic": [
+        "婚礼场景内容",
+        "伴手礼套装"
+      ],
+      "budget": "占GMV 11%",
+      "kpi": "ROAS>2.5，评分4.5以上"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://www.etsy.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "acc-leather-bracelet",
+    "name": "编织皮手链",
+    "aliases": [
+      "Braided Leather Bracelet",
+      "皮手链",
+      "男士手链"
+    ],
+    "category": "饰品",
+    "summary": "男士配饰入门款，皮质与扣具决定复购。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 76,
+        "why": [
+          "美国男性配饰消费上升，皮手链作为低门槛风格单品接受度高。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做真皮与磁性扣款，标注皮料来源建立信任。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革来源与动物福利宣称需有依据。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "意大利男性配饰讲究工艺，编织皮手链是半正式场合的常见单品。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.it",
+          "本地买手店",
+          "展会"
+        ],
+        "entry": "做手工编织与真皮，走中高端定位提升溢价。需结合当地渠道与消费习惯判断。",
+        "risk": "真皮宣称需有材质检测与来源证明。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "韩国男性饰品潮流化明显，皮手链随穿搭风格更换频率高。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver"
+        ],
+        "entry": "做窄版与宽版两档，配色走低调更契合男性审美。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需小单快反控制滞销。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "沙特男性配饰佩戴习惯强，皮质手链常用于日常与社交场合。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做深棕与黑两色，配礼盒切节日送礼场景。需结合当地渠道与消费习惯判断。",
+        "risk": "高温高湿易致皮革发霉，需做好防潮包装。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "印度尼西亚",
+        "rank": 5,
+        "heat": 52,
+        "why": [
+          "印尼年轻男性配饰消费活跃，低价皮手链走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价款，配合直播冲量打进年轻男性人群。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段皮料易开裂，需做耐折测试。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "饰品类目，A+展示皮料纹理与扣具细节。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "手作与刻字定制溢价，避开标准品比价。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "刻字定制与礼盒，切企业礼品与自用。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接品牌贴牌与礼品订单的批量需求。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "男士穿搭与佩戴视频，内容成本低。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查皮料与磁性扣的供应端款式。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon SP",
+        "Etsy Ads",
+        "Meta"
+      ],
+      "organic": [
+        "男士穿搭内容",
+        "刻字定制"
+      ],
+      "budget": "占GMV 10%",
+      "kpi": "ACOS<22%，评分4.5以上"
+    },
+    "sources": [
+      "https://www.etsy.com/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "acc-european-style-bracelet",
+    "name": "欧式金属手镯",
+    "aliases": [
+      "European Style Bangle",
+      "宽版金属镯",
+      "金属手镯"
+    ],
+    "category": "饰品",
+    "summary": "高质感金属饰品，硬度与电镀工艺是核心。",
+    "markets": [
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 1,
+        "heat": 74,
+        "why": [
+          "中东饰金文化深厚，宽版金属手镯在婚礼与社交场合佩戴频率高。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做厚镀金色款，标注镀层厚度切高端社交场景。需结合当地渠道与消费习惯判断。",
+        "risk": "镀层厚度宣称需有检测，虚标易被投诉。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "rank": 2,
+        "heat": 70,
+        "why": [
+          "意大利饰品设计感强，金属手镯作为配饰需兼顾工艺与佩戴舒适。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.it",
+          "本地买手店",
+          "展会"
+        ],
+        "entry": "做设计感宽镯，走轻奢定位切入买手市场。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放限量严格，需提供合规检测报告。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "美国叠戴风格流行，宽镯与细链混搭是常见穿法。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做叠戴组合套装，切多层穿搭人群提升客单。需结合当地渠道与消费习惯判断。",
+        "risk": "镍释放与镀层需检测，美国需Prop65提示。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "韩国饰品潮流更新快，金属手镯随穿搭趋势快速更替。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver"
+        ],
+        "entry": "跟潮流款做快速上新，用微距细节图强调质感。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需小单快反控制库存。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "巴西节庆与派对场景多，亮面金属镯需求集中且季节性强。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee"
+        ],
+        "entry": "做节庆礼盒，提前备货并切入派对与送礼场景。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西税负复杂，需核算到岸成本再定价。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "饰品类目，A+展示镀层工艺与佩戴效果。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "中东主站铺货，配本地化主图提升转化。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Instagram",
+        "type": "社交",
+        "use": "佩戴与搭配图集种草，视觉优势明显。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "SGS镀层检测",
+        "type": "数据",
+        "use": "做镀层厚度与镍释放测试，支撑宣称。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "礼盒与刻字定制，提升礼品场景溢价。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接中东与欧洲批发订单的批量需求。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "TikTok Spark Ads",
+        "Meta"
+      ],
+      "organic": [
+        "佩戴图集",
+        "婚礼场景内容"
+      ],
+      "budget": "占GMV 13%",
+      "kpi": "ROAS>2.5，差评率<3%"
+    },
+    "sources": [
+      "https://www.cpsc.gov/",
+      "https://datawrapper.dwcdn.net/GVdk5/1/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "acc-hair-extension-clip",
+    "name": "夹片式接发片",
+    "aliases": [
+      "Clip-in Hair Extensions",
+      "一片式接发",
+      "夹发片"
+    ],
+    "category": "饰品",
+    "summary": "快速增发饰品，色号匹配与发丝质量是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国接发需求旺盛，无需沙龙操作的夹片款适合居家自行佩戴。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做20色号矩阵，配色卡比色图降低选色难度。需结合当地渠道与消费习惯判断。",
+        "risk": "真人发来源与动物福利宣称需有依据。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "英国沙龙价格高，夹片接发成为追求性价比人群的平价替代方案。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "独立站",
+          "TikTok Shop"
+        ],
+        "entry": "做真人发与高温丝两档，标清材质与耐温上限。需结合当地渠道与消费习惯判断。",
+        "risk": "材质标注需真实，耐温虚假宣称易引发纠纷。"
+      },
+      {
+        "region": "非洲",
+        "country": "尼日利亚",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "西非接发文化深厚，夹片款便于日常更换与快速造型。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Jumia",
+          "WhatsApp",
+          "本地代理"
+        ],
+        "entry": "做深色系色号，找本地代理分销并做售后支持。需结合当地渠道与消费习惯判断。",
+        "risk": "支付与物流基础设施不稳，需设预付比例。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "巴西接发市场需求高，自然人发色系是主要选择方向。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地批发"
+        ],
+        "entry": "开发本地卷度与发色缺货款，避开价格战。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西进口税负高，需测算清关成本再定价。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "日本发量焦虑人群增加，轻薄夹片用于局部增发与造型。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten"
+        ],
+        "entry": "做局部发片与刘海片，强调做工精细与自然度。需结合当地渠道与消费习惯判断。",
+        "risk": "卫生类宣称需谨慎，日本对卫生表述有要求。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "真人试戴与拆发实操直播，转化最强。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "品牌沉淀与色卡工具，降低选色退货率。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "发饰类目，用色号变体管理多SKU矩阵。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "WhatsApp Business",
+        "type": "社交",
+        "use": "非洲与拉美市场的询价与售后主通道。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "Jumia",
+        "type": "B2C",
+        "use": "非洲站点铺货，解决本地支付与物流。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接沙龙与分销商的批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "TikTok Spark Ads",
+        "Meta广告",
+        "Google购物"
+      ],
+      "organic": [
+        "直播日常",
+        "买家秀",
+        "造型教程"
+      ],
+      "budget": "占GMV 18-22%",
+      "kpi": "ROAS>2.8，场观转成交>3%"
+    },
+    "sources": [
+      "https://deepmarketinsights.com/",
+      "https://www.trademap.org/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-hair-scrunchie-extension",
+    "name": "发圈接发",
+    "aliases": [
+      "Scrunchie Hair Extension",
+      "发圈假发",
+      "马尾接发圈"
+    ],
+    "category": "饰品",
+    "summary": "零技巧造型饰品，色号与弹力是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国快速造型需求强，发圈接发无需夹子即可完成马尾造型。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做多色号与卷直两版，配一分钟造型视频。需结合当地渠道与消费习惯判断。",
+        "risk": "纤维耐温与染色安全需检测，避免过敏。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 70,
+        "why": [
+          "英国派对与日常快速造型场景多，发圈接发属低门槛造型工具。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "独立站",
+          "Etsy"
+        ],
+        "entry": "做节日主题色，礼盒化切派对与节庆送礼。需结合当地渠道与消费习惯判断。",
+        "risk": "纤维材质需REACH合规，染料安全需检测。"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "南非接发文化普及，发圈款便于日常快速更换且成本低。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Takealot",
+          "本地零售"
+        ],
+        "entry": "做深色系与自然卷款，切本地日常更换需求。需结合当地渠道与消费习惯判断。",
+        "risk": "物流丢件率高，需购买货运险降低损失。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "巴西女性发型造型频繁，发圈接发适配节庆与派对场景。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee"
+        ],
+        "entry": "做节庆款，提前备货并切派对与狂欢节场景。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西税负复杂，需核算到岸成本再定价。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 5,
+        "heat": 52,
+        "why": [
+          "菲律宾派对与演出场景多，低价发圈接发走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价常规色，配合直播冲量打进年轻人群。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段弹力与夹持力不足，易滑落差评。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "一分钟造型短视频，转化快且内容成本低。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "发饰类目，用色号变体管理多SKU矩阵。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "色卡工具与品牌沉淀，降低选色退货率。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚低价铺货，主推菲律宾与越南。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "追踪色号与卷度趋势，快速跟上潮流。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接分销商批量采购与贴牌订单。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "TikTok Spark Ads",
+        "Amazon SP"
+      ],
+      "organic": [
+        "造型教程",
+        "开箱内容"
+      ],
+      "budget": "占GMV 14%",
+      "kpi": "ROAS>2.5，评分4.4以上"
+    },
+    "sources": [
+      "https://datawrapper.dwcdn.net/GVdk5/1/",
+      "https://www.upkuajing.com/"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "acc-pu-leather-gloves",
+    "name": "PU触屏手套",
+    "aliases": [
+      "Touchscreen Gloves",
+      "触屏手套",
+      "冬季皮手套"
+    ],
+    "category": "饰品",
+    "summary": "冬季刚需配件，触屏灵敏度是核心痛点。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "德国冬季寒冷且通勤骑行普遍，触屏功能让使用手机时不必摘手套。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "Zalando",
+          "独立站"
+        ],
+        "entry": "做指尖导电纱与加绒内里，标注触屏灵敏度实测。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革与化学品需REACH合规，材质标注须真实。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "美国北部冬季漫长，触屏手套是通勤与户外运动的实用配件。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做加绒防风与防水两版，切户外与通勤双场景。需结合当地渠道与消费习惯判断。",
+        "risk": "皮革来源与动物福利宣称需有依据支撑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本冬季通勤依赖电车且使用手机频繁，触屏灵敏度是差评主要来源。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten"
+        ],
+        "entry": "做高灵敏导电纱，配灵敏度说明降低退货率。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质与规格标注须准确，不可虚标。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "韩国冬季寒冷且手机使用频繁，触屏手套属通勤必备配件。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver"
+        ],
+        "entry": "做韩系简约款与情侣装，切年轻通勤人群。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需小单快反控制库存。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 5,
+        "heat": 52,
+        "why": [
+          "沙特冬季夜间温度低，皮手套在户外与驾车场景有季节需求。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "本地零售"
+        ],
+        "entry": "做驾车防滑款，配色走低调切实用需求。需结合当地渠道与消费习惯判断。",
+        "risk": "高温存放易致皮革变形，需改进包装与仓储。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "配饰类目，A+展示触屏原理与保暖参数。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "戴手套操作手机实测视频，转化直观。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧美品牌代工与批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与礼盒组合，提升礼品场景溢价。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "完成皮革与化学品合规检测，支撑准入。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查导电纱与内里材质的供应款。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "Google Shopping"
+      ],
+      "organic": [
+        "冬季场景内容",
+        "触屏实测"
+      ],
+      "budget": "占GMV 14%",
+      "kpi": "ACOS<25%，退货率<8%"
+    },
+    "sources": [
+      "https://www.ccpc.ie/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-cashmere-blend-scarf",
+    "name": "羊绒混纺围巾",
+    "aliases": [
+      "Cashmere Blend Scarf",
+      "羊绒围巾",
+      "冬季披肩"
+    ],
+    "category": "饰品",
+    "summary": "秋冬高毛利配饰，成分标注决定信任。",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "意大利冬季配饰消费力强，羊绒混纺是买手市场常见且溢价高的品类。"
+        ],
+        "channels": [
+          "Amazon.it",
+          "本地买手店",
+          "展会"
+        ],
+        "entry": "做羊绒混纺与提花，起订量压到100条试探市场。需结合当地渠道与消费习惯判断。",
+        "risk": "成分虚标会被买手退货，检测报告须备齐。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国冬季寒冷，围巾是通勤必备，消费者关注羊毛含量与耐用性。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "Zalando"
+        ],
+        "entry": "做加厚长款与男女同款，切通勤与户外双场景。需结合当地渠道与消费习惯判断。",
+        "risk": "纤维成分需实测标注，欧盟需符合REACH。"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "美国礼品季对围巾礼盒需求集中，节日主题款溢价空间大。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "独立站"
+        ],
+        "entry": "做礼盒与圣诞主题提花，11月前完成备货。需结合当地渠道与消费习惯判断。",
+        "risk": "羊绒宣称需有检测，虚标在美国风险极高。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "日本冬季通勤围巾讲究质感与配色，混纺克重是选购重点。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp"
+        ],
+        "entry": "做低饱和配色与轻量款，强调质感与不扎皮肤。需结合当地渠道与消费习惯判断。",
+        "risk": "日文成分标注须真实，虚假标注会被追责。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 5,
+        "heat": 54,
+        "why": [
+          "沙特沙漠地区夜间降温明显，披肩兼具装饰与保暖功能。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "本地批发"
+        ],
+        "entry": "做轻薄披肩款，配色走深色切夜间与户外场景。需结合当地渠道与消费习惯判断。",
+        "risk": "高温存放易受潮，需做好防潮包装。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧洲买手小单与样衣询盘，周期短。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "礼品季上架礼盒装，切节日送礼场景。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "展会",
+        "type": "展会",
+        "use": "对接欧洲配饰买手与品牌方渠道资源。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "手作感提花款溢价，避开标准化比价。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做纤维成分与混纺比例检测，支撑宣称。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "品牌化与礼盒定制，提升整体溢价。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Alibaba关键词推广",
+        "Amazon SP",
+        "Meta"
+      ],
+      "organic": [
+        "样品间直播",
+        "节日送礼内容"
+      ],
+      "budget": "B端推广费占营业额5%以内",
+      "kpi": "单询盘转样品单率>20%"
+    },
+    "sources": [
+      "https://www.trademap.org/",
+      "https://paper.cnstock.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-fleece-beanie",
+    "name": "加绒针织帽",
+    "aliases": [
+      "Fleece Beanie",
+      "毛线帽",
+      "保暖针织帽"
+    ],
+    "category": "饰品",
+    "summary": "冬季高频配饰，加绒与版型是复购点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国冬季户外与滑雪场景普遍，加绒针织帽是基础保暖装备。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "REI批发"
+        ],
+        "entry": "做加绒内里与翻边两版，切户外与滑雪人群。需结合当地渠道与消费习惯判断。",
+        "risk": "纤维成分与阻燃宣称需有检测依据支撑。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "德国冬季寒冷且户外活动多，针织帽是通勤与徒步的必备配件。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "独立站"
+        ],
+        "entry": "做加厚羊毛混纺，标注成分切高端通勤人群。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，纤维标注须实测。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本冬季通勤戴帽保暖普遍，版型与头围贴合是重点考量。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "Rakuten"
+        ],
+        "entry": "做可调节头围与素色款，强调贴合与不压发型。需结合当地渠道与消费习惯判断。",
+        "risk": "日文成分与尺寸标注须准确，避免退货。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "韩国冬季帽饰潮流化，配色与图案随季节快速更替。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver"
+        ],
+        "entry": "跟潮流配色做快速上新，配合穿搭内容扩散。需结合当地渠道与消费习惯判断。",
+        "risk": "韩系款式迭代快，需小单快反控制库存。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 5,
+        "heat": 52,
+        "why": [
+          "沙特冬季夜间寒冷，针织帽在户外露营与朝觐场景有稳定需求。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "本地批发"
+        ],
+        "entry": "做素色加厚款，切户外与朝觐季节性采购。需结合当地渠道与消费习惯判断。",
+        "risk": "高温存放易受潮，需做好防潮与防霉处理。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "配饰类目，A+展示内里与克重参数。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "冬季穿搭内容与开箱，转化成本低。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接户外品牌代工与批发批量订单。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "做品牌与套装组合，提升整体客单价。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查克重与版型的供应端热门款式。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "展会",
+        "type": "展会",
+        "use": "对接欧美配饰批发商与连锁渠道。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "Google Shopping"
+      ],
+      "organic": [
+        "冬季场景内容",
+        "穿搭示图"
+      ],
+      "budget": "占GMV 12%",
+      "kpi": "ACOS<22%，评分4.5以上"
+    },
+    "sources": [
+      "https://sellingpartners.aboutamazon.com/",
+      "https://www.rei.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-aviator-sunglasses",
+    "name": "飞行员太阳镜",
+    "aliases": [
+      "Aviator Sunglasses",
+      "蛤蟆镜",
+      "金属框墨镜"
+    ],
+    "category": "饰品",
+    "summary": "经典常青款式墨镜，UV400是合规底线。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国太阳镜属替换型消费，飞行员款是常年畅销的经典造型选择。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "做UV400与偏光，标注检测报告切专业需求。需结合当地渠道与消费习惯判断。",
+        "risk": "UV标识不实属重罚项，检测须先于上架。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "欧洲",
+        "country": "西班牙",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "西班牙日照时间长，飞行员款是街拍与度假场景的常见选择。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.es",
+          "本地批发",
+          "独立站"
+        ],
+        "entry": "做地中海风格配色，进入街边零售与批发渠道。需结合当地渠道与消费习惯判断。",
+        "risk": "欧洲对镜片透射比分级标注有强制要求。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "中东强日照与豪车文化让墨镜成为必备配件，金属框有溢价空间。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram",
+          "独立站"
+        ],
+        "entry": "做高端金属框与超大镜片，切轻奢与礼赠场景。需结合当地渠道与消费习惯判断。",
+        "risk": "高温暴晒对镀层与镜框材质要求更高。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "亚太",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "澳洲紫外线极强，消费者对防UV标准的重视程度高于其他市场。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "独立站"
+        ],
+        "entry": "标注AS/NZS 1067标准与偏光测试切专业客群。需结合当地渠道与消费习惯判断。",
+        "risk": "澳洲标准与欧盟不同，需单独做认证。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "巴西太阳镜消费量大，复古飞行员款在拉美长期流行。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地分销"
+        ],
+        "entry": "做多色复古款，走低价组合覆盖大众市场。需结合当地渠道与消费习惯判断。",
+        "risk": "巴西认证周期长，入场前需预留合规时间。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "合规文件齐备后上架，A+展示镜片测试。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "驾驶与旅行偏光对比视频，转化直观。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "SGS光学检测",
+        "type": "数据",
+        "use": "完成UV400与偏光测试，满足准入门槛。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧美品牌代工与批量采购订单。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "品牌化与脸型适配工具，提升体验。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美站点铺货，覆盖巴西与墨西哥。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP",
+        "Meta",
+        "TikTok"
+      ],
+      "organic": [
+        "脸型适配指南",
+        "户外场景内容"
+      ],
+      "budget": "占GMV 15-18%",
+      "kpi": "ACOS<25%，退货率<8%"
+    },
+    "sources": [
+      "https://www.ccpc.ie/",
+      "https://sellingpartners.aboutamazon.com/"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "acc-fabric-hair-band",
+    "name": "布艺发带宽边",
+    "aliases": [
+      "Fabric Headband",
+      "宽边发带",
+      "洗脸发带"
+    ],
+    "category": "饰品",
+    "summary": "超低单价日用小件，吸汗与舒适是核心。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 76,
+        "why": [
+          "美国护肤与洗脸流程中，吸水发带是保持发际线干燥的常用工具。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shein"
+        ],
+        "entry": "做吸水毛巾布与多色套装，切护肤流程场景。需结合当地渠道与消费习惯判断。",
+        "risk": "纤维材质需Prop65合规，染料安全需检测。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 70,
+        "why": [
+          "德国运动与健身人群多，宽边发带主要用于运动吸汗场景。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "独立站",
+          "Otto"
+        ],
+        "entry": "做速干吸汗与运动款，切健身与户外跑步人群。需结合当地渠道与消费习惯判断。",
+        "risk": "纺织品需REACH合规，染料标准需满足限制。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "日本护肤流程讲究，发带是日常护肤的必备小物且复购频繁。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp"
+        ],
+        "entry": "做柔软毛巾布与素色款，强调亲肤与不掉毛。需结合当地渠道与消费习惯判断。",
+        "risk": "日文材质标注须真实，做工问题易被差评。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "泰国湿热气候下运动与护肤都需吸汗发带，低价走量明显。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做低价多色装，配合直播冲量快速打开市场。需结合当地渠道与消费习惯判断。",
+        "risk": "低价段弹力带易松垮，需做拉伸耐久测试。需提前核算成本与合规门槛。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 50,
+        "why": [
+          "中东女性护肤与造型流程中，发带作为辅助工具使用频次高。需结合当地实际使用条件判断。"
+        ],
+        "channels": [
+          "Noon",
+          "Instagram"
+        ],
+        "entry": "做高端质感款，礼盒化切礼赠与自用双场景。需结合当地渠道与消费习惯判断。",
+        "risk": "高温下弹力衰减快，需选用耐候材料。需提前核算成本与合规门槛。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "护肤与运动场景短视频，内容成本极低。需结合实际投放与运营节奏判断。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "套装上架，做多色组合提升客单价。需结合实际投放与运营节奏判断。",
+        "priority": 2
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "东南亚低价走量，配直播与秒杀起量。需结合实际投放与运营节奏判断。",
+        "priority": 3
+      },
+      {
+        "name": "1688选品",
+        "type": "数据",
+        "use": "反查毛巾布克重与弹力带的供应款。需结合实际投放与运营节奏判断。",
+        "priority": 4
+      },
+      {
+        "name": "独立站",
+        "type": "独立站",
+        "use": "订阅盒与套装组合，提升复购频次。需结合实际投放与运营节奏判断。",
+        "priority": 5
+      },
+      {
+        "name": "义乌小商品市场",
+        "type": "B2B",
+        "use": "现场组货上新，起订量低适合试款。需结合实际投放与运营节奏判断。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "TikTok Spark Ads",
+        "Amazon SP"
+      ],
+      "organic": [
+        "护肤教程",
+        "运动场景内容"
+      ],
+      "budget": "日预算20-30美元",
+      "kpi": "点击率>2%，评分4.5以上"
+    },
+    "sources": [
+      "https://www.upkuajing.com/",
+      "https://datawrapper.dwcdn.net/GVdk5/1/"
+    ],
+    "confidence": "medium"
+  }
+]

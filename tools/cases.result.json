@@ -11,7 +11,7 @@
   "name": "饼干糕点成型机",
   "pool": "-",
   "mk": 5,
-  "ms": 1,
+  "ms": 2,
   "expectAny": true
  },
  {
@@ -56,7 +56,7 @@
   "name": "商用工业烤炉",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -116,7 +116,7 @@
   "name": "cookie press machine",
   "pool": "bakery-equipment",
   "mk": 6,
-  "ms": 11
+  "ms": 13
  },
  {
   "id": "A9",
@@ -168,12 +168,12 @@
   "input": "封口机",
   "expect": "packaging-equipment",
   "ok": true,
-  "src": "rule",
-  "conf": "low",
-  "via": "rule",
-  "name": "封口机",
-  "pool": "packaging-equipment",
-  "mk": 6,
+  "src": "kb",
+  "conf": "high",
+  "via": "exact",
+  "name": "真空封口机",
+  "pool": "-",
+  "mk": 5,
   "ms": 0,
   "expectAny": true
  },
@@ -183,13 +183,13 @@
   "input": "真空包装机",
   "expect": "packaging-equipment",
   "ok": true,
-  "src": "rule",
+  "src": "kb",
   "conf": "low",
-  "via": "rule",
-  "name": "真空包装机",
-  "pool": "packaging-equipment",
-  "mk": 6,
-  "ms": 0,
+  "via": "fuzzy",
+  "name": "真空包装袋卷",
+  "pool": "-",
+  "mk": 5,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -204,7 +204,7 @@
   "name": "给人家做袋子的机器",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C1",
@@ -232,7 +232,7 @@
   "name": "保温杯",
   "pool": "-",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C3",
@@ -260,7 +260,7 @@
   "name": "袜子",
   "pool": "-",
   "mk": 5,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C5",
@@ -288,7 +288,7 @@
   "name": "做美甲的",
   "pool": "beauty",
   "mk": 6,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -303,7 +303,7 @@
   "name": "做假发的",
   "pool": "beauty",
   "mk": 6,
-  "ms": 0,
+  "ms": 1,
   "expectPool": "beauty"
  },
  {
@@ -332,7 +332,7 @@
   "name": "做玩具的",
   "pool": "toy",
   "mk": 6,
-  "ms": 0
+  "ms": 2
  },
  {
   "id": "C10",
@@ -346,7 +346,7 @@
   "name": "LED商业照明灯具",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -371,8 +371,8 @@
   "ok": true,
   "src": "kb",
   "conf": "high",
-  "via": "synonym-strip:LED灯",
-  "name": "LED商业照明灯具",
+  "via": "contained-in-input",
+  "name": "LED 智能灯泡",
   "pool": "-",
   "mk": 5,
   "ms": 0,
@@ -435,7 +435,7 @@
   "name": "做LED显示屏的",
   "pool": "electronics",
   "mk": 6,
-  "ms": 0,
+  "ms": 1,
   "expectPool": "electronics"
  },
  {
@@ -465,7 +465,7 @@
   "name": "做机械的",
   "pool": "machinery",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E2",
@@ -536,7 +536,7 @@
   "name": "做服装的",
   "pool": "apparel",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E7",
@@ -550,7 +550,7 @@
   "name": "做家具的",
   "pool": "home",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E8",
@@ -564,7 +564,7 @@
   "name": "做医疗的",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E9",
@@ -572,13 +572,13 @@
   "input": "做农机的",
   "expect": "machinery",
   "ok": true,
-  "src": "kb",
+  "src": "rule",
   "conf": "low",
-  "via": "fuzzy",
-  "name": "逆变电焊机与氩弧焊机",
-  "pool": "-",
-  "mk": 5,
-  "ms": 0,
+  "via": "rule",
+  "name": "做农机的",
+  "pool": "machinery",
+  "mk": 6,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -698,7 +698,7 @@
   "name": "abcdefgxxxx",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "G6",
@@ -712,7 +712,7 @@
   "name": "保温杯",
   "pool": "-",
   "mk": 6,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -756,7 +756,7 @@
   "name": "挖掘机",
   "pool": "machinery",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "H4",
@@ -844,7 +844,7 @@
   "name": "面包房设备",
   "pool": "bakery-equipment",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "A24",
@@ -902,7 +902,7 @@
   "name": "做面包的流水线",
   "pool": "bakery-equipment",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "A28",
@@ -923,15 +923,16 @@
   "id": "B10",
   "grp": "包装",
   "input": "做封口机的",
-  "expect": "packaging-equipment",
+  "expect": "真空封口机",
   "ok": true,
-  "src": "rule",
-  "conf": "low",
-  "via": "rule",
-  "name": "做封口机的",
-  "pool": "packaging-equipment",
-  "mk": 6,
-  "ms": 0
+  "src": "kb",
+  "conf": "high",
+  "via": "synonym-contains:封口",
+  "name": "真空封口机",
+  "pool": "-",
+  "mk": 5,
+  "ms": 0,
+  "expectAny": true
  },
  {
   "id": "B11",
@@ -945,7 +946,7 @@
   "name": "灌装机",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "B12",
@@ -959,7 +960,7 @@
   "name": "贴标设备",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "B13",
@@ -973,7 +974,7 @@
   "name": "纸箱机",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "B14",
@@ -1017,7 +1018,7 @@
   "name": "给食品厂做包装的",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C20",
@@ -1045,7 +1046,7 @@
   "name": "我是做电器的",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C22",
@@ -1059,7 +1060,7 @@
   "name": "空气炸锅",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -1104,7 +1105,7 @@
   "name": "做儿童玩具的",
   "pool": "toy",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C26",
@@ -1178,7 +1179,7 @@
   "name": "做美妆的",
   "pool": "beauty",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C31",
@@ -1208,7 +1209,7 @@
   "name": "做汽配的",
   "pool": "auto",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C33",
@@ -1352,7 +1353,7 @@
   "name": "做机械的",
   "pool": "machinery",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E22",
@@ -1366,7 +1367,7 @@
   "name": "做注塑的",
   "pool": "machinery",
   "mk": 6,
-  "ms": 0,
+  "ms": 1,
   "expectPool": "machinery"
  },
  {
@@ -1381,7 +1382,7 @@
   "name": "做包装的",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E24",
@@ -1395,7 +1396,7 @@
   "name": "做纺织的",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E25",
@@ -1495,7 +1496,7 @@
   "name": "亚马逊",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "F21",
@@ -1509,7 +1510,7 @@
   "name": "阿里巴巴",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "F22",
@@ -1523,7 +1524,7 @@
   "name": "拼多多",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "G20",
@@ -1549,7 +1550,7 @@
   "name": "啊啊啊啊啊啊啊啊啊",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "G22",
@@ -1563,7 +1564,7 @@
   "name": "<script>alert(1)</script>",
   "pool": "-",
   "mk": 3,
-  "ms": 1
+  "ms": 2
  },
  {
   "id": "G23",
@@ -1577,7 +1578,7 @@
   "name": "'; DROP TABLE users;--",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "G24",
@@ -1591,7 +1592,7 @@
   "name": "保温杯",
   "pool": "-",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "H20",
@@ -1634,7 +1635,9 @@
   "name": "猫砂盆",
   "pool": "pet",
   "mk": 6,
-  "ms": 0
+  "ms": 1,
+  "expectPool": "pet",
+  "expectAny": true
  },
  {
   "id": "H23",
@@ -1663,7 +1666,7 @@
   "name": "洗衣机",
   "pool": "apparel",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "H25",
@@ -1691,7 +1694,7 @@
   "name": "挖掘机",
   "pool": "machinery",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "H27",

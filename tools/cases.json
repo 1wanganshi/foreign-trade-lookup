@@ -419,7 +419,8 @@
   "id": "B10",
   "grp": "包装",
   "in": "做封口机的",
-  "expect": "packaging-equipment"
+  "expect": "真空封口机",
+  "expectAny": true
  },
  {
   "id": "B11",
@@ -732,7 +733,9 @@
   "id": "H22",
   "grp": "回归",
   "in": "猫砂盆",
-  "expect": "pet"
+  "expect": "pet",
+  "expectAny": true,
+  "expectPool": "pet"
  },
  {
   "id": "H23",

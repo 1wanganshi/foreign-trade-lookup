@@ -1,0 +1,4856 @@
+[
+ {
+  "id": "tool-socket-wrench-set",
+  "name": "棘轮套筒扳手套装",
+  "aliases": [
+   "Socket Wrench Set",
+   "套筒扳手组套",
+   "棘轮扳手套装"
+  ],
+  "category": "五金工具",
+  "summary": "家庭与维修厂通用组套，客单适中复购稳定。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 92,
+    "why": [
+     "美国独栋住宅多、自修车与家装普遍，车库常备套筒组套，感恩节黑五礼赠季销量集中"
+    ],
+    "channels": [
+     "Amazon",
+     "连锁五金店供应商",
+     "SEMA 展"
+    ],
+    "entry": "以 46/108 件家庭组套切入 Amazon，主图做收纳盒与卡位展示，靠评论数堆类目权重",
+    "risk": "CPSC 与加州 Prop65 需标注，材料含铬钒钢须符合 ASTM 标准",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 86,
+    "why": [
+     "德国私修车与 DIY 文化深，租赁公寓储物空间有限，带收纳盒的组套比散件更受欢迎"
+    ],
+    "channels": [
+     "Amazon DE",
+     "Eisenwarenmesse 展",
+     "本地经销"
+    ],
+    "entry": "做 DIN 标准尺寸与德文包装，走五金连锁与 Amazon 双渠道",
+    "risk": "需 CE 机械指令与铬钒钢材质声明，包装须符合包装法注册",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 74,
+    "why": [
+     "泰国摩托车与汽车维修店密集，街边修理铺常备套筒组套，价格带集中在低中端"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地批发"
+    ],
+    "entry": "主推 40 件便携装，配泰语说明书，用修车场景短视频铺货引流",
+    "risk": "泰国 TISI 对部分工具类有标准要求，同时存在仿牌外观侵权风险",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 70,
+    "why": [
+     "迪拜转口覆盖海湾与非洲，五金工具在德拉市场批发活跃，客户偏好耐用整套"
+    ],
+    "channels": [
+     "迪拜批发市场",
+     "Alibaba",
+     "转口商"
+    ],
+    "entry": "做整柜混装供货给批发商，配多语种包装与中英文规格对照表便于销售",
+    "risk": "转口客户价格敏感，品牌授权与仿冒投诉风险",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约买家，展后一周内完成报价跟进，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 4
+   },
+   {
+    "name": "SEMrush / Ahrefs",
+    "type": "数据",
+    "use": "扒竞品关键词与落地页，反推高转化长尾词，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Amazon SP 广告主打套筒组套大词",
+    "Google 搜索投 46 piece socket set",
+    "黑五前加价控 ACoS"
+   ],
+   "organic": [
+    "拆解与耐用测试视频",
+    "型号与件数对比页 SEO",
+    "五金连锁渠道陈列"
+   ],
+   "budget": "年 20-50 万元：Amazon 广告 50%、内容 30%、展会 20%",
+   "kpi": "ACoS、BSR 排名、退换货率"
+  },
+  "sources": [
+   "Amazon Best Sellers 工具类目公开榜",
+   "中国五金制品协会出口统计公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-drill-bit-set",
+  "name": "高速钢麻花钻头套装",
+  "aliases": [
+   "HSS Drill Bit Set",
+   "麻花钻套装",
+   "钻头组"
+  ],
+  "category": "五金工具",
+  "summary": "耗材型刚需品，断裂即换带来高频复购。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 90,
+    "why": [
+     "美国自建木工与金属加工爱好广泛，钻头属耗材，断掉就换，反复购买周期短"
+    ],
+    "channels": [
+     "Amazon",
+     "Home Depot 供应商",
+     "eBay"
+    ],
+    "entry": "做 1-10mm 全规格套装加收纳盒，主图展示镀钛涂层与排屑槽",
+    "risk": "Prop65 与表面涂层化学合规，标示材质与硬度避免虚假宣称",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "意大利",
+    "heat": 80,
+    "why": [
+     "意大利中小企业与家庭作坊机械加工多，钻头在五金店按盒购买，注重耐用性"
+    ],
+    "channels": [
+     "Europages",
+     "本地五金分销",
+     "Amazon IT"
+    ],
+    "entry": "以 M35 含钴钻头切入不锈钢加工细分，随货提供完整材质适用对照表",
+    "risk": "REACH 对涂层与包装材料有限制，需 CE 与 SDS 文件",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 74,
+    "why": [
+     "沙特建筑与金属加工项目多，工地消耗快，批量采购钻头用于钢结构安装"
+    ],
+    "channels": [
+     "Big 5 展",
+     "本地代理",
+     "Alibaba"
+    ],
+    "entry": "以整箱批发加工地配送模式供货，做项目经理愿意长期推荐的稳定品牌",
+    "risk": "SASO 认证与批次检验，钢材来源需可追溯",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 70,
+    "why": [
+     "拉各斯金属加工与木工小作坊密集，钻头靠进口供给，价格决定份额"
+    ],
+    "channels": [
+     "本地批发市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做低价通用套装铺给批发商，随货附耐用性说明以减少退换货和纠纷",
+    "risk": "仿冒混装严重，付款风险与海运物流损耗都需提前防范",
+    "rank": 4
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 72,
+    "why": [
+     "越南机加工与五金厂快速扩张，钻头在工业区内按月按盒消耗，复购周期很短"
+    ],
+    "channels": [
+     "Alibaba",
+     "本地经销",
+     "工业展"
+    ],
+    "entry": "以工业包装加型号色标切入工业园区分销渠道，便于采购按色快速补货",
+    "risk": "标签须使用越南语，同时存在仿牌外观与包装侵权风险",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜力客户",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告只在套装新链接期用",
+    "Google 长尾词低预算测试"
+   ],
+   "organic": [
+    "材质适合与寿命测试内容",
+    "型号对照页做 SEO 支柱",
+    "批发商名录开发"
+   ],
+   "budget": "年 10-25 万元：Amazon 40%、内容 35%、Google 25%",
+   "kpi": "复购率、单链接评论增速、退货率"
+  },
+  "sources": [
+   "Amazon 工具耗材类目公开榜单",
+   "中国机械通用零部件工业协会公开资料"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-angle-grinder",
+  "name": "角磨机（100/125mm）",
+  "aliases": [
+   "Angle Grinder",
+   "砂轮机",
+   "手持打磨机"
+  ],
+  "category": "五金工具",
+  "summary": "金属加工与装修必备电动工具，东南亚与中东走量大。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 88,
+    "why": [
+     "印尼建筑装修与金属焊接普遍，角磨机是工地基本工具，价格带集中在低价段"
+    ],
+    "channels": [
+     "Shopee",
+     "Tokopedia 类平台",
+     "本地五金批发"
+    ],
+    "entry": "做 100mm 850W 主推款，配印尼插头与保修卡，走五金店分销渠道",
+    "risk": "印尼 SNI 强制认证，缺少认证无法清关与上架",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 82,
+    "why": [
+     "沙特工地与金属加工需求强，高温环境对电机散热与防尘等级要求高"
+    ],
+    "channels": [
+     "Big 5 展",
+     "本地代理",
+     "Alibaba"
+    ],
+    "entry": "做高温防尘版本，把防护罩与砂轮片打包装成套卖给工程承包商使用",
+    "risk": "SASO 与 G-Mark 认证，安全防护缺失引发责任风险",
+    "rank": 2
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 74,
+    "why": [
+     "巴西建筑与金属加工活跃，110V 与 220V 两种电压并存，插头型号也分两种"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "同时做 127V 与 220V 版本，配巴西插头与葡语说明书",
+    "risk": "INMETRO 强制认证，电压错配将导致大量退货",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 70,
+    "why": [
+     "东非基建与金属作坊普遍依赖电动工具，但电源不稳，需配稳压与备用碳刷"
+    ],
+    "channels": [
+     "本地代理",
+     "中资项目",
+     "Facebook"
+    ],
+    "entry": "把整机与碳刷、砂轮片耗材包成套销售，用耗材持续拉动客户回补复购",
+    "risk": "电压波动易导致电机烧毁，售后网点与备件供应必须提前布局",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 1
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚站点本地仓铺货，低价高频品冲类目榜",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 4
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约买家，展后一周内完成报价跟进，稳定拿量",
+    "priority": 5
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜力客户",
+    "priority": 6
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "阿里 P4P 抢五金批发询盘",
+    "Google 搜索投角磨机型号词",
+    "TikTok 工地实测短视频投流"
+   ],
+   "organic": [
+    "切割效率与安全防护实测视频",
+    "电压与插头版本说明页",
+    "本地五金店铺货与培训"
+   ],
+   "budget": "年 25-60 万元：阿里 35%、内容 25%、Google 20%、展会 20%",
+   "kpi": "询盘量、退货率、备件复购占比"
+  },
+  "sources": [
+   "中国电器工业协会电动工具分会公开资料",
+   "印尼 SNI 强制认证产品目录公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-electric-wrench-impact",
+  "name": "电动扳手（锂电冲击）",
+  "aliases": [
+   "Cordless Impact Wrench",
+   "锂电扳手",
+   "电动风炮"
+  ],
+  "category": "五金工具",
+  "summary": "汽修与装配场景的锂电工具，靠扭矩参数说话。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 88,
+    "why": [
+     "美国车主自换轮胎与刹车普遍，锂电冲击扳手是车库标配，20V 平台生态带动电池复购"
+    ],
+    "channels": [
+     "Amazon",
+     "SEMA 展",
+     "汽配连锁"
+    ],
+    "entry": "做 1/2 英寸方形驱动加 20V 电池平台，主图放扭矩与拆卸轮胎实测",
+    "risk": "UL 认证与锂电池 UN38.3，缺认证空运受限",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 80,
+    "why": [
+     "德国车主冬季换胎频繁，车行与家庭都要拆装轮毂螺栓，对扭矩精度与噪音有要求"
+    ],
+    "channels": [
+     "Amazon DE",
+     "Automechanika 展",
+     "本地分销"
+    ],
+    "entry": "以 CE 认证与噪音等级齐全切入车行渠道，随货配德语操作手册",
+    "risk": "CE 机械与 EMC 指令，电池须符合欧盟电池法规",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 76,
+    "why": [
+     "泰国汽车与摩托车维修店密集，锂电扳手替代气动工具，因无需空压机更便携"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地汽配批发"
+    ],
+    "entry": "主推一电一充基础套装，用低价位先占据本地维修店与汽修厂的心智",
+    "risk": "TISI 电气安全要求，电池运输与售后风险",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 72,
+    "why": [
+     "沙特车队与建筑机械维修量大，锂电工具在无电源工地上的优势非常明显"
+    ],
+    "channels": [
+     "本地代理",
+     "项目采购",
+     "Alibaba"
+    ],
+    "entry": "做高温环境适配与双电池套装，绑定车队维修承包商建立长期供货关系",
+    "risk": "SASO 认证与高温环境下的电池安全要求，售后备件供应须前置",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 3
+   },
+   {
+    "name": "SEMA Show 拉斯维加斯",
+    "type": "展会",
+    "use": "北美改装件主展，接触改装店与代理商，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Amazon 广告主打扭矩与套装对比",
+    "Google 搜索投 impact wrench 型号",
+    "YouTube 测评视频投流"
+   ],
+   "organic": [
+    "拆卸轮胎与螺栓实测视频",
+    "电池平台兼容说明页",
+    "SEMA 展现场演示"
+   ],
+   "budget": "年 30-70 万元：Amazon 40%、内容 30%、展会 20%、Google 10%",
+   "kpi": "ACoS、评论增速、电池附件连带率"
+  },
+  "sources": [
+   "Amazon 电动工具类目公开榜单",
+   "SEMA Show 参展品类公开资料"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-tape-measure-laser",
+  "name": "激光测距仪",
+  "aliases": [
+   "Laser Distance Meter",
+   "激光卷尺",
+   "测距仪"
+  ],
+  "category": "五金工具",
+  "summary": "家装与房产测量小工具，欧美租房与装修场景刚需。",
+  "markets": [
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 82,
+    "why": [
+     "德国租房率高，租客自购家具前需量房，激光测距比卷尺更易单人操作"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地五金连锁",
+     "独立站"
+    ],
+    "entry": "做 40m 量程主推款，详情页强调单人测量与面积体积自动换算功能",
+    "risk": "CE 与激光安全等级（Class 2）标示，德语说明书必需",
+    "rank": 1
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 80,
+    "why": [
+     "美国房屋翻新与 DIY 装修普遍，测距仪常用于估算地板与墙面材料用量"
+    ],
+    "channels": [
+     "Amazon",
+     "Home Depot 供应商供应链",
+     "eBay"
+    ],
+    "entry": "把产品与装修计算场景绑定，主图直接展示面积与体积自动换算功能",
+    "risk": "FDA 激光产品报告要求，Prop65 与电池合规",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 68,
+    "why": [
+     "迪拜装修与地产项目密集，承包商与验房师普遍用激光测距替代传统卷尺"
+    ],
+    "channels": [
+     "本地建材市场",
+     "Alibaba",
+     "项目采购"
+    ],
+    "entry": "以工程款大屏高精度机型切入验房师与装修公司的年度采购清单里，先跑通样板客户再放量",
+    "risk": "高温环境下屏幕与电池稳定性，转口认证要求",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 70,
+    "why": [
+     "越南家装与房产中介活跃，量房工具从卷尺向激光升级，价格敏感但接受度高"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地五金"
+    ],
+    "entry": "做入门价位 30m 机型，用越南语短视频完整演示量房全流程与技巧",
+    "risk": "产品标签须使用越南语，激光安全说明与锂电池运输也有限制",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚站点本地仓铺货，低价高频品冲类目榜",
+    "priority": 2
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 4
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号热度后再备货，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "投流为主",
+   "paid": [
+    "Amazon 广告抢 laser measure 大词",
+    "Google Shopping 投放型号词",
+    "TikTok 量房演示投流"
+   ],
+   "organic": [
+    "量房与装修场景内容",
+    "精度与量程对比页",
+    "评价积累与问答维护"
+   ],
+   "budget": "年 15-40 万元：Amazon 45%、Google 25%、内容 30%",
+   "kpi": "ACoS、转化率、差评率"
+  },
+  "sources": [
+   "Amazon 测量工具类目公开榜",
+   "CE 激光产品安全标准 EN60825 公开信息"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "tool-lock-padlock",
+  "name": "防盗挂锁与门锁",
+  "aliases": [
+   "Padlock",
+   "挂锁",
+   "叶片锁"
+  ],
+  "category": "五金工具",
+  "summary": "安防刚需品，欧洲与东南亚住宅场景常年出单。",
+  "markets": [
+   {
+    "region": "欧洲",
+    "country": "英国",
+    "heat": 84,
+    "why": [
+     "英国住宅多为独立门与花园储物棚，挂锁用于院门与自行车棚，替换与丢失补买频繁"
+    ],
+    "channels": [
+     "Amazon UK",
+     "本地五金连锁",
+     "Eisenwarenmesse 展"
+    ],
+    "entry": "做防剪与防锈等级标注清晰的户外挂锁，配英国标准锁环尺寸规格，先跑通样板客户再放量",
+    "risk": "需通过安全等级测试（如 CEN 分级）与盐雾测试数据",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 80,
+    "why": [
+     "德国地下室储物间与自行车房普遍使用挂锁，租房搬家频繁导致锁具反复购买"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地五金店",
+     "独立站"
+    ],
+    "entry": "做多把装且同钥匙通开的家庭套装，解决一人多锁的日常使用痛点，先跑通样板客户再放量",
+    "risk": "CE 与钥匙复制服务合规，包装法注册需完成",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 76,
+    "why": [
+     "印尼自建房与商铺卷闸门普遍用挂锁，家庭常备多把，防锈与抗湿热是核心"
+    ],
+    "channels": [
+     "Shopee",
+     "Tokopedia 类平台",
+     "本地五金批发"
+    ],
+    "entry": "做防锈涂层与防雨罩款式，同时铺设本地五金批发与主流电商渠道，先跑通样板客户再放量",
+    "risk": "印尼 SNI 对部分锁具有强制要求，仿牌外观侵权",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 72,
+    "why": [
+     "拉各斯住宅与商铺安防依赖机械挂锁，停电导致电子锁不可用，机械锁更可靠"
+    ],
+    "channels": [
+     "本地批发市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "以抗剪耐用款加整盒批发切入批发商，强调停电时依然可以正常使用",
+    "risk": "付款风险与仿冒混装并存，包装标识合规须逐批核对",
+    "rank": 4
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 68,
+    "why": [
+     "巴西城市住宅与车库普遍使用挂锁，雨季潮湿导致锁芯卡死，用户偏好不锈钢"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "主推不锈钢锁芯与防雨结构，配葡语说明并提供钥匙备份与换锁服务",
+    "risk": "INMETRO 对部分安防类有要求，关税与清关成本高",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚站点本地仓铺货，低价高频品冲类目榜",
+    "priority": 3
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约买家，展后一周内完成报价跟进，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜力客户",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告只在旺季前短期投放",
+    "Google 搜索低预算测试长尾"
+   ],
+   "organic": [
+    "防剪与盐雾测试视频",
+    "安全等级对照页",
+    "五金连锁铺货与陈列"
+   ],
+   "budget": "年 10-30 万元：Amazon 35%、内容 30%、展会 20%、Google 15%",
+   "kpi": "复购率、差评率、单链接评论增速"
+  },
+  "sources": [
+   "Amazon 安防锁具类目公开榜",
+   "欧洲 CEN 锁具安全分级公开资料"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "tool-silicone-sealant-gun",
+  "name": "硅胶打胶枪（手动/电动）",
+  "aliases": [
+   "Caulking Gun",
+   "打胶枪",
+   "胶枪"
+  ],
+  "category": "五金工具",
+  "summary": "装修辅材工具，欧美浴室翻新与门窗密封带动需求。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 78,
+    "why": [
+     "美国住宅多木质结构，门窗与浴室密封需定期打胶，打胶枪是家庭常备工具"
+    ],
+    "channels": [
+     "Amazon",
+     "Home Depot 供应链",
+     "eBay"
+    ],
+    "entry": "做省力棘轮款加电动款，页面演示单手出胶与回吸断胶的实际使用效果",
+    "risk": "Prop65 与润滑剂化学品合规，包装标识须英文",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 74,
+    "why": [
+     "德国住宅门窗密封与浴室翻新频繁，DIY 用户偏好省力棘轮结构减少手部疲劳"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地五金店",
+     "独立站"
+    ],
+    "entry": "做棘轮省力款加铝管耐用结构，配德文使用图解与日常保养提示说明",
+    "risk": "CE 机械指令与包装法注册，材质声明需完整",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 72,
+    "why": [
+     "沙特建筑与防水工程量大，打胶枪在工地属消耗工具，追求耐用与出胶稳定"
+    ],
+    "channels": [
+     "Big 5 展",
+     "本地代理",
+     "Alibaba"
+    ],
+    "entry": "做工程级金属枪身款，整箱批发给工程承包商与防水施工队长期使用",
+    "risk": "SASO 认证，高温下胶体固化速度影响使用体验",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 70,
+    "why": [
+     "越南装修与建筑密封需求持续增长，打胶枪以五金店零售为主，价格带偏低"
+    ],
+    "channels": [
+     "Shopee",
+     "本地五金批发",
+     "Alibaba"
+    ],
+    "entry": "主推经济款与电动款两条线，靠本地五金店铺货建立完整的类目覆盖",
+    "risk": "越南语标签为强制要求，且低价同质化竞争十分激烈",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 4
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开认证店铺，欧洲中东买家多，靠参数表拿询盘",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告主打 caulking gun",
+    "Google 搜索低预算补充"
+   ],
+   "organic": [
+    "打胶手法与省力演示视频",
+    "结构对比与耐用说明",
+    "五金连锁与批发铺货"
+   ],
+   "budget": "年 8-20 万元：Amazon 40%、内容 30%、Google 15%、展会 15%",
+   "kpi": "转化率、退货率、连带购买率"
+  },
+  "sources": [
+   "Amazon 手动工具类目公开榜",
+   "北美家装零售渠道公开品类资料"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "tool-air-nailer-kit",
+  "name": "气动钉枪套装",
+  "aliases": [
+   "Pneumatic Nailer Kit",
+   "气钉枪",
+   "钉枪组套"
+  ],
+  "category": "五金工具",
+  "summary": "木工与装修施工工具，海外自建与包工队常年采购。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 82,
+    "why": [
+     "美国木屋与围栏施工量大，气动钉枪比电动更耐用，施工队按套采购"
+    ],
+    "channels": [
+     "Amazon",
+     "SEMA 与木工展",
+     "建材批发"
+    ],
+    "entry": "做两枪一机套装，配快接接头与安全说明，主攻围栏与木屋施工队采购",
+    "risk": "CPSC 对钉枪有安全警示要求，气压部件需耐压测试",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 74,
+    "why": [
+     "越南家具与木制品出口工厂密集，气动钉枪是生产线常用工具，更换频率高"
+    ],
+    "channels": [
+     "本地工业批发",
+     "Alibaba",
+     "工业展"
+    ],
+    "entry": "以工业级连发款切入家具厂，配套钉子与易损维修备件做长期供货合同",
+    "risk": "工厂采购需接受验厂，气压安全与噪音标准也须达标",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 70,
+    "why": [
+     "迪拜装修与木作工厂多，气动工具依赖压缩空气，配套空压机一起采购"
+    ],
+    "channels": [
+     "本地建材市场",
+     "转口商",
+     "Alibaba"
+    ],
+    "entry": "做钉枪加空压机组合包，用捆绑销售提高客单价与配件的连带购买率",
+    "risk": "转口认证与气压安全说明需完备，售后备件供应必须前置",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 66,
+    "why": [
+     "拉各斯木作与家具作坊活跃，气动钉枪逐步替代手工钉合，价格决定选择"
+    ],
+    "channels": [
+     "本地批发",
+     "Facebook",
+     "Alibaba"
+    ],
+    "entry": "主推经济型单枪加钉套装，降低首次投入门槛以争取小作坊与个体客户",
+    "risk": "存在付款与售后风险，压缩空气质量会直接影响设备寿命",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 3
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开认证店铺，欧洲中东买家多，靠参数表拿询盘",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜力客户",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告投 nail gun kit 大词",
+    "Google 搜索投施工场景词"
+   ],
+   "organic": [
+    "施工实拍与安全操作视频",
+    "型号适用场景对照",
+    "建材批发渠道开发"
+   ],
+   "budget": "年 12-30 万元：Amazon 40%、内容 30%、展会 20%、Google 10%",
+   "kpi": "询盘量、套装连带率、退货率"
+  },
+  "sources": [
+   "Amazon 气动工具类目公开榜",
+   "中国五金制品协会公开资料"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "tool-toolbox-trolley",
+  "name": "滚轮工具车与工具箱",
+  "aliases": [
+   "Rolling Tool Box",
+   "工具推车",
+   "滚轮工具箱"
+  ],
+  "category": "五金工具",
+  "summary": "汽修与装修的工具收纳刚需，客单高复购慢。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 84,
+    "why": [
+     "美国车库空间大但工具多，滚轮工具车用于集中收纳，汽修 DIY 人群购买意愿强"
+    ],
+    "channels": [
+     "Amazon",
+     "Home Depot 供应链",
+     "SEMA 展"
+    ],
+    "entry": "做多层抽屉带锁款，页面展示承重数据与滚轮通过性的实测对比结果",
+    "risk": "Prop65 与金属涂层合规，体积重导致物流成本高",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 76,
+    "why": [
+     "德国工位与车库空间紧凑，工具车需可移动可锁，工坊标准化要求高"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地工业分销",
+     "Eisenwarenmesse 展"
+    ],
+    "entry": "做紧凑款加工具泡棉定位，适配欧美标准化工具墙与工位管理体系要求",
+    "risk": "CE 与职业安全要求，包装法注册与运输标签",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 70,
+    "why": [
+     "沙特工程车队与维修车间的工位分散，工具车必须抗高温与耐沙尘，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地代理",
+     "项目采购",
+     "Alibaba"
+    ],
+    "entry": "做加厚钢板与密封抽屉款，绑定车队维修承包商做批量采购与定期替换",
+    "risk": "SASO 认证与运输重量限制，售后滚轮备件",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 68,
+    "why": [
+     "泰国汽修与改装店密集，工具车既是收纳工具也是店铺形象道具用，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "本地汽配批发",
+     "展会展位"
+    ],
+    "entry": "做中低价位多层款，靠汽修店实际使用口碑带动区域批发与复购需求",
+    "risk": "TISI 对部分金属制品要求，海运成本占比高",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "SEMA Show 拉斯维加斯",
+    "type": "展会",
+    "use": "北美改装件主展，接触改装店与代理商，稳定拿量",
+    "priority": 2
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 3
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约买家，展后一周内完成报价跟进，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn",
+    "type": "社交",
+    "use": "定向汽修连锁与采购经理开发 B 端订单，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告投 rolling tool box",
+    "Google 搜索投 workshop storage"
+   ],
+   "organic": [
+    "承重与滚轮实测视频",
+    "工位收纳案例图",
+    "汽修连锁与经销商开发"
+   ],
+   "budget": "年 15-40 万元：Amazon 40%、内容 25%、展会 25%、Google 10%",
+   "kpi": "ACoS、大件退货率、批发订单量"
+  },
+  "sources": [
+   "Amazon 工具收纳类目公开榜",
+   "SEMA 展品类公开资料"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "tool-welding-machine-inverter",
+  "name": "逆变直流电焊机",
+  "aliases": [
+   "Inverter Welding Machine",
+   "逆变焊机",
+   "小型电焊机"
+  ],
+  "category": "五金工具",
+  "summary": "金属加工基础设备，东南亚非洲维修与作坊刚需。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 86,
+    "why": [
+     "印尼金属加工与制铁作坊密集，小型逆变焊机替代老式变压器机，省电且便携"
+    ],
+    "channels": [
+     "Shopee",
+     "Tokopedia 类平台",
+     "本地五金批发"
+    ],
+    "entry": "做 220V 便携款加焊把线套装，配印尼语操作与安全教学视频",
+    "risk": "印尼 SNI 强制认证与电气安全，缺证无法清关",
+    "rank": 1
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 78,
+    "why": [
+     "尼日利亚铁艺与钢筋加工普遍，电网不稳，焊机需宽电压适应与过载保护"
+    ],
+    "channels": [
+     "本地代理",
+     "Facebook",
+     "Alibaba"
+    ],
+    "entry": "做宽电压与高温保护款，配焊条与面罩组合销售以提升整体客单价，先跑通样板客户再放量",
+    "risk": "电压波动易导致烧机，售后网点与备件供应必须提前布局",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "埃及",
+    "heat": 72,
+    "why": [
+     "埃及金属加工与设备维修活跃，外汇紧张使客户更偏好高性价比机型"
+    ],
+    "channels": [
+     "本地代理",
+     "展会",
+     "Alibaba"
+    ],
+    "entry": "以中低价位整机加耗材方案，切入本地五金店与汽修市场的渠道，先跑通样板客户再放量",
+    "risk": "外汇短缺导致付款周期长，须以信用证或预付方式结算",
+    "rank": 3
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 70,
+    "why": [
+     "巴西金属结构与农机维修需求大，110V 与 220V 电压并存需分版本"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "同时做 127V 与 220V 两个版本，配葡语说明书与安装视频",
+    "risk": "INMETRO 强制认证，电压错配导致退货",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 1
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚站点本地仓铺货，低价高频品冲类目榜",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 4
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开认证店铺，欧洲中东买家多，靠参数表拿询盘",
+    "priority": 5
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜力客户",
+    "priority": 6
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "阿里 P4P 抢焊接设备询盘",
+    "Google 搜索投 inverter welder",
+    "TikTok 焊接实操投流"
+   ],
+   "organic": [
+    "焊缝效果与便携实测视频",
+    "电压与焊条适配说明页",
+    "本地五金与工地渠道铺货"
+   ],
+   "budget": "年 20-50 万元：阿里 35%、内容 30%、Google 20%、展会 15%",
+   "kpi": "询盘量、转化率、售后故障率"
+  },
+  "sources": [
+   "中国电器工业协会焊机分会公开资料",
+   "印尼 SNI 强制产品目录公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-wheelbarrow-garden",
+  "name": "手推车与园艺工具套装",
+  "aliases": [
+   "Wheelbarrow",
+   "手推斗车",
+   "园艺工具组"
+  ],
+  "category": "五金工具",
+  "summary": "建筑搬运与园艺基础工具，欧美自建庭院拉动需求。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 80,
+    "why": [
+     "美国独栋住宅带庭院，翻土与搬运依赖手推车，园艺工具在春季集中购买"
+    ],
+    "channels": [
+     "Amazon",
+     "Home Depot 供应链",
+     "园艺展"
+    ],
+    "entry": "做充气轮胎加固款，与园艺手工具套装捆绑销售以拉高单笔客单价，先跑通样板客户再放量",
+    "risk": "Prop65 与轮胎材料声明，大件物流成本高",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 74,
+    "why": [
+     "德国自建花园与菜园文化普遍，手推车用于堆肥与土方搬运，注重轮胎与车架耐用"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地园艺中心",
+     "独立站"
+    ],
+    "entry": "做防锈处理与免充气轮胎款，适配欧洲多雨气候与长期露天存放条件",
+    "risk": "CE 与包装法注册，运输体积大抬升履约成本",
+    "rank": 2
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 70,
+    "why": [
+     "东非建筑与农资搬运依赖手推车，工地与农场共用，轮胎耐用度决定口碑"
+    ],
+    "channels": [
+     "本地批发",
+     "中资项目",
+     "Facebook"
+    ],
+    "entry": "做加厚斗身与可更换轮胎的设计，配本地批发商铺货快速铺量，先跑通样板客户再放量",
+    "risk": "存在付款风险与海运成本压力，备件与轮胎供应必须提前前置",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 68,
+    "why": [
+     "越南农业与建筑搬运量大，手推车在乡镇市场按台零售，价格是主导因素"
+    ],
+    "channels": [
+     "本地五金批发",
+     "Shopee",
+     "Alibaba"
+    ],
+    "entry": "做经济款与加厚款两条线，主攻乡镇五金店与建材零售点，先跑通样板客户再放量",
+    "risk": "越南语标签与批次质检，低价同质竞争，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约买家，展后一周内完成报价跟进，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜力客户",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告投 wheelbarrow 季节词",
+    "Google 搜索投园艺工具组合"
+   ],
+   "organic": [
+    "承重与轮胎实测视频",
+    "园艺场景组合内容",
+    "建材与园艺渠道铺货"
+   ],
+   "budget": "年 10-28 万元：Amazon 35%、内容 30%、展会 20%、Google 15%",
+   "kpi": "旺季转化率、大件退货率、批发单量"
+  },
+  "sources": [
+   "Amazon 园艺工具类目公开榜",
+   "北美家装零售公开品类资料"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "tool-safety-helmet-harness",
+  "name": "安全帽与高空安全带",
+  "aliases": [
+   "Safety Helmet",
+   "Safety Harness",
+   "劳保安全帽"
+  ],
+  "category": "五金工具",
+  "summary": "劳保强制配备品，工地与电力检修场景长期出单。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 84,
+    "why": [
+     "沙特大型工程强制佩戴安全帽与安全带，承包商按项目批量采购，且需抗高温"
+    ],
+    "channels": [
+     "Big 5 展",
+     "项目采购",
+     "本地劳保代理"
+    ],
+    "entry": "做耐高温与通风款，配套项目批量供货与第三方检测报告，先跑通样板客户再放量",
+    "risk": "SASO 与 G-Mark 认证，缺失将被拒收",
+    "rank": 1
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 78,
+    "why": [
+     "巴西劳动法对工地安全装备要求严格，安全带须有认证才能进入项目"
+    ],
+    "channels": [
+     "本地进口商",
+     "展会",
+     "Mercado Livre"
+    ],
+    "entry": "先取得巴西 CA 认证再上架销售，同时绑定工程承包商做批量供货",
+    "risk": "INMETRO CA 认证周期长，安全带承重测试须合规",
+    "rank": 2
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 76,
+    "why": [
+     "德国工地与电力检修强制使用认证防护装备，安全帽有明确更换周期，属消耗品"
+    ],
+    "channels": [
+     "工业分销",
+     "工业展",
+     "独立站"
+    ],
+    "entry": "做 CE 与 EN397 认证款，配德语标识与使用说明并标注更换周期",
+    "risk": "CE 与 EN 标准认证不全无法销售，责任风险高",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 74,
+    "why": [
+     "印尼基建与工厂安全监管趋严，安全帽与安全带采购量随项目上升，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地劳保批发",
+     "Alibaba",
+     "项目采购"
+    ],
+    "entry": "做低价位合规款加批量包装，绑定本地劳保用品批发商铺货，先跑通样板客户再放量",
+    "risk": "SNI 认证要求与追溯标识，低质产品事故责任重",
+    "rank": 4
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 68,
+    "why": [
+     "东非基建项目由国际承包商管理，劳保装备采购须符合项目方标准，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "中资项目",
+     "本地批发",
+     "Facebook"
+    ],
+    "entry": "做符合项目方标准的定制印刷款，绑定中资承包商做项目供货，先跑通样板客户再放量",
+    "risk": "项目验收标准高，质量不达标会导致退货，需提前备齐合规文件",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布劳保产品接工程与贸易商询盘，重点抢 RFQ 单",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "认证店铺展示 PPE 证书，欧洲中东买家信任度高",
+    "priority": 2
+   },
+   {
+    "name": "Big 5 Global 迪拜",
+    "type": "展会",
+    "use": "中东工程主展，约见承包商与劳保代理，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "LinkedIn",
+    "type": "社交",
+    "use": "定向工程公司 EHS 与采购经理开发项目单",
+    "priority": 4
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约劳保贸易商，展后一周内完成报价，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "阿里 P4P 抢工程劳保询盘",
+    "Google 搜索投 safety helmet supplier"
+   ],
+   "organic": [
+    "认证与检测报告展示页",
+    "工地佩戴场景内容",
+    "承包商与劳保批发商开发"
+   ],
+   "budget": "年 15-35 万元：阿里 40%、展会 30%、内容 20%、Google 10%",
+   "kpi": "认证型号数、项目订单量、复购率"
+  },
+  "sources": [
+   "中国劳动防护用品联盟公开资料",
+   "欧洲 PPE 法规 (EU) 2016/425 公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-cutting-disc-grinder",
+  "name": "切割片与角磨耗材",
+  "aliases": [
+   "Cutting Disc",
+   "砂轮切割片",
+   "树脂切割片"
+  ],
+  "category": "五金工具",
+  "summary": "耗材型高频消耗品，工厂与工地按箱复购。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 84,
+    "why": [
+     "越南五金加工与造船维修密集，切割片按箱消耗，工厂每月固定采购"
+    ],
+    "channels": [
+     "本地五金批发",
+     "Alibaba",
+     "工业展"
+    ],
+    "entry": "做 100mm 与 125mm 通用规格，每盒配安全使用与转速说明卡",
+    "risk": "须符合 EN12413 安全标准，爆片事故责任风险大",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 76,
+    "why": [
+     "迪拜建筑与金属加工需求大，切割片在德拉五金市场批发转口至非洲"
+    ],
+    "channels": [
+     "迪拜五金市场",
+     "转口商",
+     "Alibaba"
+    ],
+    "entry": "整柜混装供货批发商，附第三方检测证书建立渠道信任，先跑通样板客户再放量",
+    "risk": "低价片爆片风险与品牌授权，责任条款须明确",
+    "rank": 2
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 74,
+    "why": [
+     "尼日利亚金属加工与建筑装修活跃，耗材价格敏感但需求连续，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地批发市场",
+     "Facebook",
+     "Alibaba"
+    ],
+    "entry": "做耐用型与高速型两档，与五金批发商签长期供货协议，先跑通样板客户再放量",
+    "risk": "付款与假货冲击，安全风险须书面告知客户，需提前备齐合规文件",
+    "rank": 3
+   },
+   {
+    "region": "南美",
+    "country": "秘鲁",
+    "heat": 68,
+    "why": [
+     "秘鲁矿业与金属加工支撑耗材需求，矿企对切割效率与安全性要求明确"
+    ],
+    "channels": [
+     "矿业服务商",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "绑定秘鲁矿业服务商与施工队，签消耗品年度框架协议锁定全年用量",
+    "risk": "海运周期长与资金占用，需第三方检测报告，需提前备齐合规文件",
+    "rank": 4
+   },
+   {
+    "region": "欧洲",
+    "country": "波兰",
+    "heat": 66,
+    "why": [
+     "波兰制造业承接西欧产能转移，金属加工厂对合规耗材需求稳定，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Europages",
+     "本地分销",
+     "工业展"
+    ],
+    "entry": "先做 EN12413 全系列认证再进欧洲分销，先跑通样板客户再放量",
+    "risk": "CE 与 EN12413 认证为强制项，标签须标注转速",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开认证店铺，欧洲中东买家多，靠参数表拿询盘",
+    "priority": 2
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 3
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约买家，展后一周内完成报价跟进，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜力客户",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "阿里 P4P 抢五金耗材询盘",
+    "Google 搜索投 cutting disc supplier"
+   ],
+   "organic": [
+    "安全使用与转速说明内容",
+    "材质适用对照表 SEO",
+    "批发商与工厂名录开发"
+   ],
+   "budget": "年 8-22 万元：阿里 40%、内容 30%、Google 15%、展会 15%",
+   "kpi": "复购周期、单柜金额、客诉率"
+  },
+  "sources": [
+   "EN12413 固结磨具安全标准公开信息",
+   "Amazon 磨具耗材类目公开榜"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-screwdriver-bit-set",
+  "name": "螺丝刀批头组套",
+  "aliases": [
+   "Screwdriver Bit Set",
+   "批头套装",
+   "螺丝批组"
+  ],
+  "category": "五金工具",
+  "summary": "电子维修与家装通用小件，客单低复购快。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 82,
+    "why": [
+     "美国家庭与爱好维修常拆装电子产品与家具，批头属消耗件，规格丢失即补买"
+    ],
+    "channels": [
+     "Amazon",
+     "iFixit 类渠道",
+     "eBay"
+    ],
+    "entry": "做 100 合一批头加磁性延长杆，主图展示电子产品与家具拆装",
+    "risk": "Prop65 与铬钒钢材质声明，磁性强度虚假宣称风险",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 78,
+    "why": [
+     "德国维修文化浓，家用电器与家具维修多用批头，注重精度避免滑牙"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地五金店",
+     "独立站"
+    ],
+    "entry": "做 S2 钢精密批头，用硬度与防滑牙的对比测试建立差异，先跑通样板客户再放量",
+    "risk": "CE 与包装法注册，材质标注须可验证，需提前备齐合规文件",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "菲律宾",
+    "heat": 70,
+    "why": [
+     "菲律宾手机维修与家电维修店密集，批头组套是维修台基础工具，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地批发"
+    ],
+    "entry": "做手机维修专用小批头套装，配合维修店短视频做场景推广，先跑通样板客户再放量",
+    "risk": "存在仿牌外观侵权风险，且低价同质化竞争非常激烈",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 66,
+    "why": [
+     "沙特设备维修与装修活跃，批头组套作随工具与礼赠采购，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地批发",
+     "Alibaba",
+     "项目采购"
+    ],
+    "entry": "做礼盒装多件套，配合斋月礼赠与本地企业采购场景，先跑通样板客户再放量",
+    "risk": "SASO 对部分工具要求，包装标识合规，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号热度后再备货，稳定拿量",
+    "priority": 2
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚站点本地仓铺货，低价高频品冲类目榜",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 4
+   },
+   {
+    "name": "SEMrush / Ahrefs",
+    "type": "数据",
+    "use": "扒竞品关键词与落地页，反推高转化长尾词，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Amazon 广告投 bit set 大词",
+    "Google Shopping 型号码铺量"
+   ],
+   "organic": [
+    "拆机与滑牙对比视频",
+    "规格对照表 SEO",
+    "维修店渠道口碑传播"
+   ],
+   "budget": "年 10-25 万元：Amazon 45%、Google 25%、内容 30%",
+   "kpi": "ACoS、复购率、差评比"
+  },
+  "sources": [
+   "Amazon 手工具类目公开榜",
+   "S2 工具钢行业标准公开资料"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-multimeter-digital",
+  "name": "数字万用表",
+  "aliases": [
+   "Digital Multimeter",
+   "万能表",
+   "数字万用电表"
+  ],
+  "category": "五金工具",
+  "summary": "电工与维修必备检测工具，教育与维修双场景。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 82,
+    "why": [
+     "美国家庭电工维修与汽车电路检测常见，万用表是入门必备，教育与 DIY 双需求"
+    ],
+    "channels": [
+     "Amazon",
+     "Home Depot 供应链",
+     "eBay"
+    ],
+    "entry": "做带真有效值与自动量程款，主图展示测电与通断判断实操，先跑通样板客户再放量",
+    "risk": "UL 与 CAT 安全等级标示，虚标等级将引发事故责任",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 78,
+    "why": [
+     "德国电工与家电维修规范，CAT 安全等级与真有效值是选购关键"
+    ],
+    "channels": [
+     "Amazon DE",
+     "工业分销",
+     "独立站"
+    ],
+    "entry": "做 CAT III 认证款，随货配德文说明书与安全警示标识，先跑通样板客户再放量",
+    "risk": "CE 与 IEC61010 标准，等级标注错误风险极高",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 72,
+    "why": [
+     "印尼电工维修与家电安装需求大，万用表在五金店零售，价格带偏低"
+    ],
+    "channels": [
+     "Shopee",
+     "本地五金批发",
+     "Alibaba"
+    ],
+    "entry": "做入门自动量程款，配印尼语说明书与表笔套装组合销售，先跑通样板客户再放量",
+    "risk": "SNI 认证与电气安全，低质表笔导致触电风险",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 70,
+    "why": [
+     "尼日利亚电网不稳，家庭电路维修频繁，万用表属电工必备工具，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地批发",
+     "Facebook",
+     "Alibaba"
+    ],
+    "entry": "做耐压与防烧设计款，强调表笔绝缘等级与本地保修承诺，先跑通样板客户再放量",
+    "risk": "存在付款与仿牌风险，安全等级须如实标注以免虚标担责",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 4
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号热度后再备货，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告投 multimeter",
+    "Google 搜索投 cat iii multimeter"
+   ],
+   "organic": [
+    "电工实操与安全等级讲解",
+    "型号对比页 SEO",
+    "维修店与电工社群口碑"
+   ],
+   "budget": "年 12-30 万元：Amazon 40%、内容 35%、Google 25%",
+   "kpi": "转化率、差评比、退货率"
+  },
+  "sources": [
+   "IEC 61010 测量设备安全标准公开信息",
+   "Amazon 测试仪器类目公开榜"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tool-heat-gun",
+  "name": "热风枪",
+  "aliases": [
+   "Heat Gun",
+   "工业热风枪",
+   "烤枪"
+  ],
+  "category": "五金工具",
+  "summary": "收缩膜与除漆工具，包装与装修双场景使用。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 76,
+    "why": [
+     "美国除漆翻新与包装热缩常见，热风枪在车库与手工工坊普及，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon",
+     "Home Depot 供应链",
+     "eBay"
+    ],
+    "entry": "做双温档加多喷嘴套装，详情页演示除漆与热缩膜两种用途，先跑通样板客户再放量",
+    "risk": "UL 与高温安全警示，Prop65 需标注",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 72,
+    "why": [
+     "德国装修除漆与电子返修使用热风枪，重视温度控制精度，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon DE",
+     "工业分销",
+     "独立站"
+    ],
+    "entry": "做数显控温款，配德文安全说明与独立支架便于工位使用，先跑通样板客户再放量",
+    "risk": "CE 与 EMC 指令，高温部件须有防护设计",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "马来西亚",
+    "heat": 68,
+    "why": [
+     "马来西亚电子代工与包装行业密集，热风枪用于热缩与返修，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地工业批发",
+     "Alibaba",
+     "工业展"
+    ],
+    "entry": "做工业级长时工作款，绑定本地电子代工厂做产线配套采购，先跑通样板客户再放量",
+    "risk": "ST 认证与插头标准，长时间工作散热要求",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 64,
+    "why": [
+     "迪拜装修与包装转口活跃，热风枪作为装修工具常与耗材配套采购，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地建材市场",
+     "转口商",
+     "Alibaba"
+    ],
+    "entry": "做套装加多喷嘴组合，铺迪拜转口批发渠道覆盖周边市场，先跑通样板客户再放量",
+    "risk": "转口认证与高温安全说明，售后备件，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 页面与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "拍安装与耐用实测长视频，工业与汽配信任来源",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘表单",
+    "priority": 4
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开认证店铺，欧洲中东买家多，靠参数表拿询盘",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Amazon 广告投 heat gun",
+    "Google 搜索投电子返修场景词"
+   ],
+   "organic": [
+    "除漆与热缩演示视频",
+    "温度与喷嘴对照页",
+    "工业与装修渠道开发"
+   ],
+   "budget": "年 10-26 万元：Amazon 40%、内容 30%、Google 20%、展会 10%",
+   "kpi": "转化率、退货率、连单率"
+  },
+  "sources": [
+   "Amazon 电动工具类目公开榜",
+   "CE EMC 指令公开信息"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "tool-ladder-aluminum",
+  "name": "铝合金折叠梯",
+  "aliases": [
+   "Aluminum Folding Ladder",
+   "伸缩梯",
+   "人字梯"
+  ],
+  "category": "五金工具",
+  "summary": "家装与维修登高刚需，欧美租房场景复购明确。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 80,
+    "why": [
+     "美国独栋住宅层高高，换灯泡与清檐沟需要梯子，家庭常备一至两把"
+    ],
+    "channels": [
+     "Amazon",
+     "Home Depot 供应链",
+     "五金连锁"
+    ],
+    "entry": "做 6-10 英尺多功能折叠款，页面标明承重等级与锁扣安全结构",
+    "risk": "ANSI 与 OSHA 承重标准，虚假标称责任风险大",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 76,
+    "why": [
+     "德国租房住客常自行维修维护，梯子需可折叠收纳在小储藏间，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地五金店",
+     "独立站"
+    ],
+    "entry": "做紧凑折叠款加防滑脚垫，配德语安全与承重说明便于自查，先跑通样板客户再放量",
+    "risk": "CE 与 EN131 梯具标准，包装法注册须完成",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 70,
+    "why": [
+     "泰国住宅与商铺多为两层结构，换灯与维修需梯子，价格带偏低，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地五金"
+    ],
+    "entry": "做 2-3 米经济款，配批发商铺货与清晰承重说明降低误用，先跑通样板客户再放量",
+    "risk": "TISI 对部分产品有要求，铝材壁厚虚标会直接影响使用安全",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 66,
+    "why": [
+     "迪拜装修与物业维护频繁，梯子在工程与家政服务中高频使用，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地建材市场",
+     "转口商",
+     "Alibaba"
+    ],
+    "entry": "做工程加强款加防高温变形设计，绑定物业与装修公司长期供货，先跑通样板客户再放量",
+    "risk": "高温环境铝材强度，转口认证与运输限制，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约买家，展后一周内报价跟进，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告投 folding ladder",
+    "Google 搜索投承重与高度词"
+   ],
+   "organic": [
+    "承重与锁扣安全实测",
+    "高度选购指南 SEO",
+    "建材与五金渠道铺货"
+   ],
+   "budget": "年 15-35 万元：Amazon 40%、内容 30%、展会 20%、Google 10%",
+   "kpi": "转化率、大件退货率、差评比"
+  },
+  "sources": [
+   "EN131 梯具安全标准公开信息",
+   "Amazon 梯具类目公开榜"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "auto-brake-pad-set",
+  "name": "汽车刹车片（前/后轮套装）",
+  "aliases": [
+   "Brake Pad Set",
+   "刹车皮",
+   "制动片"
+  ],
+  "category": "汽配",
+  "summary": "高频更换的易损件，车型适配是核心门槛。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 90,
+    "why": [
+     "美国车龄高、自修车普遍，刹车片属必换易损件，车主倾向自行购买后找店安装"
+    ],
+    "channels": [
+     "eBay Motors",
+     "Amazon",
+     "汽配连锁供应商"
+    ],
+    "entry": "用 ACES 适配数据建车型库，主图放适配车型与磨损指示器位置",
+    "risk": "美国 FMVSS 135 制动标准，适配错误将导致严重事故索赔",
+    "rank": 1
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 80,
+    "why": [
+     "巴西路况起伏大、坡道多，刹车片磨损快，维修店按车型常备库存，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地汽配批发",
+     "Mercado Livre",
+     "展会"
+    ],
+    "entry": "按巴西热销的大众与菲亚特车型做适配表，走维修店分销渠道，先跑通样板客户再放量",
+    "risk": "INMETRO 汽配认证，适配与批次一致性要求高",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 76,
+    "why": [
+     "中东高温与沙尘加速刹车片磨损，车队与维修厂采购频繁，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "迪拜汽配市场",
+     "转口商",
+     "Automechanika"
+    ],
+    "entry": "做耐高温配方款，整箱供货迪拜汽配批发市场并覆盖转口，先跑通样板客户再放量",
+    "risk": "转口认证与仿牌风险，需明确非原厂件标识，需提前备齐合规文件",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 72,
+    "why": [
+     "尼日利亚二手车保有量大，刹车片更换频繁，价格决定份额，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做常用车型经济型套装，走拉各斯大型汽配批发渠道铺货，先跑通样板客户再放量",
+    "risk": "低价劣质片导致制动失效，责任与退货风险高",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "eBay Motors",
+    "type": "B2C",
+    "use": "车型适配库完善，是北美汽配改装的天然入口",
+    "priority": 1
+   },
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 2
+   },
+   {
+    "name": "Automechanika 法兰克福",
+    "type": "展会",
+    "use": "全球汽配核心展，约见欧洲分销与连锁，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "汽配适配数据工具（ACES/PIES）",
+    "type": "数据",
+    "use": "规范车型适配表，减少错配退货，稳定拿量，按询盘节奏排产",
+    "priority": 4
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 5
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜客户，稳定拿量",
+    "priority": 6
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "eBay 与 Amazon 广告投车型适配词",
+    "Google 搜索投 brake pad 加车型"
+   ],
+   "organic": [
+    "适配车型库页面 SEO",
+    "磨损与制动测试内容",
+    "汽修连锁与批发商开发"
+   ],
+   "budget": "年 20-50 万元：广告 35%、适配数据 30%、内容 20%、展会 15%",
+   "kpi": "适配查询转化率、退货率（错配）、复购率"
+  },
+  "sources": [
+   "美国 FMVSS 135 制动标准公开信息",
+   "Automechanika 展品类公开资料"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "auto-oil-filter-kit",
+  "name": "机油滤清器与保养套件",
+  "aliases": [
+   "Oil Filter",
+   "机油格",
+   "滤清器套装"
+  ],
+  "category": "汽配",
+  "summary": "保养周期必换件，通用型号走量最稳。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 86,
+    "why": [
+     "美国车主习惯自行换机油，滤清器与机油常捆绑购买，超市与电商均有稳定需求"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "汽配连锁"
+    ],
+    "entry": "做 6-12 件多车型通用套装，页面放互换号对照便于车主核对",
+    "risk": "适配互换号错误导致漏油投诉，需严谨标注替代关系",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 78,
+    "why": [
+     "印尼摩托车与汽车保养频繁，滤清器在路边维修铺按个更换，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "本地汽配批发",
+     "Alibaba"
+    ],
+    "entry": "按丰田与本田热销车型做适配条码化包装，走路边维修铺分销，先跑通样板客户再放量",
+    "risk": "SNI 对部分汽配要求，仿牌与假冒风险，需提前备齐合规文件",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 74,
+    "why": [
+     "沙特车队与私人用车保养周期短，沙尘环境加速滤芯堵塞，更换频繁"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "项目采购",
+     "Alibaba"
+    ],
+    "entry": "做高容尘量滤纸款，绑定车队保养承包商与本地汽配批发，先跑通样板客户再放量",
+    "risk": "SASO 认证与批次检验，滤纸性能需可验证",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "埃及",
+    "heat": 70,
+    "why": [
+     "埃及出租车与二手车保有量大，保养件更换频繁，价格敏感度高，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "以经济型多型号混装整箱进入开罗汽配批发市场铺量，先跑通样板客户再放量",
+    "risk": "外汇短缺影响付款，仿冒与质量投诉风险，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "eBay Motors",
+    "type": "B2C",
+    "use": "车型适配库完善，是北美汽配改装的天然入口",
+    "priority": 2
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 3
+   },
+   {
+    "name": "汽配适配数据工具（ACES/PIES）",
+    "type": "数据",
+    "use": "规范车型适配表，减少错配退货，稳定拿量，按询盘节奏排产",
+    "priority": 4
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 与 eBay 广告投互换号词",
+    "Google 搜索投 oil filter 加车型"
+   ],
+   "organic": [
+    "互换号对照页 SEO",
+    "保养周期与选型内容",
+    "维修铺与批发商铺货"
+   ],
+   "budget": "年 12-30 万元：广告 35%、内容 30%、数据 25%、展会 10%",
+   "kpi": "复购率、错配退货率、单订单件数"
+  },
+  "sources": [
+   "Amazon 汽配保养件类目公开榜",
+   "eBay Motors 品类公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "auto-led-headlight-bulb",
+  "name": "LED汽车大灯泡（H4/H7/9005）",
+  "aliases": [
+   "LED Headlight Bulb",
+   "LED车灯",
+   "大灯灯泡改装"
+  ],
+  "category": "汽配",
+  "summary": "改装高频件，型号适配与亮度是转化关键。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 86,
+    "why": [
+     "美国夜间长途驾驶多，原厂卤素灯暗，车主自行升级 LED 灯泡是最普遍改装"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "SEMA 展"
+    ],
+    "entry": "做 H11 与 9005 主流型号，页面放亮度对比与解码器兼容说明",
+    "risk": "美国 FMVSS 108 对灯具光束有规定，改装合规须提示",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 78,
+    "why": [
+     "德国对车灯改装监管严，仅允许有认证的替换灯泡，消费者须查合规清单"
+    ],
+    "channels": [
+     "Amazon DE",
+     "Automechanika",
+     "本地汽配"
+    ],
+    "entry": "优先做取得当地道路使用许可的型号，页面明确标明可合法上路，先跑通样板客户再放量",
+    "risk": "欧盟 ECE R37 与德国 StVZO 规定，未认证上路将被查",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 76,
+    "why": [
+     "泰国摩托车与皮卡保有量大，夜间行驶多，LED 升级属入门改装，价格带偏低"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地汽配"
+    ],
+    "entry": "做摩托车与皮卡双线型号，配泰语安装视频降低装错率，先跑通样板客户再放量",
+    "risk": "TISI 灯具标准，眩光超标会被投诉与退货",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 70,
+    "why": [
+     "迪拜改装文化成熟，车灯升级是常见改装项目，定制色温需求多，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地改装店",
+     "SEMA 类展会",
+     "Alibaba"
+    ],
+    "entry": "做改装店供货并提供色温与解码方案选型表供门店推荐，先跑通样板客户再放量",
+    "risk": "高温导致散热失效，需明确质保与散热设计，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "eBay Motors",
+    "type": "B2C",
+    "use": "车型适配库完善，是北美汽配改装的天然入口",
+    "priority": 2
+   },
+   {
+    "name": "SEMA Show 拉斯维加斯",
+    "type": "展会",
+    "use": "北美改装件主展，接触改装店与代理，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "汽配适配数据工具（ACES/PIES）",
+    "type": "数据",
+    "use": "规范车型适配表，减少错配退货，稳定拿量，按询盘节奏排产",
+    "priority": 5
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘，稳定拿量",
+    "priority": 6
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Amazon 广告投 H11 LED 型号词",
+    "eBay 推广列表投改装词",
+    "YouTube 测评投流"
+   ],
+   "organic": [
+    "亮度与散热实测视频",
+    "型号与合规模块对照页",
+    "改装店渠道合作"
+   ],
+   "budget": "年 25-60 万元：广告 40%、内容 30%、展会 20%、Google 10%",
+   "kpi": "ACoS、退货率、型号覆盖数"
+  },
+  "sources": [
+   "FMVSS 108 车灯法规公开信息",
+   "ECE R37 灯泡法规公开资料"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "auto-led-fog-light",
+  "name": "汽车雾灯与日行灯总成",
+  "aliases": [
+   "Fog Light Assembly",
+   "日行灯",
+   "雾灯总成"
+  ],
+  "category": "汽配",
+  "summary": "外观改装件，海外改装店与皮卡车主常备。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 78,
+    "why": [
+     "美国皮卡与越野车改装文化浓，雾灯与日行灯是入门外观改装件，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "eBay Motors",
+     "SEMA 展",
+     "改装店"
+    ],
+    "entry": "做吉普与皮卡热门车型专用款，配防水接头与免打孔安装支架，先跑通样板客户再放量",
+    "risk": "FMVSS 108 灯具法规，防水等级虚标引发投诉",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 74,
+    "why": [
+     "迪拜改装店密集，日行灯与雾灯是常见升级项目，追求造型与亮度，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地改装店",
+     "转口商",
+     "Alibaba"
+    ],
+    "entry": "做高亮款加线束套装，绑定本地改装店做品类铺货，先跑通样板客户再放量",
+    "risk": "高温与沙尘环境密封要求，转口认证合规，需提前备齐合规文件",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 72,
+    "why": [
+     "泰国皮卡改装流行，雾灯总成与日行灯常成对购买，靠改装店推荐，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "本地改装店",
+     "Lazada"
+    ],
+    "entry": "按热销皮卡车型做适配款，与本地改装店做联合推广，先跑通样板客户再放量",
+    "risk": "TISI 灯具标准，眩光与接线错误导致故障",
+    "rank": 3
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 68,
+    "why": [
+     "巴西越野与皮卡爱好者活跃，雾灯升级带外观与安全双诉求，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地改装店",
+     "展会"
+    ],
+    "entry": "做防水总成与线束组合包，配葡语安装视频降低装错率，先跑通样板客户再放量",
+    "risk": "INMETRO 车灯认证要求，电压版本差异",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "eBay Motors",
+    "type": "B2C",
+    "use": "车型适配库完善，是北美汽配改装的天然入口",
+    "priority": 1
+   },
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 2
+   },
+   {
+    "name": "SEMA Show 拉斯维加斯",
+    "type": "展会",
+    "use": "北美改装件主展，接触改装店与代理，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "汽配适配数据工具（ACES/PIES）",
+    "type": "数据",
+    "use": "规范车型适配表，减少错配退货，稳定拿量，按询盘节奏排产",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "eBay 广告投车型加雾灯词",
+    "YouTube 改装演示投流"
+   ],
+   "organic": [
+    "车型适配页 SEO",
+    "安装与防水实测视频",
+    "改装店合作与陈列"
+   ],
+   "budget": "年 12-30 万元：广告 40%、内容 30%、展会 20%、数据 10%",
+   "kpi": "适配转化率、退货率、改装店复购"
+  },
+  "sources": [
+   "SEMA 展改装件品类公开资料",
+   "eBay Motors 类目公开信息"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "auto-wiper-blade-set",
+  "name": "汽车雨刮片套装",
+  "aliases": [
+   "Wiper Blade",
+   "雨刷片",
+   "无骨雨刮"
+  ],
+  "category": "汽配",
+  "summary": "典型易损耗材，按车型适配常年复购。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "马来西亚",
+    "heat": 84,
+    "why": [
+     "马来西亚雨季长、降雨突发，雨刮老化快，车主一年多次更换，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地汽配批发"
+    ],
+    "entry": "做多车型通用长度组合装，配马来语安装说明与更换视频，先跑通样板客户再放量",
+    "risk": "接口类型错配退货多，需做接口对照表，需提前备齐合规文件",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 78,
+    "why": [
+     "德国多雨且高速行驶频繁，雨刮清晰度直接影响安全，属常规保养件"
+    ],
+    "channels": [
+     "Amazon DE",
+     "Automechanika",
+     "本地汽配连锁"
+    ],
+    "entry": "做原厂接口专用款，页面放接口图解与适配车型自助查询，先跑通样板客户再放量",
+    "risk": "CE 与车用零部件合规，接口错配是主要退货原因",
+    "rank": 2
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 76,
+    "why": [
+     "美国东北部冬季冰雪与夏季暴雨交替，雨刮更换频率高，车主自行安装"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "汽配连锁"
+    ],
+    "entry": "做冬季专用硅胶款，与常规款组合销售拉高客单价，先跑通样板客户再放量",
+    "risk": "适配接口与长度尺寸，错配导致刮不干净投诉",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 66,
+    "why": [
+     "肯尼亚雨季集中、道路尘土多，雨刮与胶条磨损快，替换需求稳定，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做经济型通用款加多接口转接件，铺本地汽配市场渠道，先跑通样板客户再放量",
+    "risk": "付款与仿牌风险，接口适配说明须清晰，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 2
+   },
+   {
+    "name": "eBay Motors",
+    "type": "B2C",
+    "use": "车型适配库完善，是北美汽配改装的天然入口",
+    "priority": 3
+   },
+   {
+    "name": "汽配适配数据工具（ACES/PIES）",
+    "type": "数据",
+    "use": "规范车型适配表，减少错配退货，稳定拿量，按询盘节奏排产",
+    "priority": 4
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Shopee 广告投雨刮加车型词",
+    "Amazon 广告投 wiper blades"
+   ],
+   "organic": [
+    "接口与长度对照表 SEO",
+    "更换教学视频",
+    "汽配批发与维修店铺货"
+   ],
+   "budget": "年 10-25 万元：广告 35%、内容 30%、渠道 25%、数据 10%",
+   "kpi": "错配退货率、复购周期、单量"
+  },
+  "sources": [
+   "Amazon 汽配类目公开榜",
+   "eBay Motors 雨刮品类公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "auto-car-cover",
+  "name": "车衣与防晒遮阳罩",
+  "aliases": [
+   "Car Cover",
+   "汽车车衣",
+   "防晒车罩"
+  ],
+  "category": "汽配",
+  "summary": "户外停车防护用品，热带与中东市场刚需。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 86,
+    "why": [
+     "沙特高温暴晒与沙尘严重，户外停车无遮挡，车衣用于防晒防尘降低内饰老化"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "Alibaba",
+     "Shopee 类平台"
+    ],
+    "entry": "做防晒隔热与防沙层复合面料，按热销车型分尺寸开发生，先跑通样板客户再放量",
+    "risk": "高温下阻燃与稳定剂析出，SASO 认证与标识要求",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 78,
+    "why": [
+     "泰国雨季与暴晒交替，车衣兼顾防晒与防雨，露天停车居民使用普遍"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地汽配"
+    ],
+    "entry": "做防水加防晒双功能款，配收纳袋与防盗固定带防止掀飞，先跑通样板客户再放量",
+    "risk": "TISI 对部分面料的要求，防水涂层气味投诉多",
+    "rank": 2
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 72,
+    "why": [
+     "美国车库不足的家庭露天停车，车衣用于防雪防紫外线保护漆面，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "独立站"
+    ],
+    "entry": "做四季通用与冬季专用两条线，页面放尺寸与车型自助对照，先跑通样板客户再放量",
+    "risk": "阻燃标准（如 CPSC 501）与 Prop65 标标注",
+    "rank": 3
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 68,
+    "why": [
+     "巴西城市车位紧张、露天停放多，车衣用于防晒与防冰雹，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "做加厚防冰雹款，配葡语说明与完整尺寸对照表，先跑通样板客户再放量",
+    "risk": "INMETRO 与关税，尺寸错配导致退货",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 2
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "Lazada",
+    "type": "B2C",
+    "use": "东南亚中高客单，配合店铺运营做品牌专区，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "投流为主",
+   "paid": [
+    "Shopee 与 Lazada 站内广告冲类目",
+    "TikTok 户外停车场景短视频",
+    "Google 搜索投 car cover 加车型"
+   ],
+   "organic": [
+    "防晒降温实测内容",
+    "车型尺寸对照页",
+    "汽配市场铺货"
+   ],
+   "budget": "年 15-35 万元：站内广告 45%、内容 30%、Google 15%、渠道 10%",
+   "kpi": "ROI、尺寸错配退货率、复购率"
+  },
+  "sources": [
+   "Amazon 车罩类目公开榜",
+   "CPSC 纺织阻燃标准公开信息"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "auto-motorcycle-chain-sprocket",
+  "name": "摩托车链条与链轮套装",
+  "aliases": [
+   "Chain & Sprocket Kit",
+   "链条牙盘套装",
+   "传动套件"
+  ],
+  "category": "摩配",
+  "summary": "摩托传动易损件，东南亚与拉美复购稳定。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 88,
+    "why": [
+     "印尼摩托车保有量高且通勤频密，链条与牙盘属定期更换件，路边修理铺常备"
+    ],
+    "channels": [
+     "Shopee",
+     "本地汽配批发",
+     "Alibaba"
+    ],
+    "entry": "按本田与雅马哈热销车型做套装，配链条油与拆装工具捆绑，先跑通样板客户再放量",
+    "risk": "SNI 对部分摩托配件要求，链节强度不足易断裂",
+    "rank": 1
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 80,
+    "why": [
+     "巴西摩托车用于外卖与通勤，里程数高、传动磨损快，更换周期短，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地分销",
+     "展会"
+    ],
+    "entry": "做外卖骑手高频使用款，强调抗拉强度并配套链条油养护，先跑通样板客户再放量",
+    "risk": "INMETRO 摩托配件认证，售后断裂责任",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 78,
+    "why": [
+     "越南摩托车是家庭主要交通工具，链条与刹线等易损件在维修店按套更换"
+    ],
+    "channels": [
+     "Shopee",
+     "本地批发",
+     "TikTok Shop"
+    ],
+    "entry": "做通用规格与热销车型专用两条线，绑定维修铺做常用备货，先跑通样板客户再放量",
+    "risk": "仿牌与型号错配，链节数标注错误导致退货，需提前备齐合规文件",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 70,
+    "why": [
+     "尼日利亚摩托出租与货运普遍，传动件磨损快，低价可替换件需求大"
+    ],
+    "channels": [
+     "本地市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做经济型整箱套装，走本地摩托配件批发商做渠道铺货，先跑通样板客户再放量",
+    "risk": "质量导致断裂事故，付款与仿冒风险，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜客户，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Shopee 广告投车型加套装词",
+    "Google 搜索投 chain sprocket kit"
+   ],
+   "organic": [
+    "更换周期与保养视频",
+    "车型适配表 SEO",
+    "修理铺与批发商铺货"
+   ],
+   "budget": "年 12-30 万元：广告 35%、内容 30%、渠道 25%、数据 10%",
+   "kpi": "复购周期、错配退货率、套装连带率"
+  },
+  "sources": [
+   "东南亚摩托车保有与维修市场公开报道",
+   "Amazon 摩托传动件类目公开榜"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "motorcycle-helmet-full-face",
+  "name": "摩托车全盔与半盔",
+  "aliases": [
+   "Motorcycle Helmet",
+   "机车头盔",
+   "骑行头盔"
+  ],
+  "category": "摩配",
+  "summary": "法定强制佩戴品，认证是第一道门槛。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 90,
+    "why": [
+     "印尼摩托车为主要通勤工具，法律规定必须戴盔，头盔属磨损后反复更换的日用品"
+    ],
+    "channels": [
+     "Shopee",
+     "Tokopedia 类平台",
+     "TikTok Shop"
+    ],
+    "entry": "先取得 SNI 头盔认证再上架，主推半盔与全盔两条价位线，先跑通样板客户再放量",
+    "risk": "印尼 SNI 头盔强制认证，未认证不得销售且会被查扣",
+    "rank": 1
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 80,
+    "why": [
+     "巴西摩托通勤与外卖普及，法律强制戴盔，头盔在雨季与暴晒下老化快"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地分销",
+     "展会"
+    ],
+    "entry": "做带 INMETRO 认证款，主推通风面罩与防晒内衬的夏季款",
+    "risk": "巴西 INMETRO 认证强制，无证不得流通",
+    "rank": 2
+   },
+   {
+    "region": "欧洲",
+    "country": "意大利",
+    "heat": 76,
+    "why": [
+     "意大利踏板车通勤普遍，夏季高温需通风头盔，ECE 认证是法律要求"
+    ],
+    "channels": [
+     "Amazon IT",
+     "本地摩托连锁",
+     "EICMA 展"
+    ],
+    "entry": "做 ECE 22.06 认证通风款，配多镜片与内衬尺寸选择，先跑通样板客户再放量",
+    "risk": "ECE 22.06 认证为强制，缺证不可在欧盟销售",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 68,
+    "why": [
+     "内罗毕摩托出租通勤规模大，低价头盔需求旺盛但监管执行不均衡，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做入门价位合规款，走内罗毕摩配批发市场做渠道铺量，先跑通样板客户再放量",
+    "risk": "低价产品认证不足，安全检查趋严后可能下架",
+    "rank": 4
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 66,
+    "why": [
+     "美国部分州无强制戴盔，但骑行爱好者愿为安全认证与外观付费，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "改装店"
+    ],
+    "entry": "做 DOT 认证全盔，强调高等级碰撞安全与快拆镜片系统，先跑通样板客户再放量",
+    "risk": "DOT 与 CPSC 认证，虚假认证将被召回",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 2
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 3
+   },
+   {
+    "name": "TikTok Shop",
+    "type": "社交",
+    "use": "短视频演示功能，冲动品转化最直接，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 5
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "展前预约买家，展后一周内报价跟进，稳定拿量",
+    "priority": 6
+   }
+  ],
+  "adStrategy": {
+   "verdict": "投流为主",
+   "paid": [
+    "Shopee 与 TikTok 站内广告冲榜单",
+    "短视频演示佩戴与通风效果"
+   ],
+   "organic": [
+    "碰撞测试与认证说明",
+    "头盔尺码与通风内容",
+    "摩配店与骑行社群铺货"
+   ],
+   "budget": "年 30-70 万元：站内广告 45%、内容 30%、渠道 15%、展会 10%",
+   "kpi": "ROI、认证型号数、尺码退货率"
+  },
+  "sources": [
+   "印尼 SNI 头盔强制认证公开信息",
+   "欧洲 ECE 22.06 认证公开资料"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "motorcycle-raincoat-set",
+  "name": "摩托车雨衣套装",
+  "aliases": [
+   "Motorcycle Raincoat",
+   "骑行雨衣",
+   "分体雨衣"
+  ],
+  "category": "摩配",
+  "summary": "雨季刚需消耗品，东南亚与南亚量大。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 86,
+    "why": [
+     "越南雨季集中、摩托车通勤为主力交通，雨衣是家庭常备且反复更换的消耗品"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "TikTok Shop"
+    ],
+    "entry": "做分体式加反光条款，雨季前集中上新并用短视频种草，先跑通样板客户再放量",
+    "risk": "面料邻苯与阻燃要求，反光条标识合规，需提前备齐合规文件",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 84,
+    "why": [
+     "印尼雨季突降暴雨频繁，外卖骑手需随身携带雨衣，工作磨损后高频更换"
+    ],
+    "channels": [
+     "Shopee",
+     "Tokopedia 类平台",
+     "本地批发"
+    ],
+    "entry": "做骑手加厚款与便携收纳款两档，绑定外卖站点批量供货，先跑通样板客户再放量",
+    "risk": "TISI 对纺织品的部分要求，异味与掉色投诉",
+    "rank": 2
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 78,
+    "why": [
+     "印度季风期降雨集中，两轮车通勤普遍，雨衣在雨季前集中购买，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon IN",
+     "Flipkart",
+     "本地市场"
+    ],
+    "entry": "做骑行专用连体款，强调压胶防水工艺与袖口收紧设计，先跑通样板客户再放量",
+    "risk": "BIS 对部分纺织品要求，缝线防水合格率须控制",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 68,
+    "why": [
+     "西非雨季降雨强，摩托车与三轮车通勤多，雨衣属基础装备，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做经济型套装加批发整箱，主推耐撕裂面料减少退货，先跑通样板客户再放量",
+    "risk": "付款风险与低价竞争，质量投诉影响复购，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "Lazada",
+    "type": "B2C",
+    "use": "东南亚中高客单，配合店铺运营做品牌专区，稳定拿量",
+    "priority": 2
+   },
+   {
+    "name": "TikTok Shop",
+    "type": "社交",
+    "use": "短视频演示功能，冲动品转化最直接，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 4
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "投流为主",
+   "paid": [
+    "Shopee 与 TikTok 雨季前集中投流",
+    "短视频做暴雨实测素材"
+   ],
+   "organic": [
+    "雨中实测与压胶细节",
+    "尺码与款式对照",
+    "本地批发与骑手社群"
+   ],
+   "budget": "年 10-30 万元：投流 50%、内容 35%、渠道 15%",
+   "kpi": "ROI、雨季销量占比、退货率"
+  },
+  "sources": [
+   "Shopee 东南亚站点雨具类目公开信息",
+   "东南亚雨季与两轮车通勤公开报道"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "moto-phone-mount-clamp",
+  "name": "摩托车手机支架",
+  "aliases": [
+   "Motorcycle Phone Mount",
+   "机车手机架",
+   "骑行手机支架"
+  ],
+  "category": "摩配",
+  "summary": "导航刚需小件，东南亚骑手人手一个。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 82,
+    "why": [
+     "泰国摩托与外卖骑手依赖手机导航，支架是工作必备，震动导致夹具反复更换"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "TikTok Shop"
+    ],
+    "entry": "做防震锁扣款，演示颠簸路面不脱落，主图放导航骑行场景，先跑通样板客户再放量",
+    "risk": "夹具失效导致手机掉落，售后赔偿与差评风险",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 80,
+    "why": [
+     "越南摩托车通勤与外卖规模大，雨天使用需防水袋配套，组合销售客单更高"
+    ],
+    "channels": [
+     "Shopee",
+     "本地配件批发",
+     "TikTok Shop"
+    ],
+    "entry": "做支架加防水袋组合，绑定本地配件批发与骑手社群推广，先跑通样板客户再放量",
+    "risk": "仿牌外罩风险，防水袋密封性投诉，需提前备齐合规文件",
+    "rank": 2
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 74,
+    "why": [
+     "巴西外卖骑手以摩托为主，配送软件导航依赖手机，支架属工作工具"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地分销",
+     "TikTok"
+    ],
+    "entry": "做高减震款并支持车把与后视镜两种安装方式适配更多车型，先跑通样板客户再放量",
+    "risk": "减震结构失效投诉，尺寸兼容问题，需提前备齐合规文件",
+    "rank": 3
+   },
+   {
+    "region": "欧洲",
+    "country": "西班牙",
+    "heat": 66,
+    "why": [
+     "西班牙踏板车通勤普遍，导航使用手机，支架需防震并兼容大屏手机"
+    ],
+    "channels": [
+     "Amazon ES",
+     "本地摩托店",
+     "独立站"
+    ],
+    "entry": "做防盗快拆款，页面强调兼容 6.7 英寸大屏与厚壳手机，先跑通样板客户再放量",
+    "risk": "CE 与材料合规，尺寸不兼容导致退货，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "Lazada",
+    "type": "B2C",
+    "use": "东南亚中高客单，配合店铺运营做品牌专区，稳定拿量",
+    "priority": 2
+   },
+   {
+    "name": "TikTok Shop",
+    "type": "社交",
+    "use": "短视频演示功能，冲动品转化最直接，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "投流为主",
+   "paid": [
+    "Shopee 与 TikTok 冲榜投放",
+    "短视频做颠簸实测"
+   ],
+   "organic": [
+    "防震实测与安装视频",
+    "机型兼容对照",
+    "骑手社群与配件店铺货"
+   ],
+   "budget": "年 8-20 万元：投流 50%、内容 35%、渠道 15%",
+   "kpi": "ROI、评论增速、退货率"
+  },
+  "sources": [
+   "Shopee 摩配类目公开信息",
+   "东南亚外卖骑手规模公开报道"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "motorcycle-brake-disc-pad",
+  "name": "摩托车刹车片与刹车盘",
+  "aliases": [
+   "Motorcycle Brake Pad",
+   "摩托刹车片",
+   "碟刹片"
+  ],
+  "category": "摩配",
+  "summary": "安全件易损品，型号适配决定复购。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 84,
+    "why": [
+     "印尼摩托行驶里程高，刹车片属定期更换件，维修铺按车型常备库存"
+    ],
+    "channels": [
+     "Shopee",
+     "本地批发",
+     "Alibaba"
+    ],
+    "entry": "按本田与雅马哈热销车型做套装，随货附安装工具与说明，先跑通样板客户再放量",
+    "risk": "SNI 与安全件质量要求，劣质片制动失效责任重",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 78,
+    "why": [
+     "越南雨季路滑，刹车使用频率高，刹车片更换周期短于温带市场，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "本地汽配批发",
+     "TikTok Shop"
+    ],
+    "entry": "做雨季耐磨配方款，配更换教学视频降低装错与漏装风险，先跑通样板客户再放量",
+    "risk": "型号错配与假冒风险，需做适配表，需提前备齐合规文件",
+    "rank": 2
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 74,
+    "why": [
+     "巴西外卖摩托行驶里程高，刹车件消耗快，维修店按套更换，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地分销",
+     "展会"
+    ],
+    "entry": "做高频使用耐磨款，绑定本地维修连锁做批量供货，先跑通样板客户再放量",
+    "risk": "INMETRO 对制动件要求，批次一致性抽检",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 66,
+    "why": [
+     "尼日利亚摩托出租保有量大，制动件价格敏感但存在持续替换需求，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做经济型套装，走尼日利亚大型摩配批发商做渠道铺量，先跑通样板客户再放量",
+    "risk": "低价伪劣导致事故，付款与仿冒风险，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据",
+    "type": "数据",
+    "use": "反查活跃进口商与采购频次，锁定高潜客户，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Shopee 广告投车型加刹车片",
+    "Google 搜索投替换型号"
+   ],
+   "organic": [
+    "更换教学与磨损判断视频",
+    "车型适配表 SEO",
+    "维修铺与批发铺设货"
+   ],
+   "budget": "年 10-25 万元：广告 35%、内容 30%、渠道 25%、数据 10%",
+   "kpi": "复购周期、错配退货率、客诉率"
+  },
+  "sources": [
+   "东南亚摩托车维修市场公开报道",
+   "Amazon 摩托制动件类目公开榜"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "auto-car-seat-cover",
+  "name": "汽车座套与方向盘套",
+  "aliases": [
+   "Car Seat Cover",
+   "汽车座套",
+   "方向盘套"
+  ],
+  "category": "汽配",
+  "summary": "内饰改装与保护件，热带市场换季需求明显。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 80,
+    "why": [
+     "沙特夏季车内温度极高，原厂座椅易烫与老化，座套兼具隔热与保护作用"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "Alibaba",
+     "转口商"
+    ],
+    "entry": "做透气隔热材质加全包围款，按热销车型分尺码开模，先跑通样板客户再放量",
+    "risk": "SASO 对纺织品要求，阻燃与异味控制，需提前备齐合规文件",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 76,
+    "why": [
+     "泰国湿热多汗，皮座椅易黏腻，藤编与透气座套受欢迎，出租车与网约车使用多"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地汽配"
+    ],
+    "entry": "做通风透气藤编与冰丝款，绑定出租车与网约车车队供货，先跑通样板客户再放量",
+    "risk": "材料阻燃与气味要求，尺码错配退货，需提前备齐合规文件",
+    "rank": 2
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 68,
+    "why": [
+     "美国皮卡与越野车车主常用座套保护原厂座椅并增加个性，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "改装店"
+    ],
+    "entry": "做皮卡与 SUV 专用款，提供定制车型列表便于买家自查，先跑通样板客户再放量",
+    "risk": "CPSC 与 Prop65 标注，阻燃标准 FMVSS 302",
+    "rank": 3
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 66,
+    "why": [
+     "巴西网约车与出租车密集，座套用于保护座椅与统一车队形象，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地分销",
+     "展会"
+    ],
+    "entry": "做车队批量定制款，提供 LOGO 印刷与统一配色服务，先跑通样板客户再放量",
+    "risk": "INMETRO 与纺织阻燃，尺寸适配问题",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 2
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 3
+   },
+   {
+    "name": "汽配适配数据工具（ACES/PIES）",
+    "type": "数据",
+    "use": "规范车型适配表，减少错配退货，稳定拿量，按询盘节奏排产",
+    "priority": 4
+   },
+   {
+    "name": "Lazada",
+    "type": "B2C",
+    "use": "东南亚中高客单，配合店铺运营做品牌专区，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Shopee 与 Lazada 站内广告",
+    "Amazon 广告投 seat cover 加车型"
+   ],
+   "organic": [
+    "安装与贴合度展示",
+    "车型尺码对照表",
+    "车队批量定制推广"
+   ],
+   "budget": "年 12-30 万元：广告 40%、内容 30%、渠道 20%、数据 10%",
+   "kpi": "尺码退货率、复购率、车队订单量"
+  },
+  "sources": [
+   "Amazon 汽车内饰类目公开榜",
+   "FMVSS 302 内饰阻燃标准公开信息"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "auto-car-vacuum-cleaner",
+  "name": "车载吸尘器",
+  "aliases": [
+   "Car Vacuum Cleaner",
+   "车用吸尘器",
+   "便携吸尘器"
+  ],
+  "category": "汽配",
+  "summary": "车内清洁小家电，有车族高频使用。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 78,
+    "why": [
+     "美国车内清洁习惯成熟，宠物毛与沙土常见，车载吸尘器是常用随车工具"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "汽配连锁"
+    ],
+    "entry": "做无线大吸力款，主图放座椅缝隙与脚垫清理场景，先跑通样板客户再放量",
+    "risk": "锂电池 UN38.3 与 UL，吸力虚标易差评",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 74,
+    "why": [
+     "中东沙尘多，车内积沙频繁，车载吸尘器在车主与洗车店均有需求，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "Alibaba",
+     "Shopee 类平台"
+    ],
+    "entry": "做耐高温电池与防沙滤网款，配本地洗车店做渠道供货，先跑通样板客户再放量",
+    "risk": "高温电池安全，SASO 与电气认证，需提前备齐合规文件",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 70,
+    "why": [
+     "泰国道路尘土与雨季泥泞，车主需自行清洁脚垫与座椅缝隙，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "TikTok Shop"
+    ],
+    "entry": "做双功能吸吹一体款，配泰语演示视频降低使用门槛，先跑通样板客户再放量",
+    "risk": "TISI 电气安全标准，锂电池运输存在空运限制与申报要求",
+    "rank": 3
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 66,
+    "why": [
+     "德国车主自洗车比例高，自助洗车点配套使用小吸尘器清洁内饰，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地汽配连锁",
+     "独立站"
+    ],
+    "entry": "做低噪音高吸力款，配可更换 HEPA 滤芯降低长期使用成本，先跑通样板客户再放量",
+    "risk": "CE 与 EMC 指令，电池法规与回收登记",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 2
+   },
+   {
+    "name": "Lazada",
+    "type": "B2C",
+    "use": "东南亚中高客单，配合店铺运营做品牌专区，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "TikTok Shop",
+    "type": "社交",
+    "use": "短视频演示功能，冲动品转化最直接，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "投流为主",
+   "paid": [
+    "Amazon 广告投 car vacuum",
+    "Shopee 与 TikTok 站内冲榜"
+   ],
+   "organic": [
+    "缝隙清洁演示短视频",
+    "吸力与续航对比页",
+    "汽配渠道铺货"
+   ],
+   "budget": "年 15-40 万元：广告 45%、内容 35%、渠道 20%",
+   "kpi": "ACoS、退货率、评论增速"
+  },
+  "sources": [
+   "Amazon 车载清洁类目公开榜",
+   "锂电池 UN38.3 运输要求公开信息"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "auto-tire-inflator-portable",
+  "name": "车载充气泵",
+  "aliases": [
+   "Tire Inflator",
+   "车用打气泵",
+   "便携充气泵"
+  ],
+  "category": "汽配",
+  "summary": "应急刚需工具，跨市场通用性强。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 80,
+    "why": [
+     "沙尘与高温导致胎压波动，轮胎慢漏常见，车主随车备充气泵应急，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "Alibaba",
+     "Shopee 类平台"
+    ],
+    "entry": "做数显预设胎压款，配耐高温加长气线与多气门转接头，先跑通样板客户再放量",
+    "risk": "SASO 与电气认证，气压表精度错误引发事故",
+    "rank": 1
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 78,
+    "why": [
+     "美国地广人稀、长距离驾驶多，胎压异常时自助补气比等救援更实际"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "汽配连锁"
+    ],
+    "entry": "做无线便携加数显款，页面演示设定胎压后自动停机，先跑通样板客户再放量",
+    "risk": "UL 与电池 UN38.3，气路密封失效投诉",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 74,
+    "why": [
+     "印尼摩托与汽车保有高，路边补气点不普及，随车便携泵需求上升，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "Tokopedia 类平台",
+     "本地汽配"
+    ],
+    "entry": "做摩托与汽车通用款，配多种气门接头实现一机多用，先跑通样板客户再放量",
+    "risk": "SNI 电气安全，接头适配与气压精度投诉",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 68,
+    "why": [
+     "肯尼亚路况差、补气点分散，随车充气泵是实用应急工具，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地汽配",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做带手电与照明一体款，走本地汽配批发商做渠道铺货，先跑通样板客户再放量",
+    "risk": "电压不稳导致电机损坏，售后备件，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Amazon 广告投 tire inflator",
+    "Shopee 站内广告冲榜"
+   ],
+   "organic": [
+    "补气实测与精度对比",
+    "接头与车型适配说明",
+    "汽配渠道铺货"
+   ],
+   "budget": "年 12-32 万元：广告 45%、内容 30%、渠道 15%、Google 10%",
+   "kpi": "ACoS、退货率、复购率"
+  },
+  "sources": [
+   "Amazon 车载工具类目公开榜",
+   "SASO 认证公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "auto-jump-starter-powerbank",
+  "name": "汽车应急启动电源",
+  "aliases": [
+   "Jump Starter",
+   "汽车应急启动宝",
+   "搭电宝"
+  ],
+  "category": "汽配",
+  "summary": "冬季与老旧车应急刚需，跨境核心单品。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 84,
+    "why": [
+     "美国冬季低温导致电瓶亏电，老旧车辆多，车主常备应急启动电源自救"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "汽配连锁"
+    ],
+    "entry": "做高峰值电流加夹子安全保护款，页面做低温启动演示，先跑通样板客户再放量",
+    "risk": "UL 与锂电池 UN38.3，虚标峰值电流责任风险",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 78,
+    "why": [
+     "德国冬季寒冷、车龄偏高，电瓶亏电情况多，搭电宝成为随车必备，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon DE",
+     "ADAC 类评测影响",
+     "本地汽配连锁"
+    ],
+    "entry": "做 CE 认证加低温适配款，随货配多语言说明书与收纳包，先跑通样板客户再放量",
+    "risk": "CE 与电池法规，缺 UN38.3 无法空运",
+    "rank": 2
+   },
+   {
+    "region": "独联体",
+    "country": "俄罗斯",
+    "heat": 78,
+    "why": [
+     "俄罗斯冬季极寒，电瓶亏电与无法启动常见，搭电宝属高需求应急品"
+    ],
+    "channels": [
+     "Alibaba",
+     "本地电商平台",
+     "汽配批发"
+    ],
+    "entry": "做 -30℃ 低温适用款，强化俄语说明与本地质保承诺，先跑通样板客户再放量",
+    "risk": "EAC 认证与低温性能虚标，售后风险高，需提前备齐合规文件",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 66,
+    "why": [
+     "泰国防盗器与行车记录仪长期取电导致亏电，应急启动需求增长，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地汽配"
+    ],
+    "entry": "做带充气泵一体款，提升客单价并覆盖更多应急场景，先跑通样板客户再放量",
+    "risk": "TISI 电气安全，电池循环寿命与质保，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "投流为主",
+   "paid": [
+    "Amazon 广告投 jump starter",
+    "Google 搜索投低温启动词",
+    "YouTube 实测视频投流"
+   ],
+   "organic": [
+    "低温启动实测内容",
+    "峰值电流与容量说明页",
+    "汽配渠道铺货"
+   ],
+   "budget": "年 30-70 万元：广告 45%、内容 35%、Google 20%",
+   "kpi": "ACoS、退货率、差评比"
+  },
+  "sources": [
+   "Amazon 应急电源类目公开榜",
+   "UL 与 UN38.3 认证公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "auto-oil-catch-can-gauge",
+  "name": "汽车仪表与OBD检测仪",
+  "aliases": [
+   "OBD2 Scanner",
+   "汽车诊断仪",
+   "故障读取器"
+  ],
+  "category": "汽配",
+  "summary": "故障自检工具，车主与维修店双端需求。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 80,
+    "why": [
+     "美国车主习惯先自检再送修，OBD 读码器避免被维修店过度报价"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "汽配连锁"
+    ],
+    "entry": "做全系统读码加手机 App 款，页面演示故障码解析流程，先跑通样板客户再放量",
+    "risk": "FCC 无线认证与 CPSC，虚假支持车型承诺风险",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 74,
+    "why": [
+     "德国车多电子系统，车主与技术爱好者用诊断仪查故障与清码，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon DE",
+     "本地汽配连锁",
+     "独立站"
+    ],
+    "entry": "做支持欧系车型专检款，用兼容品牌清单减少兼容性纠纷，先跑通样板客户再放量",
+    "risk": "CE 与 EMC 指令，兼容性夸大导致差评",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 68,
+    "why": [
+     "印尼二手车与维修行业活跃，维修店需要低成本读码工具，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "Tokopedia 类平台",
+     "本地汽配"
+    ],
+    "entry": "做低价位蓝牙款并配印尼语 App 界面降低使用门槛，先跑通样板客户再放量",
+    "risk": "TISI 无线认证，App 合规与隐私声明",
+    "rank": 3
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 64,
+    "why": [
+     "巴西车龄高、维修成本高，车主倾向自检后再维修，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地汽配",
+     "展会"
+    ],
+    "entry": "做葡语界面并覆盖南美常见车型，减少协议不兼容问题，先跑通样板客户再放量",
+    "risk": "INMETRO 与无线认证，车型协议差异",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "eBay Motors",
+    "type": "B2C",
+    "use": "车型适配库完善，是北美汽配改装的天然入口",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Amazon 广告投 obd2 scanner",
+    "Google 搜索投车型兼容词"
+   ],
+   "organic": [
+    "故障码解析演示视频",
+    "支持车型清单页",
+    "汽配与维修渠道推广"
+   ],
+   "budget": "年 15-40 万元：广告 45%、内容 35%、Google 20%",
+   "kpi": "ACoS、兼容类差评率、复购率"
+  },
+  "sources": [
+   "Amazon 诊断工具类目公开榜",
+   "FCC 无线设备认证公开信息"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "motorcycle-led-headlight-assembly",
+  "name": "摩托车LED大灯总成",
+  "aliases": [
+   "Motorcycle LED Headlight",
+   "摩托大灯改装",
+   "LED前照灯"
+  ],
+  "category": "摩配",
+  "summary": "夜行安全与改装升级，改装店是主渠道。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 78,
+    "why": [
+     "越南摩托车夜间通勤比例高，原厂卤素灯偏暗，LED 总成升级属常见改装"
+    ],
+    "channels": [
+     "Shopee",
+     "本地改装店",
+     "TikTok Shop"
+    ],
+    "entry": "按热销踏板车与弯梁车做专用总成，配插头对接方案与线束，先跑通样板客户再放量",
+    "risk": "TISI 灯具标准与眩光限制，无证上路风险",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 78,
+    "why": [
+     "印尼改装文化强，LED 大灯总成是热门升级件，改装店渠道决定销量"
+    ],
+    "channels": [
+     "Shopee",
+     "本地改装店",
+     "Tokopedia 类平台"
+    ],
+    "entry": "做带日行灯与转向灯一体总成，配改装店陈列与演示样机，先跑通样板客户再放量",
+    "risk": "SNI 灯具有关要求，高温散热与防水密封",
+    "rank": 2
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 70,
+    "why": [
+     "巴西摩托通勤夜间行驶多，LED 总成提升照明安全性，改装店普遍提供安装"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地改装店",
+     "展会"
+    ],
+    "entry": "做防水加散热片款，配葡语安装视频与接线示意图，先跑通样板客户再放量",
+    "risk": "INMETRO 灯具有关认证，接线错误投诉",
+    "rank": 3
+   },
+   {
+    "region": "欧洲",
+    "country": "意大利",
+    "heat": 64,
+    "why": [
+     "意大利踏板车文化浓，改装件需具备 E 标才能合法上路，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Amazon IT",
+     "本地摩托连锁",
+     "EICMA 展"
+    ],
+    "entry": "先取得 E 标认证，主推复古造型与合规性兼顾的改装款，先跑通样板客户再放量",
+    "risk": "ECE 认证与 E 标强制，缺证不得上路",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 1
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 2
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 3
+   },
+   {
+    "name": "TikTok Shop",
+    "type": "社交",
+    "use": "短视频演示功能，冲动品转化最直接，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Shopee 广告投车型加大灯",
+    "TikTok 夜间照明对比视频"
+   ],
+   "organic": [
+    "夜间照度对比实测",
+    "车型与插头对照表",
+    "改装店渠道铺货"
+   ],
+   "budget": "年 10-28 万元：广告 40%、内容 35%、渠道 25%",
+   "kpi": "ROI、错配退货率、改装店复购"
+  },
+  "sources": [
+   "Shopee 摩配类目公开信息",
+   "ECE 车灯法规公开资料"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "motorcycle-crash-bar",
+  "name": "摩托车保险杠与中置货架",
+  "aliases": [
+   "Crash Bar",
+   "机车保险杠",
+   "护杠"
+  ],
+  "category": "摩配",
+  "summary": "踏板车改装必备，靠车型专款走量。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 74,
+    "why": [
+     "泰国踏板车保有高，配送与载物需求大，护杠与货架是常见加装件，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "本地改装店",
+     "Lazada"
+    ],
+    "entry": "按热销踏板车型号做专款，配完整安装螺栓包降低装错率，先跑通样板客户再放量",
+    "risk": "安装孔位错配退货，TISI 对附件的要求",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 72,
+    "why": [
+     "越南摩托用于载货与载人，货架与护杠提高实用性，改装店按车型备货"
+    ],
+    "channels": [
+     "Shopee",
+     "本地改装店",
+     "TikTok Shop"
+    ],
+    "entry": "做加厚管壁与防锈喷涂款，配越南语安装图与承重说明，先跑通样板客户再放量",
+    "risk": "焊缝与承重虚标，仿牌外观风险，需提前备齐合规文件",
+    "rank": 2
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 66,
+    "why": [
+     "巴西外卖摩托需额外挂载保温箱，货架与护杠是工作改装刚需，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地改装店",
+     "展会"
+    ],
+    "entry": "做配送专用货架加护杠组合，绑定外卖骑手与配送站点渠道，先跑通样板客户再放量",
+    "risk": "INMETRO 与承重安全，焊接强度责任",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 62,
+    "why": [
+     "西非摩托出租用于载客载货，护杠提升耐用性，价格敏感，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做经济型加厚款，整箱批发给本地摩托配件商做渠道，先跑通样板客户再放量",
+    "risk": "付款与仿冒风险，焊点质量导致客诉，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 1
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 2
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "TikTok Shop",
+    "type": "社交",
+    "use": "短视频演示功能，冲动品转化最直接，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Shopee 广告投车型加护杠",
+    "TikTok 安装演示短视频"
+   ],
+   "organic": [
+    "安装与承重实测视频",
+    "车型孔位对照表",
+    "改装店渠道铺货"
+   ],
+   "budget": "年 8-20 万元：广告 35%、内容 35%、渠道 30%",
+   "kpi": "错配退货率、改装店月单量、复购率"
+  },
+  "sources": [
+   "东南亚摩托改装市场公开报道",
+   "Amazon 摩托配件类目公开榜"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "auto-cabin-air-filter",
+  "name": "汽车空调滤芯",
+  "aliases": [
+   "Cabin Air Filter",
+   "空调格",
+   "座舱滤芯"
+  ],
+  "category": "汽配",
+  "summary": "保养周期更换件，热带扬尘地区需求突出。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 80,
+    "why": [
+     "中东沙尘天气多、空调长开，空调滤芯积尘快，更换周期短于其他地区"
+    ],
+    "channels": [
+     "迪拜汽配市场",
+     "Alibaba",
+     "转口商"
+    ],
+    "entry": "做高容尘量与活性炭双效款，走本地汽配批发与转口渠道，先跑通样板客户再放量",
+    "risk": "SASO 认证与批次检验，滤纸性能须可验证",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 74,
+    "why": [
+     "泰国湿热与灰尘并存，车内空调异味问题突出，活性炭滤芯受欢迎，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "Lazada",
+     "本地汽配"
+    ],
+    "entry": "做活性炭除味款，随货配车型互换号对照表减少错配，先跑通样板客户再放量",
+    "risk": "型号错配退货，TISI 对汽车零部件要求",
+    "rank": 2
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 72,
+    "why": [
+     "美国车主常自行更换空调滤芯节省工费，通用互换号让 DIY 更简单"
+    ],
+    "channels": [
+     "Amazon",
+     "eBay Motors",
+     "汽配连锁"
+    ],
+    "entry": "做多车型通用互换号套装，页面放更换教学与工具说明，先跑通样板客户再放量",
+    "risk": "互换号错误导致退货，FMVSS 与 Prop65 要求",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "埃及",
+    "heat": 66,
+    "why": [
+     "埃及沙尘与高温使空调使用频繁，滤芯更换需求稳定，价格敏感，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "本地汽配市场",
+     "Alibaba",
+     "Facebook"
+    ],
+    "entry": "做经济型整箱多型号混装，走本地汽配批发市场铺量，先跑通样板客户再放量",
+    "risk": "外汇付款周期长，仿冒与质量投诉，需提前备齐合规文件",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon",
+    "type": "B2C",
+    "use": "美国站主推，靠 A+ 与评论数建立类目权重",
+    "priority": 1
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 2
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "汽配适配数据工具（ACES/PIES）",
+    "type": "数据",
+    "use": "规范车型适配表，减少错配退货，稳定拿量，按询盘节奏排产",
+    "priority": 4
+   },
+   {
+    "name": "eBay Motors",
+    "type": "B2C",
+    "use": "车型适配库完善，是北美汽配改装的天然入口",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "Amazon 广告投互换号词",
+    "Shopee 广告投车型加空调格"
+   ],
+   "organic": [
+    "更换教学与对比视频",
+    "互换号对照页 SEO",
+    "汽配批发与维修店铺货"
+   ],
+   "budget": "年 10-25 万元：广告 35%、内容 30%、数据 25%、渠道 10%",
+   "kpi": "复购周期、错配退货率、客诉率"
+  },
+  "sources": [
+   "Amazon 汽车保养件类目公开榜",
+   "eBay Motors 滤芯品类公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "auto-e-bike-conversion-kit",
+  "name": "电动车与摩托改装套件",
+  "aliases": [
+   "E-bike Conversion Kit",
+   "电动车改装配件",
+   "轮毂电机套件"
+  ],
+  "category": "汽配",
+  "summary": "电动化改装套件，东南亚两轮电动化红利。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 74,
+    "why": [
+     "越南禁摩政策推进推动两轮电动化，改装与替换件需求上升，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "本地电动车店",
+     "Alibaba"
+    ],
+    "entry": "做轮毂电机加控制器套装，配套本地门店安装培训，先跑通样板客户再放量",
+    "risk": "电池安全与电气认证，改装上路合法性须说明",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 72,
+    "why": [
+     "印尼电动摩托车补贴政策推动渗透，改装与维修配件需求同步增长，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Shopee",
+     "本地电动车店",
+     "Tokopedia 类平台"
+    ],
+    "entry": "做通用控制器与充电器配件，绑定本地电动车维修店供货，先跑通样板客户再放量",
+    "risk": "SNI 电气与电池安全，非法改装上路风险",
+    "rank": 2
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 66,
+    "why": [
+     "欧洲电动自行车普及，改装套件用于旧车升级，需符合限速与功率规定"
+    ],
+    "channels": [
+     "Amazon DE",
+     "独立站",
+     "骑行展"
+    ],
+    "entry": "做符合欧盟限速与功率规定款，页面明确说明法规边界，先跑通样板客户再放量",
+    "risk": "CE 与 EN15194 标准，超功率改装违法",
+    "rank": 3
+   },
+   {
+    "region": "南美",
+    "country": "巴西",
+    "heat": 60,
+    "why": [
+     "巴西摩托车使用成本高，电动自行车与改装套件在通勤人群中增长，替换需求长期稳定存在"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "本地店",
+     "展会"
+    ],
+    "entry": "做 250W 到 500W 分级套件，配葡语安装说明与接线图",
+    "risk": "INMETRO 认证与电池运输，改装合法性",
+    "rank": 4
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "发布产品接询盘，重点报名 RFQ 与关键词竞价抢单",
+    "priority": 1
+   },
+   {
+    "name": "Shopee",
+    "type": "B2C",
+    "use": "东南亚本地仓铺货，低价高频品冲类目榜，稳定拿量",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "社交",
+    "use": "安装与耐用实测长视频，汽配信任第一来源，稳定拿量",
+    "priority": 3
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C",
+    "use": "新兴市场小额试单，验证型号后再备货，稳定拿量",
+    "priority": 4
+   },
+   {
+    "name": "Google Ads",
+    "type": "数据",
+    "use": "投型号与替换词，落地页只放参数与询盘，稳定拿量",
+    "priority": 5
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行",
+   "paid": [
+    "Shopee 站内广告冲榜",
+    "YouTube 改装演示投流"
+   ],
+   "organic": [
+    "改装教程与兼容说明",
+    "法规与功率分级内容",
+    "本电动车店渠道合作"
+   ],
+   "budget": "年 12-30 万元：广告 40%、内容 35%、渠道 25%",
+   "kpi": "ROI、配套件连带率、退货率"
+  },
+  "sources": [
+   "东南亚两轮电动化政策公开报道",
+   "欧盟 EN15194 标准公开信息"
+  ],
+  "confidence": "medium"
+ }
+]

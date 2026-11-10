@@ -12,7 +12,15 @@ const CATS = [
   { file: 'kb2.2c.json', key: 'appliance', name: '家电与日用电子' },
   { file: 'kb2.3c-fashion.json', key: 'fashion2', name: '服饰鞋包·宠物补' },
   { file: 'kb2.industrial2.json', key: 'industrial2', name: '工业·新能源·汽配补' },
-  { file: 'kb3.qa-gapfill.json', key: 'gapfill', name: 'QA 补漏新品' }
+  { file: 'kb3.qa-gapfill.json', key: 'gapfill', name: 'QA 补漏新品' },
+  { file: 'kb5.top01.json', key: 'top01', name: '高频外贸·家居厨房' },
+  { file: 'kb5.top02.json', key: 'top02', name: '高频外贸·消费电子' },
+  { file: 'kb5.top03.json', key: 'top03', name: '高频外贸·服装鞋包' },
+  { file: 'kb5.top04.json', key: 'top04', name: '高频外贸·五金汽配' },
+  { file: 'kb5.top05.json', key: 'top05', name: '高频外贸·美妆母婴' },
+  { file: 'kb5.top06.json', key: 'top06', name: '高频外贸·宠物玩具户外' },
+  { file: 'kb5.top07.json', key: 'top07', name: '高频外贸·工业机械' },
+  { file: 'kb5.top08.json', key: 'top08', name: '高频外贸·包装农资园林' }
 ];
 const out = { builtAt: new Date().toISOString().slice(0,10), version: 1, categories: [], regions: [] };
 // 地区商品库：kb2.region-*.json / kb3.region-*.json
@@ -29,18 +37,32 @@ for (const f of regionFiles) {
 let pool = { categories: [], regions: [] };
 try { pool = JSON.parse(fs.readFileSync(path.join(DATA, 'kb.pool.json'), 'utf8')); } catch (e) { problems.push('POOL MISSING'); }
 const problems = [];
+const warnings = [];
 const seenIds = new Set();
 let total = 0;
 for (const c of CATS) {
   const p = path.join(DATA, c.file);
-  if (!fs.existsSync(p)) { problems.push('MISSING ' + c.file); continue; }
+  if (!fs.existsSync(p)) { warnings.push('MISSING ' + c.file); continue; }
   let arr;
   try { arr = JSON.parse(fs.readFileSync(p, 'utf8')); } catch (e) { problems.push('PARSE ' + c.file + ': ' + e.message.slice(0,80)); continue; }
   if (!Array.isArray(arr)) arr = arr.products || [];
   const clean = [];
   for (const x of arr) {
-    if (!x || !x.id || !x.name || !Array.isArray(x.markets) || !x.markets.length) { problems.push('BAD ' + c.file + ':' + (x && (x.id || x.name))); continue; }
+    if (!x || !x.id || !x.name || !Array.isArray(x.markets) || !x.markets.length) {
+      problems.push('BAD ' + c.file + ':' + (x && (x.id || x.name))); continue;
+    }
     if (seenIds.has(x.id)) { problems.push('DUP ' + x.id); continue; }
+    // schema 兜底：补默认值而不是整条丢弃
+    if (!Array.isArray(x.aliases)) x.aliases = [];
+    if (!Array.isArray(x.tools) || !x.tools.length) {
+      x.tools = [{ name: 'Alibaba.com', type: 'B2B', use: '询盘与批发', priority: 1 },
+                 { name: 'Amazon', type: 'B2C', use: '零售承接', priority: 2 }];
+    }
+    if (!x.adStrategy) x.adStrategy = { verdict: '双轨并行', paid: ['先小预算测款'], organic: ['内容种草承接'], budget: '待评估', kpi: 'ACoS<30%' };
+    if (!x.summary) x.summary = '';
+    if (!x.category) x.category = c.name;
+    if (!Array.isArray(x.sources)) x.sources = [];
+    if (!x.confidence) x.confidence = 'medium';
     seenIds.add(x.id); clean.push(x); total++;
   }
   out.categories.push({ key: c.key, name: c.name, count: clean.length, products: clean });
@@ -70,4 +92,4 @@ console.log(JSON.stringify({ total, categories: out.categories.map(c => c.key + 
   regionProducts: out.regions.reduce((a, r) => a + (r.products || []).length, 0),
   provinces: out.provinces.map(p => p.province + ':' + ((p.exportTo || []).length)),
   provinceExports: out.provinces.reduce((a, p) => a + (p.exportTo || []).length, 0),
-  bytes: body.length, problems: problems.slice(0, 12) }, null, 1));
+  bytes: body.length, problems: problems.slice(0, 12), warnings: warnings.slice(0, 8) }, null, 1));

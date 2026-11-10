@@ -1,0 +1,5254 @@
+[
+  {
+    "id": "pet-slow-feeder-bowl",
+    "name": "宠物慢食碗",
+    "aliases": [
+      "Slow Feeder Dog Bowl",
+      "慢食盆、防暴食碗",
+      "防噎碗",
+      "Puzzle Feeder Bowl"
+    ],
+    "category": "宠物用品",
+    "summary": "用凸起纹路减缓进食速度的狗狗慢食碗，低客单高频复购",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国家庭养狗比例高且独处时间长，进食过快引发呕吐与胃胀问题常见，慢食碗属养宠入门必备小件"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "以中大型犬款切入，主图展示食物卡槽深度与清洗便利，做三色系拉高评价数",
+        "risk": "食品接触材料需 FDA 合规，防噎功效不能做医疗宣称"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国家庭宠物狗数量多且主人注重动物福利与行为训练，慢食被视为改善消化与减少狼吞习惯的工具"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "Fressnapf 线下连锁",
+          "OTTO"
+        ],
+        "entry": "主打可洗碗机清洗与防滑底，配德文使用说明，进入宠物连锁做实物陈列",
+        "risk": "食品接触材料需符合欧盟 EU 10/2011，缺声明会被下架"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本公寓养小中型犬为主，室内活动空间小，主人更担心误咽与肥胖问题，慢食玩具接受度高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做小体型专用尺寸并标注适用体重，主图给出直径与深度对比图，先小批量测款",
+        "risk": "说明书需日文，材质标识不全会引发投诉且易被平台抽查"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "新加坡组屋养宠密度高且多为上班族，白天独处狗只进食快，主人愿意买低成本行为管理工具"
+        ],
+        "channels": [
+          "Shopee SG",
+          "Lazada SG",
+          "本地宠物店",
+          "Instagram 达人"
+        ],
+        "entry": "以低价小尺寸试水，配训犬师合作内容做教育型种草，先小批量测款",
+        "risk": "市场体量小，低价同款多需靠套装组合提高客单"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做主力，多尺寸多色混装提高评价池",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投进食过快与犬种词，避开泛词控成本",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍狗狗第一次用慢食碗的对比视频挂车",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接欧美宠物品牌贴牌与连锁采购询盘",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "监控竞品价格带与差评词反向改设计",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做宠物行为训练内容站，沉淀复购客户",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "自动广告跑词两周后只留高转化犬型词",
+        "竞品 ASIN 定投主攻清洗便利与防滑对比"
+      ],
+      "organic": [
+        "主图标注容量与卡槽深度",
+        "问答区解释材质与清洗方式",
+        "套装组合提升客单价"
+      ],
+      "budget": "$400-900/月",
+      "kpi": "ACoS<30%，评分≥4.5，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Slow Feeder Bowls 类目页",
+      "cifnews.com 宠物用品出海分析",
+      "baijing.cn 宠物赛道选品攻略"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "pet-cat-litter-mat",
+    "name": "猫砂盆防水垫",
+    "aliases": [
+      "Cat Litter Mat",
+      "猫砂垫、防砂垫",
+      "猫砂盆垫子",
+      "Litter Trapping Mat"
+    ],
+    "category": "宠物用品",
+    "summary": "双层蜂窝结构拦截猫砂颗粒的防水垫，养猫家庭刚需小件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国家庭养猫比例高且多为室内猫，猫砂带出导致地板脏污是长期痛点，清洁类宠物配件复购稳定"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "Petco 线上"
+        ],
+        "entry": "做主款大尺寸进门垫，强调蜂窝拦截与可水洗，配三种常见猫砂盆尺寸说明",
+        "risk": "材质气味与防滑底是主要投诉点，需做气味测试"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "英国家庭地毯覆盖率高，猫砂带出后难清理，能拦截颗粒的可洗垫比一次性垫更受欢迎"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Pets at Home",
+          "Zooplus",
+          "eBay UK"
+        ],
+        "entry": "主打地毯家庭适配与机洗不变形，做吸水性实测内容，先小批量测款",
+        "risk": "纺织品与背胶材料需符合 REACH 限制物质要求"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本公寓地板多为木地板，砂粒磨损地板是真实困扰，用户对尺寸精度与美观度要求高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做窄幅适配款并标注与常见猫砂盆的匹配尺寸，配色走日式浅色系，先小批量测款",
+        "risk": "尺寸描述不准会导致退货，需标注实际净尺寸"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "泰国养猫比例上升且居住以公寓为主，猫砂清洁频次高，低价耐洗垫在社交电商放量快"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH",
+          "本地宠物店"
+        ],
+        "entry": "以低价双面款引流，配套装猫砂铲提升客单价，先小批量测款并配合内容种草",
+        "risk": "低价竞争激烈，物流成本占比高需整柜摊薄且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国与英国站双线，主图给尺寸对照表",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投猫砂与猫砂盆相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍铲屎后地板干净对比视频引流并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接海外宠物连锁的自有品牌代工",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "跟踪竞品尺寸规格与差评词优化版型",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做养猫清洁指南内容沉淀复购并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "首月自动广告跑词，锁定猫砂盆与清洁相关长尾",
+        "竞品定投主打可机洗与大尺寸对比"
+      ],
+      "organic": [
+        "主图放猫爪带砂场景实拍",
+        "问答区说明材质与清洗周期",
+        "做尺寸三档覆盖主流猫砂盆"
+      ],
+      "budget": "$400-800/月",
+      "kpi": "ACoS<28%，评分≥4.4，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Cat Litter Mats 类目页",
+      "cifnews.com 宠物清洁类目出海观察",
+      "baijing.cn 宠物用品品类攻略"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "pet-dog-harness-vest",
+    "name": "宠物胸背带",
+    "aliases": [
+      "Dog Harness / No-Pull Harness",
+      "胸背带、牵引背带",
+      "宠物牵引绳背心",
+      "狗背带"
+    ],
+    "category": "宠物用品",
+    "summary": "防拉拽的犬用胸背带，尺寸分档多、复购与换新频繁",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美国养狗家庭散步频次高且犬种体型差异大，防爆冲胸背带被视为遛狗安全刚需，尺寸细分带来复购"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "PetSmart 线上"
+        ],
+        "entry": "做五档尺码覆盖小型犬到大型犬，主图展示前扣防拽与调节范围，先小批量测款",
+        "risk": "拉扯强度不足会引发安全事故，需做拉力测试"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "德国有犬只登记与遛狗规范，牵引设备属日常必备，主人对反光夜间安全与舒适度要求高"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "Fressnapf",
+          "OTTO"
+        ],
+        "entry": "加反光条与透气内衬，配德文尺码表与测量示意图，切入夜间遛狗场景",
+        "risk": "纺织染料与金属件需符合 REACH，缺检测报告易被下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "英国公园遛狗文化普遍且冬季天黑早，反光与防雨需求叠加，尺寸不合是国内卖家主要退货原因"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Pets at Home",
+          "eBay UK",
+          "Instagram 达人"
+        ],
+        "entry": "主推反光加防雨款，附量体视频降低退货，做雨夜遛狗场景内容，先小批量测款",
+        "risk": "相关标签与材质声明需齐全，避免合规信息缺失"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "日本小型犬占比高且公寓电梯出行频繁，轻量胸背带便于单手穿戴，街头穿搭属性也在增强"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做超轻量小型犬款并强调单手穿脱，配色跟日系穿搭风格走，先小批量测款",
+        "risk": "日文尺码说明不清晰是主要退货原因且易被平台抽查"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "阿联酋外籍家庭养犬多但夏季高温，需透气散热型胸背带，别墅区遛狗与宠物友好社区需求集中"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon",
+          "本地宠物店",
+          "Instagram 达人"
+        ],
+        "entry": "主推透气网布散热款，配合宠物友好商场与社区活动做曝光，先小批量测款",
+        "risk": "高温下材质易老化，需做耐候性测试且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站主推，五档尺码做成变体矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products/Brands）",
+        "type": "B2C",
+        "use": "投防爆冲与犬种词，控制大词成本",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍大型犬爆冲被控制住的对比视频",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接欧洲宠物连锁与品牌的贴牌订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "现场展示面料与五金件强度，谈年度供货",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "分析差评里的尺寸问题迭代尺码表",
+        "priority": 6
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做犬种适配指南，承接社媒流量与复购",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "先用视频广告测防拽演示的点击率",
+        "竞品定投主攻反光与透气差异",
+        "品牌词防守防跟卖"
+      ],
+      "organic": [
+        "主图放尺码测量示意与犬种适配",
+        "问答区解释调节范围与穿戴步骤",
+        "强调拉力与五金件检测"
+      ],
+      "budget": "$800-1500/月",
+      "kpi": "ACoS<32%，退货率<8%，评分≥4.5"
+    },
+    "sources": [
+      "Amazon.com Dog Harnesses 类目页",
+      "cifnews.com 宠物牵引类目分析",
+      "Zooplus 与 Fressnapf 类目页公开信息"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "pet-cat-scratcher-board",
+    "name": "瓦楞纸猫抓板",
+    "aliases": [
+      "Cat Scratcher / Corrugated Cat Scratcher",
+      "猫抓板、磨爪板",
+      "猫抓盆",
+      "猫抓垫"
+    ],
+    "category": "宠物用品",
+    "summary": "高密度瓦楞纸猫抓板，消耗属性强、复购周期短的养猫耗材",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国家庭室内养猫为主，猫抓家具导致沙发破损，抓板属保护家具的低成本消耗品，替换频率高"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "Petco 线上"
+        ],
+        "entry": "做多只装套装提高客单，主打可翻面使用与不掉屑，主图展示替换周期",
+        "risk": "纸屑与胶黏剂气味是投诉高发点，需做环保胶验证"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国家庭重视猫咪天性满足与家具保护，环保再生材料抓板更符合当地消费偏好"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "OTTO",
+          "Fressnapf"
+        ],
+        "entry": "强调再生纸与可回收包装，配德文说明，进入宠物连锁货架，先小批量测款",
+        "risk": "包装法注册与回收标识不合规会被平台限制销售"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本公寓养猫密度高且面积小，抓板需贴合狭窄空间，可折叠与碗型小尺寸更受欢迎"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做小尺寸碗型与可折叠款，配色走原色系，绑定猫爬架做组合销售，先小批量测款",
+        "risk": "日本包装与材质标识要求严，说明需本地语言"
+      },
+      {
+        "region": "东南亚",
+        "country": "马来西亚",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "马来西亚华人养猫家庭多且价格敏感，抓板被当作快消耗材按月购买，电商低价段出单集中"
+        ],
+        "channels": [
+          "Shopee MY",
+          "Lazada MY",
+          "TikTok Shop MY",
+          "本地宠物店"
+        ],
+        "entry": "以三只装低价引流，做批量阶梯价承接小型宠物店批发，先小批量测款",
+        "risk": "低价竞争极端激烈，运输体积大压缩毛利且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做多只装，主打替换周期与耐用度",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投猫抓与家具保护长尾词控 ACoS",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍猫反复使用的实拍剪辑建立真实感",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接海外宠物连锁与自有品牌批量代工",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "监控竞品套装规格与价格带变化并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做订阅式耗材模型，提高复购频次",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "仅投高转化核心词，避免大词烧预算",
+        "竞品定投测差异款如碗型与可折叠"
+      ],
+      "organic": [
+        "主图强调不掉屑与可翻面",
+        "问答区说明更换周期与环保材质",
+        "套装组合提升客单并摊薄运费"
+      ],
+      "budget": "$300-700/月",
+      "kpi": "ACoS<25%，复购率>20%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Cat Scratching Boards 类目页",
+      "cifnews.com 宠物耗材出海观察",
+      "baijing.cn 养猫用品选品分析"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "pet-poop-bag-dispenser",
+    "name": "便携宠物拾便袋分配器",
+    "aliases": [
+      "Dog Poop Bag Dispenser",
+      "捡屎袋、拾便袋、便便袋",
+      "铲屎垃圾袋",
+      "Pet Waste Bag Holder"
+    ],
+    "category": "宠物用品",
+    "summary": "挂牵引绳上的拾便袋分配器，低客单高频消耗的遛狗标配",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国城市对遛狗拾便有明确法规约束，公园与公寓社区执行严格，主人出门必带袋具，属高频消耗品"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做分配器加卷袋组合，主打挂扣兼容性与加厚防漏，做多卷补充包引导复购",
+        "risk": "塑料袋材质需符合当地环保限制，降解宣称需有依据"
+      },
+      {
+        "region": "欧洲",
+        "country": "荷兰",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "荷兰骑行遛狗普遍且城市执法严格，分配器需能挂在牵引绳或车把上，轻小便携是主要决策点"
+        ],
+        "channels": [
+          "Amazon.nl",
+          "Zooplus",
+          "Bol.com",
+          "本地宠物店"
+        ],
+        "entry": "做可挂式小体积款，补充袋走可降解材质，进入宠物连锁做日常陈列",
+        "risk": "可降解宣称需符合欧盟标准，纸制品包装要求严格"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "韩国公寓养犬比例高且小区有明确拾便规范，主人对分配器外观与颜色有审美要求"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "本地宠物店"
+        ],
+        "entry": "做配色与造型设计感款，配韩文说明，主推与牵引绳的套装组合，先小批量测款",
+        "risk": "低价杂牌多，需靠组合与外观做差异化且易被平台抽查"
+      },
+      {
+        "region": "东南亚",
+        "country": "印度尼西亚",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "印尼城市社区养犬增多但公共设施不足，主人自带袋具习惯正在形成，低价套装在社交电商走量快"
+        ],
+        "channels": [
+          "Shopee ID",
+          "Tokopedia",
+          "TikTok Shop ID",
+          "本地宠物店"
+        ],
+        "entry": "以低价大卷装引流，配合牵引绳捆绑销售提升客单，先小批量测款并配合内容种草",
+        "risk": "单件利润薄，物流成本占比高需整柜发货且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做分配器加补充装组合上架",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投遛狗与垃圾袋长尾词，控制单次获客成本",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍遛狗取袋使用场景短视频挂车并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接海外宠物店与品牌批量采购询盘",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接宠物用品进口商与连锁采购并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做补充袋订阅复购，拉长客户生命周期",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "用低价引流款拉新再用补充装做利润",
+        "投遛狗场景相关词，控制单次点击成本"
+      ],
+      "organic": [
+        "主图标注袋尺寸与适配挂扣",
+        "强调加厚防漏与可降解选项",
+        "问答区说明补充装兼容规格"
+      ],
+      "budget": "$300-600/月",
+      "kpi": "ACoS<28%，复购率>25%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Dog Waste Bags 类目页",
+      "cifnews.com 宠物耗材出海分析",
+      "chewy.com 宠物日用类目页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "pet-portable-water-bottle",
+    "name": "宠物户外饮水瓶",
+    "aliases": [
+      "Portable Dog Water Bottle",
+      "遛狗水杯、宠物饮水器",
+      "外出喂水壶",
+      "Travel Water Dispenser"
+    ],
+    "category": "宠物用品",
+    "summary": "带饮水槽的宠物便携水瓶，遛狗与自驾出游场景的出行标配",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国家庭带狗徒步与自驾出游频繁，途中喂水不便，带接水槽的便携瓶属出行装备标配"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做一键出水与回水设计，主打不浪费不滴漏，配便携挂扣适配背包，先小批量测款",
+        "risk": "食品接触材料需 FDA 合规，漏水投诉影响评分"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国徒步与森林遛狗文化浓厚，长距离出行需随身补水，主人偏好可重复使用而非一次性瓶"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "OTTO",
+          "户外用品店"
+        ],
+        "entry": "强调可重复使用与食品级材质，配德文清洁说明切入户外用品档口，先小批量测款",
+        "risk": "材质与包装回收登记需符合当地法规且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本夏季湿热且遛狗时段集中在早晚，接水槽设计便于即饮，小容量便携款更符合当地携带习惯"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做小容量轻量款，配色清爽，主图展示单手操作出水过程，先小批量测款",
+        "risk": "说明书与材质标识须日文，密封件耐久需测试"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 4,
+        "heat": 56,
+        "why": [
+          "新加坡热带气候遛狗出汗多，短时高频补水需求明显，宠物友好公园与咖啡馆场景带动出行配件"
+        ],
+        "channels": [
+          "Shopee SG",
+          "Lazada SG",
+          "本地宠物店",
+          "Instagram 达人"
+        ],
+        "entry": "主推大容量与保冷款，配合宠物友好场所内容做场景种草，先小批量测款",
+        "risk": "市场小，需靠高客单设计和套装维持利润且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做主力，主图展示单手操作过程",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投徒步与遛狗场景词，避开泛水杯词",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍户外徒步中给狗喂水的短视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外与宠物品牌贴牌与组合采购",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "看差评里的漏水与异味问题改进密封",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做出行装备套装站，提升客单价并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "先测视频素材的开场三秒",
+        "竞品定投主攻回水与不漏水差异"
+      ],
+      "organic": [
+        "主图标注容量与重量",
+        "问答区说明清洗与密封圈更换",
+        "与牵引绳胸背带做套装"
+      ],
+      "budget": "$400-800/月",
+      "kpi": "ACoS<30%，退货率<6%，评分≥4.5"
+    },
+    "sources": [
+      "Amazon.com Dog Water Bottles 类目页",
+      "cifnews.com 户外宠物用品分析",
+      "baijing.cn 宠物出行品类攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "pet-gel-cooling-mat",
+    "name": "宠物凝胶降温垫",
+    "aliases": [
+      "Pet Cooling Mat / Gel Cooling Pad",
+      "宠物冰垫、凉垫",
+      "狗狗降温垫",
+      "Summer Cooling Mat"
+    ],
+    "category": "宠物用品",
+    "summary": "免电免水的凝胶宠物凉垫，夏季高频换新且客单适中",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国南部与西南部夏季持续高温，短鼻犬与厚毛犬中暑风险高，免电凉垫成为夏季必备降温品"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做自冷凝胶与防咬外罩双版本，主推大型犬尺寸，夏季前两个月备货",
+        "risk": "凝胶破裂漏液与误食是安全风险，需做耐咬测试"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "阿联酋夏季极端高温且多室内空调环境，宠物趴地面散热需求强，凉垫在宠物店与电商同步走量"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon",
+          "本地宠物店",
+          "Instagram 达人"
+        ],
+        "entry": "主推大尺寸与耐高温凝胶款，强调无需冷藏即可使用，绑定夏季促销",
+        "risk": "高温环境凝胶老化，需做高温循环测试且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本夏季闷热且梅雨后湿度高，室内猫狗易热应激，可折叠收纳的凉垫更适配小户型"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做可折叠收纳款并标注适用体重，配色清爽，绑定宠物防暑内容，先小批量测款",
+        "risk": "日文警示标签需标明禁止啃咬，否则易引发投诉"
+      },
+      {
+        "region": "欧洲",
+        "country": "西班牙",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "西班牙夏季高温期长且公寓无空调比例不低，宠物降温用品在南部地区需求集中"
+        ],
+        "channels": [
+          "Amazon.es",
+          "Zooplus",
+          "本地宠物店",
+          "TikTok Shop"
+        ],
+        "entry": "主推免电免水款，配合南部高温城市做季节投放，主图强调安全无电",
+        "risk": "化学凝胶需符合 REACH 限制物质要求"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "泰国全年高温且宠物多养在通风较差的公寓，凉垫属于夏季刚需，价格敏感但销量大"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH",
+          "本地宠物店"
+        ],
+        "entry": "以低价基础款引流，做多尺寸阶梯价，配合宠主社群内容种草，先小批量测款",
+        "risk": "低价款质量参差，需靠售后口碑建立信任且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站夏季主推，提前两月上架积累评价",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "夏季集中投放降温与中暑相关词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍狗狗趴上凉垫不起来的场景视频",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接中东与东南亚宠物连锁的季节性订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接宠物用品进口商，谈夏季备货",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做宠物夏季防暑专题带动多品类连带",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "夏季前集中投放，淡季降预算保排名",
+        "竞品定投主攻耐咬与不漏液对比"
+      ],
+      "organic": [
+        "主图展示凝胶厚度与防滑底",
+        "问答区说明清洁与折叠收纳",
+        "绑定牵引绳与饮水瓶做套装"
+      ],
+      "budget": "$500-1000/月，夏季翻倍",
+      "kpi": "ACoS<30%，评分≥4.4，退货率<7%"
+    },
+    "sources": [
+      "Amazon.com Pet Cooling Mats 类目页",
+      "cifnews.com 宠物季节性用品分析",
+      "baijing.cn 宠物夏季品类攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "pet-puzzle-feeder-toy",
+    "name": "宠物益智漏食玩具",
+    "aliases": [
+      "Dog Puzzle Toy / Treat Dispensing Puzzle",
+      "益智玩具、漏食球",
+      "宠物解闷玩具",
+      "Interactive Puzzle Feeder"
+    ],
+    "category": "宠物用品",
+    "summary": "分级难度的漏食益智玩具，解决独处无聊与拆家行为的训练工具",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 85,
+        "why": [
+          "美国上班族养狗常白天独处，无聊导致拆家与吠叫，益智漏食玩具被当作行为管理工具采购"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "按初级到高级分难度做系列，主图标注难度等级与适用犬型，先小批量测款",
+        "risk": "小零件脱落存在误食风险，需做拉力与尺寸测试"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国家庭重视犬只行为训练与动物福利，益智玩具被视为日常必需品，主人愿为设计买单"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "Fressnapf",
+          "OTTO"
+        ],
+        "entry": "做训练体系化分阶产品，配德文训练指南，进入训犬机构做背书，先小批量测款",
+        "risk": "塑料件需符合 REACH 与玩具安全相关要求"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "韩国公寓养宠多、室内活动空间小，主人用益智玩具替代户外运动消耗宠物精力"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "本地宠物店"
+        ],
+        "entry": "做小体型友好尺寸，配韩文玩法图解，绑定零食做组合销售，先小批量测款",
+        "risk": "低价同款多，需靠玩法体系与外观做差异且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "日本老龄化叠加养宠增加，老年犬认知训练需求出现，慢速益智玩具在高龄犬主人中接受度高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做老年犬温和难度款，主打认知刺激与低体力消耗，配日文说明，先小批量测款",
+        "risk": "说明书与警示标识需日文，材质安全检测不可省"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做难度分级系列，形成品类矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投拆家与分离焦虑相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍狗狗解谜过程，天然高完播内容",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接训犬机构与宠物品牌的定制订单",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "分析差评中的误食与难清洁反馈并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做训犬内容社区沉淀复购与组合销售",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "视频素材测开场点击率后再放量",
+        "竞品定投主打难度分级与清洁便利"
+      ],
+      "organic": [
+        "主图展示玩法分解步骤",
+        "问答区说明适用犬型与清洁方式",
+        "做系列套装提升客单"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<30%，评分≥4.5，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Dog Puzzle Toys 类目页",
+      "cifnews.com 宠物玩具出海分析",
+      "baijing.cn 宠物益智品类攻略"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "pet-deshedding-brush",
+    "name": "宠物除毛梳",
+    "aliases": [
+      "Deshedding Brush / Pet Grooming Brush",
+      "除毛梳、褪毛梳、打薄梳",
+      "宠物梳子",
+      "Slicker Brush"
+    ],
+    "category": "宠物用品",
+    "summary": "日常除毛与去浮毛的宠物梳，换毛季爆发、四季有量的刚需小件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国家庭长毛犬猫多且室内养宠为主，掉毛困扰直接推动除毛梳购买，换毛季搜索集中爆发"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做一键退毛与防抓伤针头款，主图展示除毛量对比，搭配清洁底板，先小批量测款",
+        "risk": "针尖外露易划伤，需做圆头处理与安全警示且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "法国家庭养猫比例高且室内掉毛明显，宠物美容院价格高，主人倾向自购工具在家打理"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Zooplus",
+          "Cdiscount",
+          "宠物连锁店"
+        ],
+        "entry": "做猫用细针款，配法语使用说明与清洁步骤图，切入家用美容场景，先小批量测款",
+        "risk": "金属镀层与塑料件需符合 REACH 限制"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本公寓养猫多且对毛发清洁敏感，除毛梳需兼顾不伤皮肤与静音，用户对做工精细度要求高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做精细不锈钢针款，强调圆头不伤皮肤，配日文护理说明，先小批量测款",
+        "risk": "做工瑕疵投诉集中，需做好出厂检验且易被平台抽查"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "沙特家庭养猫比例高且多长毛品种，高温环境掉毛严重，本地宠物美容服务贵，家用工具需求上升"
+        ],
+        "channels": [
+          "Amazon.sa",
+          "Noon",
+          "本地宠物店",
+          "Instagram 达人"
+        ],
+        "entry": "主推大尺寸多针款，配阿拉伯语说明，与宠物美容套装组合销售，先小批量测款",
+        "risk": "需 SASO 认证，说明书语言不合规会被拒收"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "巴西宠物数量多且家庭养猫普遍，宠物美容成本高，家用除毛工具在美客多平台走量快"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Amazon.com.br",
+          "Petlove 线上",
+          "TikTok Shop BR"
+        ],
+        "entry": "以中低价款切入并做组合装，配葡语说明，主推猫犬通用的多针款，先小批量测款",
+        "risk": "INMETRO 相关合规与税负需提前核算"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做主力，换毛季前加大备货",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投掉毛与除毛相关词，控制旺季预算",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍梳下成团毛发的高冲击对比视频",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接美容院与宠物连锁的批量采购",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接宠物用品进口商看实物做工并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "看竞品差评里的针尖与清洁问题改进",
+        "priority": 6
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做宠物美容护理内容带动套装复购",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "先测高冲击的除毛对比视频素材",
+        "竞品定投主攻一键退毛与圆头安全",
+        "换毛季前加预算抢词"
+      ],
+      "organic": [
+        "主图放梳毛前后对比",
+        "强调针头圆润与皮肤友好",
+        "问答区说明清洁与适用毛长"
+      ],
+      "budget": "$600-1200/月",
+      "kpi": "ACoS<30%，评分≥4.5，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Pet Grooming Brushes 类目页",
+      "cifnews.com 宠物美容工具分析",
+      "baijing.cn 宠物用品热销榜解读"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "pet-cat-tunnel-toy",
+    "name": "猫用折叠隧道",
+    "aliases": [
+      "Cat Tunnel Toy / Collapsible Cat Tunnel",
+      "猫隧道、猫咪通道",
+      "猫玩具隧道",
+      "Play Tunnel for Cats"
+    ],
+    "category": "宠物玩具",
+    "summary": "可折叠收纳的猫用隧道，小户型养猫家庭的高性价比解闷玩具",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国家庭室内猫活动空间有限，隧道类玩具能低成本增加运动量，多猫家庭尤其偏好串接玩法"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做三通与加长款提升玩法，主图展示折叠后体积，配色做多色套装，先小批量测款",
+        "risk": "金属骨架外露与布料染色是投诉点，需做安全检测"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国家庭养猫多为室内且注重猫的行为需求，折叠收纳后不占地，契合当地公寓的收纳习惯"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "OTTO",
+          "Fressnapf"
+        ],
+        "entry": "强调折叠收纳与可水洗，配德文玩法说明，进入宠物连锁做陈列，先小批量测款",
+        "risk": "包装回收登记与纺织品染料限制需合规且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本公寓面积小、猫只能室内活动，隧道能提供躲藏与追逐空间，可折叠是必需属性"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "宠物量贩店"
+        ],
+        "entry": "做窄幅小尺寸适配日式公寓，配色清淡，配日文玩法图鉴，先小批量测款",
+        "risk": "说明书需日文，骨架弹性与安全性需实测且易被平台抽查"
+      },
+      {
+        "region": "东南亚",
+        "country": "马来西亚",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "马来西亚华人养猫家庭多且价格敏感，隧道属低价高感知的猫玩具，社交电商走量明显"
+        ],
+        "channels": [
+          "Shopee MY",
+          "Lazada MY",
+          "TikTok Shop MY",
+          "本地宠物店"
+        ],
+        "entry": "以低价单通款引流，做三件套组合提升客单与玩法，先小批量测款并配合内容种草",
+        "risk": "低价品质量参差，运输体积大压缩毛利且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做多款玩法组合，主图突出折叠体积",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投猫玩具与解闷相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍猫钻进隧道冲刺的短视频引流并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接海外宠物连锁与自有品牌代工",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "跟踪竞品尺寸与玩法差异做迭代并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做猫玩具组合套装提高客单价并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "短视频测猫使用场景的完播率",
+        "竞品定投主打折叠收纳与多通玩法"
+      ],
+      "organic": [
+        "主图标注展开与折叠尺寸",
+        "问答区说明骨架安全与清洗",
+        "与猫抓板做组合套装"
+      ],
+      "budget": "$300-700/月",
+      "kpi": "ACoS<28%，评分≥4.4，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Cat Tunnel Toys 类目页",
+      "cifnews.com 宠物玩具出海分析",
+      "baijing.cn 猫经济选品解读"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "pet-car-seat-cover",
+    "name": "车载宠物坐垫",
+    "aliases": [
+      "Dog Car Seat Cover / Pet Hammock",
+      "宠物车载垫、后备箱垫",
+      "狗狗车载床",
+      "Pet Back Seat Cover"
+    ],
+    "category": "宠物用品",
+    "summary": "防水防刮的车载宠物坐垫，自驾带宠出行场景的刚性装备",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国家庭自驾出行频繁且几乎家家有车，带狗上车怕抓坏座椅与掉毛，车载垫被当作购车后必备品"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做吊床式加硬底款，主推全尺寸 SUV 适配，主图展示防水与防毛效果",
+        "risk": "防滑底与固定扣强度不足会引发安全隐患且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "德国养狗家庭自驾出游与度假频率高，车内清洁要求严格，可水洗的车载垫更受欢迎"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "OTTO",
+          "汽车用品连锁"
+        ],
+        "entry": "强调可机洗与安全带穿孔设计，配德文安装说明确认适配车型，先小批量测款",
+        "risk": "安全带穿孔位置设计不当将影响行车安全且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "澳洲家庭自驾旅行文化浓厚且宠物常随车长途出行，皮卡与 SUV 比例高，耐磨防刮是核心诉求"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "本地汽配连锁",
+          "Petbarn 线上"
+        ],
+        "entry": "做强耐磨牛津布与加厚填充款，主推 SUV 与皮卡后座尺寸，先小批量测款",
+        "risk": "阻燃与化学物质需符合当地标准，否则易被召回"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "阿联酋外籍家庭养宠多且以汽车出行为主，夏季高温需隔热材质，别墅区宠物出行频次高"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon",
+          "本地宠物店",
+          "Instagram 达人"
+        ],
+        "entry": "主推隔热与易清洁款，配合宠物友好商场与自驾游内容种草，先小批量测款",
+        "risk": "高温暴晒下材质易老化，需做耐候测试且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站主推，按车型尺寸做变体并配合内容种草",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投车型与车载宠物相关词控成本并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍狗狗上车与拆洗过程短视频挂车",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接汽配与宠物连锁的批量定制并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接汽配与宠物用品进口商看面料",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "按车型做适配指南沉淀复购与连带",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "按车型词做精准投放避免泛流量",
+        "竞品定投主攻防水与防毛对比"
+      ],
+      "organic": [
+        "主图给出适配车型尺寸表",
+        "问答区说明固定方式与清洗",
+        "强调安全带穿孔与安全设计"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<30%，退货率<7%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Dog Car Seat Covers 类目页",
+      "cifnews.com 宠物出行用品分析",
+      "chewy.com 车载宠物类目页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "toy-fidget-pop-it",
+    "name": "硅胶按压解压玩具",
+    "aliases": [
+      "Pop It Fidget Toy / Silicone Bubble Toy",
+      "解压玩具、捏捏乐、泡泡板",
+      "指尖玩具",
+      "Sensory Fidget Toy"
+    ],
+    "category": "玩具",
+    "summary": "硅胶气泡按压解压玩具，低客单高频出货的儿童与成人通用品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国学校与家庭对儿童感统与专注力训练关注度高，按压类玩具被家长当作低成本的替代安抚工具"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "TikTok Shop US",
+          "Etsy"
+        ],
+        "entry": "做多形状与多色套装，主打可水洗与无味，配合生日派对伴手礼场景打包",
+        "risk": "儿童玩具需 CPC 认证与 CPSIA 测试，缺一即下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "英国校园与家庭对感统类玩具接受度高，按压玩具常作为派对与节日小礼品批量采购"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "Argos",
+          "TikTok Shop UK"
+        ],
+        "entry": "做派对伴手礼套装，配 UKCA 标识与年龄警示，主推多件装，先小批量测款",
+        "risk": "UKCA 与 EN71 玩具安全标准必须达标"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "日本社会压力大，解压类小物在成人群体中流行，百元店与便利店渠道支撑小件快消"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "百元店与杂货渠道"
+        ],
+        "entry": "做小巧便携与静音按压款，配色走低饱和日式风格，切入杂货与文具渠道",
+        "risk": "日本玩具安全标准 ST 标识需确认，说明书须日文"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "巴西儿童人口多且节日与生日派对文化浓，低价小玩具在美客多平台批量走量"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Amazon.com.br",
+          "Shopee BR",
+          "本地玩具批发市场"
+        ],
+        "entry": "以低价多件装切入礼品批发，配葡语包装与年龄警示，先小批量测款",
+        "risk": "INMETRO 玩具认证是强制要求，缺认证将被扣押"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做多件装，节日前加大备货",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投派对礼品与感统训练长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍按压音效与解压过程短视频引流",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接玩具批发商与礼品公司的批量订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "现场展示手感与配色，谈派对礼品单",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "监控同类价格带与爆款外形变化并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "低价冲量款靠广告拉排名，测出爆款再放量",
+        "节日前集中投放派对与礼品词"
+      ],
+      "organic": [
+        "主图强调无味环保与可水洗",
+        "多做外形变体覆盖搜索",
+        "问答区说明适用年龄与材质"
+      ],
+      "budget": "$600-1500/月",
+      "kpi": "ACoS<35%，评分≥4.4，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Fidget Toys 类目页",
+      "cifnews.com 玩具出海选品分析",
+      "baijing.cn 解压玩具品类解读"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "toy-wooden-building-blocks",
+    "name": "木质益智积木",
+    "aliases": [
+      "Wooden Building Blocks",
+      "木制积木、拼搭积木",
+      "早教积木",
+      "Educational Wooden Blocks"
+    ],
+    "category": "玩具",
+    "summary": "天然木料早教积木，家长愿为材质安全与启蒙价值支付溢价",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国家长对塑料玩具的化学安全顾虑上升，木质积木被视为低风险启蒙玩具，节日礼品季需求集中"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "Target 线上",
+          "Etsy"
+        ],
+        "entry": "做无漆原木或水性漆款，主图突出边角圆润与认证，按年龄段分套装",
+        "risk": "CPSIA 与 ASTM F963 玩具安全测试必备"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国家长推崇自然材质与启蒙教育，木质玩具在当地零售与礼品渠道长期占据稳定位置"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "玩具专门店",
+          "本地礼品渠道"
+        ],
+        "entry": "强调 FSC 认证木材与水性漆，配德文教育玩法说明，进玩具专门店铺货",
+        "risk": "EN71 与 REACH 重金属限量严格，木材需熏蒸证明"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本家长重视专注力与手部精细动作训练，木制积木在少子化背景下走高单价精品路线"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "百货母婴专柜"
+        ],
+        "entry": "做小颗粒精品款与收纳木盒组合，主图展示做工细节与木纹质感，先小批量测款",
+        "risk": "ST 标识与日本玩具安全标准，说明书须日文"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "法国家庭重视儿童启蒙教育与圣诞礼品传统，木质积木常作为长辈送礼首选"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "母婴专门店",
+          "本地礼品连锁"
+        ],
+        "entry": "做礼盒装并配法语玩法卡，绑定圣诞与生日礼品季推广，先小批量测款",
+        "risk": "EN71 认证与小零件窒息警示标识必须齐全"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国与德国站双线，按年龄段做变体",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投早教与木质玩具词，控制节日预算",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接海外母婴与玩具品牌的 OEM 询盘",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接玩具进口商与礼品公司看实物质感",
+        "priority": 4
+      },
+      {
+        "name": "Instagram / Pinterest 内容",
+        "type": "社交",
+        "use": "拍亲子拼搭场景做家长种草并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做早教内容与礼盒组合提升客单并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "节日前集中投放礼品与早教词",
+        "竞品定投主攻材质安全与认证齐全"
+      ],
+      "organic": [
+        "主图展示认证标识与木纹做工",
+        "问答区说明适用年龄与漆面材质",
+        "做收纳木盒礼盒提升溢价"
+      ],
+      "budget": "$600-1200/月，节日翻倍",
+      "kpi": "ACoS<30%，评分≥4.6，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Wooden Building Blocks 类目页",
+      "cifnews.com 木质玩具出海分析",
+      "baijing.cn 母婴玩具品类攻略"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "toy-silicone-baby-teether",
+    "name": "硅胶婴儿牙胶",
+    "aliases": [
+      "Silicone Baby Teether",
+      "牙胶、磨牙棒、安抚咬胶",
+      "婴儿咬咬乐",
+      "Baby Teething Toy"
+    ],
+    "category": "母婴玩具",
+    "summary": "食品级硅胶牙胶，宝宝出牙期刚需、多件装复购稳定",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国家庭送新生儿礼盒文化普遍，牙胶属标准礼品项，家长对材质与可冷冻功能询问度高"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Target 线上",
+          "Babylist 与母婴独立站",
+          "Etsy"
+        ],
+        "entry": "做可冷冻与手环式两款，做五件礼盒套装，主图强调食品级与消毒方式",
+        "risk": "CPSC 与 CPSIA 玩具安全要求严格，小零件脱落风险高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国家庭对婴幼儿用品材质安全极度敏感，对邻苯二甲酸盐与双酚 A 零容忍，认证齐全者占优"
+        ],
+        "channels": [
+          "Amazon.de",
+          "dm 与 Rossmann 母婴渠道",
+          "OTTO",
+          "母婴专门店"
+        ],
+        "entry": "提供完整 EN71 与食品接触检测报告，配德文使用说明，进药妆母婴货架",
+        "risk": "EN71 与 REACH 双重要求，缺检测即无法上架"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本家庭对婴儿用品卫生与做工要求极高，可煮沸消毒与无缝隙结构是核心卖点"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "母婴店连锁",
+          "Yahoo!购物"
+        ],
+        "entry": "做一体成型无缝款，配日文消毒说明与收纳盒，突出可煮沸，先小批量测款",
+        "risk": "日本食品卫生法与玩具 ST 标准需双重确认"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "泰国新生儿家庭与送礼场景多，价格敏感但对材质安全有基本要求，社交电商母婴类目增长快"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH",
+          "本地母婴店"
+        ],
+        "entry": "做中低价多件装，配泰语说明与检测报告，主推新生儿礼盒，先小批量测款",
+        "risk": "TISI 相关标准与标签语言要求需逐项核对"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站礼盒款为主，主图突出材质认证",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投出牙期与新生儿礼盒相关词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接母婴品牌贴牌与礼品渠道批量订单",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接母婴进口商看材质与认证文件",
+        "priority": 4
+      },
+      {
+        "name": "Instagram / 母婴达人内容",
+        "type": "社交",
+        "use": "做新生儿开箱与使用实测内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做礼盒订阅与新生儿场景组合销售",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "投新生儿礼盒与出牙期长尾词",
+        "竞品定投主攻认证齐全与可冷冻"
+      ],
+      "organic": [
+        "主图展示检测认证与清洗方式",
+        "问答区说明消毒与替换周期",
+        "礼盒装提升客单与送礼属性"
+      ],
+      "budget": "$600-1200/月",
+      "kpi": "ACoS<30%，评分≥4.6，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Baby Teethers 类目页",
+      "cifnews.com 母婴用品出海分析",
+      "baijing.cn 婴儿用品合规攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "toy-baby-sensory-paper-book",
+    "name": "婴儿布书",
+    "aliases": [
+      "Soft Cloth Book / Baby Sensory Book",
+      "布书、撕不烂的早教书",
+      "婴儿黑白卡书",
+      "Baby Fabric Book"
+    ],
+    "category": "母婴玩具",
+    "summary": "撕不烂可水洗的婴儿布书，代替纸板书解决口欲期撕咬问题",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国家长在婴儿 6 个月前普遍进行黑白卡与视觉刺激训练，布书能兼顾啃咬与翻页，实用性强"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Target 线上",
+          "Etsy",
+          "TikTok Shop US"
+        ],
+        "entry": "做黑白红高对比款加响纸内衬，做四本合集，主图展示可机洗与撕扯测试",
+        "risk": "婴幼儿用品需 CPSIA 测试，小配件脱落风险高"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "法国家庭重视婴幼儿阅读启蒙，从出生起就送布书作为礼物，母婴书店与药妆渠道均有销售"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "母婴书店",
+          "本地礼品渠道"
+        ],
+        "entry": "配法语启蒙文案，包装走礼品风格，进母婴书店与药妆陈列，先小批量测款",
+        "risk": "EN71 玩具安全与纺织品染料限制需同时达标"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "韩国早教投入高，家长为婴儿购买多语启蒙书，双语布书在当地母婴市场接受度高"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "母婴专门店"
+        ],
+        "entry": "做中英韩三语启蒙款，配色柔和，配收纳袋提升礼品属性，先小批量测款",
+        "risk": "婴幼儿用品安全认证与标签语言需合规且易被平台抽查"
+      },
+      {
+        "region": "东南亚",
+        "country": "印度尼西亚",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "印尼新生儿数量多且家庭重视早期教育，低价布书在社交电商母婴类目稳定出单"
+        ],
+        "channels": [
+          "Shopee ID",
+          "Tokopedia",
+          "TikTok Shop ID",
+          "本地母婴店"
+        ],
+        "entry": "以低价三本装引流，配印尼语启蒙内容，绑定新生儿礼盒销售，先小批量测款",
+        "risk": "SNI 相关标签要求与印刷油墨安全需核查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做合集装，主图突出撕不烂可水洗",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投婴儿启蒙与黑白卡相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接母婴品牌与书店渠道贴牌订单",
+        "priority": 3
+      },
+      {
+        "name": "Instagram / 母婴达人内容",
+        "type": "社交",
+        "use": "拍宝宝翻书啃咬实拍做种草并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "看差评里的掉色与响纸问题改进工艺",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做早教内容与分月龄书单带动复购",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "投早教与新生儿启蒙词，避免泛玩具词",
+        "竞品定投主攻可水洗与撕不烂对比"
+      ],
+      "organic": [
+        "主图展示机洗与撕扯实测",
+        "问答区说明适用月龄与材质",
+        "做分月龄套装提升客单"
+      ],
+      "budget": "$400-800/月",
+      "kpi": "ACoS<30%，评分≥4.5，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Baby Cloth Books 类目页",
+      "cifnews.com 母婴玩具出海分析",
+      "baijing.cn 早教玩具品类解读"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "toy-magnetic-building-tiles",
+    "name": "磁力片积木",
+    "aliases": [
+      "Magnetic Building Tiles",
+      "磁力片、磁力积木",
+      "磁铁拼搭片",
+      "Magnetic Tile Set"
+    ],
+    "category": "玩具",
+    "summary": "磁吸拼接的立体建构玩具，STEM 启蒙概念带动中高客单",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国家长追捧 STEM 启蒙玩具，磁力片能直观搭建立体结构，被学校与家庭同时采购，礼品季集中爆发"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "Target 线上",
+          "TikTok Shop US"
+        ],
+        "entry": "做 40 片起跳的套装，主图强调磁力强度与边缘焊接，按片数做价格阶梯",
+        "risk": "小磁铁脱落存在误食风险，必须通过 CPSC 磁铁安全测试"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 82,
+        "why": [
+          "德国家庭与幼儿园重视建构类玩具，磁力片在幼教机构采购清单中常见，品质与安全是核心门槛"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "玩具专门店",
+          "幼教用品供应渠道"
+        ],
+        "entry": "提供 EN71 与磁铁安全报告，配德文搭建图册，切入幼教机构采购",
+        "risk": "EN71 与磁铁吸力标准严格，焊接开裂会被召回"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "韩国课外教育投入高，磁力片被当作空间思维训练工具，家长愿为品牌与做工支付溢价"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "母婴教育渠道"
+        ],
+        "entry": "做高端透明款与收纳盒组合，配韩文搭建教程，走教育场景定价，先小批量测款",
+        "risk": "KC 儿童产品安全认证所需检测项多，认证周期长"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "沙特家庭子女多且重视教育投入，磁力片作为寓教于乐礼品在商场与电商同步销售"
+        ],
+        "channels": [
+          "Amazon.sa",
+          "Noon",
+          "本地玩具连锁",
+          "Instagram 达人"
+        ],
+        "entry": "做礼盒装并配阿拉伯语图册，进入商场玩具专柜做陈列，先小批量测款",
+        "risk": "需 SASO 认证，标签与说明书语言须符合要求"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站按片数做变体，主图展示搭建效果",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products/Brands）",
+        "type": "B2C",
+        "use": "投 STEM 启蒙与建构玩具词，控制节日预算",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍亲子搭建过程与倒塌重搭视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接海外玩具与教育品牌 OEM 询盘",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接玩具进口商与幼教渠道看磁力测试",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "跟踪竞品片数与价格带防止踩价格战",
+        "priority": 6
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做 STEM 教程内容站带动高价套装",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "先测搭建效果视频的点击率",
+        "竞品定投主攻磁力强度与边缘安全对比",
+        "节日季前加预算抢词"
+      ],
+      "organic": [
+        "主图放磁铁安全测试与焊接细节",
+        "问答区说明片数适配与收纳",
+        "与收纳盒捆绑提升客单"
+      ],
+      "budget": "$1000-2000/月，节日翻倍",
+      "kpi": "ACoS<32%，评分≥4.6，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Magnetic Building Tiles 类目页",
+      "cifnews.com 益智玩具出海分析",
+      "baijing.cn STEM 玩具选品解读"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "toy-rc-stunt-car",
+    "name": "遥控特技车",
+    "aliases": [
+      "RC Stunt Car / Remote Control Car",
+      "遥控车、电动玩具车",
+      "翻斗遥控车",
+      "Kids RC Car"
+    ],
+    "category": "玩具",
+    "summary": "双面翻滚防撞的遥控特技车，儿童礼品市场常年热销款",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国儿童节日与生日礼品以玩具车为核心品类，双面翻滚设计耐摔，家长愿意为结实耐玩买单"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "Target 线上",
+          "TikTok Shop US"
+        ],
+        "entry": "做双电池长续航款，主图展示翻滚与防摔测试，做多配色拉高评价数",
+        "risk": "含锂电池需 UN38.3 与玩具安全 CPSIA 双重合规"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "英国家庭圣诞礼品季玩具车需求集中，无线设备与电池合规是上架前置条件"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Argos",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "做好 UKCA 与电池合规文件，主推节日礼盒包装，绑定圣诞关键词",
+        "risk": "UKCA 与电池法规，无线电设备指令不合规将被下架"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "沙特家庭子女多且玩具支出高，室内可玩的小型遥控车更适配，商场与电商渠道并行"
+        ],
+        "channels": [
+          "Amazon.sa",
+          "Noon",
+          "本地玩具连锁",
+          "Instagram 达人"
+        ],
+        "entry": "主推耐高温与防沙尘款，配阿拉伯语说明，进入商场玩具专柜，先小批量测款",
+        "risk": "需 SASO 认证与电池运输合规文件且易被平台抽查"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "墨西哥儿童节与圣诞节礼品消费集中，遥控车属高感知低价位礼品，电商与批发市场走量快"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart México",
+          "本地玩具批发"
+        ],
+        "entry": "以中低价位切入，配西语包装与年龄警示，走整箱批发与电商双线，先小批量测款",
+        "risk": "NOM 认证与电池安全要求，包装语言必须西语"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做双电池高配款，主图放防摔测试",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投遥控车与节日礼物词，控制节日预算",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍翻滚与越野实拍视频挂车转化并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接玩具批发商与商超批量订单并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "现场演示特技动作，谈节日备货单",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "跟踪竞品续航承诺与差评点改进并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "用短视频测特技动作的点击与完播",
+        "节日季前两个月集中放量抢排名"
+      ],
+      "organic": [
+        "主图展示防摔与越野场景",
+        "问答区说明电池与充电时长",
+        "做礼盒包装提升送礼感"
+      ],
+      "budget": "$1000-2000/月",
+      "kpi": "ACoS<35%，评分≥4.4，退货率<7%"
+    },
+    "sources": [
+      "Amazon.com RC Cars 类目页",
+      "cifnews.com 电子玩具出海分析",
+      "baijing.cn 玩具合规与选品攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "toy-wooden-montessori-puzzle",
+    "name": "蒙氏木质拼图玩具",
+    "aliases": [
+      "Montessori Wooden Puzzle",
+      "蒙氏教具、木制拼图",
+      "形状配对板",
+      "Shape Sorting Puzzle"
+    ],
+    "category": "玩具",
+    "summary": "蒙氏理念的木质形状配对板，家长为启蒙教育支付溢价的稳定品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国家长对蒙氏启蒙理念接受度高，木质形状配对板被视为视觉与手眼协调训练工具，礼品季销售集中"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Target 线上",
+          "Etsy",
+          "TikTok Shop US"
+        ],
+        "entry": "做数字字母形状三类主题，主图强调水性漆与圆角打磨，配英文启蒙卡",
+        "risk": "CPSIA 与 ASTM F963 玩具安全测试必备，油漆含铅量需检测"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国家长偏好实木与自然材料教具，蒙氏玩具在幼教与家庭市场同时存在稳定需求"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "幼教用品渠道",
+          "玩具专门店"
+        ],
+        "entry": "强调 FSC 木材与水性漆，配德文启蒙指导，切入幼教采购渠道",
+        "risk": "EN71 重金属限量与木材熏蒸证明缺一不可"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本少子化使家庭集中投入单个孩子教育，精细做工与收纳设计是家长衡量价格的依据"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "百货母婴专柜"
+        ],
+        "entry": "做带收纳木盒的精品款，主图展示打磨细节与手感，走中高价位，先小批量测款",
+        "risk": "ST 标识与说明书语言要求，小零件窒息警示须标明"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "新加坡家长教育投入高且居住空间小，紧凑型木质教具更受欢迎，可跨境直邮高客单产品"
+        ],
+        "channels": [
+          "Shopee SG",
+          "Lazada SG",
+          "本地母婴店",
+          "Instagram 达人"
+        ],
+        "entry": "推高单价精品套装，配英文启蒙说明，绑定精英教育场景内容，先小批量测款",
+        "risk": "市场小但客单高，需靠品牌与内容支撑溢价且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做主题系列，按年龄做变体",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投蒙氏与早教教具相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接幼教机构与母婴品牌 OEM 订单",
+        "priority": 3
+      },
+      {
+        "name": "Instagram / Pinterest 内容",
+        "type": "社交",
+        "use": "拍亲子启蒙使用场景做视觉种草并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接口玩具进口商看做工与漆面并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做蒙氏启蒙内容库带动系列复购并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "投蒙氏与形状配对精准词，避免泛玩具流量",
+        "竞品定投主攻实木与水性漆差异"
+      ],
+      "organic": [
+        "主图展示木纹与圆角细节",
+        "问答区说明漆面与适用年龄",
+        "做主题系列提高连带"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<30%，评分≥4.6，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Montessori Toys 类目页",
+      "cifnews.com 木质教具出海分析",
+      "baijing.cn 早教玩具品类攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-camping-hammock",
+    "name": "户外露营吊床",
+    "aliases": [
+      "Camping Hammock / Parachute Hammock",
+      "吊床、露营吊床",
+      "速开吊床",
+      "Travel Hammock"
+    ],
+    "category": "户外用品",
+    "summary": "尼龙降落伞布速开吊床，轻量便携、露营与庭院两用",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国国家公园与州立公园露营文化普遍，轻量吊床便于徒步背负，庭院与公园使用场景也多"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做带树带与蚊帐的可切换款，主打承重与收纳体积，做双人尺寸提升客单",
+        "risk": "承重虚标会引发跌落事故，需做拉力测试与警示"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "德国人徒步与森林露营频繁，对装备重量与收纳体积敏感，环保材质与耐用性同样重要"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "Decathlon 替代渠道"
+        ],
+        "entry": "强调面料强度与缝线加固，配德文使用与束绑说明，切入户外连锁，先小批量测款",
+        "risk": "纺织品染料与阻燃要求需符合 REACH 相关限制"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本单人露营与车中泊流行，装备讲究轻量与收纳尺寸，吊床在树林营地与阳台场景兼用"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做超轻单人款并标注收纳尺寸与重量，配色走户外色系，先小批量测款",
+        "risk": "承重与缝线强度是主要投诉点，需做实测说明"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "巴西庭院与海滩文化盛行，吊床是家庭日常休闲用品而非单纯露营装备，需求量长期稳定"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Amazon.com.br",
+          "本地家居与户外店",
+          "Shopee BR"
+        ],
+        "entry": "主推大尺寸家用款与耐晒面料，配葡语安装说明，走家居休闲定位，先小批量测款",
+        "risk": "长期日晒下褪色与断线是主要售后问题且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站单人与双人双规格并行上架",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投露营与徒步装备词，控制旺季预算",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍树林吊床搭建与躺卧体验视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与连锁渠道贴牌订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外用品进口商看面料与承重",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做露营装备组合销售提升客单并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "旺季前投放露营场景词抢位",
+        "竞品定投主攻承重与蚊帐一体的差异"
+      ],
+      "organic": [
+        "主图标注承重与收纳体积",
+        "问答区说明树带安装与面料",
+        "做吊床加天幕组合套装"
+      ],
+      "budget": "$600-1200/月",
+      "kpi": "ACoS<30%，评分≥4.4，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Camping Hammocks 类目页",
+      "cifnews.com 户外用品出海分析",
+      "baijing.cn 露营装备选品攻略"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "outdoor-camp-cookware-set",
+    "name": "户外套锅",
+    "aliases": [
+      "Camping Cookware Set",
+      "露营套锅、锅具套装",
+      "野炊锅",
+      "Backpacking Cookset"
+    ],
+    "category": "户外用品",
+    "summary": "可嵌套收纳的铝合金露营套锅，徒步与家庭露营通用的高频装备",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国家庭露营与徒步频次高，套锅可嵌套收纳省背包空间，入门露营者倾向一次买齐套装"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做四人份套装加折叠餐具，主打不粘涂层与嵌套收纳，主图展示收纳体积",
+        "risk": "不粘涂层需符合 FDA 食品接触要求，禁用物质要检测"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国徒步与房车露营普遍，装备讲究收纳效率与耐烧性，对涂层安全问询度高"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "房车用品渠道"
+        ],
+        "entry": "提供食品接触与涂层检测报告，配德文使用说明，进户外与房车渠道",
+        "risk": "PFAS 等涂层限制物质在欧盟趋严，需提前核查"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "韩国车中泊与精致露营流行，套锅作为入门装备购买比例高，颜值与配色影响决策"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "户外专门店"
+        ],
+        "entry": "做高颜值配色款与收纳袋组合，配韩文食谱卡，切入精致露营人群，先小批量测款",
+        "risk": "食品接触材料认证与 KC 相关要求需核查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "日本单人露营盛行，锅具体积与重量要求严格，可嵌套的小容量套装更受欢迎"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做单人小容量套装并标注重量与收纳直径，配色走户外素色，先小批量测款",
+        "risk": "日语说明与食品接触材料检测是硬性要求且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站两/四人份做变体，主图放收纳对比",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投露营厨具与野炊相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍营地开火做饭全过程短视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与商超贴牌采购并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看涂层与做工并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做露营菜单内容带动厨具套装连带",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "旺季前投放露营厨具场景词",
+        "竞品定投主攻嵌套收纳与涂层安全"
+      ],
+      "organic": [
+        "主图标注容量与收纳尺寸",
+        "问答区说明涂层与清洗方式",
+        "做碗筷炉头组合套装"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<30%，评分≥4.5，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Camping Cookware 类目页",
+      "cifnews.com 户外厨具出海分析",
+      "baijing.cn 露营装备选品攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-folding-camp-table",
+    "name": "折叠露营桌",
+    "aliases": [
+      "Folding Camping Table",
+      "蛋卷桌、折叠野餐桌",
+      "露营桌子",
+      "Portable Camp Table"
+    ],
+    "category": "户外用品",
+    "summary": "铝合金卷板折叠露营桌，自驾露营与野餐的核心家具装备",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国家庭自驾露营常开皮卡与 SUV，可折叠平铺的桌子便于装载，野餐与营地做饭都依赖桌面"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做蛋卷式卷板桌与高度可调款，主打承重与收纳尺寸，配收纳袋，先小批量测款",
+        "risk": "承重虚标与桌腿锁扣失效会引发事故投诉且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "韩国车中泊与精致露营流行，桌面颜值与稳定性同样重要，折叠后能进后备箱是基础要求"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "户外专门店"
+        ],
+        "entry": "做木纹桌面与铝合金腿组合，配色走自然系，配韩文搭建说明，先小批量测款",
+        "risk": "桌面涂层与结构强度需实测，劣质款退货率高"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本单人露营盛行，桌面小而轻的款式更适配小车与套装化装备体系"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做低矮单人桌与超轻款，标注重量与收纳长度，配色走户外素色，先小批量测款",
+        "risk": "日语说明与承重标注必须真实，虚标易被投诉"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "法国夏季度假与露营营地文化浓厚，家庭露营偏好大桌面多人使用的折叠桌"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "Decathlon 替代渠道",
+          "户外用品连锁"
+        ],
+        "entry": "主推四人以上大桌面款，强调稳定性与防滑脚垫，配法语说明，先小批量测款",
+        "risk": "承重与稳定性需符合当地消费品安全要求且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站按桌面尺寸做变体矩阵并配合内容种草",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投露营桌与野餐桌核心词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍营地搭桌与收纳折叠过程视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与营地运营方批量采购",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看结构与承重并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "看差评里的桌腿与锁扣问题改结构",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "旺季前投放露营家具词抢位",
+        "竞品定投主攻承重与收纳体积对比"
+      ],
+      "organic": [
+        "主图标注承重与收纳长度",
+        "问答区说明桌腿锁扣与防滑",
+        "做桌加椅组合提升客单"
+      ],
+      "budget": "$700-1400/月",
+      "kpi": "ACoS<30%，评分≥4.4，退货率<7%"
+    },
+    "sources": [
+      "Amazon.com Camping Tables 类目页",
+      "cifnews.com 户外家具出海分析",
+      "baijing.cn 露营装备品类攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-trekking-poles",
+    "name": "登山杖",
+    "aliases": [
+      "Trekking Poles / Hiking Poles",
+      "登山杖、健走杖",
+      "爬山手杖",
+      "Walking Poles"
+    ],
+    "category": "户外用品",
+    "summary": "可调节快扣登山杖，徒步登山与中老年健走的双人群刚需",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "德国徒步协会文化成熟、中老年徒步人群庞大，登山杖被视为保护膝关节的必需品"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "Decathlon 替代渠道"
+        ],
+        "entry": "做快扣三节铝杖与碳杖两线，主打锁定强度与腕带舒适，配德文调节说明",
+        "risk": "锁扣失效会引发事故，需做静载与疲劳测试且易被平台抽查"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "美国国家公园徒步与穿越线路多，长距离徒步对减负装备依赖强，登山杖属入门必买"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做碳纤维轻量款与折叠款，主推一对装，主图标注重量与收缩长度，先小批量测款",
+        "risk": "碳杆断裂与锁扣松脱是主要投诉与安全风险且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本登山与高山徒步人口多且中老年活跃，登山杖需兼顾折叠收纳与电车内携带便利"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做折叠三段款可收进背包侧袋，配色沉稳，配日文使用图解，先小批量测款",
+        "risk": "日语说明与承重标注须真实，虚标易被投诉且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "韩国中老年登山热潮持续，登山杖常作为孝亲礼品购买，礼品包装与品牌感影响决策"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "户外专门店"
+        ],
+        "entry": "做礼品盒装与防滑握把升级款，绑定孝亲礼品季做内容，先小批量测款",
+        "risk": "KC 相关认证与包装回收要求需核查且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "德国与美国站双线，出铝杖与碳杖两档",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投徒步与登山杖核心词及长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与连锁渠道贴牌订单",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍陡坡下坡用杖与不用杖的对比并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看锁扣与杆体做工",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做徒步装备组合页提升连带销售并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "投徒步与中老年健走双人群词",
+        "竞品定投主攻锁扣强度与重量对比"
+      ],
+      "organic": [
+        "主图展示锁扣结构与收缩长度",
+        "问答区说明适用身高与承重",
+        "一对装与配件套装提升客单"
+      ],
+      "budget": "$600-1200/月",
+      "kpi": "ACoS<30%，评分≥4.5，退货率<5%"
+    },
+    "sources": [
+      "Amazon.de Trekkingstöcke 类目页",
+      "cifnews.com 户外装备出海分析",
+      "baijing.cn 徒步装备选品攻略"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "outdoor-hydration-bladder-pack",
+    "name": "骑行水袋包",
+    "aliases": [
+      "Hydration Backpack / Hydration Pack",
+      "水袋包、骑行背包",
+      "越野水袋背心",
+      "Hydration Vest"
+    ],
+    "category": "户外用品",
+    "summary": "带水袋的轻量骑行徒步背包，越野跑与长途骑行人群刚需",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国越野跑与山地骑行人群庞大，途中取水不便，背负式水袋是标准装备配置"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做 5L 与 10L 双容量，主打贴合背部与咬阀易清洗，配防漏测试说明",
+        "risk": "水袋材质需符合食品接触要求，漏水投诉影响评分"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "德国骑行与越野跑俱乐部活跃，水袋包需兼顾背部散热与夜间反光，安全属性受重视"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "自行车专门店"
+        ],
+        "entry": "加反光条与透气背板，配德文清洗说明，切入自行车与户外连锁，先小批量测款",
+        "risk": "纺织品与塑料件需符合 REACH，异味问题需控"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本越野跑与登山人多且夏季湿热，轻量透气是首要诉求，小容量背心款更受欢迎"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做小容量水袋背心与超轻款，配色清爽，标注重量与贴合调节范围，先小批量测款",
+        "risk": "食品接触水袋与日文说明是基本合规要求且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "中国台湾",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "台湾登山与骑行人口密集且夏季闷热，水袋包被视为骑行与百岳徒步的标准装备"
+        ],
+        "channels": [
+          "PChome 24h",
+          "momo 购物网",
+          "户外专门店",
+          "Shopee TW"
+        ],
+        "entry": "主推透气网背款，配合登山社与骑行社群做口碑内容，先小批量测款",
+        "risk": "BSMI 相关商品检验与标签要求需核实且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站双容量做变体，主图放透气背板",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投骑行与越野跑装备词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍越野跑边走边喝水实拍视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与赛事定制订单并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看面料与做工并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做赛事与俱乐部合作页带动批量并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "投骑行与越野跑精准词避开泛背包词",
+        "竞品定投主攻透气背板与咬阀清洗"
+      ],
+      "organic": [
+        "主图标注容量与重量",
+        "问答区说明清洗与水质存放",
+        "做水袋配件复购提升生命周期"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<28%，评分≥4.4，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Hydration Packs 类目页",
+      "cifnews.com 户外背包出海分析",
+      "baijing.cn 骑行装备选品攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-folding-camp-chair",
+    "name": "折叠露营椅",
+    "aliases": [
+      "Folding Camping Chair / Moon Chair",
+      "月亮椅、折叠椅、露营椅",
+      "克米特椅",
+      "Portable Camp Chair"
+    ],
+    "category": "户外用品",
+    "summary": "轻量折叠露营椅，自驾露营与户外看赛的通用座椅装备",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国家庭露营、看球与户外活动都需自带椅子，折叠并可装的椅子属常年消耗装备"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做月亮椅与克米特椅两条线，主打承重与收纳袋，配杯架设计提升体验",
+        "risk": "承重虚标导致断裂是主要安全风险，需做静载测试"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "韩国车中泊与精致露营流行，椅子是营造氛围的核心单品，颜值与舒适度决定复购"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "户外专门店"
+        ],
+        "entry": "做低姿月亮椅配木纹扶手，配色走自然系，做双人套装提升客单，先小批量测款",
+        "risk": "KC 相关检验与承重标注须真实可靠且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本单人露营装备讲究轻量与套装化，克米特椅可拆卸收纳，适配小车与公寓储藏"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做可拆装收纳的克米特椅，标注收纳体积与承重，配色走户外素色，先小批量测款",
+        "risk": "日语说明与结构强度需实测，虚标易被投诉且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "英国夏季节日与露营节文化浓厚，折叠椅属节日必备，雨天环境要求面料耐候性强"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Argos",
+          "eBay UK",
+          "户外用品连锁"
+        ],
+        "entry": "强调防泼水与抗风结构，配英规说明，绑定音乐节与露营季推广，先小批量测款",
+        "risk": "承重与结构安全需符合当地消费品安全要求且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站月亮椅与克米特椅双线并行",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投露营椅与户外椅核心词抢位并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍营地摆椅与坐下体验场景视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与营地运营方批量订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看结构与面料并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做露营场景套装页带动桌椅组合并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "旺季前两个月抢露营椅核心词",
+        "竞品定投主攻承重与收纳体积对比"
+      ],
+      "organic": [
+        "主图标注承重与收纳尺寸",
+        "问答区说明结构与防泼水",
+        "桌椅组合套装提升客单"
+      ],
+      "budget": "$700-1500/月",
+      "kpi": "ACoS<32%，评分≥4.4，退货率<7%"
+    },
+    "sources": [
+      "Amazon.com Camping Chairs 类目页",
+      "cifnews.com 户外家具出海分析",
+      "baijing.cn 露营椅品类攻略"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "outdoor-camping-lantern",
+    "name": "充电露营灯",
+    "aliases": [
+      "Camping Lantern / Rechargeable LED Lantern",
+      "露营灯、营地灯、汽灯",
+      "帐篷灯",
+      "Outdoor Lantern"
+    ],
+    "category": "户外用品",
+    "summary": "可充电多档调光的露营灯，营地照明与应急备电两用",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国露营与停电应急备电双场景并存，可充电并当充电宝用的灯具更受家庭用户欢迎"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做多档调光加反向充电款，主打续航与防水等级，配帐篷挂钩与磁吸底座",
+        "risk": "含锂电池需 UN38.3 认证，防水等级虚标易被投诉"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "日本地震频发且防灾意识强，可充电营地灯兼作应急照明，家庭常备数量多"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "主打防灾与露营两用场景，强调手摇或大容量备电，配日文防灾指南",
+        "risk": "PSE 认证与电池运输合规是硬门槛且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "德国露营与房车旅游人群大，灯具需兼顾低功耗与夜间阅读亮度，对色温有要求"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "房车用品渠道"
+        ],
+        "entry": "做暖光阅读档与冷光营地档双色温款，配德文说明，切入房车渠道，先小批量测款",
+        "risk": "CE 与电池法规，说明书语言不合规会被拒收"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "阿联酋沙漠露营与家庭户外聚会频繁，营地照明属必备，耐高温与长续航是关键"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon",
+          "户外用品店",
+          "Instagram 达人"
+        ],
+        "entry": "主推大容量长续航与耐高温款，配合沙漠露营内容做种草，先小批量测款",
+        "risk": "需 SASO/ESMA 认证，高温下电池安全需验证"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做续航与防水双卖点，主图放场景",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投露营灯与应急灯双场景词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍夜间营地照明与调光过程视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与商超贴牌采购并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外与应急用品进口商看实物",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做防灾备电内容带动灯具组合销售",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "投露营与防灾双场景关键词",
+        "竞品定投主攻续航与防水差异"
+      ],
+      "organic": [
+        "主图标注续航与防水等级",
+        "问答区说明充电与收纳",
+        "做灯具加充电宝组合套装"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<30%，评分≥4.4，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Camping Lanterns 类目页",
+      "cifnews.com 户外照明出海分析",
+      "baijing.cn 应急用品选品攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-emergency-blanket-kit",
+    "name": "户外应急保暖毯",
+    "aliases": [
+      "Emergency Mylar Blanket",
+      "急救毯、锡箔保温毯",
+      "户外保温毯",
+      "Survival Blanket"
+    ],
+    "category": "户外用品",
+    "summary": "镀铝应急保暖毯，马拉松、露营与防灾包里的低客单高频补给品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 76,
+        "why": [
+          "美国马拉松与越野赛事普遍向选手发放完赛保温毯，赛事采购与个人防灾包形成双需求"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "赛事物资供应渠道",
+          "TikTok Shop US"
+        ],
+        "entry": "做加厚抗撕裂款与多张装，主打折叠体积小与反射保暖，切入赛事采购",
+        "risk": "材质与反光涂层需做食品级以外的基础安全与环保评估"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "日本家庭防灾包配置清单包含保温毯，地震与台风季前后家庭集中采购"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "防灾用品专门渠道"
+        ],
+        "entry": "做防灾包配套的多张装，配日文防灾清单卡，进入防灾用品专区，先小批量测款",
+        "risk": "日文警示标识与包装回收登记要求需满足且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "英国户外徒步与山地救援文化普遍，山区天气突变快，轻量保温毯属登山包必备"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "户外用品连锁",
+          "eBay UK",
+          "登山装备店"
+        ],
+        "entry": "做多次可重复使用款并标注耐撕裂，配英文使用说明切入登山装备店",
+        "risk": "铝膜材料回收合规与一次性塑料限制需核查且易被平台抽查"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 56,
+        "why": [
+          "巴西越野跑与户外露营兴起，赛事与俱乐部采购形成批量订单，价格敏感但对效果有要求"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Shopee BR",
+          "本地户外店",
+          "赛事物资渠道"
+        ],
+        "entry": "以低价多张装切入赛事与俱乐部批量采购，配葡语说明，先小批量测款",
+        "risk": "INMETRO 相关要求与进口税负需提前核算"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做多张装，绑定赛事与防灾场景",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投应急与户外保温长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接赛事组织方与防灾包品牌批量订单",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外与应急用品进口商并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做防灾包组合销售带高连带率并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "监控同类价格带与规格变化并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "仅投赛事与防灾相关高意图词",
+        "竞品定投测试加厚款差异"
+      ],
+      "organic": [
+        "主图标注折叠体积与使用方式",
+        "问答区说明重复使用与回收",
+        "多张装提升客单与备货感"
+      ],
+      "budget": "$200-500/月",
+      "kpi": "ACoS<25%，评分≥4.4，退货率<4%"
+    },
+    "sources": [
+      "Amazon.com Emergency Blankets 类目页",
+      "cifnews.com 应急用品出海分析",
+      "baijing.cn 户外补给品选品解读"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-dry-bag",
+    "name": "防水漂流袋",
+    "aliases": [
+      "Dry Bag / Waterproof Dry Sack",
+      "防水袋、漂流袋",
+      "溯溪包",
+      "Waterproof Stuff Sack"
+    ],
+    "category": "户外用品",
+    "summary": "卷口密封的防水袋，漂流溯溪与海边活动的储物刚需",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国漂流、皮划艇与海滩活动普及，手机与车钥匙需防水收纳，防水袋属下水前必买装备"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做 5/10/20L 三档套装，主打卷口密封与耐磨底，配肩带可当背包用",
+        "risk": "防水等级虚标导致物品进水是主要投诉风险且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "澳大利亚",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "澳洲海岸活动与冲浪文化浓厚，下水频率高，可肩背大容量防水袋是常见配置"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "户外用品连锁",
+          "冲浪用品店"
+        ],
+        "entry": "做大容量双肩款与耐磨 PVC 替换为环保 TPU 款，配英文使用说明",
+        "risk": "PVC 材料在澳洲环保要求趋严，需准备替代方案"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "泰国海岛跳岛游与雨季出行频繁，防水袋是游客与本地水上活动人群的日常装备"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH",
+          "本地户外店"
+        ],
+        "entry": "做低价三件套引流，配合海岛旅游内容做场景种草，先小批量测款并配合内容种草",
+        "risk": "低价品密封性差，需靠质检与差评管理控口碑"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "德国皮划艇与自行车旅行普遍，防水袋需兼顾骑行背负与环保材质，用户对回收材料认可度高"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "骑行用品店"
+        ],
+        "entry": "主打再生 TPU 材质与骑行背负款，配德文清洗说明，先小批量测款",
+        "risk": "REACH 限制物质与包装回收登记需合规"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做三档容量套装，主图放进水测试",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投漂流与防水收纳场景词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍水下浸泡后取物的实拍视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与旅游景区定制订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看面料与封口工艺",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做水上运动装备组合页提升连带并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "投水上运动与雨天装备场景词",
+        "竞品定投主攻水下实测与耐磨底"
+      ],
+      "organic": [
+        "主图展示卷口密封与浸泡测试",
+        "问答区说明容量选择与清洗",
+        "多规格套装提升客单"
+      ],
+      "budget": "$400-800/月",
+      "kpi": "ACoS<28%，评分≥4.5，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Dry Bags 类目页",
+      "cifnews.com 水上运动装备出海分析",
+      "baijing.cn 户外收纳选品攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-camping-stove-burner",
+    "name": "便携露营炉头",
+    "aliases": [
+      "Camping Stove / Backpacking Burner",
+      "炉头、野炊炉、卡式炉",
+      "高山炉",
+      "Portable Gas Stove"
+    ],
+    "category": "户外用品",
+    "summary": "折叠式便携炉头，徒步与自驾露营的高频刚需烹饪装备",
+    "markets": [
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "日本单人露营与车中泊盛行，炉头是核心装备，轻量折叠与点火稳定性是决策关键"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做超轻折叠炉头与防风罩组合，标注重量与收纳尺寸，配日文安全说明",
+        "risk": "日本对燃气器具管理严格，需符合相关安全标准认证"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "美国户外做饭是露营核心环节，炉头需应对高海拔与低温，防风性能与火力调节受重视"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做防风高效燃烧款，配收纳盒与打火备用件，主图展示高海拔燃烧，先小批量测款",
+        "risk": "燃气器具需符合当地安全标准，漏气风险须严格控"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "德国徒步与房车露营普遍，炉头需匹配当地气罐接口规格，兼容性是上架前提"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "房车用品渠道"
+        ],
+        "entry": "明确标注适配气罐接口与转换阀，配德文安全说明，切入房车渠道，先小批量测款",
+        "risk": "气罐接口标准与 CE 安全要求不匹配将无法销售"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "韩国精致露营讲究颜值与火力，露营烹饪内容丰富，炉头与炊具套装一起购买比例高"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "户外专门店"
+        ],
+        "entry": "做高颜值配色款并与套锅捆绑销售，配韩语烹饪场景内容，先小批量测款",
+        "risk": "燃气器具安全标准与 KC 相关要求需确认"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "日本与美国站双线，主图展示燃烧稳定性",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投露营炉与野炊装备核心词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍营地现煮咖啡与煮面过程视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与渠道贴牌采购并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看做工与安全件并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做露营烹饪内容带动炉具套装销售",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "投露营厨具与炉头精准词",
+        "竞品定投主攻防风与重量对比"
+      ],
+      "organic": [
+        "主图标注重量与收纳尺寸",
+        "问答区说明气罐适配与安全",
+        "与套锅捆绑提升客单"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<30%，评分≥4.5，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Camping Stoves 类目页",
+      "cifnews.com 户外炊具出海分析",
+      "baijing.cn 露营炉具选品攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-camping-hanging-organizer",
+    "name": "露营吊挂收纳袋",
+    "aliases": [
+      "Camping Hanging Organizer",
+      "营地挂袋、户外收纳挂袋",
+      "帐篷收纳袋",
+      "Hanging Camp Storage"
+    ],
+    "category": "户外用品",
+    "summary": "多格吊挂式营地收纳袋，帐篷与天幕下的零碎物品管理工具",
+    "markets": [
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 1,
+        "heat": 74,
+        "why": [
+          "韩国精致露营讲究营地整齐，餐具与调料需分区收纳，挂袋是营造营地氛围的标配单品"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "户外专门店"
+        ],
+        "entry": "做多格分区与防水布料款，配色走自然系，与桌面收纳组合销售，先小批量测款",
+        "risk": "纺织品染料与拉链质量是主要投诉点且易被平台抽查"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 70,
+        "why": [
+          "美国家庭露营天数多、装备零碎，挂袋能挂在天幕杆上收纳小件，取用效率明显提升"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做可挂天幕与帐篷两用款，主打承重与分区，配挂钩配件，先小批量测款",
+        "risk": "承重缝线强度不足会撕裂，需做负重测试且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "日本露营讲究收纳秩序与轻量，挂袋需可折叠收纳且不占体积，做工细节被放大审视"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做轻量可折叠款并标注重量与展开尺寸，配色素净，先小批量测款并配合内容种草",
+        "risk": "日语说明与做工瑕疵是主要退货原因且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "德国房车露营比例高，车内小件收纳需求突出，挂袋被同时用于房车与帐篷场景"
+        ],
+        "channels": [
+          "Amazon.de",
+          "房车用品渠道",
+          "OTTO",
+          "户外用品连锁"
+        ],
+        "entry": "做房车与帐篷两用款，配德文安装说明，切入房车用品渠道，先小批量测款",
+        "risk": "纺织品染料与 REACH 限制需核查且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做多格分区，主图展示挂载场景",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投营地收纳与帐篷配件词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍营地整理前后对比短视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与营地运营方采购并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看布料与车缝并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "看差评里的承重与拉链问题改进并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "仅投露营收纳精准词，避免泛流量",
+        "竞品定投测不同分格规格"
+      ],
+      "organic": [
+        "主图展示挂载承重与分区",
+        "问答区说明材质与清洗",
+        "与桌椅收纳组合销售"
+      ],
+      "budget": "$300-600/月",
+      "kpi": "ACoS<25%，评分≥4.4，退货率<5%"
+    },
+    "sources": [
+      "Amazon.com Camping Organizers 类目页",
+      "cifnews.com 营地收纳品类分析",
+      "baijing.cn 露营配件选品攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-camping-compression-sack",
+    "name": "露营睡袋压缩袋",
+    "aliases": [
+      "Compression Stuff Sack",
+      "压缩袋、睡袋收纳袋",
+      "打包袋",
+      "Ultralight Stuff Sack"
+    ],
+    "category": "户外用品",
+    "summary": "可强力压缩体积的睡袋收纳袋，徒步背负减容的低成本升级配件",
+    "markets": [
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 1,
+        "heat": 72,
+        "why": [
+          "日本单人徒步与富士山登山讲究背包减容，压缩袋能把睡袋与羽绒服体积降下来，属高频配件"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做超轻尼龙款并标注重量与压缩后尺寸，按容量三档做价格阶梯，先小批量测款",
+        "risk": "缝线与扣具强度不足会在压缩时撕裂，需做负重测试"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 70,
+        "why": [
+          "美国长距离徒步与背包客群体大，轻量化装备迭代频繁，压缩袋属常买常换的小件"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做轻量与防水双版本，主图展示压缩前后对比体积，先小批量测款并配合内容种草",
+        "risk": "面料防水涂层与环保要求需核查且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 64,
+        "why": [
+          "德国徒步与骑行旅行人群大，装备讲究收纳效率，压缩袋常与睡袋配套购买"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "Decathlon 替代渠道"
+        ],
+        "entry": "配德文容量对照表，与睡袋捆绑销售，切入户外连锁，先小批量测款",
+        "risk": "REACH 限制物质与包装回收登记要求需满足"
+      },
+      {
+        "region": "拉美",
+        "country": "智利",
+        "rank": 4,
+        "heat": 54,
+        "why": [
+          "智利巴塔哥尼亚徒步线路吸引全球背包客，本地与游客装备需求并存，轻量配件出货稳定"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Falabella 线上",
+          "本地户外店",
+          "Shopee CL"
+        ],
+        "entry": "做中低价三件套切入本地户外店，配西语容量说明，先小批量测款并配合内容种草",
+        "risk": "市场体量小，需靠高客单套装支撑利润且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "日本与美国站双线，按容量做变体",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投徒步睡袋收纳相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与帐篷厂商配套采购",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看尼龙面料与扣具",
+        "priority": 4
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做轻量化装备专题带动组合销售并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "看差评里的撕裂与扣具失效改进并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "只投徒步与收纳精准词，控制单次成本",
+        "竞品定投测试轻量款差异"
+      ],
+      "organic": [
+        "主图放压缩前后体积对比",
+        "问答区说明承载容量与材质",
+        "三件套组合提升客单"
+      ],
+      "budget": "$200-500/月",
+      "kpi": "ACoS<25%，评分≥4.4，退货率<4%"
+    },
+    "sources": [
+      "Amazon.com Compression Sacks 类目页",
+      "cifnews.com 户外配件出海分析",
+      "baijing.cn 轻量化装备选品解读"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "outdoor-portable-folding-tableware",
+    "name": "户外折叠餐具套装",
+    "aliases": [
+      "Camping Cutlery Set",
+      "折叠餐具、户外餐具套装",
+      "野餐餐具",
+      "Titanium Spork Set"
+    ],
+    "category": "户外用品",
+    "summary": "可折叠收纳的户外餐具套装，露营与通勤带饭两用的低客单高频品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 74,
+        "why": [
+          "美国露营与办公室带饭场景都在减少一次性餐具使用，可重复使用的折叠套装接受度高"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做不锈钢与钛合金两档，配收纳盒与登山扣，主推四件套与单人套，先小批量测款",
+        "risk": "食品接触材料需 FDA 合规，钛制品宣称需有依据"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "日本便当文化与露营文化叠加，便携餐具在日常通勤与户外都能用，做工细节被严格审视"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外与杂货渠道"
+        ],
+        "entry": "做精细不锈钢款配木柄设计，收纳盒走简约风，切入杂货与户外双渠道",
+        "risk": "日本食品卫生法相关材质标准与标识要求严格"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "德国对一次性塑料限制趋严，办公室与户外可重复餐具需求上升，环保材质受青睐"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "户外用品连锁",
+          "可持续生活用品店"
+        ],
+        "entry": "主推不锈钢可回收材质与可拆洗结构，配德文使用说明，先小批量测款",
+        "risk": "一次性塑料限制法规与食品接触材料需同时满足"
+      },
+      {
+        "region": "亚太",
+        "country": "中国台湾",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "台湾限塑政策推进与登山野餐文化并存，随身携带餐具成为生活习惯，小件走量快"
+        ],
+        "channels": [
+          "PChome 24h",
+          "momo 购物网",
+          "Shopee TW",
+          "户外用品店"
+        ],
+        "entry": "做轻量两件套低价引流，配套装盒与布袋提升礼品感，先小批量测款",
+        "risk": "食品接触材质与商品检验标签需符合当地要求"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做两件套与四件套变体并配合内容种草",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投露营餐具与带饭餐具长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍户外做饭与收纳餐具的短视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与礼品公司批量订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外与家居进口商看材质做工",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做环保生活内容带动餐具组合销售",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "只投户外餐具与环保餐具精准词",
+        "竞品定投测试钛与不锈钢两档差异"
+      ],
+      "organic": [
+        "主图标注材质与重量",
+        "问答区说明清洗与收纳盒",
+        "套装与收纳袋捆绑提升客单"
+      ],
+      "budget": "$200-500/月",
+      "kpi": "ACoS<25%，评分≥4.5，退货率<4%"
+    },
+    "sources": [
+      "Amazon.com Camping Cutlery 类目页",
+      "cifnews.com 户外餐具出海分析",
+      "baijing.cn 环保日用品选品攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-folding-camp-cart",
+    "name": "折叠露营推车",
+    "aliases": [
+      "Folding Camping Wagon / Utility Cart",
+      "营地车、露营推车",
+      "野餐拉杆车",
+      "Collapsible Wagon"
+    ],
+    "category": "户外用品",
+    "summary": "大容量折叠营地车，自驾露营与超市采购通用的搬运装备",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国家庭露营装备多、从停车场到营地需搬运，营地车成为自驾露营的核心辅助装备"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做大轮越野款与承重升级款，主打折叠收纳与刹车，主图展示砂石地通过",
+        "risk": "承重虚标与轮轴断裂是主要安全风险，需做静载测试"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "韩国车中泊与精致露营流行，装备多且营地离车位远，推车是提升体验的关键装备"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "户外专门店"
+        ],
+        "entry": "做大容量加双层布款，配色自然系，配韩文折叠与刹车说明，先小批量测款",
+        "risk": "KC 相关检验与承重标注须真实可靠且易被平台抽查"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本露营与海边活动常需搬运，推车同时用于购物与遛娃，多功能属性扩大使用场景"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做窄幅款适配公寓门口与电梯，标注重量，配色走户外素色，先小批量测款",
+        "risk": "日语说明与结构强度需实测，虚标易被投诉且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "法国度假营地与海滩场景多，推车可装帐篷与海滩用品，家庭用户对承重与轮子耐用性要求高"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "户外用品连锁",
+          "Decathlon 替代渠道"
+        ],
+        "entry": "主推沙滩大轮款与承重加强款，配法语说明，绑定夏季度假场景，先小批量测款",
+        "risk": "承重与结构安全需符合当地消费品安全要求且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做越野大轮与承重升级两条线",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投营地车与购物车相关核心词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍装满装备在砂石路推行实拍并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接户外品牌与商超渠道批量采购",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看轮轴与结构并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做露营装备套装页带动连带销售并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "旺季前投放露营与搬运场景词",
+        "竞品定投主攻承重与轮子通过性"
+      ],
+      "organic": [
+        "主图标注承重与折叠尺寸",
+        "问答区说明刹车与布面清洗",
+        "与桌椅组合形成露营套装"
+      ],
+      "budget": "$800-1600/月",
+      "kpi": "ACoS<32%，评分≥4.4，退货率<7%"
+    },
+    "sources": [
+      "Amazon.com Folding Wagons 类目页",
+      "cifnews.com 户外搬运装备分析",
+      "baijing.cn 露营车品类攻略"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-beach-mat-sand-free",
+    "name": "防沙沙滩垫",
+    "aliases": [
+      "Sand-Free Beach Mat / Beach Blanket",
+      "沙滩垫、野餐垫、防沙垫",
+      "海边铺地布",
+      "Picnic Blanket"
+    ],
+    "category": "户外用品",
+    "summary": "双层防沙渗漏的便携沙滩垫，海边与野餐场景的可折叠地垫",
+    "markets": [
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 1,
+        "heat": 72,
+        "why": [
+          "泰国海岛旅游与本地家庭海边聚会频繁，普通布垫进沙难清理，防沙垫的体验差异明显"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH",
+          "本地旅游用品店"
+        ],
+        "entry": "做可机洗防沙双层款，配收纳袋与地钉，主推大尺寸多人款，先小批量测款",
+        "risk": "低价品防沙效果差，需靠实测内容建立信任且易被平台抽查"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 70,
+        "why": [
+          "美国家庭海滩度假与公园野餐频繁，可折叠收纳且不粘沙的地垫显著提升体验"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "TikTok Shop US",
+          "Etsy"
+        ],
+        "entry": "做加厚与防风地钉款，主图展示沙粒抖落效果，按尺寸做三档，先小批量测款",
+        "risk": "纺织品染料与涂层材料需符合 CPSIA 与环保要求"
+      },
+      {
+        "region": "亚太",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "澳洲海滩文化是其日常生活一部分，家庭海滩活动频率高，防晒与防沙需求同时存在"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "本地户外与泳装店",
+          "Shopify 独立站"
+        ],
+        "entry": "做抗紫外线涂层款并标注 UPF，配澳式海滩场景内容，先小批量测款",
+        "risk": "UPF 宣称需有检测依据，涂层环保要求需核查"
+      },
+      {
+        "region": "欧洲",
+        "country": "西班牙",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "西班牙海岸度假季长，家庭常备沙滩地垫，可折叠机洗是主要购买动机"
+        ],
+        "channels": [
+          "Amazon.es",
+          "本地家居与户外店",
+          "Cdiscount",
+          "TikTok Shop"
+        ],
+        "entry": "做轻量可机洗款，配西语说明，绑定夏季度假季推广，先小批量测款",
+        "risk": "REACH 限制物质与纺织品标签要求需满足"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站主推，尺寸三档做变体矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "夏季投沙滩与野餐垫核心词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍海边抖沙与折叠收纳实拍视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接旅游用品与家居品牌批量订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外与家用纺织品进口商并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做度假场景组合页带动连带销售并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "夏季前集中投放海滩场景词",
+        "竞品定投主攻防沙与可机洗对比"
+      ],
+      "organic": [
+        "主图展示抖沙与折叠过程",
+        "问答区说明材质与清洗",
+        "多尺寸套装提升客单"
+      ],
+      "budget": "$400-800/月",
+      "kpi": "ACoS<28%，评分≥4.4，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Beach Blankets 类目页",
+      "cifnews.com 户外地垫出海分析",
+      "baijing.cn 旅游用品选品解读"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-camping-tent-accessory-kit",
+    "name": "帐篷地钉套装",
+    "aliases": [
+      "Tent Pegs / Tent Stake Kit",
+      "地钉、帐篷钉、防风绳套装",
+      "帐篷配件",
+      "Guy Line Tensioner Kit"
+    ],
+    "category": "户外用品",
+    "summary": "帐篷加固用地钉与防风绳配件包，帐篷用户的低成本复购配件",
+    "markets": [
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 1,
+        "heat": 70,
+        "why": [
+          "日本台风与强风天气频繁，露营者常自备加长地钉与防风绳替换原厂配件，需求真实"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做加长铝合金地钉与反光风绳套装，标注适用土壤类型，先小批量测款",
+        "risk": "金属件锈蚀与折断投诉是主要风险且易被平台抽查"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 68,
+        "why": [
+          "美国露营地在硬石与沙地土壤差异大，原厂地钉常不够用，成套替换配件是常见复购"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做硬地钉与沙地钉组合套装，配收纳袋与锤子，主推十二件套，先小批量测款",
+        "risk": "金属强度不足会弯折，需做硬度与拉力测试且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 62,
+        "why": [
+          "德国露营与房车旅行多，天幕与帐篷需要额外固定，反光风绳在夜间营地安全中很重要"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "房车用品渠道"
+        ],
+        "entry": "主打反光风绳与快速调节扣组合，配德文安装说明，先小批量测款并配合内容种草",
+        "risk": "金属表面处理与包装材料需符合当地环保要求"
+      },
+      {
+        "region": "亚太",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "韩国车中泊与天幕露营普及，天幕需额外拉绳与地钉，配件包属首次露营后的追加购买"
+        ],
+        "channels": [
+          "Coupang",
+          "NAVER Smart Store",
+          "11st",
+          "户外专门店"
+        ],
+        "entry": "做天幕专用套装与配色统一款，与天幕捆绑销售，先小批量测款并配合内容种草",
+        "risk": "低价配件质量差影响整体口碑，需控质检且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "日本与美国站双线，按件数做变体",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投帐篷配件与地钉相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接帐篷厂商配套采购与品牌贴牌",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看材质与做工并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做帐篷配件专题带动组合购买并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "看差评中的折断与锈蚀问题改工艺",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "只投帐篷配件精准长尾词",
+        "竞品定投测试多件套与材质差异"
+      ],
+      "organic": [
+        "主图展示适配土壤类型",
+        "问答区说明材质与收纳",
+        "与帐篷地布组合销售"
+      ],
+      "budget": "$200-450/月",
+      "kpi": "ACoS<25%，评分≥4.4，退货率<4%"
+    },
+    "sources": [
+      "Amazon.com Tent Stakes 类目页",
+      "cifnews.com 户外配件出海分析",
+      "baijing.cn 帐篷配件选品攻略"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "toy-bath-bubble-machine",
+    "name": "电动泡泡机",
+    "aliases": [
+      "Bubble Machine / Automatic Bubble Maker",
+      "泡泡机、吹泡泡玩具",
+      "儿童派对泡泡枪",
+      "Bubble Blower Toy"
+    ],
+    "category": "玩具",
+    "summary": "自动出泡的电动泡泡机，儿童派对与婚礼摄影场景的低客单爆款",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国家庭婚礼、生日派对与毕业季用泡泡做氛围道具已成惯例，可重复使用的电动款替代手工吹泡泡"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "TikTok Shop US",
+          "Etsy"
+        ],
+        "entry": "做大出泡量加电池与插电双供电款，配两瓶泡泡液，主图展示派对场景",
+        "risk": "玩具安全需 CPSIA 认证，泡泡液成分需符合当地要求"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 2,
+        "heat": 70,
+        "why": [
+          "日本夏季节庆与幼儿园活动频繁用泡泡制造氛围，产品需兼顾低噪音与清洁便利"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "玩具与杂货渠道"
+        ],
+        "entry": "做静音款与低溅液款，配色柔和，配日文使用说明进幼儿活动用品渠道",
+        "risk": "ST 标识与液体成分标注是硬性要求且易被平台抽查"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "越南节庆与儿童活动多且价格敏感，泡泡机在社交电商节日节点出现明显放量"
+        ],
+        "channels": [
+          "Shopee VN",
+          "Lazada VN",
+          "TikTok Shop VN",
+          "本地玩具批发"
+        ],
+        "entry": "以低价基础款引流，做节日套装加泡泡液补充装带动复购，先小批量测款",
+        "risk": "低价品电机易损，需靠售后与补液复购补利润"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 4,
+        "heat": 58,
+        "why": [
+          "沙特家庭子女多且庆典场合频繁，泡泡机用于家庭聚会与儿童娱乐，礼品属性明显"
+        ],
+        "channels": [
+          "Amazon.sa",
+          "Noon",
+          "本地玩具连锁",
+          "Instagram 达人"
+        ],
+        "entry": "做礼盒装并配阿拉伯语说明，进入商场玩具专柜做节日陈列，先小批量测款",
+        "risk": "需 SASO 认证，说明书语言不符合要求会被拒收"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做派对场景主图，配双供电款",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投派对与婚礼道具相关词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍泡泡营造氛围的短视频引流并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接婚庆公司与玩具批发商批量订单",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接玩具与派对用品进口商谈节日单",
+        "priority": 5
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做派对道具组合销售提升连带率并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "用短视频测出泡量与场景吸引力",
+        "节日前集中投放派对与婚礼道具词"
+      ],
+      "organic": [
+        "主图展示出泡量与供电方式",
+        "问答区说明泡泡液与清洗",
+        "补充液单卖形成复购"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<32%，评分≥4.4，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Bubble Machines 类目页",
+      "cifnews.com 派对用品出海分析",
+      "baijing.cn 玩具爆款选品解读"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-camping-hammock-straps",
+    "name": "吊床绑树带",
+    "aliases": [
+      "Hammock Tree Straps",
+      "吊床绑带、树带",
+      "吊床安装带",
+      "Tree Saver Straps"
+    ],
+    "category": "户外用品",
+    "summary": "保护树皮的宽幅吊床绑带，吊床用户的必备安全配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 72,
+        "why": [
+          "美国许多州立公园要求使用宽幅树带保护树皮，法规约束直接催生绑带配件的稳定需求"
+        ],
+        "channels": [
+          "Amazon.com",
+          "REI 线上",
+          "Walmart Marketplace",
+          "TikTok Shop US"
+        ],
+        "entry": "做宽幅承重带与快挂扣组合，主打不伤树皮与调节长度，与吊床捆绑销售",
+        "risk": "承重虚标会引发跌落事故，需做拉力与反复调节测试"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 2,
+        "heat": 66,
+        "why": [
+          "日本露营地多为管理型营地，对树木保护有要求，绑带是使用吊床的前置条件"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "户外专门店"
+        ],
+        "entry": "做多段调节款并标注适用树径范围，配日文安装图示，先小批量测款",
+        "risk": "日语安全说明与承重标注须真实准确且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 62,
+        "why": [
+          "德国森林露营管理严格，宽幅树带被视为环保与合规的基础配置，用户对材质强度要求高"
+        ],
+        "channels": [
+          "Amazon.de",
+          "户外用品连锁",
+          "OTTO",
+          "露营专门店"
+        ],
+        "entry": "强调环保材质与拉力测试报告，配德文安装说明切入户外连锁，先小批量测款",
+        "risk": "纺织品染料与承重标注合规要求需同时满足且易被平台抽查"
+      },
+      {
+        "region": "拉美",
+        "country": "哥伦比亚",
+        "rank": 4,
+        "heat": 56,
+        "why": [
+          "哥伦比亚庭院与乡村地区吊床是日常休闲用具，绑带属长期使用的替换配件，需求稳定"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee CO",
+          "本地户外与家居店",
+          "本地批发市场"
+        ],
+        "entry": "做家用长款与耐晒材质，配西语安装说明，主推多件装，先小批量测款",
+        "risk": "长期日晒下纤维老化，需做耐候说明与警示且易被平台抽查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站与吊床做捆绑变体销售并配合内容种草",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投吊床配件与树带相关长尾词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接吊床厂商配套采购与品牌贴牌",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接户外进口商看织带与扣具质量",
+        "priority": 4
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做吊床安装教程带动配件组合并配合内容种草",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "看差评中的扣具与断裂问题改进并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "只投吊床配件精准词，避免泛户外流量",
+        "竞品定投测试宽幅与调节段数差异"
+      ],
+      "organic": [
+        "主图标注承重与适用树径",
+        "问答区说明安装与保护树木",
+        "与吊床捆绑提升客单"
+      ],
+      "budget": "$200-450/月",
+      "kpi": "ACoS<25%，评分≥4.5，退货率<4%"
+    },
+    "sources": [
+      "Amazon.com Hammock Straps 类目页",
+      "cifnews.com 户外配件出海分析",
+      "baijing.cn 露营吊床品类攻略"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "toy-kids-tent-playhouse",
+    "name": "儿童室内游戏帐篷",
+    "aliases": [
+      "Kids Play Tent / Playhouse Tent",
+      "儿童帐篷、游戏屋",
+      "印第安帐篷",
+      "Indoor Play Tent"
+    ],
+    "category": "玩具",
+    "summary": "免搭建的儿童室内游戏帐篷，小户型家庭打造儿童角的低成本方案",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国家庭重视儿童独立玩耍空间，室内帐篷能低成本圈出儿童角，节日与生日礼品需求集中"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "Target 线上",
+          "TikTok Shop US"
+        ],
+        "entry": "做免搭建弹出式与可折叠洗布款，主图展示收纳体积与安全无味材质",
+        "risk": "儿童产品需 CPSIA 认证，金属骨架与涂料需做安全测试"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "日本公寓面积小、儿童缺少独立空间，可折叠收纳的帐篷能让客厅临时变成儿童角"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "Yahoo!购物",
+          "母婴与玩具店"
+        ],
+        "entry": "做窄幅小尺寸与棉麻外观款，配色走日式家居风，配日文搭建说明，先小批量测款",
+        "risk": "ST 标识与阻燃要求，说明须日文合规且易被平台抽查"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 3,
+        "heat": 66,
+        "why": [
+          "法国家庭重视儿童想象游戏与圣诞礼品传统，木质与布艺游戏屋在礼品季销量集中"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "母婴专门店",
+          "本地礼品连锁"
+        ],
+        "entry": "做布艺加木质框架款，主打可洗与无味，进入礼品季陈列，先小批量测款",
+        "risk": "EN71 玩具安全与阻燃测试缺一不可且易被平台抽查"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 60,
+        "why": [
+          "阿联酋家庭子女多且住宅宽敞，室内游戏帐篷常用于生日派对与家庭聚会布置"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon",
+          "本地玩具连锁",
+          "Instagram 达人"
+        ],
+        "entry": "做大尺寸派对款与主题装饰套装，配阿拉伯语说明进入商场玩具区，先小批量测款",
+        "risk": "需 SASO/ESMA 认证，纺织品阻燃要求需核查"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "美国站做免搭建款，主图放收纳对比",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads（Sponsored Products）",
+        "type": "B2C",
+        "use": "投儿童帐篷与室内游戏屋词并配合内容种草",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍孩子搭建与收纳过程短视频并配合内容种草",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba 国际站",
+        "type": "B2B",
+        "use": "承接母婴与玩具品牌贴牌订单并配合内容种草",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接玩具与家居进口商看布料骨架",
+        "priority": 5
+      },
+      {
+        "name": "Instagram / Pinterest 内容",
+        "type": "社交",
+        "use": "做儿童房改造内容带动家居连带并配合内容种草",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "节日前集中投放礼品与儿童房改造词",
+        "竞品定投主攻免搭建与可折叠收纳"
+      ],
+      "organic": [
+        "主图展示收纳体积与安全材质",
+        "问答区说明适用年龄与清洗",
+        "配主题装饰套装提升客单"
+      ],
+      "budget": "$500-1000/月",
+      "kpi": "ACoS<30%，评分≥4.5，退货率<6%"
+    },
+    "sources": [
+      "Amazon.com Kids Play Tents 类目页",
+      "cifnews.com 儿童家居玩具出海分析",
+      "baijing.cn 母婴玩具选品攻略"
+    ],
+    "confidence": "medium"
+  }
+]

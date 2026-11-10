@@ -27,7 +27,20 @@
     var idx = [];
     entries.forEach(function (p, i) {
       idx.push({ key: norm(p.name), type: 'name', p: p, w: 100 });
-      (p.aliases || []).forEach(function (a) { idx.push({ key: norm(a), type: 'alias', p: p, w: 90 }); });
+      // 去掉括号/斜杠里的规格后缀，得到"净名"：「角磨机（100/125mm）」→「角磨机」
+      var bare = norm(String(p.name || '').replace(/[（(][^）)]*[）)]/g, '').split('/')[0]);
+      if (bare.length >= 2 && bare !== norm(p.name)) idx.push({ key: bare, type: 'name', p: p, w: 98 });
+      // 去掉品类前缀：「宠物慢食碗」→「慢食碗」、「木质积木」保持
+      var noPrefix = bare.replace(/^(宠物|猫用|狗用|儿童|婴儿|家用|商用|工业|户外|便携式?|折叠|硅胶|不锈钢|木质|汽车|电动车?|摩托车?|男式|女式|男士|女士)/, '');
+      if (noPrefix.length >= 2 && noPrefix !== bare) idx.push({ key: noPrefix, type: 'core', p: p, w: 70 });
+      (p.aliases || []).forEach(function (a) {
+        idx.push({ key: norm(a), type: 'alias', p: p, w: 90 });
+        // 别名里的顿号分隔多值（"吊床、露营吊床"）逐段入库
+        String(a).split(/[、,，;；\/]/).forEach(function (part) {
+          var k = norm(part);
+          if (k.length >= 2 && k !== norm(a)) idx.push({ key: k, type: 'alias', p: p, w: 88 });
+        });
+      });
       // 去掉修饰词的核心名（如"磁吸无线充电宝"→"充电宝"），让口语查询也能命中
       var core = norm(p.name).replace(/^(氮化镓多口|磁吸无线|真无线|电竞游戏|便携式|可折叠|多合一|车载|便携|户外储能|电动自行车)/, '')
         .replace(/(套装|整套解决方案|与支架|与转向灯|方案|配件)$/, '');
@@ -350,9 +363,15 @@
     //      但必须先确认"没有产品级精确命中"——否则会把"宠物用品"（pet-feeder 的别名）
     //      这种有实体的词错误降级成品类推断。
     if (nz.term && nz.expected && BROAD_CATEGORY_TERMS.indexOf(norm(input)) >= 0) {
+      // 只有"产品名净名恰好等于该词"才算真产品命中；"宠物服装"这种带前缀的具体品
+      // 不该抢走"服装"这个泛品类词
       var exactProduct = lookup(q);
-      var hasProductHit = exactProduct && /^(exact|alias|core)$/.test(exactProduct.via);
-      if (!hasProductHit) {
+      var realProduct = false;
+      if (exactProduct && /^(exact|alias|core)$/.test(exactProduct.via)) {
+        var bn = norm(String(exactProduct.entry.name || '').replace(/[（(][^）)]*[）)]/g, ''));
+        if (bn === norm(input)) realProduct = true;
+      }
+      if (!realProduct) {
         return { entry: null, broad: true, expected: nz.expected, label: nz.tokens[0], score: 0.5, via: 'broad-category' };
       }
     }
@@ -373,6 +392,14 @@
     //    category 标签（w=30）判成"品类级查询"，从而漏掉它在别名表里的真实指向。
     var exactAll = KB._index.filter(function (i) { return i.key === q; });
     var exactProduct = exactAll.filter(function (i) { return i.type !== 'category'; });
+    // 泛品类词优先：查询"服装"时，不应命中"宠物服装"（core 键 w=70）
+    if (BROAD_CATEGORY_TERMS.indexOf(q) >= 0 && exactProduct.length) {
+      var strictHits = exactProduct.filter(function (i) {
+        var bn = norm(String(i.p.name || '').replace(/[（(][^）)]*[）)]/g, ''));
+        return bn === q || i.type === 'name';
+      });
+      exactProduct = strictHits;
+    }
     if (exactProduct.length) {
       var maxW = Math.max.apply(null, exactProduct.map(function (i) { return i.w; }));
       exactProduct = exactProduct.filter(function (i) { return i.w === maxW; });
@@ -417,6 +444,12 @@
         if (i.type === 'category' || i.key.length < 3) return;
         if (Math.abs(i.key.length - q.length) > 2) return;
         if (i.key.charAt(0) !== q.charAt(0)) return;
+        // 语义错配防护：「灌装机」不能模糊到「灌肠机」——共有的字要在 60% 以上
+        var same = 0;
+        for (var ci = 0; ci < q.length; ci++) if (i.key.indexOf(q.charAt(ci)) >= 0) same++;
+        if (same / q.length < 0.7) return;
+        // 关键尾字必须一致：「灌装机」vs「灌肠机」尾字机相同但中段不同，再看长度
+        if (i.key.length !== q.length && same / q.length < 0.85) return;
         var d = dist(q, i.key);
         if (d <= Math.max(1, Math.floor(Math.min(q.length, i.key.length) / 4))) fuzzy.push({ i: i, d: d });
       });

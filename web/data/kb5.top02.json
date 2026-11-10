@@ -1,0 +1,5587 @@
+[
+  {
+    "id": "ce-gan-charger-65w",
+    "name": "65W氮化镓多口快充充电头",
+    "aliases": [
+      "65W GaN Charger",
+      "PD快充头",
+      "氮化镓充电器"
+    ],
+    "category": "充电器",
+    "summary": "一个头同时喂饱笔记本与手机，是跨境3C里复购最高的标品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "美国人均多设备持有量高，一台笔记本加两部手机是常态，桌面插座数量不够靠多口充电头解决"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 90,
+        "why": [
+          "德国办公与居家混合办公普及，笔记本通勤率高，轻量氮化镓头是随身必备"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 86,
+        "why": [
+          "日本住宅插座面板偏少且房间小，多口小体积充电头能减少插线板占用"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 82,
+        "why": [
+          "阿联酋外籍人口占比高、出差频繁，便携多口充电头是商务礼品与自用热销品"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 76,
+        "why": [
+          "澳洲人旅行与自驾频率高，插座规格与北美不同，多规格套装更受欢迎"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 4
+      },
+      {
+        "name": "Amazon.co.jp",
+        "type": "B2C",
+        "use": "日语详情页强调细节与质保，配日本本地仓做次日达",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打65W GaN Charger核心词与竞品ASIN定向",
+        "TikTok达人出差与桌面场景短视频挂车",
+        "Google Shopping承接品牌词与功率对比词"
+      ],
+      "organic": [
+        "Reddit数码社区做拆解实测",
+        "兼容机型对照表做详情页SEO",
+        "YouTube测评频道做长尾背书"
+      ],
+      "budget": "月1.2-1.8万美元，Amazon占55%",
+      "kpi": "ACOS<28%，月销8000台，退货率<3%，评分4.5以上"
+    },
+    "sources": [
+      "Amazon Chargers类目",
+      "USB-IF PD协议公开规范",
+      "海关8504.40出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-magsafe-magnetic-power-bank",
+    "name": "磁吸无线充电宝",
+    "aliases": [
+      "Magnetic Power Bank",
+      "MagSafe Battery Pack",
+      "磁吸充电宝"
+    ],
+    "category": "充电宝",
+    "summary": "吸附即充的便携电源，跟着iPhone生态走，欧日美需求集中。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 93,
+        "why": [
+          "美国iPhone保有量高且通勤时间长为拍照与导航耗电，磁吸充电宝无需带线是核心卖点"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 87,
+        "why": [
+          "英国通勤以地铁与公交为主，路上补电诉求强，磁吸款在TikTok上转化高"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 84,
+        "why": [
+          "德国人把户外徒步与骑行者当作日常，背包里常备一件轻量补电设备"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 80,
+        "why": [
+          "日本通勤时间普遍较长，便携小体积充电宝更符合手袋与西装口袋尺寸"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 5,
+        "heat": 75,
+        "why": [
+          "韩国手机配件更换频次很高，磁吸手机壳与充电宝经常被做成套装卖"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 2
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 3
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 4
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "TikTok美国达人通勤场景短视频挂车",
+        "Meta Advantage+扩兴趣人群",
+        "Amazon Sponsored Brands打磁吸充电宝品类词"
+      ],
+      "organic": [
+        "独立站做iPhone配件套装组合",
+        "YouTube旅行vlog植入",
+        "Pinterest送礼场景图文"
+      ],
+      "budget": "月1.2-1.8万美元，TikTok与Amazon各占35%",
+      "kpi": "ROAS>2.5，月销6000件，差评率<2%"
+    },
+    "sources": [
+      "Amazon US移动电源类目",
+      "Apple MagSafe生态公开资料",
+      "WPC Qi2标准公开信息"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-phone-lens-kit",
+    "name": "手机外接镜头套装",
+    "aliases": [
+      "Phone Camera Lens Kit",
+      "手机广角微距镜头",
+      "手机镜头"
+    ],
+    "category": "手机配件",
+    "summary": "让手机拍出广角与微距效果，旅行与自媒体人群的高连带配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国短视频创作者与露营博主多，不愿背单反的人数庞大，外接镜头是低成本升级方案"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 82,
+        "why": [
+          "日本旅拍与街拍文化强，手机摄影配件在相机卖场与电商双渠道畅销"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "德国户外与登山人群多，拍风景需要广角，因此对配件轻便性要求很高"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "印尼短视频与直播生态十分活跃，主播对微距与补光镜头的需求很高"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "墨西哥家庭聚会与旅游拍摄需求稳定，手机镜头作为礼品的属性很强"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.co.jp",
+        "type": "B2C",
+        "use": "日语详情页强调细节与质保，配日本本地仓做次日达",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 3
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 4
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打phone camera lens kit",
+        "TikTok拍前拍后对比短视频",
+        "YouTube摄影频道测评贴片"
+      ],
+      "organic": [
+        "手机摄影教程内容做长尾",
+        "旅行实拍样张对比页",
+        "Reddit摄影社区答疑"
+      ],
+      "budget": "月8000-1.2万美元，Amazon占50%",
+      "kpi": "ACOS<30%，月销5000套，退货率<5%"
+    },
+    "sources": [
+      "Amazon手机摄影配件类目",
+      "TikTok电商类目周报",
+      "海关9006.91出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-phone-gimbal-stabilizer",
+    "name": "手机手持稳定器",
+    "aliases": [
+      "Phone Gimbal Stabilizer",
+      "手机云台",
+      "防抖稳定器"
+    ],
+    "category": "手机配件",
+    "summary": "拍视频不抖的三轴云台，短视频创作者与旅拍人群的进阶装备",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国内容创作者规模大，直播与探店需要稳定画面，云台从专业走向家用"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国婚礼与活动跟拍需求稳定，手机云台正在替代入门级单反稳定器"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "日本旅拍与vlog文化成熟，轻量折叠云台在地铁通勤场景更实用"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "韩国美妆与穿搭博主十分密集，拍摄工具换代很快，且愿意为新品付费"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "澳洲户外与旅行博主数量很多，防抖与防水的双重需求相互叠加在一起"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 2
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 4
+      },
+      {
+        "name": "Amazon.co.jp",
+        "type": "B2C",
+        "use": "日语详情页强调细节与质保，配日本本地仓做次日达",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打phone gimbal核心词",
+        "TikTok创作者场景短视频投放",
+        "YouTube摄影频道贴片广告"
+      ],
+      "organic": [
+        "拍摄教程与运镜技巧内容",
+        "与博主联名做长测",
+        "独立站做套装组合"
+      ],
+      "budget": "月1.2万美元，内容与广告各半",
+      "kpi": "ACOS<32%，客单价>$79，月销2500台"
+    },
+    "sources": [
+      "Amazon稳定器类目",
+      "短视频创作工具行业公开报道",
+      "海关9006.91出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-tws-earbuds-anc",
+    "name": "主动降噪真无线耳机",
+    "aliases": [
+      "ANC TWS Earbuds",
+      "降噪蓝牙耳机",
+      "TWS降噪"
+    ],
+    "category": "耳机音频",
+    "summary": "百元级主动降噪TWS，通勤与办公降噪需求的主力出货形态",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "美国通勤与开放式办公室普遍，降噪诉求强，而且中端价位接受度高"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "印尼雅加达交通拥堵严重，摩托车与公交通勤需要降噪，TikTok直播转化强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "巴西地铁与公交通勤时间长，入门降噪耳机需求旺而本地供给价格偏高"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 77,
+        "why": [
+          "日本电车通勤密集，对安静环境的诉求强，且对做工与佩戴舒适很挑剔"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 5,
+        "heat": 73,
+        "why": [
+          "沙特年轻人娱乐消费占比很高，耳机既是日常随身配件也是送礼选择"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SASO与SABER认证，再通过利雅得与吉达批发市场铺货",
+        "risk": "认证周期长，沙特高温环境对产品可靠性要求更高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 2
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 3
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 4
+      },
+      {
+        "name": "Amazon.co.jp",
+        "type": "B2C",
+        "use": "日语详情页强调细节与质保，配日本本地仓做次日达",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打ANC earbuds与竞品ASIN定向",
+        "TikTok本地达人开箱与降噪对比",
+        "Shopee与ML站内关键词抢首页"
+      ],
+      "organic": [
+        "降噪实测视频做长尾",
+        "本地网红测评",
+        "店铺评价运营"
+      ],
+      "budget": "月1.5万美元，Amazon占45%",
+      "kpi": "ACOS<28%，月销1.5万副，退货率<5%"
+    },
+    "sources": [
+      "Canalys TWS出货公开报告",
+      "Amazon耳机类目BSR",
+      "海关8518.30出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-portable-bt-speaker",
+    "name": "便携防水蓝牙音箱",
+    "aliases": [
+      "Portable Bluetooth Speaker",
+      "IPX7音箱",
+      "户外蓝牙音箱"
+    ],
+    "category": "耳机音频",
+    "summary": "防水长续航小音箱，露营海滩与泳池场景的季节性冲量品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美国户外与泳池文化普及，防水音箱是夏季冲量标品，评论壁垒可积累"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "德国露营与骑行人群庞大，选购时非常重视防水等级与续航的实测值"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "澳洲海滩与露营文化成熟，防水与抗晒是用户购买过程的核心决策点"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "巴西海滩与派对文化带来稳定需求，而进口音频产品的本地供给偏少"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "阿联酋户外沙漠营地与朋友聚会盛行，因此高功率防水款的客单价偏高"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 2
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 3
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 4
+      },
+      {
+        "name": "Google Trends",
+        "type": "数据",
+        "use": "对比多国搜索热度判断淡旺季，指导备货与投放节奏",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打waterproof bluetooth speaker",
+        "TikTok夏季场景短视频挂车",
+        "Walmart站内广告做第二平台"
+      ],
+      "organic": [
+        "防水实测视频做长尾",
+        "露营社群口碑",
+        "站内评价与UGC回传"
+      ],
+      "budget": "月1.2万美元，旺季翻倍",
+      "kpi": "ACOS<28%，夏季月销8000台，退货率<5%"
+    },
+    "sources": [
+      "Amazon蓝牙音箱类目BSR",
+      "户外音频市场公开报告",
+      "海关8518.22出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-usb-c-hub-adapter",
+    "name": "USB-C多功能扩展坞",
+    "aliases": [
+      "USB-C Hub",
+      "Docking Station",
+      "Type-C扩展坞"
+    ],
+    "category": "数码配件",
+    "summary": "一线连多屏多接口，笔记本与掌机用户的刚需生产力配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 89,
+        "why": [
+          "美国远程办公普及，笔记本外接双屏与网口需求强，扩展坞是固定工位标配"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "德国企业办公数字化程度高，笔记本替代台式机后接口不足问题突出"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 81,
+        "why": [
+          "英国混合办公普遍，家里与公司各配一个扩展坞已经变成很常见的常态"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 76,
+        "why": [
+          "日本办公空间紧凑，多接口集成的扩展坞能明显减少桌面上堆的线材"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 5,
+        "heat": 72,
+        "why": [
+          "韩国网吧与电竞用户常把掌机接到大屏幕上，对扩展坞的需求很稳定"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 3
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "北美第二平台分散风险，用WFS对标FBA时效",
+        "priority": 4
+      },
+      {
+        "name": "LinkedIn",
+        "type": "B2B",
+        "use": "按职位搜进口商采购，做内容式开发信回复率更高",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打docking station高意图词",
+        "Google Search收割MacBook适配长尾",
+        "Walmart站内广告做第二平台"
+      ],
+      "organic": [
+        "企业IT采购用LinkedIn做B端内容",
+        "YouTube办公装备测评",
+        "Reddit笔记本社区答疑"
+      ],
+      "budget": "月1-1.2万美元，Amazon占60%",
+      "kpi": "ACOS<25%，客单价>$45，企业批量占比>20%"
+    },
+    "sources": [
+      "Amazon扩展坞类目数据",
+      "Thunderbolt与DisplayLink授权公开信息。",
+      "海关8471.80出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-nvme-ssd-enclosure",
+    "name": "NVMe硬盘盒",
+    "aliases": [
+      "NVMe SSD Enclosure",
+      "M.2硬盘盒",
+      "外置固态硬盘盒"
+    ],
+    "category": "数码配件",
+    "summary": "把闲置固态盘变成移动硬盘，极客与内容创作者的高复购配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国创客与视频剪辑人群多，素材外置存储需求大，硬盘盒比整盘便宜"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国数据隐私意识强，用本地外置存储替代云盘的需求一直比较稳定"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "日本相机与视频拍摄用户很多，外拍回来的素材需要快速拷贝与备份"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "韩国电竞与直播用户对高速传输敏感，愿意为USB4与雷电方案付费"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 68,
+        "why": [
+          "澳洲视频创作者分布分散，外置高速存储是剪辑流程里的硬性刚需件"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Reddit / 垂类论坛",
+        "type": "社交",
+        "use": "在对应垂类做真实使用贴与答疑，导流独立站",
+        "priority": 2
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 4
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打NVMe enclosure",
+        "Google Shopping承接接口与速率长尾词",
+        "YouTube科技频道贴片"
+      ],
+      "organic": [
+        "Reddit硬件社区做实测答疑",
+        "兼容性对照表做SEO",
+        "评测频道拆解背书"
+      ],
+      "budget": "月8000美元，内容与广告各半",
+      "kpi": "ACOS<30%，客单价>$29，月销5000件"
+    },
+    "sources": [
+      "Amazon存储配件类目",
+      "USB-IF与雷电规范公开资料",
+      "海关8471.80出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-tablet-keyboard-case",
+    "name": "平板磁吸键盘保护套",
+    "aliases": [
+      "Tablet Keyboard Case",
+      "iPad键盘套",
+      "平板妙控键盘"
+    ],
+    "category": "数码配件",
+    "summary": "平板变轻办公的复合配件，跟平板保有量走的高客单附件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 87,
+        "why": [
+          "美国学生与自由职业者用平板做轻办公，键盘套比再买一台笔记本便宜"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 82,
+        "why": [
+          "英国课堂无纸化推进，学生配件需求稳定，而且订阅式购买习惯较强"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "德国大学生群体大，用平板做笔记是常态，键盘套常与触控笔成套买"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "日本通勤时间普遍比较长，平板加键盘套比背一台笔记本更轻便省力"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "韩国学生与办公族普遍偏好轻量设备，相关配件的换代速度也因此非常快"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 3
+      },
+      {
+        "name": "Coupang",
+        "type": "B2C",
+        "use": "韩国火箭配送做时效壁垒，配韩语详情页降低退货",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium10",
+        "type": "数据",
+        "use": "用BSR与关键词搜索量选品定价，反推竞品差评做改进",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打iPad键盘套机型词",
+        "Temu站内推荐位",
+        "Coupang韩国站内广告"
+      ],
+      "organic": [
+        "机型对照表详情页SEO",
+        "学生场景内容",
+        "组合装连带"
+      ],
+      "budget": "月9000美元，Amazon占60%",
+      "kpi": "ACOS<25%，月销1.5万件，退货率<4%"
+    },
+    "sources": [
+      "Amazon平板配件类目",
+      "平板出货量公开数据",
+      "海关8471.60出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-bt-car-kit",
+    "name": "车载蓝牙免提接收器",
+    "aliases": [
+      "Bluetooth Car Kit",
+      "车载蓝牙AUX",
+      "车载免提"
+    ],
+    "category": "车载电子",
+    "summary": "让老车直接变成蓝牙播放，车龄偏老市场的低成本升级配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国平均车龄偏高，老款车无蓝牙是常态，接收器是最低成本的升级方案"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "墨西哥二手与老款车保有量大，车载蓝牙接收器是入门改装首先买的件"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 3,
+        "heat": 73,
+        "why": [
+          "巴西车龄偏老而且通勤堵车时间长，车内娱乐升级的需求一直很稳定"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "印尼摩托车与老款车保有量大，车载音频配件在Shopee出货很快"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "沙特改装文化十分盛行，给老款车加装蓝牙与音频设备是件很平常的事"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SASO与SABER认证，再通过利雅得与吉达批发市场铺货",
+        "risk": "认证周期长，沙特高温环境对产品可靠性要求更高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 2
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "长尾配件与翻新款靠搜索曝光，用适配表吃精准流量",
+        "priority": 3
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打bluetooth car kit",
+        "ML站内广告与分期付款",
+        "Shopee关键词抢类目"
+      ],
+      "organic": [
+        "车型适配说明做SEO",
+        "车内实测短视频",
+        "汽配论坛答疑"
+      ],
+      "budget": "月7000美元，平台广告占70%",
+      "kpi": "月销3万件，ACOS<25%，退货率<5%"
+    },
+    "sources": [
+      "Amazon车载电子类目",
+      "US车辆平均车龄公开统计",
+      "海关8517.62出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-car-charger-quick",
+    "name": "车载快充充电器",
+    "aliases": [
+      "Car Charger",
+      "QC车载充电器",
+      "车充"
+    ],
+    "category": "充电器",
+    "summary": "一插即用的高功率车充，出差与自驾场景的常备小件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 85,
+        "why": [
+          "美国自驾与长途通勤普遍，车内多台设备同时充电的诉求非常强烈。"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国车用电子配件在加油站与汽配电商渠道都畅销，且特别重视安规"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "阿联酋豪车保有量高且长途驾驶多，双口高功率车充是礼品与自用常备"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 71,
+        "why": [
+          "巴西网约车司机数量庞大，车内充电已经成为乘客眼里的刚性需求点"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 67,
+        "why": [
+          "澳洲自驾与越野文化很强，车载充电器是长途出行必带的小件之一。"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 3
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "长尾配件与翻新款靠搜索曝光，用适配表吃精准流量",
+        "priority": 4
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页加本地仓，蹭斋月与白色星期五大促",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打车载快充品类词",
+        "Temu站内推荐位冲量",
+        "Noon中东站内广告"
+      ],
+      "organic": [
+        "多口协议对照表",
+        "车主论坛答疑",
+        "组合装连带"
+      ],
+      "budget": "月6000-9000美元，平台广告占75%",
+      "kpi": "月销5万件，ACOS<20%，退货率<4%"
+    },
+    "sources": [
+      "Amazon车充类目",
+      "USB-IF协议公开规范",
+      "海关8504.40出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-car-phone-holder",
+    "name": "车载手机支架",
+    "aliases": [
+      "Car Phone Mount",
+      "Magnetic Car Holder",
+      "磁吸车载支架"
+    ],
+    "category": "车载配件",
+    "summary": "低单价高复购的车内小配件，靠适配性与磁吸体验做爆款",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国网约车司机数量庞大，导航需要视线内的支架，磁吸款单手操作方便"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "巴西网约车与摩托车配送人群庞大，支架是接单跑单必备的生产工具"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "印尼摩托车配送文化盛行，骑行支架与车载支架的销量一直都很稳定"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 4,
+        "heat": 71,
+        "why": [
+          "墨西哥网约车与自驾出行都依赖手机导航，支架的更换频次相当高。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 5,
+        "heat": 68,
+        "why": [
+          "加拿大家庭自驾与房车出行都多，手机支架属于车内常备的小件之一"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 2
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 4
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打magnetic phone mount",
+        "TikTok车内实测短视频",
+        "Mercado Libre站内Promotion"
+      ],
+      "organic": [
+        "套装组合与多场景内容",
+        "本地司机社群口碑",
+        "多车型适配说明页"
+      ],
+      "budget": "月7000-1万美元，平台广告占70%",
+      "kpi": "月销6万件，ACOS<22%，退货率<4%"
+    },
+    "sources": [
+      "Amazon车载支架类目BSR",
+      "拉美与东南亚平台类目榜",
+      "海关8302.30出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-smart-band-fitness",
+    "name": "智能手环",
+    "aliases": [
+      "Smart Band",
+      "Fitness Tracker",
+      "运动手环"
+    ],
+    "category": "可穿戴",
+    "summary": "心率血氧续航三件套，中低价位可穿戴的主力出货形态",
+    "markets": [
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "印尼年轻人口多、健身应用普及，入门手环是他们第一件可穿戴设备"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 79,
+        "why": [
+          "巴西健身与跑步人群增长快，手环是他们社交平台晒数据的基础装备"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "墨西哥年轻上班族数量多，手环能兼看消息与计步，通勤场景需求强"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 71,
+        "why": [
+          "阿联酋外籍劳工与白领混合，手环作为礼品与员工福利的采购量较大"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 5,
+        "heat": 68,
+        "why": [
+          "沙特年轻人口比例很高，运动与作息提醒是手环一个很隐蔽的购买动因"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SASO与SABER认证，再通过利雅得与吉达批发市场铺货",
+        "risk": "认证周期长，沙特高温环境对产品可靠性要求更高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 2
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页加本地仓，蹭斋月与白色星期五大促",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 4
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Shopee与ML站内广告抢类目首页",
+        "TikTok运动场景达人短视频",
+        "Noon首页活动位"
+      ],
+      "organic": [
+        "本地健身博主长测",
+        "健康管理内容科普",
+        "表盘商店与App生态运营"
+      ],
+      "budget": "月1万美元，本地平台广告占70%",
+      "kpi": "月销1.5万只，ACOS<27%，App留存>30%"
+    },
+    "sources": [
+      "IDC可穿戴设备季度跟踪",
+      "Canalys手环出货公开数据",
+      "海关8517.62出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-mini-projector",
+    "name": "便携投影仪",
+    "aliases": [
+      "Portable Projector",
+      "Mini Projector",
+      "家用投影"
+    ],
+    "category": "影音设备",
+    "summary": "卧室与露营场景的入门投影，用流明与体积打动价格敏感家庭",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国租房人群与露营爱好者多，不愿装吊装投影，便携款可随搬随用"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 79,
+        "why": [
+          "巴西家中观影习惯强，投影比大屏电视便宜，在社交媒体上传播极快"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "阿联酋外籍人群合租十分普遍，便携投影是租房场景的主要娱乐替代"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "墨西哥家庭娱乐支出集中在体育赛事与剧集，投影是高性价比的选择"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "印尼民宿与小型放映场景比较多，入门投影所处的价格带普遍能被接受"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 4
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页加本地仓，蹭斋月与白色星期五大促",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打1080P projector",
+        "TikTok家庭影院场景短视频",
+        "Google独立站搜索广告"
+      ],
+      "organic": [
+        "YouTube投影实拍对比",
+        "露营场景内容营销",
+        "本地KOL测评"
+      ],
+      "budget": "月1.5万美元，Amazon与独立站各40%",
+      "kpi": "ACOS<32%，客单价>$120，月销3000台"
+    },
+    "sources": [
+      "Amazon投影类目",
+      "洛图科技智能投影公开报告",
+      "海关8528.62出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-power-bank-20000",
+    "name": "20000mAh大容量充电宝",
+    "aliases": [
+      "Power Bank 20000mAh",
+      "大容量移动电源",
+      "快充充电宝"
+    ],
+    "category": "充电宝",
+    "summary": "能充三次手机的大容量款，长差旅与户外场景的刚需备电",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国长途自驾与露营多，大容量充电宝要能同时给无人机与手机供电"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "德国长途火车出行与户外徒步习惯强，充电宝属于随身常备的一件物品"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "日本灾害应急意识很强，家庭常备大容量移动电源与手电等应急装备"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "巴西停电与户外活动长期并存，大容量款正在逐步替代小容量移动电源"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "印尼岛屿之间的旅行与轮渡场景较多，长续航备电的需求一直很稳定"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 3
+      },
+      {
+        "name": "Google Trends",
+        "type": "数据",
+        "use": "对比多国搜索热度判断淡旺季，指导备货与投放节奏",
+        "priority": 4
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打20000mAh power bank",
+        "Temu站内秒杀冲量",
+        "Google Shopping收割容量对比词"
+      ],
+      "organic": [
+        "应急备灾场景内容",
+        "容量实测对比",
+        "旅行装备清单种草"
+      ],
+      "budget": "月1.1万美元，平台广告占70%",
+      "kpi": "月销1.2万台，ACOS<28%，退货率<3%"
+    },
+    "sources": [
+      "Amazon移动电源类目",
+      "航空运输锂电池公开规定",
+      "海关8507.60出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-multiport-charger-100w",
+    "name": "100W桌面多口充电站",
+    "aliases": [
+      "100W Desktop Charger",
+      "桌面充电站",
+      "多口快充电源"
+    ],
+    "category": "充电器",
+    "summary": "一机替代插线板的桌面充电中心，多设备家庭的整洁方案",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国桌面设备多，插线板再加一堆适配器太占地方，集成度高更受欢迎"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 79,
+        "why": [
+          "德国家庭对桌面整洁的诉求很强，桌面充电站能兼顾美观与用电安全"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "澳洲家庭人均设备数量多，桌面集中充电能减少插线板与线材的数量"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "日本住宅面积普遍偏小，桌面整齐与少占用插座是主要的购买动因。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "阿联酋家居装修很讲究质感，充电站常作为家电风格配套一起采买。"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 4
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "北美第二平台分散风险，用WFS对标FBA时效",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打100W desktop charger",
+        "Google Shopping承接GaN长尾",
+        "Walmart站内广告"
+      ],
+      "organic": [
+        "桌面改造内容",
+        "兼容设备清单页",
+        "YouTube装备测评"
+      ],
+      "budget": "月9000美元，平台与独立站各半",
+      "kpi": "ACOS<29%，客单价>$59，月销4000台"
+    },
+    "sources": [
+      "Amazon桌面充电类目",
+      "USB-IF PD公开规范",
+      "海关8504.40出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-cable-lightning-braided",
+    "name": "编织快充数据线套装",
+    "aliases": [
+      "Braided USB-C Cable",
+      "编织数据线",
+      "快充线"
+    ],
+    "category": "线材",
+    "summary": "低单价高频消耗品，靠认证与组合装冲量，全托管平台基本款",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美国家庭人均数据线保有量高且易损坏，组合装补货是常态购买行为"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "巴西数据线价格高且损耗快，多支装组合在Mercado Libre转化好"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 3,
+        "heat": 77,
+        "why": [
+          "印尼手机使用强度很高，线材更换频次高，低价组合装在平台很畅销"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "墨西哥网约车与外卖骑手都多，车内与随身的线材消耗速度都很快。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 5,
+        "heat": 68,
+        "why": [
+          "沙特家庭普遍拥有多台设备，多口线与多支装礼盒在节庆期间受欢迎"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SASO与SABER认证，再通过利雅得与吉达批发市场铺货",
+        "risk": "认证周期长，沙特高温环境对产品可靠性要求更高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 1
+      },
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 2
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 3
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Temu站内推荐位与秒杀",
+        "Shopee关键词广告冲类目排名",
+        "TikTok低价爆款短视频"
+      ],
+      "organic": [
+        "组合装捆绑销售",
+        "多语言详情页做平台SEO",
+        "评价运营做首屏口碑"
+      ],
+      "budget": "月6000-9000美元，平台内广告占75%",
+      "kpi": "单条成本<$0.6，月出30万条，退货率<4%"
+    },
+    "sources": [
+      "海关8544.42出口口径",
+      "Temu与Shopee类目价格带",
+      "USB-IF认证公开规范"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-usb-c-cable-240w",
+    "name": "240W大功率USB-C线",
+    "aliases": [
+      "240W USB-C Cable",
+      "USB4线缆",
+      "大功率快充线"
+    ],
+    "category": "线材",
+    "summary": "适配最新快充协议的规格领先线材，容易被极客与笔记本用户复购。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国笔记本用户数量庞大，用一根线同时供电与外接屏幕是真正刚需"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "德国工程师与IT人群对规格参数敏感，愿意为达标线材支付一定溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "日本电子卖场对线材规格标注严格，参数达标的产品更容易建立信任"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "韩国电竞与直播用户对传输速率敏感，USB4线材的需求比较稳定"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 64,
+        "why": [
+          "澳洲远程办公与多屏用户持续增长，大功率线材的换购需求开始出现"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Reddit / 垂类论坛",
+        "type": "社交",
+        "use": "在对应垂类做真实使用贴与答疑，导流独立站",
+        "priority": 2
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 4
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打240W USB-C cable",
+        "Google Shopping承接规格长尾",
+        "YouTube科技频道贴片"
+      ],
+      "organic": [
+        "Reddit硬件社区答疑",
+        "规格实测数据图表",
+        "兼容设备清单"
+      ],
+      "budget": "月7000美元，内容与广告各半",
+      "kpi": "ACOS<30%，客单价>$19，月销1.2万条"
+    },
+    "sources": [
+      "USB-IF 240W PD3.1公开规范",
+      "Amazon线材类目",
+      "海关8544.42出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-wireless-charger-stand",
+    "name": "立式无线充电座",
+    "aliases": [
+      "Wireless Charging Stand",
+      "立式无线充",
+      "桌面无线充"
+    ],
+    "category": "充电器",
+    "summary": "立起来边充电边看屏幕，办公与床头场景的桌面配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国办公桌边充电边看通知的需求强，立式摆放比平放确实更实用些"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "英国住宅与办公桌面空间都十分有限，立式充电座更节省占地面积。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本桌面收纳十分讲究，立式充电座常与托盘式收纳件搭配着使用。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "韩国手机配件更新换代很快，立式无线充常与手机壳一起做成套装。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "阿联酋礼品与酒店客房配套需求一直存在，对做工与外观的要求很高"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 2
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 3
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页加本地仓，蹭斋月与白色星期五大促",
+        "priority": 4
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打wireless charging stand",
+        "Temu站内推荐位",
+        "Noon中东站内广告"
+      ],
+      "organic": [
+        "桌面改造内容",
+        "兼容机型对照表",
+        "礼盒与套装组合"
+      ],
+      "budget": "月8000美元，平台广告占70%",
+      "kpi": "ACOS<27%，月销1万件，退货率<4%"
+    },
+    "sources": [
+      "WPC Qi2标准公开资料",
+      "Amazon无线充电类目",
+      "海关8504.40出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-selfie-ring-light",
+    "name": "环形补光灯",
+    "aliases": [
+      "Ring Light",
+      "直播补光灯",
+      "美颜环灯"
+    ],
+    "category": "直播设备",
+    "summary": "直播与自拍的基础补光装备，内容创作者入门第一件器材",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国远程会议与直播需求都大，补个光能让画面质量立刻上一个档次"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "印尼直播带货生态十分活跃，主播基本上人手一台补光灯与支架设备"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "巴西网红与短视频创作者数量多，补光灯所处价格带的接受度比较高"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "墨西哥电商直播增长很快，补光灯与三脚架经常被打包做成组合销售"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 68,
+        "why": [
+          "阿联酋美妆博主十分密集，补光灯加手机支架的组合几乎是标配装备"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 2
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 3
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 4
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打ring light",
+        "TikTok直播场景短视频挂车",
+        "Shopee站内关键词"
+      ],
+      "organic": [
+        "直播布光教程",
+        "创作者装备清单",
+        "组合套装连带"
+      ],
+      "budget": "月8000美元，平台广告占70%",
+      "kpi": "ACOS<25%，月销1.5万套，退货率<5%"
+    },
+    "sources": [
+      "Amazon直播设备类目",
+      "直播电商行业公开报告",
+      "海关9405.40出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-phone-tripod-selfie",
+    "name": "三脚架自拍杆二合一",
+    "aliases": [
+      "Selfie Stick Tripod",
+      "自拍杆三脚架",
+      "直播支架"
+    ],
+    "category": "手机配件",
+    "summary": "一人拍全身照与直播的支架，旅拍与带货的双场景刚需",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国旅拍与直播人群都多，能兼做三脚架的自拍杆可以减少随身件数"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "印尼直播带货与短视频拍摄十分密集，支架几乎已经到了人手一支。"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "巴西旅行与家庭聚会拍摄多，支架在Mercado Libre常年热销"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "阿联酋外籍人口旅行频率很高，便携支架属于经常复购的配件之一。"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "澳洲户外与旅拍场景都多，结构稳固性是用户最看重的选购点之一。"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 2
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 3
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 4
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打selfie stick tripod",
+        "TikTok旅行场景短视频",
+        "Shopee与ML站内广告"
+      ],
+      "organic": [
+        "构图与拍摄技巧内容",
+        "组合装连带",
+        "评价运营"
+      ],
+      "budget": "月7000美元，平台广告占70%",
+      "kpi": "月销2万件，ACOS<23%，退货率<4%"
+    },
+    "sources": [
+      "Amazon手机配件类目",
+      "直播装备市场公开报道",
+      "海关8517.70附件口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-gaming-mouse-light",
+    "name": "轻量化电竞游戏鼠标",
+    "aliases": [
+      "Gaming Mouse",
+      "Esports Mouse",
+      "轻量化鼠标"
+    ],
+    "category": "电竞外设",
+    "summary": "轻量化加高回报率的电竞鼠标，靠参数与玩家口碑在欧美打爆",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美国PC与主机玩家规模大，轻量化与传感器参数是选购核心，评价壁垒高"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "欧洲电竞赛事与俱乐部高度集中，德国玩家尤其看重手感与耐用程度"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "韩国网吧与电竞产业十分发达，外设换代快而且对新品的接受度很高"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "巴西电竞玩家增长很快，入门价位鼠标需求旺而本地供给的价格偏高"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "菲律宾手游与网吧文化带来大量外设需求，TikTok直播转化很强"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "先拿跨境店小包做测款，配合本地网红打低价爆款，再转到本地仓。",
+        "risk": "菲律宾物流时效较差，客诉与退货率整体偏高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Coupang",
+        "type": "B2C",
+        "use": "韩国火箭配送做时效壁垒，配韩语详情页降低退货",
+        "priority": 3
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 4
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打lightweight gaming mouse",
+        "TikTok电竞达人开箱",
+        "YouTube游戏频道贴片"
+      ],
+      "organic": [
+        "Reddit参数实测与固件答疑",
+        "赞助本地半职业战队",
+        "Discord社群运营"
+      ],
+      "budget": "月1-1.5万美元，Amazon占50%",
+      "kpi": "ACOS<30%，月销5000只，配件连带>12%"
+    },
+    "sources": [
+      "Amazon游戏鼠标类目",
+      "电竞外设行业公开报道",
+      "海关8471.60出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-gaming-headset",
+    "name": "电竞耳机",
+    "aliases": [
+      "Gaming Headset",
+      "Esports Headset",
+      "游戏耳机"
+    ],
+    "category": "电竞外设",
+    "summary": "低延迟与语音清晰度为核心卖点，靠玩家口碑与主播带货起量",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 91,
+        "why": [
+          "美国主机与PC玩家规模全球领先，愿意为麦克风清晰度与舒适度付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "德国玩家尤其看重佩戴舒适与耐用，而欧洲整体的电竞观众规模也很大"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "韩国网吧密度高，B端批量采购与线上零售这两条线的需求同时存在"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 73,
+        "why": [
+          "巴西年轻人娱乐消费集中，入门电竞耳机在Mercado Libre常年热销"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 5,
+        "heat": 69,
+        "why": [
+          "菲律宾手游与网吧文化带来大量入门耳机需求，直播带货转化也很强"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "先拿跨境店小包做测款，配合本地网红打低价爆款，再转到本地仓。",
+        "risk": "菲律宾物流时效较差，客诉与退货率整体偏高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 2
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 3
+      },
+      {
+        "name": "Coupang",
+        "type": "B2C",
+        "use": "韩国火箭配送做时效壁垒，配韩语详情页降低退货",
+        "priority": 4
+      },
+      {
+        "name": "Reddit / 垂类论坛",
+        "type": "社交",
+        "use": "在对应垂类做真实使用贴与答疑，导流独立站",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打gaming headset品类词",
+        "TikTok游戏直播切片投放",
+        "YouTube测评频道贴片"
+      ],
+      "organic": [
+        "麦克风与延迟实测内容",
+        "Reddit外设社区口碑",
+        "赞助半职业战队"
+      ],
+      "budget": "月1.8万美元，Amazon占50%",
+      "kpi": "ACOS<30%，月销6000只，退货率<5%"
+    },
+    "sources": [
+      "Amazon游戏耳机类目",
+      "电竞产业年度公开报告",
+      "海关8518.30出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-laptop-stand-aluminum",
+    "name": "铝合金笔记本支架",
+    "aliases": [
+      "Laptop Stand",
+      "笔记本散热支架",
+      "铝合金支架"
+    ],
+    "category": "数码配件",
+    "summary": "抬高屏幕改善颈椎的桌面必备件，办公与居家双场景刚需",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 83,
+        "why": [
+          "美国远程办公与居家办公普及，颈肩问题普遍，抬升屏幕是低成本改善"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 79,
+        "why": [
+          "德国工位人体工学规范意识很强，雇主与员工都愿意为支架付这笔钱"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "日本办公桌面空间普遍很小，可折叠支架能兼顾收纳与外出携带需求"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 4,
+        "heat": 71,
+        "why": [
+          "英国混合办公常态化，家里与公司各配一个支架已成了常见配置已成惯例"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 67,
+        "why": [
+          "澳洲远程办公比例较高，居家工位的改造与升级需求一直都比较稳定"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Amazon.co.jp",
+        "type": "B2C",
+        "use": "日语详情页强调细节与质保，配日本本地仓做次日达",
+        "priority": 3
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打laptop stand",
+        "Google Shopping承接人体工学长尾",
+        "Amazon.de站内广告"
+      ],
+      "organic": [
+        "办公工位改造内容",
+        "兼容尺寸表做SEO",
+        "YouTube装备测评"
+      ],
+      "budget": "月8000美元，Amazon占60%",
+      "kpi": "ACOS<26%，月销1.2万件，退货率<4%"
+    },
+    "sources": [
+      "Amazon笔记本配件类目",
+      "人体工学办公公开研究",
+      "海关8302.50出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-laptop-sleeve",
+    "name": "防泼水笔记本内胆包",
+    "aliases": [
+      "Laptop Sleeve",
+      "笔记本内胆包",
+      "电脑保护套"
+    ],
+    "category": "数码配件",
+    "summary": "通勤与出差的第一道保护，跟笔记本型号走的高连带配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "美国通勤以自驾与公交为主，内胆包加一个背包是十分常见的组合。"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "英国一年里雨天很多，防泼水材质成了内胆包最被看重的选购点之一"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本早高峰的电车十分拥挤，笔记本内衬包需要足够轻量而且耐磨防刮"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "德国办公室与共享工位都多，内胆包方便笔记本随身移动与收纳整齐"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "韩国学生与上班族普遍偏好简约设计，相关款式的换代节奏非常快。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 3
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium10",
+        "type": "数据",
+        "use": "用BSR与关键词搜索量选品定价，反推竞品差评做改进",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打laptop sleeve机型词",
+        "Temu站内推荐位",
+        "Google Shopping承接尺寸词"
+      ],
+      "organic": [
+        "尺寸对照表SEO",
+        "学生与通勤场景内容",
+        "组合装连带"
+      ],
+      "budget": "月7000美元，平台与独立站各半",
+      "kpi": "ACOS<27%，月销1.5万件，退货率<5%"
+    },
+    "sources": [
+      "Amazon笔记本包类目",
+      "笔记本出货量公开数据",
+      "海关4202.12出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-bt-headphone-overear",
+    "name": "头戴式蓝牙耳机",
+    "aliases": [
+      "Over-Ear Bluetooth Headphones。",
+      "头戴降噪耳机",
+      "大耳罩耳机"
+    ],
+    "category": "耳机音频",
+    "summary": "长续航大耳罩耳机，办公降噪与长途飞行的选择",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国长途飞行与开放办公普遍，大耳罩降噪属于实实在在的硬性刚需"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 81,
+        "why": [
+          "德国火车通勤与远程办公的比例都很高，对降噪耳机的接受度也很高"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 77,
+        "why": [
+          "日本电车与办公室对安静要求很高，头戴款能同时兼顾音质与降噪。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "阿联酋航空出行十分频繁，长续航降噪耳机是旅行行李中的常备物品"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 68,
+        "why": [
+          "巴西通勤时间很长，头戴耳机兼作娱乐设备与隔绝环境噪音的工具。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 3
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页加本地仓，蹭斋月与白色星期五大促",
+        "priority": 4
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打over ear headphones",
+        "TikTok降噪对比短视频",
+        "Noon中东站内广告"
+      ],
+      "organic": [
+        "降噪实测内容",
+        "旅行装备清单",
+        "YouTube音频频道测评"
+      ],
+      "budget": "月1.2万美元，Amazon占55%",
+      "kpi": "ACOS<30%，月销4000只，退货率<5%"
+    },
+    "sources": [
+      "Amazon头戴耳机类目",
+      "音频行业公开报告",
+      "海关8518.30出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-smart-watch-call",
+    "name": "蓝牙通话智能手表",
+    "aliases": [
+      "Smart Watch",
+      "通话手表",
+      "智能手表"
+    ],
+    "category": "可穿戴",
+    "summary": "能接打电话的入门智能表，替代手环的升级消费",
+    "markets": [
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "印尼年轻用户把智能手表当作社交与运动身份象征，通话功能很实用"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "巴西运动与健身人群持续增长，手表需要同时兼顾外观与计步两个功能"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "墨西哥上班族需要及时收到来电提醒，但又不想每次都掏出手机来看"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 4,
+        "heat": 69,
+        "why": [
+          "沙特年轻人口比例很高，智能手表同时具备非常强的礼品与社交属性"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SASO与SABER认证，再通过利雅得与吉达批发市场铺货",
+        "risk": "认证周期长，沙特高温环境对产品可靠性要求更高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 65,
+        "why": [
+          "阿联酋礼品与员工福利采购场景常见，对做工与包装的要求也比较高"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 2
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页加本地仓，蹭斋月与白色星期五大促",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 4
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Shopee与ML站内广告",
+        "TikTok本地达人手腕展示",
+        "Noon首页活动"
+      ],
+      "organic": [
+        "运动数据内容",
+        "表盘商店运营",
+        "礼品组合套装"
+      ],
+      "budget": "月9000美元，本地平台占70%",
+      "kpi": "月销1万只，ACOS<27%，退货率<5%"
+    },
+    "sources": [
+      "IDC可穿戴公开跟踪",
+      "Canalys穿戴出货公开数据",
+      "海关8517.62出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-smart-glasses-audio",
+    "name": "蓝牙音频眼镜",
+    "aliases": [
+      "Bluetooth Audio Glasses",
+      "音频眼镜",
+      "骨传导眼镜"
+    ],
+    "category": "可穿戴",
+    "summary": "把耳机装进镜架，通勤与骑行免手持有声音",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国骑行与跑步人群都多，不入耳的音频眼镜能兼顾安全与娱乐需求"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 73,
+        "why": [
+          "德国骑行通勤十分普及，不入耳的设计更符合当地的道路安全习惯。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 69,
+        "why": [
+          "日本通勤骑行与步行的比例很高，简约外观更容易被本地消费者接受"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 65,
+        "why": [
+          "澳洲户外运动文化很强，骑行与冲浪场景都需要不塞住耳朵的音频设备"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "韩国年轻消费者把新形态可穿戴产品当作潮流单品，因此接受度较高"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 3
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 4
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打smart glasses audio",
+        "YouTube科技频道测评贴片",
+        "TikTok骑行场景短视频"
+      ],
+      "organic": [
+        "骑行实拍内容",
+        "外观与镜片定制内容",
+        "Reddit可穿戴社区答疑"
+      ],
+      "budget": "月1万美元，内容与广告各半",
+      "kpi": "ACOS<33%，客单价>$59，月销2000副"
+    },
+    "sources": [
+      "Amazon可穿戴类目",
+      "智能眼镜行业公开报道",
+      "海关9004.10出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-smart-home-camera",
+    "name": "家用WiFi监控摄像头",
+    "aliases": [
+      "Smart Home Camera",
+      "室内云台摄像头",
+      "家用监控"
+    ],
+    "category": "智能家居",
+    "summary": "远程看家看宠物的室内摄像头，家庭安全感的基础配置",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 87,
+        "why": [
+          "美国独栋住宅多而且常有包裹丢失，室内摄像头配合门铃做两点覆盖"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 81,
+        "why": [
+          "德国对数据隐私与GDPR要求高，本地存储方案比纯云方案更受欢迎"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "阿联酋家庭雇佣保姆与家政十分普遍，室内监控常用于看护老人小孩"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 71,
+        "why": [
+          "巴西治安状况使家庭监控成为刚性需求，能云台旋转的款式尤其好卖"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 5,
+        "heat": 67,
+        "why": [
+          "印尼多代同堂家庭很多，远程查看老人与小孩的需求一直比较稳定。"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页加本地仓，蹭斋月与白色星期五大促",
+        "priority": 3
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 4
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打wifi camera indoor",
+        "Noon中东站内广告",
+        "Shopee与ML站内推广"
+      ],
+      "organic": [
+        "安装教程与场景内容",
+        "隐私政策透明化说明",
+        "兼容生态清单"
+      ],
+      "budget": "月1万美元，Amazon占50%",
+      "kpi": "ACOS<30%，月销8000台，退货率<5%"
+    },
+    "sources": [
+      "Amazon智能家居类目",
+      "GDPR与本地数据合规公开资料",
+      "海关8525.89出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-doorbell-wireless",
+    "name": "无线可视门铃",
+    "aliases": [
+      "Wireless Video Doorbell",
+      "可视门铃",
+      "免布线门铃"
+    ],
+    "category": "智能家居",
+    "summary": "免布线即可安装的可视门铃，租房与公寓场景的安防入口",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 85,
+        "why": [
+          "美国租房与公寓比例高，不能随便打孔布线，无线门铃因此成了首选"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 79,
+        "why": [
+          "英国老式住宅的门廊结构不便布线，电池款的安装门槛因此明显更低"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "德国租房率很高而且租约限制改造，免安装的粘帖方案更容易被接受"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "澳洲独栋住宅多而且包裹投递频繁，可视门铃主要用于远程应答快递"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "加拿大冬季气温极低，门铃的电池续航成了用户购买时最核心的考量点"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Walmart Canada",
+          "独立站"
+        ],
+        "entry": "复用美国站Listing做税费与英法双语标签，走FBA远程配送降低成本",
+        "risk": "加拿大人口少、单量天花板低，跨境物流成本高于美国市场"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "北美第二平台分散风险，用WFS对标FBA时效",
+        "priority": 3
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 4
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打wireless doorbell camera",
+        "Google Shopping承接免布线词",
+        "Walmart站内广告"
+      ],
+      "organic": [
+        "安装实拍教程",
+        "租房场景内容",
+        "月度安全清单种草"
+      ],
+      "budget": "月1万美元，Amazon占55%",
+      "kpi": "ACOS<30%，月销6000台，退货率<5%"
+    },
+    "sources": [
+      "Amazon门铃摄像头类目",
+      "各州录音录像隐私法公开资料",
+      "海关8525.89出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-action-camera",
+    "name": "运动相机",
+    "aliases": [
+      "Action Camera",
+      "运动摄像机",
+      "4K运动相机"
+    ],
+    "category": "影音设备",
+    "summary": "骑行滑雪潜水都能拍的运动相机，户外内容创作的高连带装备",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 83,
+        "why": [
+          "美国户外与极限运动人群都多，运动相机成了随身必备的记录装备之一"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 77,
+        "why": [
+          "德国自行车与滑雪运动普及，配件生态是否齐全才是选购的关键点。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 73,
+        "why": [
+          "澳洲冲浪与潜水场景都多，防水性能成了用户下单前最看重的决策因素"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 69,
+        "why": [
+          "日本旅行与登山拍摄需求稳定，轻量与便携性被采购者放在了第一位"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 5,
+        "heat": 65,
+        "why": [
+          "印尼潜水与海岛旅游十分发达，入门运动相机的需求一直在持续增长"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 4
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打action camera 4K",
+        "YouTube户外频道贴片",
+        "TikTok运动场景短视频"
+      ],
+      "organic": [
+        "极限场景实拍内容",
+        "配件生态清单",
+        "测评频道长测"
+      ],
+      "budget": "月1.5万美元，内容与广告各半",
+      "kpi": "ACOS<33%，客单价>$99，月销2500台"
+    },
+    "sources": [
+      "Amazon运动相机类目",
+      "运动影像行业公开报告",
+      "海关8525.89出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-webcam-1080p",
+    "name": "高清网络摄像头",
+    "aliases": [
+      "Webcam 1080P",
+      "电脑摄像头",
+      "直播摄像头"
+    ],
+    "category": "数码配件",
+    "summary": "远程会议与直播的基础设备，居家办公的标配外设",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国远程会议常态化，笔记本自带摄像头画质差，外接款是常见升级"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 79,
+        "why": [
+          "德国混合办公十分普遍，对摄像头隐私遮挡片有明确而且刚性的需求"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "英国在家办公与网课需求稳定，自带麦克风的摄像头明显更加受欢迎"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 4,
+        "heat": 71,
+        "why": [
+          "墨西哥远程教育与直播需求增长，高性价比款的出货速度相当快人一步"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 67,
+        "why": [
+          "巴西直播与在线教育普及，入门摄像头在Mercado Libre常年热销"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 3
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "北美第二平台分散风险，用WFS对标FBA时效",
+        "priority": 4
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打webcam 1080p",
+        "Google Shopping承接会议场景词",
+        "Walmart站内广告"
+      ],
+      "organic": [
+        "远程会议画质对比内容",
+        "隐私快门设计说明",
+        "B端批量采购页"
+      ],
+      "budget": "月7000美元，Amazon占60%",
+      "kpi": "ACOS<27%，月销1万件，退货率<4%"
+    },
+    "sources": [
+      "Amazon摄像头类目",
+      "远程办公行业公开报告",
+      "海关8525.89出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-phone-cooling-fan",
+    "name": "手机散热背夹",
+    "aliases": [
+      "Phone Cooling Fan",
+      "手机散热器",
+      "半导体制冷背夹"
+    ],
+    "category": "手机配件",
+    "summary": "边充边玩不发烫的手游配件，游戏与直播人群的刚需小件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "美国手游与直播用户都多，边充边玩发热明显，散热背夹能稳住帧率"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 75,
+        "why": [
+          "印尼手游玩家基数庞大，直播与排位赛场景都需要稳定的散热方案。"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 3,
+        "heat": 71,
+        "why": [
+          "菲律宾手游文化浓厚，散热配件在TikTok直播间的转化非常好"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "先拿跨境店小包做测款，配合本地网红打低价爆款，再转到本地仓。",
+        "risk": "菲律宾物流时效较差，客诉与退货率整体偏高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "巴西手游玩家数量较多，散热背夹所处的价位段普遍能够被消费者接受"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "做葡语详情页并配Mercado Libre本地仓，用分期付款降低决策门槛",
+        "risk": "巴西关税与清关复杂，税务合规NFe门槛高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 5,
+        "heat": 64,
+        "why": [
+          "韩国主播与手游用户对设备稳定性与画面帧率的要求都非常高且挑剔"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 1
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 2
+      },
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 3
+      },
+      {
+        "name": "Lazada",
+        "type": "B2C",
+        "use": "印尼马来菲律宾铺中低价位，用LazMall做品牌背书",
+        "priority": 4
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "TikTok手游场景短视频挂车",
+        "Shopee与Lazada站内广告",
+        "Amazon打phone cooler"
+      ],
+      "organic": [
+        "帧率对比实测内容",
+        "手游主播合作",
+        "组合装连带"
+      ],
+      "budget": "月8000美元，平台广告占75%",
+      "kpi": "月销1.5万件，ACOS<24%，退货率<5%"
+    },
+    "sources": [
+      "Amazon手机配件类目",
+      "手游产业公开报告",
+      "海关8414.59相关口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-tablet-stand-adjustable",
+    "name": "铝合金平板支架",
+    "aliases": [
+      "Tablet Stand",
+      "平板桌面支架",
+      "可调角度支架"
+    ],
+    "category": "数码配件",
+    "summary": "把平板变成第二个屏幕的桌面支架，居家办公与追剧通用",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国居家办公与网课十分普遍，把平板当成第二块屏幕是很常见的用法"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 75,
+        "why": [
+          "德国家庭桌面收纳很讲究，可调角度与可折叠收纳都是明确的卖点。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 71,
+        "why": [
+          "日本住宅的桌面面积较小，可折叠的支架更符合日常收纳收拾习惯。"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 67,
+        "why": [
+          "阿联酋咖啡店办公与居家办公场景都多，对做工与质感的要求较高。"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 63,
+        "why": [
+          "澳洲网课与远程办公比例较高，平板支架的采购需求一直都比较稳定"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 3
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓放大",
+        "priority": 4
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打tablet stand",
+        "Google Shopping承接尺寸词",
+        "Temu站内推荐位"
+      ],
+      "organic": [
+        "桌面改造内容",
+        "兼容尺寸对照表",
+        "组合装连带"
+      ],
+      "budget": "月6000美元，平台广告占70%",
+      "kpi": "ACOS<25%，月销1.5万件，退货率<4%"
+    },
+    "sources": [
+      "Amazon平板配件类目",
+      "平板出货公开数据",
+      "海关8302.50出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-bt-transmitter-tv",
+    "name": "电视蓝牙音频发射器",
+    "aliases": [
+      "Bluetooth Transmitter",
+      "蓝牙发射器",
+      "电视音频发射"
+    ],
+    "category": "车载电子",
+    "summary": "让老电视与机上娱乐系统连接蓝牙耳机，飞行与夜间观影常用",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 76,
+        "why": [
+          "美国长途飞行与健身房跑步机观影多，机上与公共场景需要蓝牙发射"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "德国长途火车与飞机出行频繁，降噪耳机配发射器是很常见的组合。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "日本电车与航班的观影视听需求稳定，静音观影被视为一种基本礼貌"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "英国航班与健身房的场景都多，发射器主要用于解决同步与延迟问题"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "阿联酋长途航班数量多是公认事实，机上娱乐系统的蓝牙转换需求一直存在"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 4
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给测评频道做长尾搜索覆盖，为高客单产品背书",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打bluetooth transmitter",
+        "Google Shopping承接电视与飞行场景词",
+        "YouTube科技频道贴片"
+      ],
+      "organic": [
+        "多场景使用教程",
+        "兼容设备清单",
+        "Reddit音频社区答疑"
+      ],
+      "budget": "月6000美元，内容与广告各半",
+      "kpi": "ACOS<29%，月销8000件，退货率<5%"
+    },
+    "sources": [
+      "Amazon音频配件类目",
+      "蓝牙协议公开规范",
+      "海关8517.62出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-mobile-printer-photo",
+    "name": "便携照片打印机",
+    "aliases": [
+      "Portable Photo Printer",
+      "手机照片打印机",
+      "拍立得打印机"
+    ],
+    "category": "数码配件",
+    "summary": "手机一连就出片的热敏照片打印机，聚会与追星场景的情感消费",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 79,
+        "why": [
+          "美国派对与节日送礼文化强，便携照片打印机是典型的社交型礼品。"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "日本拍立得与贴纸相的文化成熟，热敏小打印机的需求一直比较稳定"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "韩国追星与应援文化十分发达，直接带动了小尺寸照片打印的需求。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，再配Naver博客社区种草导流",
+        "risk": "KC认证强制要求，本土品牌偏好强，外资品牌突围难"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "印尼年轻群体的聚会与婚礼场景多，低价的即时打印需求比较旺盛。"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada"
+        ],
+        "entry": "用TikTok本地达人直播加COD配送，先铺中低价再上品牌款",
+        "risk": "印尼进口许可与本地含量要求严，低价内卷导致毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 5,
+        "heat": 64,
+        "why": [
+          "墨西哥家庭聚会与节庆十分频繁，照片打印属于典型的礼品型消费场景"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "做西语页面并配套美墨边境仓快速补货，同时配置一支本地客服团队",
+        "risk": "墨西哥治安与货损风险高，清关代理不规范易导致滞港"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.co.jp",
+        "type": "B2C",
+        "use": "日语详情页强调细节与质保，配日本本地仓做次日达",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车加直播切片，用本地达人开箱测卖点话术",
+        "priority": 3
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重再转本地仓",
+        "priority": 4
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，本地仓加分期付款提升转化，葡语标题做SEO",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon打portable photo printer。",
+        "TikTok聚会场景短视频挂车",
+        "Shopee站内关键词"
+      ],
+      "organic": [
+        "聚会与应援场景内容",
+        "耗材复购提醒",
+        "YouTube开箱测评"
+      ],
+      "budget": "月9000美元，Amazon占50%",
+      "kpi": "ACOS<30%，耗材复购率>30%，月销3000台"
+    },
+    "sources": [
+      "Amazon照片打印机类目",
+      "影像打印耗材市场公开报告",
+      "海关8443.32出口口径"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ce-smart-plug-wifi",
+    "name": "智能WiFi插座",
+    "aliases": [
+      "Smart Plug",
+      "智能插座",
+      "WiFi插座"
+    ],
+    "category": "智能家居",
+    "summary": "把普通家电变成可远程控制的入门智能家居产品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 85,
+        "why": [
+          "美国独栋住宅多而且家居设备能耗高，定时与远程控制的诉求很强。"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国电价较高，普通家庭习惯用智能插座做定时控制与用电能耗管理"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "英国家庭重视节能与用电计量，带统计功能的插座也因此比较受欢迎"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 69,
+        "why": [
+          "阿联酋家居智能化普及程度高，智能插座常用于远程控制空调与灯具"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "做阿语详情页并投Noon站内广告，重点主推高客单与礼品包装款",
+        "risk": "渠道易被本地代理绑定，价格透明导致毛利偏薄"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 5,
+        "heat": 65,
+        "why": [
+          "加拿大冬季用电高峰十分明显，定时控制取暖设备的需求一直存在。"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Walmart Canada",
+          "独立站"
+        ],
+        "entry": "复用美国站Listing做税费与英法双语标签，走FBA远程配送降低成本",
+        "risk": "加拿大人口少、单量天花板低，跨境物流成本高于美国市场"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 2
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "北美第二平台分散风险，用WFS对标FBA时效",
+        "priority": 3
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "沉淀首方数据做复购，用一个SKU页承接全网种草",
+        "priority": 4
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打smart plug",
+        "Google Shopping承接兼容语音助手词",
+        "Walmart站内广告"
+      ],
+      "organic": [
+        "节能场景内容",
+        "智能家居入门指南",
+        "兼容生态清单"
+      ],
+      "budget": "月8000美元，Amazon占55%",
+      "kpi": "ACOS<26%，月销1.5万件，退货率<4%"
+    },
+    "sources": [
+      "Amazon智能家居类目",
+      "FCC认证公开规则",
+      "海关8536.50出口口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "ce-usb-kvm-switch",
+    "name": "USB切换器",
+    "aliases": [
+      "USB Switch",
+      "USB共享切换器",
+      "KVM切换器"
+    ],
+    "category": "数码配件",
+    "summary": "一套键鼠控制两台电脑的小工具，混合办公与双机办公必备",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 75,
+        "why": [
+          "美国远程与办公室双机人群多，一套键鼠切换就是效率层面的刚需。"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "先用Amazon FBA做主打，靠Vine起第一批评论，再用站内广告卡住品类核心词",
+        "risk": "美国关税与原产地合规审查严格，平台差评与退货会直接压排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 71,
+        "why": [
+          "德国企业与居家双工位普遍，切换器能减少外设重复采购造成的浪费"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "做德语详情页并配本地仓发货，突出认证与质保，先小批量验证转化率",
+        "risk": "德国EPR与WEEE注册成本高，缺认证会被平台直接下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 67,
+        "why": [
+          "英国共享工位比较多，切换器方便在几台不同设备之间快速切换使用"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK"
+        ],
+        "entry": "先完成UKCA合规，用TikTok达人开箱起量再导流到平台主链接",
+        "risk": "脱欧后英国VAT与清关责任转移到卖家，合规成本上升"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 63,
+        "why": [
+          "日本企业双机办公越来越普遍，同时对桌面整洁程度的诉求非常强烈"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页强调做工与安全认证，再配本地仓做次日达以提升整体转化",
+        "risk": "日本PSE与技适认证门槛高，包装与说明书本地化成本高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 59,
+        "why": [
+          "澳洲远程办公比例较高，在双机之间切换键鼠的需求一直比较稳定。"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓备货，重点主打认证与耐用性，并用露营场景内容持续种草",
+        "risk": "澳洲市场体量小，认证与本地售后成本难以摊薄。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "用FBA做北美与欧洲主阵地，靠Vine起评论再投站内广告",
+        "priority": 1
+      },
+      {
+        "name": "Reddit / 垂类论坛",
+        "type": "社交",
+        "use": "在对应垂类做真实使用贴与答疑，导流独立站",
+        "priority": 2
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "德语详情页加本地仓发货，欧洲站点用同款Listing做多国覆盖",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御加品类词收割，配再营销压获客成本",
+        "priority": 4
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "用RFQ与Trade Assurance接批量询盘，详情页首屏放认证与参数表",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行",
+      "paid": [
+        "Amazon打usb switch",
+        "Google Shopping承接双机场景词",
+        "Amazon.de站内广告"
+      ],
+      "organic": [
+        "Reddit办公装备社区答疑",
+        "接线示意图与教程",
+        "兼容系统对照表"
+      ],
+      "budget": "月5000美元，内容与广告各半",
+      "kpi": "ACOS<30%，客单价>$25，月销5000件"
+    },
+    "sources": [
+      "Amazon办公外设类目",
+      "USB规范公开资料",
+      "海关8471.80出口口径"
+    ],
+    "confidence": "medium"
+  }
+]
