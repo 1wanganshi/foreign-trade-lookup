@@ -189,7 +189,7 @@
   "name": "真空包装机",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 1,
+  "ms": 0,
   "expectAny": true
  },
  {
@@ -260,7 +260,7 @@
   "name": "袜子",
   "pool": "-",
   "mk": 5,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C5",
@@ -274,7 +274,7 @@
   "name": "旅行拉杆箱",
   "pool": "-",
   "mk": 5,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "C6",
@@ -435,7 +435,7 @@
   "name": "做LED显示屏的",
   "pool": "electronics",
   "mk": 6,
-  "ms": 0,
+  "ms": 1,
   "expectPool": "electronics"
  },
  {
@@ -1074,7 +1074,7 @@
   "name": "做厨房用品的",
   "pool": "home",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C24",
@@ -1118,7 +1118,7 @@
   "name": "做户外用品的",
   "pool": "outdoor",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C27",
@@ -1352,7 +1352,7 @@
   "name": "做机械的",
   "pool": "machinery",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E22",
@@ -1395,7 +1395,7 @@
   "name": "做纺织的",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E25",
@@ -1409,7 +1409,7 @@
   "name": "做化工的",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "E26",

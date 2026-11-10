@@ -1,0 +1,875 @@
+{
+  "id": "region-namerica",
+  "region": "北美",
+  "markets": [
+    "美国",
+    "加拿大",
+    "墨西哥"
+  ],
+  "summary": "平台大盘成熟、大件与户外强势，汽配DIY与宠物消费刚性，合规门槛高",
+  "products": [
+    {
+      "name": "可折叠露营桌套装",
+      "en": "Portable Camping Table Set",
+      "category": "户外装备",
+      "why": [
+        "美国露营地多为自驾车营位，家庭需要能塞进SUV后备箱的可折叠桌椅，SUV保有量高带来稳定替换需求",
+        "美加国家公园露营季集中在5-9月，家庭结构偏核心家庭，四到六人一套桌椅属标准配置"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "eBay"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "大件物流重，需独立站与平台口碑双支撑",
+      "entry": "先做美西海外仓，用Amazon大件配送打榜，再把自然流量导到独立站做复购",
+      "risk": "加州65号提案与木制品熏蒸，大件退货物流成本高"
+    },
+    {
+      "name": "大型充气水池与泳池配件",
+      "en": "Above-Ground Inflatable Pool",
+      "category": "户外装备",
+      "why": [
+        "美国南部与西南夏季常年高温，后院泳池是普通家庭的消暑方式，充气池因价格低而替代硬化泳池",
+        "加拿大与北部州夏季短但家庭后院文化强，用可拆充气池做季节性消费，7月前后集中爆发"
+      ],
+      "countries": [
+        "美国",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "季节窗口短，必须靠投放抢4-7月",
+      "entry": "优先抢注泳池品类词，用后院实景短视频测素材，跑出钩子后迅速放大",
+      "risk": "儿童泳池需符合CPSIA与警示标识，溺水责任险高"
+    },
+    {
+      "name": "户外电池储能电源",
+      "en": "Portable Power Station",
+      "category": "新能源",
+      "why": [
+        "美国东西海岸山火与飓风季导致长时间停电，家庭需要能带出门又能应急备灾的储能设备",
+        "房车与车顶帐篷露营流行，营地普遍无电，用储能替代发电机既静音又不受营地限制"
+      ],
+      "countries": [
+        "美国",
+        "加拿大",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "TikTok Shop",
+        "Shopify",
+        "eBay"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "客单高需内容种草，再靠投放收割",
+      "entry": "先做测评与灾害场景内容，用Amazon卡位并逐步建独立站品牌",
+      "risk": "锂电池UN38.3与空运限制，FCC与加州电池法规"
+    },
+    {
+      "name": "庭院电动烧烤炉",
+      "en": "Electric Patio Grill",
+      "category": "庭院家居",
+      "why": [
+        "美国独栋住宅后院烧烤是社交刚需，城市公寓楼与租赁房禁明火，电烤炉成为合规替代",
+        "加拿大与美西多州野火季禁烧令常态化，公共场所与公寓用电烤炉需求持续扩大"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "eBay"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "高客单靠评价积累，投放做加速",
+      "entry": "先做后院场景内容，用Amazon打grill品类词，配Walmart第二平台",
+      "risk": "UL与ETL电气认证，公寓物业与消防规则差异"
+    },
+    {
+      "name": "庭院储物棚",
+      "en": "Outdoor Storage Shed",
+      "category": "庭院家居",
+      "why": [
+        "美加独栋住宅后院面积大，割草机、除雪机与园艺工具无处存放，金属或树脂储物棚是标配",
+        "北美多数社区有HOA外观规则，业主倾向买可DIY拼装的中小尺寸棚而不做硬化施工"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "eBay",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "大件重货需仓配与评价支撑",
+      "entry": "用美东美西双仓做本地配送，主推抗风抗雪的中小尺寸拼装储物棚型号",
+      "risk": "HOA与建筑许可限制，大件尾程与退货成本高"
+    },
+    {
+      "name": "手动与电动扫雪机",
+      "en": "Snow Blower / Snow Shovel",
+      "category": "庭院五金",
+      "why": [
+        "美国中西部与加拿大冬季降雪量大，除雪属法定业主责任，扫雪设备是每年冬季必买",
+        "美加独栋住宅车道长度普遍较长，纯人力铲雪负担重，小型电动扫雪机替代传统燃油款"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "eBay",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "季节性强，需提前铺评论与库存",
+      "entry": "提前两个季度备货，用除雪与车道清雪场景内容卡住9-11月搜索旺季",
+      "risk": "电气安全认证与地方噪声法规严格，旺季海运与尾程物流易爆仓"
+    },
+    {
+      "name": "皮卡货箱配件套装",
+      "en": "Truck Bed Accessories",
+      "category": "汽配",
+      "why": [
+        "美国皮卡销量长期居前，车主习惯自己加装货箱衬垫、分格与锁具，DIY改装文化成熟",
+        "美加皮卡车主常做露营与拖挂用途，货箱需要防水分格与固定系统承载大件装备"
+      ],
+      "countries": [
+        "美国",
+        "加拿大",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "eBay",
+        "TikTok Shop",
+        "Walmart"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "适配车型多需靠适配表吃搜索",
+      "entry": "用eBay车型适配表与Amazon Part Finder双线卡位",
+      "risk": "车型年款适配错误率高，退换货与差评会直接拖垮Listing"
+    },
+    {
+      "name": "汽车车顶横杆与行李架",
+      "en": "Roof Rack Cross Bars",
+      "category": "汽配",
+      "why": [
+        "北美SUV与皮卡保有量高，家庭自驾与滑雪、骑车需要车顶承载系统，原厂配件价格高",
+        "加拿大冬季滑雪与美西夏季山地骑行需求稳定，横杆属于可按车型选购的高复购加装件"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "eBay",
+        "Shopify",
+        "Walmart"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "适配型产品需技术页支撑",
+      "entry": "做车型兼容查询页沉淀搜索流量，再用eBay车型适配器表做精准导流",
+      "risk": "动态载荷与风噪投诉集中，缺少安装说明时退货率明显上升"
+    },
+    {
+      "name": "车载胎压与OBD诊断仪",
+      "en": "OBD2 Scanner",
+      "category": "汽配",
+      "why": [
+        "美国劳动力成本高、人工费贵，车主倾向自己读故障码再决定是否进店维修",
+        "美加车龄偏老，能兼容多品牌多协议的低价OBD扫描仪有大量自修人群需求"
+      ],
+      "countries": [
+        "美国",
+        "加拿大",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "eBay",
+        "TikTok Shop"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "技术参数复杂需内容解释",
+      "entry": "用真实故障码实测视频做内容，Amazon卡位OBD2与扫描仪核心词",
+      "risk": "须符合FCC与EPA相关宣称规则，避免夸大排放影响"
+    },
+    {
+      "name": "汽车座椅套",
+      "en": "Car Seat Covers",
+      "category": "汽配",
+      "why": [
+        "美加皮卡与工程车用户常在车内带宠物与工具，座椅易磨损，保护型座套需求稳定",
+        "北美家庭普遍靠网约车与自家车通勤，宠物出行率高，防水耐磨座套属于易耗配件"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "eBay",
+        "TikTok Shop"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "竞品多靠价格与图片转化",
+      "entry": "用车型版型对照表做详情页，先用通用尺寸验证转化，再逐步推定制款",
+      "risk": "气囊兼容与阻燃宣称需谨慎，版型不符退货高"
+    },
+    {
+      "name": "皮卡与SUV LED辅助灯",
+      "en": "LED Off-Road Light Bar",
+      "category": "汽配",
+      "why": [
+        "北美越野与皮卡文化强，夜间越野、作业照明是刚需，灯条与雾灯属于常见加装件",
+        "美加部分州对公路使用灯条有法规限制，厂家需标注越野或辅助用途才能销售"
+      ],
+      "countries": [
+        "美国",
+        "墨西哥",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "eBay",
+        "TikTok Shop",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "改装件靠场景内容转化",
+      "entry": "用夜间实测对比视频做内容，Amazon卡位led light bar",
+      "risk": "DOT与SAE标识滥用风险，部分州禁公路上路"
+    },
+    {
+      "name": "拖车与被拖车线路套装",
+      "en": "Trailer Wiring Kit",
+      "category": "汽配",
+      "why": [
+        "北美皮卡与SUV常拖船、拖房车与拖货柜，拖车灯线路与延长线属于必备加装件",
+        "美加公路拖车法规要求转向灯与刹车灯联动，线路故障直接影响年检与上路"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "eBay",
+        "Walmart",
+        "Shopify"
+      ],
+      "flow": "自然流为主",
+      "flowWhy": "长尾型号多，搜索流量稳定",
+      "entry": "按车型与接口做矩阵铺货，靠eBay车型适配表持续吃长尾搜索词",
+      "risk": "接线定义错误易导致灯不亮，退换率高且影响店铺评分"
+    },
+    {
+      "name": "宠物自动喂食器",
+      "en": "Automatic Pet Feeder",
+      "category": "宠物用品",
+      "why": [
+        "美国双职工家庭与独居人群比例高，白天家中无人，定时定量喂食器解决出行与加班场景",
+        "北美宠物主把猫犬当家庭成员，愿意为健康体重管理付费，喂食器均价高、复购配件多"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "TikTok Shop",
+        "Walmart",
+        "Shopify"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "爆款集中，关键词竞价高",
+      "entry": "用上班与旅行期间无人喂食的场景短视频测内容钩子，再同步扩大投放",
+      "risk": "APP联网涉及FCC与隐私声明，卡粮投诉影响评分"
+    },
+    {
+      "name": "宠物毛发清洁与除毛套装",
+      "en": "Pet Hair Remover",
+      "category": "宠物用品",
+      "why": [
+        "美加养宠家庭比例高且多为室内共处，沙发与车座粘毛是日常痛点，清洁工具属于高频耗材",
+        "北美租赁公寓地毯比例高，换房退租前除毛是硬需求，产品在美国租房人群中转化好"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "TikTok Shop",
+        "Walmart",
+        "Shopify"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "低客单靠短视频转化效率",
+      "entry": "用对比清洁演示短视频投放，再配多件清洁组合装把整体客单价拉起来",
+      "risk": "宣称除菌除螨需有检测依据，避免医疗功效表述"
+    },
+    {
+      "name": "宠物外出背包与航空箱",
+      "en": "Pet Carrier Backpack",
+      "category": "宠物用品",
+      "why": [
+        "美国宠物友好航空与公共交通规则逐步放开，合规尺寸的软质航空箱需求上升",
+        "北美宠物主带猫犬短途自驾与徒步频率高，可开窗透气的外出背包属新增长款"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "TikTok Shop",
+        "Walmart",
+        "eBay"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "内容驱动明显，平台做承接",
+      "entry": "用徒步与自驾外出实拍内容起量，Amazon做核心词搜索流量承接",
+      "risk": "航空公司尺寸与通风规则差异，不合规易投诉"
+    },
+    {
+      "name": "宠物智能饮水机",
+      "en": "Pet Water Fountain",
+      "category": "宠物用品",
+      "why": [
+        "美国宠物泌尿系统疾病就医成本极高，鼓励喝水的循环饮水机属于预防型消费",
+        "北美开放式厨房与客厅一体化居住结构，饮水机需兼顾静音与美观才能长期摆放"
+      ],
+      "countries": [
+        "美国",
+        "加拿大",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "品类成熟靠评价与价格取胜",
+      "entry": "把过滤芯做成复购钩子，Amazon卡位宠物饮水机与循环水泵核心词",
+      "risk": "水泵需UL认证，噪音与滤芯霉变是差评主因"
+    },
+    {
+      "name": "升降办公桌",
+      "en": "Standing Desk",
+      "category": "家居办公",
+      "why": [
+        "美国疫情后混合办公常态化，家中书房需要可坐可站的升降桌，办公家具在住宅端持续扩容",
+        "北美独栋住宅多有空余房间改书房，升降桌替代固定书桌属一次性低价升级"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "Shopify",
+        "eBay"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "大件重货，需平台评价与仓配",
+      "entry": "用美东美西海外仓做2日达配送，Amazon主推中端双电机升降款",
+      "risk": "木制品甲醛与加州65号提案，大件退货运费极高"
+    },
+    {
+      "name": "人体工学办公椅",
+      "en": "Ergonomic Office Chair",
+      "category": "家居办公",
+      "why": [
+        "北美远程办公常态，长时间坐姿带来腰背问题，人体工学椅从企业采购转向家庭自购",
+        "美国办公室用工政策波动大，企业开始把预算转为员工家用设备补贴，B端与C端同增"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "Shopify",
+        "eBay"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "高客单靠评价与B端双轮",
+      "entry": "Amazon打ergonomic chair，配企业批量采购页接B端",
+      "risk": "BIFMA与阻燃标准，大件退货与组装投诉"
+    },
+    {
+      "name": "可调节仓储货架",
+      "en": "Adjustable Storage Shelving",
+      "category": "家居收纳",
+      "why": [
+        "美加独栋住宅车库与地下室面积大，家庭把车库当作储物与工作间，金属货架是标配",
+        "美国搬家与租仓比例高，可拆装免工具组装的货架在租客与自建仓库人群中转化好"
+      ],
+      "countries": [
+        "美国",
+        "加拿大",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "eBay",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "大件低价拼物流效率",
+      "entry": "用海外仓做整柜分拨，重点主打承重能力与免工具的快速拼装结构设计",
+      "risk": "表面处理需符合RoHS，超重件的尾程附加费高"
+    },
+    {
+      "name": "床垫保护罩与防水床垫套",
+      "en": "Waterproof Mattress Protector",
+      "category": "家居家纺",
+      "why": [
+        "美加消费者对床垫清洁与防螨重视度高，床垫价格高使其倾向用保护罩延长寿命",
+        "北美宠物与儿童同床比例高，防水防尿渗透是购买主要动因，属高频替换耗材"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "Shopify"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "基础款靠搜索与价格",
+      "entry": "做齐全尺寸SKU矩阵，主推King与Queen规格打核心搜索词",
+      "risk": "阻燃与纤维成分标注严格，防水宣称需检测报告"
+    },
+    {
+      "name": "空气净化器",
+      "en": "Air Purifier",
+      "category": "家用电器",
+      "why": [
+        "美国西部山火季导致PM2.5飙升，家庭与学校需要可移动的空气净化设备",
+        "北美住宅多带中央空调但过滤等级有限，独立净化器成为过敏与宠物家庭的补充配置"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "健康类目靠内容与认证",
+      "entry": "先做山火与过敏场景内容，Amazon卡位air purifier",
+      "risk": "AHAM与CARB认证，臭氧与能耗宣称受限"
+    },
+    {
+      "name": "智能门铃与监控",
+      "en": "Video Doorbell",
+      "category": "智能家居",
+      "why": [
+        "美国独栋住宅包裹盗窃频发，门铃摄像头既能防盗又能远程收货，属家庭标配",
+        "北美社区普遍允许门前布摄像头，租客与房东都愿为可视门铃付费，安装无需布线"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "安防品类需品牌与内容",
+      "entry": "先做包裹防盗场景内容，Amazon卡位doorbell camera",
+      "risk": "FCC认证与各州录音录像隐私法，本地存储宣传需准确"
+    },
+    {
+      "name": "便携式发电机",
+      "en": "Portable Generator",
+      "category": "五金工业",
+      "why": [
+        "美国飓风与山火停电季导致应急电力需求，便携发电机是家庭备灾清单常规项",
+        "北美独栋住宅无集中应急供电，房车与工地用户也把便携发电机当作移动电源"
+      ],
+      "countries": [
+        "美国",
+        "墨西哥",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "eBay",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "高客单需品牌与售后",
+      "entry": "走美国本地仓加授权售后网点，重点主打静音变频与家庭备灾机型组合",
+      "risk": "需EPA排放认证与加州CARB认证，含油运输严重受限"
+    },
+    {
+      "name": "工业级空压机与气动工具",
+      "en": "Air Compressor & Pneumatic Tools",
+      "category": "五金工业",
+      "why": [
+        "北美独栋住宅车库普遍是家庭车间，气动工具用于换胎、喷漆与木工，属DIY基础设施",
+        "美国汽车修理工与小型机加工用二手与平价气动工具替换，修理厂渠道需求稳定"
+      ],
+      "countries": [
+        "美国",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "eBay",
+        "Walmart",
+        "Alibaba"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "B端与DIY双市场",
+      "entry": "用eBay与Amazon做零售，Alibaba接修理厂批量询盘",
+      "risk": "ASME与UL压力容器认证，运输与包装要求高"
+    },
+    {
+      "name": "数控小型机床",
+      "en": "Benchtop CNC Machine",
+      "category": "工业设备",
+      "why": [
+        "美国创客与小型作坊把车库当加工车间，台式CNC用于木工与金属打样，教学需求也在增长",
+        "北美职业院校与社区大学采购台式机床做实训，价格敏感但重视软件与售后支持"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "eBay",
+        "Alibaba",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "高客单需技术文档支撑",
+      "entry": "用技术博客与加工样件视频做内容，Amazon与独立站双线承接",
+      "risk": "UL与激光等级认证，售后配件供应是核心风险"
+    },
+    {
+      "name": "商用食品加工设备",
+      "en": "Commercial Food Processor",
+      "category": "食品机械",
+      "why": [
+        "北美中餐馆与小型烘焙坊对绞肉机、切片机需求稳定，餐饮人工贵推动半自动设备替代",
+        "美加食品小作坊受FDA与州卫生局监管，采购时优先选择易清洗与可拆洗结构的设备"
+      ],
+      "countries": [
+        "美国",
+        "加拿大",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Alibaba",
+        "Amazon",
+        "eBay",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "B端询盘需资质与案例",
+      "entry": "用Alibaba承接批发询盘，配FDA与NSF文档显著提升成交率",
+      "risk": "NSF与UL卫生认证，110V电压与插头规格需匹配"
+    },
+    {
+      "name": "自动售货与自助零售设备",
+      "en": "Vending Machine",
+      "category": "商业设备",
+      "why": [
+        "美国自助零售与零食柜在学校、仓库与公寓普及，运营商需要低故障率的中小型设备",
+        "美加人力成本高，小商户用自助售货替代收银人力，设备采购决策快"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Alibaba",
+        "Amazon",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "设备类靠B端线索",
+      "entry": "用Alibaba与独立站承接线索，配本地安装与维保服务商做交付",
+      "risk": "支付模块与FCC认证，硬币与纸币识别需本地化"
+    },
+    {
+      "name": "可调节哑铃",
+      "en": "Adjustable Dumbbells",
+      "category": "健康健身",
+      "why": [
+        "北美家庭健身常态化，住宅空间有限，可调节哑铃一套替代整排固定哑铃是主流选择",
+        "美国健身房会员费上涨且通勤远，家庭力量训练装备从跑步机转向哑铃与壶铃"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "eBay"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "重货靠评价与仓配",
+      "entry": "用美西美东双仓做重货配送，Amazon重点主推中端可调节哑铃款",
+      "risk": "重货物流成本高，机械结构售后投诉需要本地备件支持"
+    },
+    {
+      "name": "家用健身车",
+      "en": "Home Exercise Bike",
+      "category": "健康健身",
+      "why": [
+        "北美冬季漫长与郊区通勤时间长，家中骑行动感单车是低门槛有氧方案",
+        "美加热衷订阅式健身课程，带屏或可连APP的健身车比纯机械款更有竞争力"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "Shopify",
+        "TikTok Shop"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "高客单需内容与售后",
+      "entry": "用入门课程与居家骑行内容种草，重点主推可连接APP的中端健身车",
+      "risk": "电动部件需认证，大件退货与上门安装服务成本高"
+    },
+    {
+      "name": "按摩枪与筋膜放松设备",
+      "en": "Massage Gun",
+      "category": "健康健身",
+      "why": [
+        "美国运动康复与久坐办公人群共存，按摩枪从运动员小众进入家庭日常放松",
+        "北美办公与体力工作并存，肩颈与腰部放松需求高，礼品属性使其在节庆季放量"
+      ],
+      "countries": [
+        "美国",
+        "加拿大",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "TikTok Shop",
+        "Walmart",
+        "Shopify"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "决策靠演示视频",
+      "entry": "用真实使用演示短视频转化，Amazon卡位massage gun",
+      "risk": "宣称医疗功效违规，FDA对治疗性宣称有约束"
+    },
+    {
+      "name": "骨科与足弓支撑鞋垫",
+      "en": "Orthotic Insoles",
+      "category": "健康健身",
+      "why": [
+        "美国肥胖率与久站职业人群比例高，足底与膝盖不适是普遍问题，矫形鞋垫属日常消费",
+        "北美跑步与健身文化强，跑者更换鞋垫频次高，专业款复购十分稳定"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "eBay"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "标准化产品靠评价与投放",
+      "entry": "用足弓自测内容筛选客群，Amazon卡位insoles核心词",
+      "risk": "矫形与医疗宣称界限模糊，需避免疾病治疗的表述"
+    },
+    {
+      "name": "儿童学习桌与护眼灯套装",
+      "en": "Kids Study Desk Set",
+      "category": "母婴用品",
+      "why": [
+        "美加家庭作业与在家学习需求稳定，学区家长愿意为护眼与坐姿矫正付费",
+        "北美儿童近视率上升，学校与儿科医生建议改善照明，护眼灯成刚需配套"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "Shopify"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "家长决策靠内容与背书",
+      "entry": "用护眼与坐姿科普内容配合投放，Amazon主推儿童学习桌套装",
+      "risk": "儿童产品需CPSC与铅含量检测，宣称护眼需依据"
+    },
+    {
+      "name": "婴儿安全围栏与门栏",
+      "en": "Baby Gate & Play Yard",
+      "category": "母婴用品",
+      "why": [
+        "美加独栋住宅楼梯与开放式厨房比例高，学步期儿童需要可移动安全隔离",
+        "北美托育成本高，家庭多在家中育儿，可折叠围栏兼顾室内与后院使用"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "TikTok Shop",
+        "eBay"
+      ],
+      "flow": "投流为主",
+      "flowWhy": "安全类目靠认证与评价",
+      "entry": "先做安装与稳定性实拍内容，Amazon主推婴儿门栏与围栏组合",
+      "risk": "CPSC与ASTM安全标准，召回与责任风险高"
+    },
+    {
+      "name": "清真与过敏原友好食品调料",
+      "en": "Halal & Allergen-Free Seasoning",
+      "category": "食品饮料",
+      "why": [
+        "美国与加拿大穆斯林与南亚裔人口增长，主流超市清真调料货架仍不充足",
+        "北美过敏儿童比例高，无麸质与无坚果标识的调味品在家庭采购中优先级高"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "Shopify",
+        "Alibaba"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "食品需认证与本地仓",
+      "entry": "先完成FDA注册与过敏原标签，再用Amazon与独立站同步铺货",
+      "risk": "FDA设施注册与营养标签，清真认证需第三方机构"
+    },
+    {
+      "name": "宠物食品与冻干零食",
+      "en": "Freeze-Dried Pet Treats",
+      "category": "食品饮料",
+      "why": [
+        "美加宠物主把猫犬当家人，愿意为高蛋白与天然原料支付溢价，冻干形态接受度高",
+        "北美宠粮召回事件频发，消费者转向小批量与原料可追溯的产品，进口冻干仍有缺口"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Shopify",
+        "Walmart",
+        "Alibaba"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "食品需合规与品牌",
+      "entry": "先做FDA与AAFCO标签合规，再用独立站承接复购与订阅制订单",
+      "risk": "AAFCO标签与州饲料注册，肉制品进口需USDA许可"
+    },
+    {
+      "name": "家用缝纫与刺绣机",
+      "en": "Home Sewing & Embroidery Machine",
+      "category": "家居设备",
+      "why": [
+        "北美手工与定制文化强，家居布艺、宠物服饰与改装内饰都靠家用缝纫机完成",
+        "美加二手服装与旧物翻新流行，缝纫工具从兴趣品变成节省开支的家庭工具"
+      ],
+      "countries": [
+        "美国",
+        "加拿大"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "Shopify",
+        "eBay"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "高客单靠教程与售后",
+      "entry": "用零基础教程内容建立信任，Amazon重点主推中端绣花一体机型",
+      "risk": "UL认证与针车安全要求高，售后配件与软件支持要跟上"
+    },
+    {
+      "name": "工具收纳柜与家庭车间套装",
+      "en": "Tool Chest & Workshop Cabinet",
+      "category": "五金工业",
+      "why": [
+        "北美独栋住宅车库普遍当家庭车间，工具数量多，滚轮工具柜是车间的组织核心",
+        "美加DIY维修习惯使手工具保有量高，收纳系统与工具组合销售能显著提高客单"
+      ],
+      "countries": [
+        "美国",
+        "加拿大",
+        "墨西哥"
+      ],
+      "platforms": [
+        "Amazon",
+        "Walmart",
+        "eBay",
+        "Shopify"
+      ],
+      "flow": "双轨并行",
+      "flowWhy": "大件靠仓配与评价",
+      "entry": "用海外仓做本地配送，重点主推滚轮工具柜与手工具套装组合销售方案",
+      "risk": "金属表面处理需符合RoHS，重货的尾程费用偏高"
+    }
+  ],
+  "sources": [
+    "Amazon Best Sellers / Walmart Marketplace 类目榜（北美站公开榜单）",
+    "美国CBP de minimis 小包豁免调整相关公开报道（2025年T86清关政策变化）",
+    "FTC / FDA / CPSIA / CPSC 与加州65号提案公开法规文本"
+  ],
+  "confidence": "medium"
+}

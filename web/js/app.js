@@ -236,6 +236,8 @@
   }
 
   function render(res) {
+    // 地区模式：展示该地区适销商品清单
+    if (res.mode === 'region') { renderRegion(res); return; }
     showState('result');
     var p = res.product || {};
     var isColloquial = res.source === 'rule' && res.poolName;
@@ -331,6 +333,64 @@
   }
 
   /** \u4f4e\u7f6e\u4fe1\u515c\u5e95\uff1a\u53ea\u63d0\u793a\uff0c\u4e0d\u7ed9\u56fd\u5bb6/\u539f\u56e0/\u6295\u6d41\u7ed3\u8bba */
+  /* ---------- 地区模式 ---------- */
+  function renderRegion(res) {
+    showState('result');
+    var rg = res.region || {};
+    var prods = res.products || [];
+    $('pName').textContent = rg.name || '地区';
+    $('pCat').textContent = '该地区适销商品 · ' + prods.length + ' 个';
+    var b0 = $('srcBadge');
+    b0.className = 'badge kb';
+    b0.textContent = '地区模式';
+    $('tookMs').textContent = '秒出结果';
+    $('noticeBox').hidden = true;
+
+    // 头部：地区概况
+    $('qa1').querySelector('.q-t').innerHTML = '<i class="blk-no">1</i>这个地区的市场特征';
+    $('qa2').querySelector('.q-t').innerHTML = '<i class="blk-no">2</i>适合卖的商品 <span class="rg-hint">' + prods.length + ' 个 · 点开看国家/平台/流量</span>';
+    $('qa1v').innerHTML = (rg.summary ? esc(rg.summary) : '') +
+      (rg.markets && rg.markets.length
+        ? '<div class="rg-tags" style="margin-top:6px">' + rg.markets.slice(0, 8)
+            .map(function (m) { return '<span>' + esc(m) + '</span>'; }).join('') + '</div>'
+        : '');
+
+    // 商品清单：放入 platLine 上方的列表容器
+    var listHtml = '<div class="rg-list">' + prods.map(function (p, i) {
+      var flowCls = /自然流/.test(p.flow) ? 'org' : (/投流/.test(p.flow) ? 'paid' : 'mix');
+      return '<details class="rg-item"' + (i === 0 ? ' open' : '') + '>' +
+        '<summary class="rg-sum-row">' +
+          '<span class="rg-rank">' + (i + 1) + '</span>' +
+          '<span class="rg-name">' + esc(p.name) + '</span>' +
+          '<span class="rg-cat">' + esc(p.category) + '</span>' +
+          '<span class="rg-flow ' + flowCls + '">' + esc(String(p.flow).replace('为主', '')) + '</span>' +
+        '</summary>' +
+        '<div class="rg-body">' +
+          '<div class="rg-k">为什么这个地区要</div>' +
+          (p.why || []).map(function (w) { return '<p class="rg-p">' + esc(plain(w)) + '</p>'; }).join('') +
+          '<div class="rg-k">最合适的国家</div>' +
+          '<div class="rg-tags">' + (p.countries || []).map(function (c) { return '<span>' + esc(c) + '</span>'; }).join('') + '</div>' +
+          '<div class="rg-k">平台与流量</div>' +
+          '<div class="rg-tags">' + (p.platforms || []).map(function (c) { return '<span>' + esc(c) + '</span>'; }).join('') + '</div>' +
+          '<p class="rg-p muted">' + esc(p.flow) + (p.flowWhy ? '：' + esc(p.flowWhy) : '') + '</p>' +
+          (p.entry ? '<p class="rg-p muted">怎么切：' + esc(p.entry) + '</p>' : '') +
+          (p.risk ? '<p class="rg-p warn">门槛：' + esc(p.risk) + '</p>' : '') +
+        '</div>' +
+      '</details>';
+    }).join('') + '</div>';
+
+    $('qa2v').innerHTML = listHtml;
+    $('qa3v').innerHTML = '<span class="muted">选一个商品看它的平台与流量</span>';
+    $('platLine').innerHTML = '';
+    $('qa1').style.display = '';
+    $('qa2').style.display = '';
+    $('qa3').style.display = 'none';
+    $('moreBox').hidden = true;
+    $('sourcesBox').hidden = true;
+    $('relatedBox').hidden = true;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
   /** 未收录且 AI 尚未返回：占位 + 正在检索提示 */
   function renderPending(res) {
     var msg = '<span class="muted">AI 正在查…</span>';

@@ -14,6 +14,9 @@
   var POOL = [];            // 品类池（离线全量覆盖）
   var POOL_BY_ID = {};
   var COUNTRY_REF = {};
+  var REGIONS = [];        // 地区定义
+  var REGION_KEYS = [];    // 地区匹配键
+  var REGION_DATA = [];    // 地区商品数据
   var norm = function (s) { return String(s || '').toLowerCase().replace(/[\s\-_\/·,，。.()（）]+/g, ''); };
 
   /* ---------------- 索引构建 ---------------- */
@@ -52,8 +55,18 @@
     POOL.forEach(function (c) { POOL_BY_ID[c.id] = c; });
     (pool.regions || []).forEach(function (r) { COUNTRY_REF[r.name] = r; });
 
+    // 地区索引（用户搜"欧洲/美国/东南亚"时走地区模式）
+    REGION_DATA = (catalog.regions || []).slice();
+    REGIONS = (root.REGIONS && root.REGIONS.list) || [];
+    REGION_KEYS = [];
+    REGIONS.forEach(function (r) {
+      (r.keys || []).forEach(function (k) {
+        REGION_KEYS.push({ key: norm(k), region: r, w: k.length });
+      });
+    });
+
     READY = true;
-    return { products: all.length, keys: Object.keys(KB._aliasNorm).length, pool: POOL.length };
+    return { products: all.length, keys: Object.keys(KB._aliasNorm).length, pool: POOL.length, regions: REGIONS.length };
   }
 
   /* ---------------- 口语归一化 ---------------- */
@@ -133,6 +146,90 @@
   ];
   /** 明确指向具体产品的词：即使很短也不当作宽泛品类 */
   var DIRECT_PRODUCT_HINTS = {};
+
+  /* ---------------- 地区解析 ---------------- */
+  function resolveRegion(input) {
+    if (!REGION_KEYS.length) return null;
+    var q = norm(input);
+    if (!q) return null;
+    var exact = null, contains = null;
+    REGION_KEYS.forEach(function (k) {
+      if (k.key === q) { if (!exact) exact = k.region; }
+      else if (!contains && k.key.length >= 2 && (q.indexOf(k.key) >= 0 || k.key.indexOf(q) >= 0)) contains = k.region;
+    });
+    return exact || contains;
+  }
+
+  // 地区模式：该地区适销商品 + 每件商品的国家/原因/平台/流量
+  function queryRegion(input) {
+    var t0 = (root.performance || Date).now();
+    var region = resolveRegion(input);
+    if (!region) return null;
+    var data = null;
+    // 各 agent 产出的 id 不一致（europe / kb2-region-europe / kb3-region-seasia）
+    // 用地区中文名做唯一锚点，避免 id 对不上导致空结果
+    REGION_DATA.forEach(function (d) {
+      if (!d) return;
+      if (d.region === region.name || d.id === region.id) data = d;
+    });
+    if (!data) {
+      return finish({ ok: true, mode: 'region', source: 'region', confidence: 'low',
+        region: { id: region.id, name: region.name }, products: [],
+        message: '这个地区的商品库还在补' }, t0, input);
+    }
+    var prods = (data.products || []).map(function (p, i) {
+      return { rank: i + 1, name: p.name, en: p.en || '', category: p.category || '',
+        why: (p.why || []).slice(0, 2), countries: p.countries || [], platforms: p.platforms || [],
+        flow: p.flow || '双轨并行', flowWhy: p.flowWhy || '', entry: p.entry || '', risk: p.risk || '' };
+    });
+    return finish({ ok: true, mode: 'region', source: 'region',
+      confidence: data.confidence || 'medium',
+      region: { id: region.id, name: data.region || region.name,
+        markets: data.markets || [], summary: data.summary || '' },
+      products: prods, sources: data.sources || [] }, t0, input);
+  }
+
+  /* ---------------- 地区解析 ---------------- */
+  function resolveRegion(input) {
+    if (!REGION_KEYS.length) return null;
+    var q = norm(input);
+    if (!q) return null;
+    var exact = null, contains = null;
+    REGION_KEYS.forEach(function (k) {
+      if (k.key === q) { if (!exact) exact = k.region; }
+      else if (!contains && k.key.length >= 2 && (q.indexOf(k.key) >= 0 || k.key.indexOf(q) >= 0)) contains = k.region;
+    });
+    return exact || contains;
+  }
+
+  // 地区模式：该地区适销商品 + 每件商品的国家/原因/平台/流量
+  function queryRegion(input) {
+    var t0 = (root.performance || Date).now();
+    var region = resolveRegion(input);
+    if (!region) return null;
+    var data = null;
+    // 各 agent 产出的 id 不一致（europe / kb2-region-europe / kb3-region-seasia）
+    // 用地区中文名做唯一锚点，避免 id 对不上导致空结果
+    REGION_DATA.forEach(function (d) {
+      if (!d) return;
+      if (d.region === region.name || d.id === region.id) data = d;
+    });
+    if (!data) {
+      return finish({ ok: true, mode: 'region', source: 'region', confidence: 'low',
+        region: { id: region.id, name: region.name }, products: [],
+        message: '这个地区的商品库还在补' }, t0, input);
+    }
+    var prods = (data.products || []).map(function (p, i) {
+      return { rank: i + 1, name: p.name, en: p.en || '', category: p.category || '',
+        why: (p.why || []).slice(0, 2), countries: p.countries || [], platforms: p.platforms || [],
+        flow: p.flow || '双轨并行', flowWhy: p.flowWhy || '', entry: p.entry || '', risk: p.risk || '' };
+    });
+    return finish({ ok: true, mode: 'region', source: 'region',
+      confidence: data.confidence || 'medium',
+      region: { id: region.id, name: data.region || region.name,
+        markets: data.markets || [], summary: data.summary || '' },
+      products: prods, sources: data.sources || [] }, t0, input);
+  }
 
   /* ---------------- 产品解析 ---------------- */
   // 返回 { entry, score, via } 或 null
@@ -522,6 +619,10 @@
     if (!READY) { return { ok: false, code: 'NOT_READY', message: '知识库尚未加载完成，请稍后重试。' }; }
     if (raw.length > 40) { return { ok: false, code: 'TOO_LONG', message: '产品名称过长，请输入 40 字以内的核心词。' }; }
 
+    // 地区优先：搜"欧洲/美国/东南亚"直接走地区模式
+    var regionHit = queryRegion(raw);
+    if (regionHit && regionHit.products && regionHit.products.length) return regionHit;
+
     var hit = resolveProduct(raw);
     // 宽泛品类词：绕开产品条目，直接交给品类池（保留 expected 作为品类锚点）
     if (hit && hit.broad) {
@@ -596,5 +697,6 @@
     return res;
   }
 
-  root.Engine = { init: init, query: query, infer: infer, _resolve: resolveProduct, get ready() { return READY; } };
+  root.Engine = { init: init, query: query, queryRegion: queryRegion, infer: infer,
+    _resolve: resolveProduct, _region: resolveRegion, get ready() { return READY; } };
 })(window);
