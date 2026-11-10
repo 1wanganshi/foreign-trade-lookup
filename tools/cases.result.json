@@ -11,7 +11,7 @@
   "name": "饼干糕点成型机",
   "pool": "-",
   "mk": 5,
-  "ms": 2,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -116,7 +116,7 @@
   "name": "cookie press machine",
   "pool": "bakery-equipment",
   "mk": 6,
-  "ms": 12
+  "ms": 11
  },
  {
   "id": "A9",
@@ -189,7 +189,7 @@
   "name": "真空包装机",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 1,
+  "ms": 0,
   "expectAny": true
  },
  {
@@ -218,7 +218,7 @@
   "name": "保温杯",
   "pool": "-",
   "mk": 6,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "C2",
@@ -232,7 +232,7 @@
   "name": "保温杯",
   "pool": "-",
   "mk": 6,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "C3",
@@ -288,7 +288,7 @@
   "name": "做美甲的",
   "pool": "beauty",
   "mk": 6,
-  "ms": 1,
+  "ms": 0,
   "expectAny": true
  },
  {
@@ -465,7 +465,7 @@
   "name": "做机械的",
   "pool": "machinery",
   "mk": 6,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "E2",
@@ -564,7 +564,7 @@
   "name": "做医疗的",
   "pool": "-",
   "mk": 3,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "E9",
@@ -902,7 +902,7 @@
   "name": "做面包的流水线",
   "pool": "bakery-equipment",
   "mk": 6,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "A28",
@@ -1017,7 +1017,7 @@
   "name": "给食品厂做包装的",
   "pool": "packaging-equipment",
   "mk": 6,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "C20",
