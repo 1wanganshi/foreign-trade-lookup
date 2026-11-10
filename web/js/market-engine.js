@@ -58,7 +58,7 @@
     });
     KB._all = all;
     KB._index = buildIndex(all);
-    KB._alias = (root.ALIAS_INDEX || {});
+    KB._alias = Object.assign({}, (root.ALIAS_INDEX_EXT || {}), (root.ALIAS_INDEX || {}));
     KB._aliasNorm = {};
     Object.keys(KB._alias).forEach(function (k) { KB._aliasNorm[norm(k)] = KB._alias[k]; });
     KB._byId = {};
@@ -344,6 +344,37 @@
       }
     }
 
+    // 0a''. 口语外壳剥离后直查：「做压蒜器的」→「压蒜器」→ 知识库
+    if (!direct) {
+      var shell = String(input)
+        .replace(/^(我是|我们|是|在|专门|只|主要|做|生产|制造|卖|出口|外贸|厂家|工厂|别人|人家|给|帮|搞|弄)+/g, '')
+        .replace(/(的|机器|设备|产品|生意|行业|厂家|工厂|货)+$/g, '')
+        .trim();
+      // 多层剥壳：「做打包餐盒的」→「打包餐盒」；再剥一次得到「餐盒」
+      var shells = [shell];
+      var shell2 = shell.replace(/^(一次性|可重复使用|手动|电动|迷你|大容量|加厚|双层|防滑|防水|厨房|仓储|物流|包装|农用|园艺)/, '').trim();
+      if (shell2 && shell2.length >= 2 && shell2 !== shell) shells.push(shell2);
+
+      for (var si = 0; si < shells.length; si++) {
+        var sh = shells[si];
+        // 泛品类词（"做服装的"→"服装"）交给品类池，不硬套某个具体品
+        if (BROAD_CATEGORY_TERMS.indexOf(norm(sh)) >= 0) {
+          var syn2 = (root.SYNONYMS || {})[sh];
+          if (syn2) {
+            return { entry: null, broad: true, expected: (String(syn2).match(/@([a-z0-9-]+)/) || [])[1] || null,
+              label: sh, score: 0.5, via: 'broad-category' };
+          }
+        }
+        var shellHit = lookup(norm(sh), true);
+        if (shellHit && (shellHit.via === 'exact' || shellHit.via === 'alias' || shellHit.via === 'core')) {
+          return shellHit;
+        }
+      }
+      // 外壳整体精确命中别名表（不做 contains，避免"包"字误抢）
+      var shellWhole = lookup(norm(shell), true);
+      if (shellWhole && (shellWhole.via === 'exact' || shellWhole.via === 'alias')) return shellWhole;
+    }
+
     // 0b. 口语/翻译层：把说法翻译成标准词，再查知识库（避免落到通用规则）
     var nz = normalize(input);
 
@@ -356,6 +387,25 @@
         nHit0.via = nz.via + ':' + nz.term;
         nHit0.synonym = nz;
         return nHit0;
+      }
+    }
+
+    // 0b''. 术语表只做了"包含匹配"（如"包"字命中"帆布托特包"）时，
+    //        先试一次"整句剥壳 → 别名精确命中"，避免单字术语抢走结果
+    if (nz.via === 'synonym-contains' && String(nz.term || '').length <= 1) {
+      // 单字术语（"包""机""灯"）不做最终裁决，交给后续别名/品类逻辑
+      nz = { text: '', tokens: [], expected: null, via: 'none' };
+    }
+    if (nz.via === 'synonym-contains') {
+      var shellAll = q.replace(/^(我是|我们|是|在|专门|只|主要|做|生产|制造|卖|出口|外贸|厂家|工厂|别人|人家|给|帮|搞|弄)+/g, '')
+                         .replace(/(的|机器|设备|产品|生意|行业|厂家|工厂|货)+$/g, '');
+      var aliasHit = lookup(shellAll, true);
+      if (aliasHit && (aliasHit.via === 'exact' || aliasHit.via === 'alias')) return aliasHit;
+      // 逐段递进剥前缀再试
+      var noPre = shellAll.replace(/^(一次性|可重复使用|手动|电动|迷你|大容量|加厚|双层|防滑|防水|厨房|仓储|物流|包装|农用|园艺)/, '');
+      if (noPre !== shellAll) {
+        var aliasHit2 = lookup(noPre, true);
+        if (aliasHit2 && (aliasHit2.via === 'exact' || aliasHit2.via === 'alias')) return aliasHit2;
       }
     }
 

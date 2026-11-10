@@ -11,7 +11,7 @@
   "name": "饼干糕点成型机",
   "pool": "-",
   "mk": 5,
-  "ms": 2,
+  "ms": 3,
   "expectAny": true
  },
  {
@@ -116,7 +116,7 @@
   "name": "cookie press machine",
   "pool": "bakery-equipment",
   "mk": 6,
-  "ms": 13
+  "ms": 12
  },
  {
   "id": "A9",
@@ -256,7 +256,7 @@
   "ok": true,
   "src": "kb",
   "conf": "high",
-  "via": "synonym-contains:袜",
+  "via": "exact",
   "name": "袜子",
   "pool": "-",
   "mk": 5,
@@ -270,7 +270,7 @@
   "ok": true,
   "src": "kb",
   "conf": "high",
-  "via": "synonym-strip:行李箱",
+  "via": "exact",
   "name": "旅行拉杆箱",
   "pool": "-",
   "mk": 5,
@@ -314,7 +314,7 @@
   "ok": true,
   "src": "kb",
   "conf": "high",
-  "via": "synonym-strip:猫爬架",
+  "via": "exact",
   "name": "猫咪猫抓板",
   "pool": "-",
   "mk": 5,
@@ -327,12 +327,12 @@
   "expect": "toy",
   "ok": true,
   "src": "rule",
-  "conf": "low",
-  "via": "rule",
-  "name": "做玩具的",
+  "conf": "medium",
+  "via": "broad-category",
+  "name": "玩具",
   "pool": "toy",
   "mk": 6,
-  "ms": 2
+  "ms": 1
  },
  {
   "id": "C10",
@@ -342,11 +342,11 @@
   "ok": true,
   "src": "kb",
   "conf": "high",
-  "via": "synonym-strip:灯具",
+  "via": "alias",
   "name": "LED商业照明灯具",
   "pool": "-",
   "mk": 5,
-  "ms": 1,
+  "ms": 0,
   "expectAny": true
  },
  {
@@ -487,12 +487,12 @@
   "input": "做小家电的",
   "expect": "electronics",
   "ok": true,
-  "src": "kb",
-  "conf": "high",
-  "via": "synonym-strip:小家电",
-  "name": "空气炸锅",
-  "pool": "-",
-  "mk": 5,
+  "src": "rule",
+  "conf": "medium",
+  "via": "broad-category",
+  "name": "小家电",
+  "pool": "electronics",
+  "mk": 6,
   "ms": 0,
   "expectAny": true
  },
@@ -531,12 +531,12 @@
   "expect": "apparel",
   "ok": true,
   "src": "rule",
-  "conf": "low",
-  "via": "rule",
-  "name": "做服装的",
+  "conf": "medium",
+  "via": "broad-category",
+  "name": "服装",
   "pool": "apparel",
   "mk": 6,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "E7",
@@ -545,12 +545,12 @@
   "expect": "home",
   "ok": true,
   "src": "rule",
-  "conf": "low",
-  "via": "rule",
-  "name": "做家具的",
+  "conf": "medium",
+  "via": "broad-category",
+  "name": "家具",
   "pool": "home",
   "mk": 6,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "E8",
@@ -622,7 +622,7 @@
   "name": "苹果",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "F3",
@@ -636,7 +636,7 @@
   "name": "小米",
   "pool": "-",
   "mk": 3,
-  "ms": 0
+  "ms": 1
  },
  {
   "id": "G1",
@@ -799,7 +799,7 @@
   "name": "饼干糕点成型机",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -814,7 +814,7 @@
   "name": "饼干糕点成型机",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -829,7 +829,7 @@
   "name": "商用工业烤炉",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -858,7 +858,7 @@
   "name": "烘焙成套生产线",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -916,7 +916,7 @@
   "name": "烘焙成套生产线",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -927,7 +927,7 @@
   "ok": true,
   "src": "kb",
   "conf": "high",
-  "via": "synonym-contains:封口",
+  "via": "exact",
   "name": "真空封口机",
   "pool": "-",
   "mk": 5,
@@ -1054,13 +1054,13 @@
   "input": "做小家电的",
   "expect": "electronics",
   "ok": true,
-  "src": "kb",
-  "conf": "high",
-  "via": "synonym-strip:小家电",
-  "name": "空气炸锅",
-  "pool": "-",
-  "mk": 5,
-  "ms": 1,
+  "src": "rule",
+  "conf": "medium",
+  "via": "broad-category",
+  "name": "小家电",
+  "pool": "electronics",
+  "mk": 6,
+  "ms": 0,
   "expectAny": true
  },
  {
@@ -1083,12 +1083,12 @@
   "input": "做家纺的",
   "expect": "home",
   "ok": true,
-  "src": "kb",
-  "conf": "high",
-  "via": "synonym-strip:家纺",
-  "name": "磨毛微纤维四件套床品",
-  "pool": "-",
-  "mk": 5,
+  "src": "rule",
+  "conf": "medium",
+  "via": "broad-category",
+  "name": "家纺",
+  "pool": "home",
+  "mk": 6,
   "ms": 0,
   "expectPool": "home",
   "expectAny": true
@@ -1133,7 +1133,7 @@
   "name": "瑜伽紧身裤",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectPool": "outdoor",
   "expectAny": true
  },
@@ -1164,7 +1164,7 @@
   "name": "帆布托特包",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -1204,12 +1204,12 @@
   "expect": "auto",
   "ok": true,
   "src": "rule",
-  "conf": "low",
-  "via": "rule",
-  "name": "做汽配的",
+  "conf": "medium",
+  "via": "broad-category",
+  "name": "汽配",
   "pool": "auto",
   "mk": 6,
-  "ms": 1
+  "ms": 0
  },
  {
   "id": "C33",
@@ -1219,7 +1219,7 @@
   "ok": true,
   "src": "kb",
   "conf": "high",
-  "via": "synonym-strip:灯具",
+  "via": "alias",
   "name": "LED商业照明灯具",
   "pool": "-",
   "mk": 5,
@@ -1267,7 +1267,7 @@
   "name": "快充数据线套装",
   "pool": "-",
   "mk": 6,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -1278,7 +1278,7 @@
   "ok": true,
   "src": "kb",
   "conf": "high",
-  "via": "synonym-strip:power bank",
+  "via": "alias",
   "name": "磁吸无线充电宝",
   "pool": "-",
   "mk": 6,
@@ -1296,7 +1296,7 @@
   "name": "便携蓝牙音箱",
   "pool": "-",
   "mk": 6,
-  "ms": 0,
+  "ms": 1,
   "expectAny": true
  },
  {
@@ -1424,7 +1424,7 @@
   "name": "烘焙成套生产线",
   "pool": "-",
   "mk": 5,
-  "ms": 0,
+  "ms": 1,
   "expectPool": "bakery-equipment",
   "expectAny": true
  },
@@ -1564,7 +1564,7 @@
   "name": "<script>alert(1)</script>",
   "pool": "-",
   "mk": 3,
-  "ms": 2
+  "ms": 1
  },
  {
   "id": "G23",
