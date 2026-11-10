@@ -660,7 +660,7 @@
 
     // 省份优先：搜"河南/吉林/浙江"走省份模式
     var provinceHit = queryProvince(raw);
-    if (provinceHit && provinceHit.products && provinceHit.products.length) return provinceHit;
+    if (provinceHit) return provinceHit;   // 命中省份就返回，哪怕数据待补，也要明确告知
 
     // 地区次之：搜"欧洲/美国/东南亚"走地区模式
     var regionHit = queryRegion(raw);

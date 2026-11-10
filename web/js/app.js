@@ -348,6 +348,32 @@
     var bases = pv.baseProducts || [];
 
     $('pName').textContent = pv.name || '省份';
+
+    // 数据未收录的省份：明确提示 + 引导，不假装有数据
+    if (!prods.length) {
+      $('pCat').textContent = '数据补充中';
+      $('srcBadge').className = 'badge rule';
+      $('srcBadge').textContent = '待补充';
+      $('tookMs').textContent = '';
+      $('noticeBox').hidden = false;
+      $('noticeBox').className = 'notice rule';
+      $('noticeBox').innerHTML = '<b>「' + esc(pv.name || '') + '」还在补数据</b> · ' +
+        '这个省的产业带与出口商品库尚未整理完，先不给你猜的结论。<br>' +
+        '可以试试：<b>直接搜产品</b>（如「保温杯」）或<b>搜地区</b>（如「东南亚」）。';
+      setQTitle('qa1', '<i class="blk-no">1</i>这个省的产业底子');
+      setQTitle('qa2', '<i class="blk-no">2</i>建议做什么外贸');
+      $('qa1v').innerHTML = '<span class="muted">数据补充中</span>';
+      $('qa2v').innerHTML = '<span class="muted">数据补充中 —— 我们会把「' + esc(pv.name || '') + '」的产业带与建议出口商品补进库</span>';
+      $('qa3v').innerHTML = '';
+      $('platLine').innerHTML = '';
+      $('qa3').style.display = 'none';
+      $('moreBox').hidden = true;
+      $('sourcesBox').hidden = true;
+      $('relatedBox').hidden = true;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      return;
+    }
+
     $('pCat').textContent = '建议出口商品 · ' + prods.length + ' 个';
     var b0 = $('srcBadge');
     b0.className = 'badge kb';
