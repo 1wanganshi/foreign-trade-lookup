@@ -45,6 +45,20 @@ for (const c of CATS) {
   }
   out.categories.push({ key: c.key, name: c.name, count: clean.length, products: clean });
 }
+// 省份外贸库：kb4.province-*.json（数组或单对象均可）
+out.provinces = [];
+const seenPv = new Set();
+for (const f of fs.readdirSync(DATA).filter(f => /^kb4\.province-.*\.json$/.test(f)).sort()) {
+  try {
+    const raw = JSON.parse(fs.readFileSync(path.join(DATA, f), 'utf8'));
+    const arr = Array.isArray(raw) ? raw : [raw];
+    for (const pv of arr) {
+      if (!pv || !pv.province || seenPv.has(pv.province)) continue;
+      seenPv.add(pv.province);
+      out.provinces.push(pv);
+    }
+  } catch (e) { problems.push('PROVINCE-PARSE ' + f + ': ' + e.message.slice(0, 50)); }
+}
 out.total = total;
 out.pool = pool;
 try { out.fit = JSON.parse(fs.readFileSync(path.join(DATA, 'kb.fit.json'), 'utf8')); } catch (e) { problems.push('FIT MISSING'); }
@@ -54,4 +68,6 @@ if (fs.existsSync(path.join(DATA, 'kb.generated.js'))) fs.unlinkSync(path.join(D
 console.log(JSON.stringify({ total, categories: out.categories.map(c => c.key + ':' + c.count),
   regions: out.regions.map(r => r.id + ':' + (r.products || []).length),
   regionProducts: out.regions.reduce((a, r) => a + (r.products || []).length, 0),
+  provinces: out.provinces.map(p => p.province + ':' + ((p.exportTo || []).length)),
+  provinceExports: out.provinces.reduce((a, p) => a + (p.exportTo || []).length, 0),
   bytes: body.length, problems: problems.slice(0, 12) }, null, 1));

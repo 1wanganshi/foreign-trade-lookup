@@ -17,6 +17,9 @@
   var REGIONS = [];        // 地区定义
   var REGION_KEYS = [];    // 地区匹配键
   var REGION_DATA = [];    // 地区商品数据
+  var PROVINCES = [];      // 中国省份定义
+  var PROVINCE_KEYS = [];  // 省份匹配键
+  var PROVINCE_DATA = [];  // 省份外贸数据
   var norm = function (s) { return String(s || '').toLowerCase().replace(/[\s\-_\/·,，。.()（）]+/g, ''); };
 
   /* ---------------- 索引构建 ---------------- */
@@ -65,8 +68,17 @@
       });
     });
 
+    // 省份索引（搜"河南/吉林"时走省份模式）
+    PROVINCE_DATA = (catalog.provinces || []).slice();
+    PROVINCES = (root.PROVINCES && root.PROVINCES.list) || [];
+    PROVINCE_KEYS = [];
+    PROVINCES.forEach(function (pv) {
+      (pv.keys || []).forEach(function (k) { PROVINCE_KEYS.push({ key: norm(k), province: pv, w: k.length }); });
+    });
+
     READY = true;
-    return { products: all.length, keys: Object.keys(KB._aliasNorm).length, pool: POOL.length, regions: REGIONS.length };
+    return { products: all.length, keys: Object.keys(KB._aliasNorm).length, pool: POOL.length,
+      regions: REGIONS.length, provinces: PROVINCES.length };
   }
 
   /* ---------------- 口语归一化 ---------------- */
@@ -147,6 +159,45 @@
   /** 明确指向具体产品的词：即使很短也不当作宽泛品类 */
   var DIRECT_PRODUCT_HINTS = {};
 
+  /* ---------------- 省份解析 ---------------- */
+  function resolveProvince(input) {
+    if (!PROVINCE_KEYS.length) return null;
+    var q = norm(input);
+    if (!q) return null;
+    var exact = null, contains = null;
+    PROVINCE_KEYS.forEach(function (k) {
+      if (k.key === q) { if (!exact || k.w > exact.w) exact = k; }
+      else if (k.key.length >= 2 && (q.indexOf(k.key) >= 0 || k.key.indexOf(q) >= 0)) {
+        if (!contains || k.w > contains.w) contains = k;
+      }
+    });
+    var hit = exact || contains;
+    return hit ? hit.province : null;
+  }
+
+  function queryProvince(input) {
+    var t0 = (root.performance || Date).now();
+    var pv = resolveProvince(input);
+    if (!pv) return null;
+    var data = null;
+    PROVINCE_DATA.forEach(function (d) { if (d && (d.province === pv.name || d.id === pv.id)) data = d; });
+    if (!data) {
+      return finish({ ok: true, mode: 'province', source: 'province', confidence: 'low',
+        province: { id: pv.id, name: pv.name }, products: [], baseProducts: [],
+        message: '这个省的外贸库还在补' }, t0, input);
+    }
+    var prods = (data.exportTo || []).map(function (p, i) {
+      return { rank: i + 1, name: p.name, category: p.category || '', why: [p.why],
+        countries: p.target || [], platforms: p.platforms || [],
+        flow: p.flow || '双轨并行', flowWhy: p.flowWhy || '', risk: p.risk || '' };
+    });
+    return finish({ ok: true, mode: 'province', source: 'province',
+      confidence: data.confidence || 'medium',
+      province: { id: pv.id, name: data.province || pv.name, summary: data.summary || '',
+        logistics: data.logistics || '', baseProducts: data.baseProducts || [] },
+      products: prods, sources: data.sources || [] }, t0, input);
+  }
+
   /* ---------------- 地区解析 ---------------- */
   function resolveRegion(input) {
     if (!REGION_KEYS.length) return null;
@@ -189,18 +240,6 @@
       products: prods, sources: data.sources || [] }, t0, input);
   }
 
-  /* ---------------- 地区解析 ---------------- */
-  function resolveRegion(input) {
-    if (!REGION_KEYS.length) return null;
-    var q = norm(input);
-    if (!q) return null;
-    var exact = null, contains = null;
-    REGION_KEYS.forEach(function (k) {
-      if (k.key === q) { if (!exact) exact = k.region; }
-      else if (!contains && k.key.length >= 2 && (q.indexOf(k.key) >= 0 || k.key.indexOf(q) >= 0)) contains = k.region;
-    });
-    return exact || contains;
-  }
 
   // 地区模式：该地区适销商品 + 每件商品的国家/原因/平台/流量
   function queryRegion(input) {
@@ -619,7 +658,11 @@
     if (!READY) { return { ok: false, code: 'NOT_READY', message: '知识库尚未加载完成，请稍后重试。' }; }
     if (raw.length > 40) { return { ok: false, code: 'TOO_LONG', message: '产品名称过长，请输入 40 字以内的核心词。' }; }
 
-    // 地区优先：搜"欧洲/美国/东南亚"直接走地区模式
+    // 省份优先：搜"河南/吉林/浙江"走省份模式
+    var provinceHit = queryProvince(raw);
+    if (provinceHit && provinceHit.products && provinceHit.products.length) return provinceHit;
+
+    // 地区次之：搜"欧洲/美国/东南亚"走地区模式
     var regionHit = queryRegion(raw);
     if (regionHit && regionHit.products && regionHit.products.length) return regionHit;
 
@@ -697,6 +740,6 @@
     return res;
   }
 
-  root.Engine = { init: init, query: query, queryRegion: queryRegion, infer: infer,
+  root.Engine = { init: init, query: query, queryRegion: queryRegion, queryProvince: queryProvince, infer: infer,
     _resolve: resolveProduct, _region: resolveRegion, get ready() { return READY; } };
 })(window);

@@ -236,6 +236,8 @@
   }
 
   function render(res) {
+    // 省份模式：这个省做什么外贸比较好
+    if (res.mode === 'province') { renderProvince(res); return; }
     // 地区模式：展示该地区适销商品清单
     if (res.mode === 'region') { renderRegion(res); return; }
     showState('result');
@@ -336,6 +338,64 @@
   /* ---------- 地区模式 ---------- */
   function renderRegion(res) {
     return regionBody(res);
+  }
+
+  /* ---------- 省份模式 ---------- */
+  function renderProvince(res) {
+    showState('result');
+    var pv = res.province || {};
+    var prods = res.products || [];
+    var bases = pv.baseProducts || [];
+
+    $('pName').textContent = pv.name || '省份';
+    $('pCat').textContent = '建议出口商品 · ' + prods.length + ' 个';
+    var b0 = $('srcBadge');
+    b0.className = 'badge kb';
+    b0.textContent = '省份模式';
+    $('tookMs').textContent = '0.0 秒';
+    $('noticeBox').hidden = true;
+
+    setQTitle('qa1', '<i class="blk-no">1</i>这个省的产业底子');
+    setQTitle('qa2', '<i class="blk-no">2</i>建议做什么外贸 <span class="rg-hint">' + prods.length + ' 个 · 点开看国家/平台/流量</span>');
+    $('qa1').style.display = '';
+    $('qa2').style.display = '';
+
+    $('qa1v').innerHTML = (pv.summary ? esc(pv.summary) : '') +
+      (bases.length ? '<div class="rg-k">主要产业带</div><div class="rg-tags">' +
+        bases.slice(0, 8).map(function (b) {
+          return '<span title="' + esc(b.why || '') + '">' + esc(b.cluster || b.name) + '</span>';
+        }).join('') + '</div>' : '') +
+      (pv.logistics ? '<p class="rg-p muted" style="margin-top:6px">口岸物流：' + esc(pv.logistics) + '</p>' : '');
+
+    var listHtml = '<div class="rg-list">' + prods.map(function (p, i) {
+      var flowCls = /自然流/.test(p.flow) ? 'org' : (/投流/.test(p.flow) ? 'paid' : 'mix');
+      return '<details class="rg-item"' + (i === 0 ? ' open' : '') + '>' +
+        '<summary class="rg-sum-row">' +
+          '<span class="rg-rank">' + (i + 1) + '</span>' +
+          '<span class="rg-name">' + esc(p.name) + '</span>' +
+          '<span class="rg-flow ' + flowCls + '">' + esc(String(p.flow).replace('为主', '')) + '</span>' +
+        '</summary>' +
+        '<div class="rg-body">' +
+          '<div class="rg-k">为什么这个省能做</div>' +
+          (p.why || []).map(function (w) { return '<p class="rg-p">' + esc(plain(w)) + '</p>'; }).join('') +
+          '<div class="rg-k">卖到哪些国家</div>' +
+          '<div class="rg-tags">' + (p.countries || []).map(function (c) { return '<span>' + esc(c) + '</span>'; }).join('') + '</div>' +
+          '<div class="rg-k">平台与流量</div>' +
+          '<div class="rg-tags">' + (p.platforms || []).map(function (c) { return '<span>' + esc(c) + '</span>'; }).join('') + '</div>' +
+          '<p class="rg-p muted">' + esc(p.flow) + (p.flowWhy ? '：' + esc(p.flowWhy) : '') + '</p>' +
+          (p.risk ? '<p class="rg-p warn">门槛：' + esc(p.risk) + '</p>' : '') +
+        '</div>' +
+      '</details>';
+    }).join('') + '</div>';
+
+    $('qa2v').innerHTML = listHtml;
+    $('qa3v').innerHTML = '<span class="muted">选一个商品看它的平台与流量</span>';
+    $('platLine').innerHTML = '';
+    $('qa3').style.display = 'none';
+    $('moreBox').hidden = true;
+    $('sourcesBox').hidden = true;
+    $('relatedBox').hidden = true;
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
   // qa 块的标题节点位置不固定，统一做安全写入
   function setQTitle(id, html) {
