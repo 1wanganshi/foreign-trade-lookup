@@ -1,0 +1,176 @@
+{
+ "note": "生活现状匹配层：用于结果页解释'这个产品为什么适合这个地区'。字段 fit[].aspect 限定为七个角度；basis 只能是 kb（知识库已有）/ infer（分析推断）/ ref（外部参考数据快照）；缺数据用 gap[aspect] 显式声明，不编造。",
+ "aspectLabels": {
+  "climate": "天气环境",
+  "living": "住的地方",
+  "habit": "日常怎么用",
+  "price": "肯花多少钱",
+  "supply": "对手和替代品",
+  "policy": "门槛和规矩",
+  "logistics": "物流和售后"
+ },
+ "products": {
+  "thermal-mug": {
+   "markets": {
+    "美国": {
+     "fit": [
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[0].why[0]",
+       "text": "美国人上下班开车、周末去户外，杯子基本跟着人走，要大容量、单手能开。"
+      },
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[0].why[0]",
+       "text": "Stanley、Hydro Flask 已经把这种杯子做成了时尚单品，同款靠颜色和联名就能卖贵。"
+      },
+      {
+       "aspect": "price",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[0].why[0] / risk",
+       "text": "当地人愿意花 25–45 美元买一个，但同类产品太多，没特色就只能拼价格。"
+      }
+     ],
+     "gaps": [
+      "climate",
+      "living",
+      "supply"
+     ]
+    },
+    "德国": {
+     "fit": [
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[1].why[0]",
+       "text": "德国人买咖啡习惯用自己的杯子，超市和咖啡店都接受，是日常用具不是摆件。"
+      },
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[1].why[1]",
+       "text": "骑车通勤、徒步的人多，买了杯子还会顺手配个车架水壶架。"
+      },
+      {
+       "aspect": "policy",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[1].risk",
+       "text": "德国查得严：接触食品的材质要检测，包装要注册回收，资料不全上不了架。"
+      }
+     ],
+     "gaps": [
+      "climate",
+      "living",
+      "supply",
+      "price"
+     ]
+    },
+    "英国": {
+     "fit": [
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[2].why[0]",
+       "text": "学校在提倡不用一次性杯，家长会自己给孩子买带盖、不漏的。"
+      },
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[2].why[1]",
+       "text": "公司定制印 logo 的杯子是另一门生意，一次几百个，还能补上零售淡季。"
+      }
+     ],
+     "gaps": [
+      "climate",
+      "living",
+      "supply",
+      "price"
+     ]
+    },
+    "日本": {
+     "fit": [
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[3].why[0]",
+       "text": "日本人上班带、孩子远足也带，是天天用的东西，回头客多。"
+      },
+      {
+       "aspect": "living",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[3].why[1]",
+       "text": "他们更喜欢 300–500 毫升的小杯，随身带、包小、不占地。"
+      },
+      {
+       "aspect": "policy",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[3].risk",
+       "text": "日本挑得很细，有一点小瑕疵就可能被退，出货前必须挑一遍。"
+      }
+     ],
+     "gaps": [
+      "climate",
+      "supply",
+      "price"
+     ]
+    },
+    "澳大利亚": {
+     "fit": [
+      {
+       "aspect": "climate",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[4].why[0] / entry",
+       "text": "澳洲在南半球，12 月到 2 月最热，正好是北半球卖不动的淡季，反着铺货能省成本。"
+      },
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[4].why[0]",
+       "text": "那边海滩和户外运动多，杯子得摔不坏，大容量比精致款好卖。"
+      },
+      {
+       "aspect": "logistics",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[4].risk",
+       "text": "运费贵是硬伤，报价时必须把运费和税算进去。"
+      }
+     ],
+     "gaps": [
+      "living",
+      "supply",
+      "price"
+     ]
+    },
+    "阿联酋": {
+     "fit": [
+      {
+       "aspect": "habit",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[5].why[0] / entry",
+       "text": "常年户外活动，加上斋月和节庆送礼多，装成礼盒比单卖好卖。"
+      },
+      {
+       "aspect": "price",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[5].why[0]",
+       "text": "当地有钱人多，愿意为质感和包装多付钱，但包装要做阿拉伯语、金属哑光那股质感。"
+      },
+      {
+       "aspect": "climate",
+       "basis": "kb",
+       "src": "kb.seed.json thermal-mug.markets[5].risk",
+       "text": "天太热，包装容易被晒坏，封装材料要按高温环境挑。"
+      }
+     ],
+     "gaps": [
+      "living",
+      "supply",
+      "logistics"
+     ]
+    }
+   }
+  }
+ }
+}

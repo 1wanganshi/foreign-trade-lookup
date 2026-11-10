@@ -1,0 +1,4989 @@
+[
+ {
+  "id": "excavator-13t",
+  "name": "13-22吨级履带挖掘机",
+  "aliases": [
+   "Mini Crawler Excavator",
+   "13 Ton Excavator"
+  ],
+  "category": "工业机械",
+  "summary": "市政与土方主力机型，靠区域代理与配件网点出海。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 94,
+    "why": [
+     "Vision 2030 与新未来城项目拉动土方设备需求，13-22 吨级是市政分包商主力机型，中国品牌性价比优于日系"
+    ],
+    "channels": [
+     "Big 5 迪拜展",
+     "本地代理商分销",
+     "Alibaba 询盘",
+     "WhatsApp 直连承包商"
+    ],
+    "entry": "先签具备维修能力的独家代理，配 2 台样机做工地试用，用小时成本对比报告说服采购",
+    "risk": "GCC 认证明细多、50℃ 高温选配要求高，配件断供会直接丢代理权",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 90,
+    "why": [
+     "镍矿、棕榈园与新首都基建持续开工，二手日系设备受限后中低吨位新机替代空间大"
+    ],
+    "channels": [
+     "区域代理商网络",
+     "雅加达工程机械展",
+     "华人承包商圈",
+     "TikTok 短视频"
+    ],
+    "entry": "绑定矿业承包商做租赁加分期销售，同时在泗水前置配件仓",
+    "risk": "价格战激烈，本地组装与二手机冲击毛利",
+    "rank": 2
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 76,
+    "why": [
+     "道路与住房基建带动挖机需求，欧系二手机价格高且售后缺失，中国新机加配件包接受度高"
+    ],
+    "channels": [
+     "本地经销商",
+     "中资承包商会",
+     "Facebook 询盘"
+    ],
+    "entry": "与中资施工企业配套出海，先做服务收入再做整机销售",
+    "risk": "外汇管制导致付款周期长，需信用证或美元结算",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 72,
+    "why": [
+     "农业与基建投资回升，本地装配成本高，进口中小挖在租赁市场回本周期短"
+    ],
+    "channels": [
+     "M&T Expo 展",
+     "本地进口商",
+     "葡语独立站 SEO"
+    ],
+    "entry": "找有金融租赁能力的进口商，提供三年融资与本地备件包",
+    "risk": "税负与清关复杂，官方融资偏向本土制造",
+    "rank": 4
+   },
+   {
+    "region": "独联体",
+    "country": "俄罗斯",
+    "heat": 68,
+    "why": [
+     "欧美日品牌退出后中低吨位出现明显空缺，中国品牌市占率快速提升"
+    ],
+    "channels": [
+     "莫斯科工程机械展",
+     "俄语代理",
+     "独立站"
+    ],
+    "entry": "俄语独立站与 EAC 认证先行，配件走前置仓",
+    "risk": "结算与物流通道受限，需人民币或第三国清算",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "Big 5 Global 迪拜",
+    "type": "展会",
+    "use": "中东建材与设备核心展，报名 B2B Matchmaking 约见沙特、阿联酋承包商与代理",
+    "priority": 3
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 6
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 7
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 8
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 13 ton excavator for sale 等长尾词，预算占比约 20%，按询盘成本核算",
+    "行业媒体 Construction Week 等横幅与案例软文",
+    "LinkedIn 定向投放承包商采购负责人"
+   ],
+   "organic": [
+    "YouTube 工况实拍与保养视频做信任背书",
+    "独立站参数库与选型工具页承接 SEO",
+    "海外代理商授权网点地图页提升可信度",
+    "海关数据加展会名录主动开发邮件"
+   ],
+   "budget": "年预算 60-120 万元：展会 45%、内容与视频 20%、Google 20%、LinkedIn 10%、其他 5%",
+   "kpi": "有效询盘数、样机试用转化率、代理签约数、单台获客成本"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）",
+   "中国工程机械工业协会挖掘机出口月报"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "cnc-vmc-850",
+  "name": "850型立式加工中心",
+  "aliases": [
+   "Vertical Machining Center",
+   "CNC Milling Machine",
+   "VMC 850"
+  ],
+  "category": "工业机械",
+  "summary": "中小机加工厂升级主力机型，靠打样与精度数据赢单。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 88,
+    "why": [
+     "电子与汽配代工北移，北宁、海防工业区中资工厂扩产，850 机型集中在模具与五金件加工"
+    ],
+    "channels": [
+     "河内与胡志明工业展",
+     "中资工业园直销",
+     "Alibaba 询盘"
+    ],
+    "entry": "在北部工业区设样机展示厅，提供免费打样与精度对比报告",
+    "risk": "日韩二手机竞争，买家看重响应速度",
+    "rank": 1
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 84,
+    "why": [
+     "PLI 计划推动本土制造，中小机加工厂设备更新需求大，中端价位存在明显空白"
+    ],
+    "channels": [
+     "IMTEX 机床展",
+     "本地代理",
+     "IndiaMART"
+    ],
+    "entry": "先在浦那与艾哈迈达巴德布两家代理，配套刀具与丝杠供应链",
+    "risk": "进口关税与认证要求，价格敏感度高",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 74,
+    "why": [
+     "迪拜作为转口枢纽服务海湾与非洲分销，技术型买家与工程公司集中"
+    ],
+    "channels": [
+     "SteelFab 展",
+     "迪拜转口商",
+     "LinkedIn"
+    ],
+    "entry": "以转口加现货仓模式运作，突出交付速度",
+    "risk": "转口客户流向难控，易被层层加价",
+    "rank": 3
+   },
+   {
+    "region": "欧洲",
+    "country": "土耳其",
+    "heat": 70,
+    "why": [
+     "出口导向型机械加工产业发达，对中端机床需求稳定且熟悉 CE 认证流程"
+    ],
+    "channels": [
+     "Maktek 机床展",
+     "本地代理",
+     "Europages"
+    ],
+    "entry": "先做 CE 认证与小批量出口，再谈区域独家代理",
+    "risk": "里拉汇率波动，报价需锁汇",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "heat": 68,
+    "why": [
+     "近岸外包带动汽配与模具产能转移，中资工厂与本地加工厂同步扩产"
+    ],
+    "channels": [
+     "Expo Manufactura 展",
+     "中资园区",
+     "西语独立站"
+    ],
+    "entry": "配西班牙语独立站与本地技术服务工程师",
+    "risk": "美墨关税政策变动风险",
+    "rank": 5
+   },
+   {
+    "region": "独联体",
+    "country": "俄罗斯",
+    "heat": 66,
+    "why": [
+     "机床进口替代加速，中端立式加工中心填补欧美日品牌留下的设备缺口"
+    ],
+    "channels": [
+     "Metalloobrabotka 展",
+     "俄语代理",
+     "独立站"
+    ],
+    "entry": "与系统集成商合作，做俄语技术资料本地化",
+    "risk": "结算与售后服务半径长",
+    "rank": 6
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 4
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 5
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 6
+   },
+   {
+    "name": "SEMrush / Ahrefs",
+    "type": "工具",
+    "use": "扒竞品网站关键词与落地页结构，反推高转化采购长尾词",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 850 VMC 与 CNC machining center price，落地页放打样报告与精度曲线",
+    "行业垂直媒体技术软文与白皮书下载位",
+    "LinkedIn 定向机械加工厂设备与工艺负责人"
+   ],
+   "organic": [
+    "YouTube 加工实录与精度检测视频",
+    "独立站参数对比表与选型 FAQ 做长尾 SEO",
+    "按零件材质分类的打样案例库",
+    "领英个人号技术答疑持续输出内容"
+   ],
+   "budget": "年预算 40-80 万元：展会 40%、内容制作 25%、Google 20%、LinkedIn 15%",
+   "kpi": "打样请求数、样机验收通过率、代理意向数"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "injection-molding-machine",
+  "name": "伺服节能注塑机",
+  "aliases": [
+   "Servo Injection Molding Machine",
+   "Plastic Injection Machine"
+  ],
+  "category": "工业机械",
+  "summary": "节能注塑机配模具整线出海，日用塑料需求撑起基本盘。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 86,
+    "why": [
+     "家电与日用品代工产能转移，160-380 吨伺服机需求旺盛，吨电耗数据是核心卖点"
+    ],
+    "channels": [
+     "塑料机械展",
+     "工业区直销",
+     "Alibaba",
+     "WhatsApp 客户群"
+    ],
+    "entry": "打包整机加模具与耗材，用省电测算报告说服客户换机",
+    "risk": "二手日系机价格竞争激烈",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "埃及",
+    "heat": 80,
+    "why": [
+     "日用品本地化生产推动注塑产能扩张，中低端机型需求大且对价格敏感"
+    ],
+    "channels": [
+     "开罗塑料展",
+     "本地代理",
+     "Facebook 询盘"
+    ],
+    "entry": "找有模具配套能力的代理做整线方案",
+    "risk": "外汇短缺，需预付或开信用证",
+    "rank": 2
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 78,
+    "why": [
+     "塑料制品消费增长，中小加工厂升级需求集中在 100-300 吨段"
+    ],
+    "channels": [
+     "Plastindia 展",
+     "IndiaMART",
+     "本地代理"
+    ],
+    "entry": "先攻区域代理，配套快速维修与备件包",
+    "risk": "关税与本地制造政策压力",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 72,
+    "why": [
+     "包装、水桶与鞋类日用塑料产能本地化，欧洲二手机价高，中国节能新机具性价比"
+    ],
+    "channels": [
+     "拉各斯工业展",
+     "中资工业园",
+     "WhatsApp"
+    ],
+    "entry": "做整厂交付，含安装调试与操作培训",
+    "risk": "电网不稳，需搭配发电机与稳压方案",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "heat": 68,
+    "why": [
+     "近岸外包带动包装与汽配注塑件本地生产，中高吨位伺服机型机会多"
+    ],
+    "channels": [
+     "Plastimagen 展",
+     "本地代理",
+     "西语独立站"
+    ],
+    "entry": "以汽配客户切入中高吨位机型",
+    "risk": "美系品牌与本地服务商竞争激烈",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 4
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 5
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 6
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 长尾词 servo injection molding machine 搜索投放",
+    "阿里 P4P 关键词竞价抢询盘",
+    "行业展会官网广告位"
+   ],
+   "organic": [
+    "整机运行与省电实测视频",
+    "独立站按吨位分型号的结构化 SEO 页",
+    "模具配套案例文章",
+    "展会名录主动开发"
+   ],
+   "budget": "年预算 35-70 万元：展会 35%、阿里 P4P 30%、内容 20%、Google 15%",
+   "kpi": "询盘量、报价转化率、整线订单金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "screw-air-compressor",
+  "name": "螺杆式空气压缩机",
+  "aliases": [
+   "Screw Air Compressor",
+   "Rotary Screw Compressor"
+  ],
+  "category": "工业机械",
+  "summary": "工业通用动力设备，靠能效等级与售后网络在制造国铺量。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 82,
+    "why": [
+     "汽车与电子制造集中，工厂空压系统更新频繁，一级能效与永磁变频机型受青睐"
+    ],
+    "channels": [
+     "Manufacturing Expo",
+     "本地经销",
+     "泰语独立站 SEO"
+    ],
+    "entry": "主推永磁变频一级能效机型，用电费节省测算表报价",
+    "risk": "外资品牌耕耘深，需靠服务响应取胜",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 78,
+    "why": [
+     "石化与建材工厂配套需求大，高温工况与防爆等级是硬性的产业进入门槛"
+    ],
+    "channels": [
+     "Big 5 展",
+     "EPC 承包商",
+     "本地代理"
+    ],
+    "entry": "做防爆与高温定制版本，绑定 EPC 承包商供货",
+    "risk": "高温环境故障率高，售后能力决定口碑",
+    "rank": 2
+   },
+   {
+    "region": "南亚",
+    "country": "孟加拉",
+    "heat": 74,
+    "why": [
+     "纺织印染产业集群对空压机需求密集，客户价格敏感但复购与增购稳定"
+    ],
+    "channels": [
+     "达卡纺织机械展",
+     "本地代理",
+     "WhatsApp"
+    ],
+    "entry": "走代理铺货加备件前置仓模式",
+    "risk": "账期长，代理商资金实力参差",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 68,
+    "why": [
+     "制造业与食品加工业兴起，中小工厂偏好 22-75kW 的节能螺杆机型"
+    ],
+    "channels": [
+     "东非工业展",
+     "中资项目配套",
+     "Facebook"
+    ],
+    "entry": "以中资承包项目配套出口打开局面",
+    "risk": "电网不稳，需搭配储气罐与冷干机方案",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "智利",
+    "heat": 64,
+    "why": [
+     "矿业与工业服务业发达，对高压节能机型有明确的准入认证和现场验收要求"
+    ],
+    "channels": [
+     "Exponor 矿业展",
+     "本地代理",
+     "LinkedIn"
+    ],
+    "entry": "与矿业服务商合作做租赁与托管",
+    "risk": "认证与清关周期长",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 6
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流与搜索并重（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 screw air compressor supplier 加国别与机型词",
+    "阿里 P4P 与关键词排名",
+    "DirectIndustry 类工业目录展示位"
+   ],
+   "organic": [
+    "独立站能效对比与选型工具页",
+    "空压站节能改造案例文章",
+    "YouTube 工厂巡线实拍",
+    "小语种落地页 SEO"
+   ],
+   "budget": "年预算 25-50 万元：阿里 P4P 35%、Google 30%、内容 20%、展会 15%",
+   "kpi": "询盘量、样机试用率、节能承诺转化率"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "gear-reducer",
+  "name": "工业减速机",
+  "aliases": [
+   "Gear Reducer",
+   "Helical Gearbox",
+   "Speed Reducer"
+  ],
+  "category": "工业机械",
+  "summary": "传动核心件，以 OEM 配套与型号互换性进入设备厂供应链。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 80,
+    "why": [
+     "输送线、包装与食品设备组装厂密集，对 NMRV 与斜齿轮减速机有稳定小批量需求"
+    ],
+    "channels": [
+     "Alibaba",
+     "设备厂直销",
+     "工业展"
+    ],
+    "entry": "做主流品牌的尺寸互换型录，降低客户替换门槛",
+    "risk": "型号兼容争议与样品验证周期长",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 72,
+    "why": [
+     "转口贸易与工程项目配套需求并存，水泥、输送与建材行业需求稳定"
+    ],
+    "channels": [
+     "迪拜转口商",
+     "Big 5 展",
+     "LinkedIn"
+    ],
+    "entry": "以现货加快速交付做差异化",
+    "risk": "价格战，转口客户忠诚度低",
+    "rank": 2
+   },
+   {
+    "region": "欧洲",
+    "country": "意大利",
+    "heat": 68,
+    "why": [
+     "包装与自动化设备产业带集中，OEM 配套采购量大且重视认证与交期"
+    ],
+    "channels": [
+     "Europages",
+     "MECSPE 展",
+     "直接拜访设备厂"
+    ],
+    "entry": "以 OEM 定制与打样起步，先不做独立品牌",
+    "risk": "CE、噪音与寿命测试标准高",
+    "rank": 3
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 66,
+    "why": [
+     "本土设备制造持续扩张，对中端斜齿轮与蜗轮蜗杆减速机的采购需求旺盛"
+    ],
+    "channels": [
+     "IndiaMART",
+     "本地代理",
+     "工业展"
+    ],
+    "entry": "以性价比加备件供应绑定区域代理",
+    "risk": "本地制造商低价竞争",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 62,
+    "why": [
+     "食品与包装设备制造具备一定规模，但关键传动部件的进口依赖度较高"
+    ],
+    "channels": [
+     "本地进口商",
+     "行业展会"
+    ],
+    "entry": "与设备厂做 OEM 配套测试切入",
+    "risk": "关税与海运周期长",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 3
+   },
+   {
+    "name": "Europages / Kompass",
+    "type": "目录",
+    "use": "欧洲工业采购目录，注册企业页获取德国、意大利、波兰分销商询价",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "Global Sources",
+    "type": "B2B",
+    "use": "适合小批量高单价配件与电子料，配合香港展做展前邀约与展后跟单",
+    "priority": 6
+   },
+   {
+    "name": "SEMrush / Ahrefs",
+    "type": "工具",
+    "use": "扒竞品网站关键词与落地页结构，反推高转化采购长尾词",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投替换型号词，如 NMRV 090 gearbox supplier",
+    "阿里 P4P 抢 OEM 询盘",
+    "工业目录站付费收录"
+   ],
+   "organic": [
+    "型号兼容对照表做成 SEO 支柱内容",
+    "独立站参数与图纸下载页",
+    "领英面向设备厂工程师的技术内容",
+    "海关数据锁定设备厂采购联系人"
+   ],
+   "budget": "年预算 15-35 万元：阿里 30%、Google 30%、内容 25%、目录站 15%",
+   "kpi": "OEM 询盘数、送样转量产数、重复订单率"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "bearing-deep-groove",
+  "name": "深沟球轴承",
+  "aliases": [
+   "Deep Groove Ball Bearing",
+   "Chrome Steel Bearing"
+  ],
+  "category": "五金工具",
+  "summary": "通用标准件高复购，靠库存深度与型号齐全走批发渠道。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 84,
+    "why": [
+     "摩托车、电机与水泵维修市场庞大，6000 与 6200 系列标准件需求高频稳定"
+    ],
+    "channels": [
+     "本地五金批发商",
+     "Alibaba 询盘",
+     "AliExpress 小批"
+    ],
+    "entry": "以整柜混装供货给区域批发商，配品牌化包装",
+    "risk": "低价劣质货扰乱市场，需做质量分级与假货切割",
+    "rank": 1
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 80,
+    "why": [
+     "电机与农机维修需求大，进口标准件在二级配件市场的接受度比较高"
+    ],
+    "channels": [
+     "IndiaMART",
+     "本地代理",
+     "工业展"
+    ],
+    "entry": "走正品定位加第三方检测报告，避开纯价格竞争",
+    "risk": "反倾销调查与本地品牌竞争",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 72,
+    "why": [
+     "迪拜的转口网络覆盖非洲与中东，五金标准件的集散与分销规模很大"
+    ],
+    "channels": [
+     "迪拜五金市场",
+     "转口商",
+     "Alibaba"
+    ],
+    "entry": "设现货仓做小额混批，放大交付速度优势",
+    "risk": "渠道假货混装损害品牌信誉",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 70,
+    "why": [
+     "摩托车与发电机维修市场庞大，对低价通用标准件存在长期持续的刚性需求"
+    ],
+    "channels": [
+     "拉各斯五金市场",
+     "Facebook 询盘",
+     "本地代理"
+    ],
+    "entry": "以耐久级别定位切入，避免与劣质货比价",
+    "risk": "付款风险与海运损耗",
+    "rank": 4
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 62,
+    "why": [
+     "工业备件采购量大，客户对精度等级、批次追溯与第三方检测文件要求严格"
+    ],
+    "channels": [
+     "Europages",
+     "工业分销商",
+     "汉诺威工业展"
+    ],
+    "entry": "先做 P6 与 P5 精度细分并配套第三方检测报告",
+    "risk": "品牌壁垒与客户验厂门槛高",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C/B2B",
+    "use": "小件配件测款与终端口碑验证",
+    "priority": 2
+   },
+   {
+    "name": "Amazon Business",
+    "type": "B2B零售",
+    "use": "标准化工具耗材与小件走 FBA 或海外仓，测终端复购与品牌沉淀",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 5
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 6
+   },
+   {
+    "name": "eBay / AliExpress",
+    "type": "B2C/B2B",
+    "use": "仅用于配件小件测款，验证型号热度后再做整机渠道",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主，电商站内投放为辅",
+   "paid": [
+    "Google 搜索投型号词，如 6205 bearing supplier",
+    "阿里 P4P 抢批发询盘",
+    "Amazon Business 站内广告测终端复购"
+   ],
+   "organic": [
+    "型号查询数据库页做海量长尾 SEO",
+    "游隙与精度等级科普内容",
+    "海外仓现货页提升转化",
+    "五金批发商名录与展会主动开发"
+   ],
+   "budget": "年预算 10-25 万元：阿里 35%、Google 25%、内容 20%、电商站内 20%",
+   "kpi": "询盘量、复购率、型号页自然搜索流量"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "cordless-power-tools",
+  "name": "锂电无刷电动工具套装",
+  "aliases": [
+   "Cordless Power Tool Kit",
+   "Brushless Drill Driver"
+  ],
+  "category": "五金工具",
+  "summary": "锂电工具套装双线走 ODM 代工与自有品牌零售。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 88,
+    "why": [
+     "DIY 与专业市场容量最大，20V 平台生态成熟，贴牌代工订单稳定"
+    ],
+    "channels": [
+     "Amazon Business",
+     "家居建材连锁供应商体系",
+     "五金展"
+    ],
+    "entry": "先为二线品牌做 ODM 代工，再以子品牌切入 Amazon",
+    "risk": "关税与原产地规则，UL 认证成本高",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 80,
+    "why": [
+     "专业与 DIY 双市场成熟，对电池安全与 CE 认证要求严格"
+    ],
+    "channels": [
+     "Eisenwarenmesse 展",
+     "本地经销",
+     "Amazon DE"
+    ],
+    "entry": "以电池包通用性与五年质保做差异化",
+    "risk": "品牌认知壁垒高，退货与售后成本大",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 70,
+    "why": [
+     "建筑与家装市场活跃，中低价位锂电工具的市场需求保持较快增长势头"
+    ],
+    "channels": [
+     "本地五金连锁",
+     "TikTok 电商",
+     "Shopee"
+    ],
+    "entry": "走五金连锁铺货加短视频种草组合",
+    "risk": "日系与本地品牌价格竞争",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 68,
+    "why": [
+     "建筑与装修工程量大，对耐高温、长续航与防尘防护等级都有明确要求"
+    ],
+    "channels": [
+     "Big 5 展",
+     "本地代理",
+     "WhatsApp"
+    ],
+    "entry": "做高温工况版本与阿拉伯语说明书",
+    "risk": "售后备件与电池保修难覆盖",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 66,
+    "why": [
+     "DIY 与维修市场活跃，进口品牌在当地零售市场存在明显的溢价空间"
+    ],
+    "channels": [
+     "本地进口商",
+     "Mercado Livre",
+     "行业展会"
+    ],
+    "entry": "做本地电压版本与葡语包装",
+    "risk": "关税高，仿冒品冲击价格体系",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Business",
+    "type": "B2B零售",
+    "use": "标准化工具耗材与小件走 FBA 或海外仓，测终端复购与品牌沉淀",
+    "priority": 2
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 4
+   },
+   {
+    "name": "TikTok",
+    "type": "社媒",
+    "use": "工厂实拍与发货现场短视频引流 B 端决策人，导流至 WhatsApp 或独立站",
+    "priority": 5
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 6
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主，电商站内投放为辅",
+   "paid": [
+    "Amazon 站内 SP 与 SB 广告按 ACoS 控成本",
+    "Google Shopping 投放型号与套装词",
+    "TikTok 短视频投流测素材",
+    "展会官网广告位"
+   ],
+   "organic": [
+    "YouTube 拆机与续航实测",
+    "Amazon A+ 页面与品牌旗舰店",
+    "独立站按应用场景的选型内容",
+    "五金连锁渠道陈列与店员培训"
+   ],
+   "budget": "年预算 50-120 万元：Amazon 广告 35%、内容与达人 25%、Google 20%、展会 20%",
+   "kpi": "ACoS、动销率、退换货率、铺货网点数"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "cutting-disc-abrasive",
+  "name": "树脂切割片与磨料耗材",
+  "aliases": [
+   "Abrasive Cutting Disc",
+   "Resin Bonded Wheel"
+  ],
+  "category": "五金工具",
+  "summary": "高频耗材走量品，靠批发商网络与安全认证换取复购。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 78,
+    "why": [
+     "建筑与金属加工密集，切割片属高频消耗品，转口至非洲与海湾规模大"
+    ],
+    "channels": [
+     "迪拜五金市场",
+     "转口商",
+     "Alibaba"
+    ],
+    "entry": "以 EN12413 认证加安全承诺切入批发商",
+    "risk": "低价片易爆片，需严控质量与责任条款",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 76,
+    "why": [
+     "五金加工与造船维修需求旺盛，中低价位耗材的复购周期很短且出货快"
+    ],
+    "channels": [
+     "本地五金连锁",
+     "工业展会",
+     "Alibaba"
+    ],
+    "entry": "按用途分档做产品矩阵，主推不锈钢专用片",
+    "risk": "本地低价产能竞争激烈",
+    "rank": 2
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 74,
+    "why": [
+     "金属加工与建筑装修市场活跃，耗材价格敏感但终端替换需求持续不断"
+    ],
+    "channels": [
+     "拉各斯批发市场",
+     "本地代理",
+     "Facebook"
+    ],
+    "entry": "走批发商铺货加长期供货协议",
+    "risk": "付款风险与假货冲击",
+    "rank": 3
+   },
+   {
+    "region": "南亚",
+    "country": "巴基斯坦",
+    "heat": 68,
+    "why": [
+     "五金加工与农机维修需求大，进口耗材在二级批发市场的流通渠道广泛"
+    ],
+    "channels": [
+     "本地批发",
+     "行业展会"
+    ],
+    "entry": "以标准化包装与规格一致性做区分",
+    "risk": "价格战与灰色渠道冲击",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "秘鲁",
+    "heat": 62,
+    "why": [
+     "矿业与金属加工支撑耗材需求，采购客户对切割效率与单片使用成本敏感"
+    ],
+    "channels": [
+     "矿业服务商",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "绑定矿业服务商做消耗品年度框架",
+    "risk": "海运周期长且资金占用大",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 3
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 4
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 5
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 6
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 cutting disc manufacturer 与规格词",
+    "阿里 P4P 抢批发询盘",
+    "行业杂志与工业目录收录"
+   ],
+   "organic": [
+    "按材质与设备分类的选型指南",
+    "安全使用视频与认证说明",
+    "经销商招募页与铺货地图",
+    "展会名录主动开发"
+   ],
+   "budget": "年预算 8-20 万元：阿里 40%、Google 25%、内容 20%、展会 15%",
+   "kpi": "批发商新增数、复购周期、单柜金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "hand-tools-set",
+  "name": "扳手套装与手动工具组套",
+  "aliases": [
+   "Hand Tool Set",
+   "Wrench Set",
+   "Socket Set",
+   "Hand Tools Set",
+   "五金工具",
+   "手动工具",
+   "扳手套装",
+   "工具箱套装",
+   "做五金的",
+   "手工具",
+   "家用手动工具",
+   "Tool Kit"
+  ],
+  "category": "五金工具",
+  "summary": "手动工具组套走贴牌代工与礼品零售两条腿，标准件竞争激烈。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 82,
+    "why": [
+     "DIY、汽车维修与礼品渠道容量大，工具组套是典型的零售爆款形态"
+    ],
+    "channels": [
+     "Amazon Business",
+     "零售自有品牌代工",
+     "五金展"
+    ],
+    "entry": "以自有品牌切入 Amazon 垂直细分，如摩托车专用组套",
+    "risk": "关税与品牌集中度高",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 76,
+    "why": [
+     "工业与 DIY 双市场并行，对铬钒钢材质等级与包装环保要求严格"
+    ],
+    "channels": [
+     "Eisenwarenmesse 展",
+     "本地经销",
+     "Amazon DE"
+    ],
+    "entry": "以材质检测报告与终身质保做信任背书",
+    "risk": "认证与环保包装成本高",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 68,
+    "why": [
+     "汽车维修与装修市场活跃，中价位工具组套的需求稳定且复购速度很快"
+    ],
+    "channels": [
+     "本地五金商",
+     "WhatsApp",
+     "Facebook"
+    ],
+    "entry": "走本地代理加阿拉伯语包装",
+    "risk": "价格敏感且仿冒品多",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "马来西亚",
+    "heat": 66,
+    "why": [
+     "汽车后市场成熟，工具组套在独立维修厂与快修连锁的渗透率持续提升"
+    ],
+    "channels": [
+     "本地经销",
+     "Shopee 与 Lazada",
+     "行业展会"
+    ],
+    "entry": "做电商专供款与本地仓储",
+    "risk": "低价竞争压缩毛利",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "heat": 64,
+    "why": [
+     "汽车维修与五金零售渠道活跃，进口工具在终端的品牌认知度持续上升"
+    ],
+    "channels": [
+     "零售连锁",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "与五金连锁做自有品牌代工",
+    "risk": "付款账期与清关复杂",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Business",
+    "type": "B2B零售",
+    "use": "标准化工具耗材与小件走 FBA 或海外仓，测终端复购与品牌沉淀",
+    "priority": 2
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 4
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 5
+   },
+   {
+    "name": "TikTok",
+    "type": "社媒",
+    "use": "工厂实拍与发货现场短视频引流 B 端决策人，导流至 WhatsApp 或独立站",
+    "priority": 6
+   },
+   {
+    "name": "AliExpress",
+    "type": "B2C/B2B",
+    "use": "小件配件测款与终端口碑验证",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主，零售站内投放为辅",
+   "paid": [
+    "Amazon 站内广告与 Vine 测评",
+    "Google Shopping 型号与套装词",
+    "TikTok 内容投流测款"
+   ],
+   "organic": [
+    "品类对比与选型内容",
+    "Amazon A+ 与场景化图片",
+    "展会与零售自有品牌对接",
+    "YouTube 耐用性测试"
+   ],
+   "budget": "年预算 20-45 万元：Amazon 广告 35%、内容 30%、Google 20%、展会 15%",
+   "kpi": "ACoS、套装动销率、自有品牌代工订单数"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "mlcc-capacitor",
+  "name": "贴片陶瓷电容 MLCC",
+  "aliases": [
+   "MLCC Capacitor",
+   "SMD Ceramic Capacitor",
+   "0402 Capacitor"
+  ],
+  "category": "电子元器件",
+  "summary": "被动件量大价薄，靠库存深度与供货稳定性做长尾。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 82,
+    "why": [
+     "电子代工产线北移，三星与苹果供应链配套厂在越南北部集中，0402 与 0603 规格用量巨大"
+    ],
+    "channels": [
+     "代工厂采购平台",
+     "本地分销商",
+     "Alibaba 询盘"
+    ],
+    "entry": "以现货库存与 24 小时发货切入中小贴片厂",
+    "risk": "通用型号价格战惨烈，账期压力大",
+    "rank": 1
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 78,
+    "why": [
+     "消费电子本地组装扩张，白牌厂商对被动件价格极为敏感且比价频繁"
+    ],
+    "channels": [
+     "IndiaMART",
+     "本地分销",
+     "展会"
+    ],
+    "entry": "以整盘批发加账期方案换取长期订单",
+    "risk": "低价竞争与回款风险",
+    "rank": 2
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 72,
+    "why": [
+     "维修与中小代工厂需要小批量现货支持，停产型号的替换需求长期稳定"
+    ],
+    "channels": [
+     "Digi-Key 与 Mouser 类平台",
+     "Amazon Business",
+     "独立站"
+    ],
+    "entry": "做停产型号与原厂替代清单，抢占长尾需求",
+    "risk": "授权分销壁垒高，准入与合规门槛高",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 64,
+    "why": [
+     "本地组装与维修市场需求存在，进口周期长约 60 天，现货溢价空间大"
+    ],
+    "channels": [
+     "本地分销商",
+     "WhatsApp",
+     "展会"
+    ],
+    "entry": "以现货加快速交付做溢价",
+    "risk": "关税与清关复杂",
+    "rank": 4
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 62,
+    "why": [
+     "工业与汽车电子客户对批次追溯、RoHS 与可靠性文件要求严格"
+    ],
+    "channels": [
+     "Europages",
+     "工业分销",
+     "展会"
+    ],
+    "entry": "先做完整文档体系与 AEC-Q200 车规料",
+    "risk": "车规认证周期长且投入大",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Global Sources",
+    "type": "B2B",
+    "use": "适合小批量高单价配件与电子料，配合香港展做展前邀约与展后跟单",
+    "priority": 2
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 3
+   },
+   {
+    "name": "Amazon Business（工业品）",
+    "type": "B2B零售",
+    "use": "标准耗材与通用元件以多规格打包上架，承接小额 MRO 采购",
+    "priority": 4
+   },
+   {
+    "name": "TÜV / SGS 认证展示页",
+    "type": "信任背书",
+    "use": "把 CE、RoHS、IEC 报告做成一页式下载页，缩短技术审核周期",
+    "priority": 5
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 6
+   },
+   {
+    "name": "SEMrush / Ahrefs",
+    "type": "工具",
+    "use": "扒竞品网站关键词与落地页结构，反推高转化采购长尾词",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投停产料号与替代型号词",
+    "阿里 P4P 与 RFQ 抢单",
+    "电子行业目录站付费收录"
+   ],
+   "organic": [
+    "独立站料号数据库做长尾 SEO",
+    "替代型号对照表与选型工具",
+    "库存与交期实时看板提升转化",
+    "领英面向采购与硬件工程师的专业内容"
+   ],
+   "budget": "年预算 10-30 万元：阿里 35%、独立站 SEO 25%、Google 20%、目录与展会 20%",
+   "kpi": "询盘转化率、型号覆盖数、复购订单占比"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "pcb-assembly",
+  "name": "PCB 打样与 PCBA 代工",
+  "aliases": [
+   "PCB Assembly",
+   "PCBA Service",
+   "PCB Prototype"
+  ],
+  "category": "电子元器件",
+  "summary": "打样到量产的一站式代工，靠在线报价与工程响应抢单。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 88,
+    "why": [
+     "硬件创业与中小设备公司外包 PCBA 需求大，看重快速打样与英文工程沟通"
+    ],
+    "channels": [
+     "独立站在线报价",
+     "Google 搜索",
+     "LinkedIn"
+    ],
+    "entry": "做在线自动报价系统加 DFM 反馈报告，缩短决策链路",
+    "risk": "关税与原产地文件要求，交期承诺压力",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 80,
+    "why": [
+     "工业控制与汽车电子代工需求稳定，对 ISO13485 与 IATF16949 认证看重"
+    ],
+    "channels": [
+     "展会",
+     "本地代理",
+     "独立站"
+    ],
+    "entry": "先做工业控制类小批量高品质客户",
+    "risk": "环保与劳工合规审查严格",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 74,
+    "why": [
+     "电子制造本地化带动配套 PCBA 需求，中资工厂大量转移越南南北园区"
+    ],
+    "channels": [
+     "中资园区",
+     "本地分销商",
+     "领英"
+    ],
+    "entry": "做中资工厂配套，承接小批量与急单",
+    "risk": "本地同业产能扩张快",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 66,
+    "why": [
+     "安防与能源监测设备的本地集成商需要小批量多品种的 PCBA 支持"
+    ],
+    "channels": [
+     "本地集成商",
+     "展会",
+     "WhatsApp"
+    ],
+    "entry": "以方案商身份切入，配套硬件设计服务",
+    "risk": "订单规模小，服务成本高",
+    "rank": 4
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 64,
+    "why": [
+     "本土电子制造政策扶持，硬件创业公司与仪表厂商需要打样配套服务"
+    ],
+    "channels": [
+     "IndiaMART",
+     "本地代理",
+     "独立站"
+    ],
+    "entry": "做小批量高多层板与快速打样差异",
+    "risk": "价格敏感且竞争加剧",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 1
+   },
+   {
+    "name": "独立站（英文+小语种）",
+    "type": "官网",
+    "use": "做参数库、选型工具与资料下载，SEO 承接长尾采购搜索，是全链路着陆页",
+    "priority": 2
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 3
+   },
+   {
+    "name": "Global Sources",
+    "type": "B2B",
+    "use": "适合小批量高单价配件与电子料，配合香港展做展前邀约与展后跟单",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 6
+   },
+   {
+    "name": "SEMrush / Ahrefs",
+    "type": "工具",
+    "use": "扒竞品网站关键词与落地页结构，反推高转化采购长尾词",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流与搜索并重（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 pcb assembly service 与打样词，按询盘成本优化出价",
+    "硬件与 EDA 工程师社区广告位",
+    "LinkedIn 定向硬件公司与研发负责人"
+   ],
+   "organic": [
+    "在线报价工具页承接搜索流量",
+    "工艺能力页与 DFM 指南做技术 SEO",
+    "YouTube 工厂制程实录",
+    "开源硬件社区内容合作"
+   ],
+   "budget": "年预算 60-120 万元：Google 搜索 40%、内容与技术站 25%、展会 20%、LinkedIn 15%",
+   "kpi": "在线报价提交量、打样转量产率、复购客户金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "mcu-dev-board",
+  "name": "MCU 开发板与模组",
+  "aliases": [
+   "MCU Module",
+   "Development Board",
+   "ARM Cortex-M Module"
+  ],
+  "category": "电子元器件",
+  "summary": "开发者生态驱动出货，靠文档与社区积累转换成本。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 80,
+    "why": [
+     "硬件创业与创客生态最为活跃，开发者文档质量直接决定最终的芯片选型"
+    ],
+    "channels": [
+     "GitHub 与社区",
+     "Amazon Business",
+     "分销商"
+    ],
+    "entry": "先做开源例程与文档本地化，再谈分销",
+    "risk": "与原厂方案竞争，价格优势有限",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 74,
+    "why": [
+     "工业与汽车电子客户偏好长期供货承诺与清晰的元器件生命周期说明"
+    ],
+    "channels": [
+     "展会",
+     "工业分销",
+     "独立站"
+    ],
+    "entry": "提供十年供货承诺与完整技术文档包",
+    "risk": "认证与文档工作量大",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "马来西亚",
+    "heat": 68,
+    "why": [
+     "电子代工与本地设计公司集中，开发板多用于产线测试与小批量产品开发"
+    ],
+    "channels": [
+     "本地分销",
+     "Shopee 与 Lazada",
+     "展会"
+    ],
+    "entry": "以本地分销商做小批量铺货",
+    "risk": "订单碎片化，物流成本高",
+    "rank": 3
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 66,
+    "why": [
+     "电子设计服务与教育市场庞大，开发板采购需求量很大但对价格非常敏感"
+    ],
+    "channels": [
+     "IndiaMART",
+     "教育渠道",
+     "分销商"
+    ],
+    "entry": "走教育渠道与竞赛赞助建立品牌认知",
+    "risk": "价格敏感且本地替代品多",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 62,
+    "why": [
+     "本地电子设计与维修市场持续成长，进口品牌仍具备一定的溢价空间"
+    ],
+    "channels": [
+     "本地分销",
+     "独立站",
+     "WhatsApp"
+    ],
+    "entry": "做葡语文档与本地技术支持",
+    "risk": "关税与进口周期长",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "独立站（英文+小语种）",
+    "type": "官网",
+    "use": "做参数库、选型工具与资料下载，SEO 承接长尾采购搜索，是全链路着陆页",
+    "priority": 1
+   },
+   {
+    "name": "GitHub / 开源社区",
+    "type": "内容",
+    "use": "开源 SDK 与例程，沉淀开发者口碑，是硬件方案的信任凭证",
+    "priority": 2
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 3
+   },
+   {
+    "name": "Amazon Business（工业品）",
+    "type": "B2B零售",
+    "use": "标准耗材与通用元件以多规格打包上架，承接小额 MRO 采购",
+    "priority": 4
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 5
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 6
+   },
+   {
+    "name": "AliExpress / DHgate",
+    "type": "B2C/B2B",
+    "use": "小批量样品与长尾型号测款，验证海外维修市场真实需求",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（开发者生态驱动）",
+   "paid": [
+    "Google 搜索投型号与选型对比词",
+    "电子工程师社区广告位",
+    "Amazon Business 站内广告"
+   ],
+   "organic": [
+    "GitHub 例程与开源项目沉淀",
+    "技术文档与数据手册 SEO",
+    "YouTube 开发教程系列",
+    "社区问答与竞赛赞助"
+   ],
+   "budget": "年预算 25-60 万元：内容与文档 35%、Google 25%、社区 20%、电商站内 20%",
+   "kpi": "文档下载量、样片申请数、分销下单量"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "sensor-modules",
+  "name": "工业传感器模组",
+  "aliases": [
+   "Industrial Sensor Module",
+   "Proximity Sensor",
+   "Photoelectric Sensor"
+  ],
+  "category": "电子元器件",
+  "summary": "自动化产线配套件，靠兼容型号与快速交付切入 OEM。",
+  "markets": [
+   {
+    "region": "欧洲",
+    "country": "意大利",
+    "heat": 78,
+    "why": [
+     "包装与自动化设备产业带集中，传感器作为配套件采购量大，重视 IP 等级与认证"
+    ],
+    "channels": [
+     "MECSPE 展",
+     "Europages",
+     "设备厂直销"
+    ],
+    "entry": "做与主流品牌尺寸兼容的产品线，用替换对照表降低门槛",
+    "risk": "品牌认知度低，需靠 EMC 测试报告背书",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 74,
+    "why": [
+     "电子与自动化产线转移，OEM 与集成商对中价位传感器需求增长快"
+    ],
+    "channels": [
+     "工业展",
+     "本地分销",
+     "Alibaba"
+    ],
+    "entry": "绑定自动化集成商做配套清单",
+    "risk": "价格竞争与交付期要求严",
+    "rank": 2
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 70,
+    "why": [
+     "机床与包装设备本土制造扩张，中端传感器存在明显的进口替代空间"
+    ],
+    "channels": [
+     "IndiaMART",
+     "本地代理",
+     "展会"
+    ],
+    "entry": "以性价比加本地备货切入设备厂",
+    "risk": "低价仿品竞争激烈",
+    "rank": 3
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 68,
+    "why": [
+     "工业自动化与 MRO 替换需求稳定，客户重视交期与参数一致性"
+    ],
+    "channels": [
+     "ThomasNet",
+     "Amazon Business",
+     "分销商"
+    ],
+    "entry": "做替换型号与现货库存，进入 MRO 采购清单",
+    "risk": "认证门槛与品牌壁垒",
+    "rank": 4
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 62,
+    "why": [
+     "自动化产线与楼宇自控系统建设快速推进，带动传感器配套需求增长"
+    ],
+    "channels": [
+     "集成商",
+     "展会",
+     "分销"
+    ],
+    "entry": "通过与系统集成商合作进入项目清单",
+    "risk": "项目周期长，回款慢",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Europages / Kompass",
+    "type": "目录",
+    "use": "欧洲工业采购目录，注册企业页获取德国、意大利、波兰分销商询价",
+    "priority": 2
+   },
+   {
+    "name": "ThomasNet",
+    "type": "目录",
+    "use": "北美工业供应商库，用于寻找 OEM 与代理线索",
+    "priority": 3
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 6
+   },
+   {
+    "name": "TÜV / SGS 认证展示页",
+    "type": "信任背书",
+    "use": "把 CE、RoHS、IEC 报告做成一页式下载页，缩短技术审核周期",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投替换型号与参数词",
+    "阿里 P4P 抢 OEM 询盘",
+    "工业目录站付费收录"
+   ],
+   "organic": [
+    "型号替换对照表做 SEO 支柱页",
+    "选型参数与现场应用案例内容",
+    "领英面向自动化工程师的技术文章",
+    "展会名录与集成商开发"
+   ],
+   "budget": "年预算 15-35 万元：阿里 30%、Google 25%、内容 25%、目录与展会 20%",
+   "kpi": "OEM 询盘数、替换型号验证通过率、重复订单率"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "connector-harness",
+  "name": "接线端子与线束组件",
+  "aliases": [
+   "Wire Harness",
+   "Terminal Block",
+   "Cable Assembly"
+  ],
+  "category": "电子元器件",
+  "summary": "线束与端子属定制加工件，靠图纸响应与质量一致性取胜。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 76,
+    "why": [
+     "汽车、农机与设备产线外包线束订单多，客户重视 PFMEA 与来料检验能力"
+    ],
+    "channels": [
+     "ThomasNet",
+     "展会",
+     "领英开发"
+    ],
+    "entry": "以快速打样与工程协同切入高价值客户",
+    "risk": "关税与原产地规则，质量赔付风险",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 72,
+    "why": [
+     "电子与家电代工扩张带动配套线束加工需求，中资工厂在北部园区集中"
+    ],
+    "channels": [
+     "中资园区",
+     "本地分销",
+     "展会"
+    ],
+    "entry": "做中资工厂配套，提供图纸到量产的闭环",
+    "risk": "同业产能扩张快，价格竞争",
+    "rank": 2
+   },
+   {
+    "region": "欧洲",
+    "country": "波兰",
+    "heat": 66,
+    "why": [
+     "家电与汽车零部件制造集中，线束加工外包与二次转包的需求长期稳定"
+    ],
+    "channels": [
+     "Europages",
+     "展会",
+     "本地分销"
+    ],
+    "entry": "以 CE 与 RoHS 完整文件切入",
+    "risk": "人工成本优势不明显，需靠自动化",
+    "rank": 3
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 64,
+    "why": [
+     "家电与两轮车制造业持续扩张，整机厂的线束与端子配套采购需求旺盛"
+    ],
+    "channels": [
+     "IndiaMART",
+     "本地代理",
+     "展会"
+    ],
+    "entry": "与整机厂做配套供应，签订年度框架",
+    "risk": "账期长与质量审计严",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "heat": 62,
+    "why": [
+     "近岸外包带动家电与汽配线束本地化加工需求，相关配套工厂外迁明显"
+    ],
+    "channels": [
+     "本地进口商",
+     "工业园区",
+     "展会"
+    ],
+    "entry": "走本地仓储与快速交付组合",
+    "risk": "关税政策变动",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "ThomasNet",
+    "type": "目录",
+    "use": "北美工业供应商库，用于寻找 OEM 与代理线索",
+    "priority": 2
+   },
+   {
+    "name": "Europages / Kompass",
+    "type": "目录",
+    "use": "欧洲工业采购目录，注册企业页获取德国、意大利、波兰分销商询价",
+    "priority": 3
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 4
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 5
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 6
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 wire harness manufacturer 加行业词",
+    "工业目录站付费收录",
+    "LinkedIn 定向设备厂采购与研发"
+   ],
+   "organic": [
+    "工艺能力与质量控制页面",
+    "打样案例与图纸响应时效展示",
+    "展会名录与海关数据开发",
+    "领英技术内容与工厂巡线视频"
+   ],
+   "budget": "年预算 12-30 万元：内容与官网 30%、目录 25%、LinkedIn 20%、展会 25%",
+   "kpi": "打样订单数、量产转化率、客户年度框架金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "packaging-machine-sachet",
+  "name": "多列袋包装机与枕式包装机",
+  "aliases": [
+   "Packing Machine",
+   "Sachet Packing Machine",
+   "Flow Wrapper"
+  ],
+  "category": "包装设备",
+  "summary": "食品日化包装设备，靠样机视频与整线方案成交。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 84,
+    "why": [
+     "咖啡、零食与调味品产业高度碎片化，小型袋装设备需求旺盛，投资门槛低"
+    ],
+    "channels": [
+     "Allpack 展",
+     "本地代理",
+     "Alibaba 询盘"
+    ],
+    "entry": "把机器停产与能耗数据做成 ROI 报告，附样板视频",
+    "risk": "本地二手设备与低价同业竞争",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 78,
+    "why": [
+     "食品加工本地化政策持续推进，包装产线建设的整线采购预算十分充足"
+    ],
+    "channels": [
+     "Saudi Food 展",
+     "EPC 承包商",
+     "代理"
+    ],
+    "entry": "做整线交付加安装培训，绑定食品厂项目",
+    "risk": "项目决策周期长，需本地服务团队",
+    "rank": 2
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 74,
+    "why": [
+     "食品与日化本地化生产加速，中低价位小袋包装机的需求增长非常快"
+    ],
+    "channels": [
+     "拉各斯工业展",
+     "中资工厂",
+     "WhatsApp"
+    ],
+    "entry": "以小额投资回报表打动中小厂商",
+    "risk": "电力不稳与售后半径长",
+    "rank": 3
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 72,
+    "why": [
+     "食品与日化制造业总体规模大，包装设备的更新换代需求长期持续存在"
+    ],
+    "channels": [
+     "PackEx India 展",
+     "IndiaMART",
+     "本地代理"
+    ],
+    "entry": "以备件与技术服务绑定长期合作",
+    "risk": "本地制造商价格优势明显",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "heat": 66,
+    "why": [
+     "食品出口与近岸外包带动包装产线投资，中型食品厂的扩产意愿很强"
+    ],
+    "channels": [
+     "Expo Pack 展",
+     "本地代理",
+     "西语独立站"
+    ],
+    "entry": "做整线方案加培训服务，绑定中型食品厂",
+    "risk": "美系品牌竞争与关税",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 4
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 5
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 6
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 sachet packing machine price 等长尾词",
+    "阿里 P4P 与 RFQ 抢单",
+    "行业展会官网广告"
+   ],
+   "organic": [
+    "YouTube 机器运行与换膜调试视频",
+    "独立站按物料分类的设备选型页",
+    "食品厂整线案例文章",
+    "展会名录与海关数据开发"
+   ],
+   "budget": "年预算 25-55 万元：展会 35%、内容与视频 25%、阿里 P4P 25%、Google 15%",
+   "kpi": "询盘量、样机视频请求数、整线订单金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "labeling-machine",
+  "name": "全自动贴标机",
+  "aliases": [
+   "Labeling Machine",
+   "Automatic Label Applicator"
+  ],
+  "category": "包装设备",
+  "summary": "日化饮料产线配套设备，定制化与调试能力是核心壁垒。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 80,
+    "why": [
+     "日化、饮料与食品代工集群成熟，贴标机更新与增线的需求常年稳定"
+    ],
+    "channels": [
+     "本地代理",
+     "Food Pack 展",
+     "Alibaba"
+    ],
+    "entry": "提供现场试机与免费样品打标服务",
+    "risk": "同业价格战与交期压力",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 74,
+    "why": [
+     "转口枢纽服务海湾与非洲市场，本地灌装与贴标产线的采购需求集中"
+    ],
+    "channels": [
+     "迪拜转口商",
+     "展会",
+     "LinkedIn"
+    ],
+    "entry": "以现货加快速配件供应做差异化",
+    "risk": "转口客户忠诚度低",
+    "rank": 2
+   },
+   {
+    "region": "欧洲",
+    "country": "波兰",
+    "heat": 68,
+    "why": [
+     "食品与日化制造业承接西欧产能转移，设备采购预算与周期较为明确"
+    ],
+    "channels": [
+     "Europages",
+     "展会",
+     "本地代理"
+    ],
+    "entry": "以 CE 认证与欧盟服务网点切入",
+    "risk": "认证与安全标准严格",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 64,
+    "why": [
+     "东非日化与饮料制造刚刚起步，中小产能的包装设备投资比较活跃频繁"
+    ],
+    "channels": [
+     "中资工厂",
+     "展会",
+     "WhatsApp"
+    ],
+    "entry": "绑定中资饮料与日化企业配套出口",
+    "risk": "售后半径与备件供应",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "秘鲁",
+    "heat": 60,
+    "why": [
+     "食品与饮料出口持续增长，带动贴标与包装配套设备的采购需求上升"
+    ],
+    "channels": [
+     "本地代理",
+     "展会"
+    ],
+    "entry": "与包装材料商联合推广",
+    "risk": "海运周期与资金占用",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 3
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 4
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 5
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 6
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 labeling machine manufacturer 加行业词",
+    "阿里 P4P 与 RFQ",
+    "行业媒体展示位"
+   ],
+   "organic": [
+    "贴标精度与速度实拍视频",
+    "按瓶型与标签类型的选型页 SEO",
+    "产线集成案例与客户证言",
+    "展会名录主动开发"
+   ],
+   "budget": "年预算 15-40 万元：阿里 30%、内容 25%、展会 25%、Google 20%",
+   "kpi": "询盘量、试机转化率、单机成交金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "corrugated-box-machine",
+  "name": "瓦楞纸箱成型与封箱设备",
+  "aliases": [
+   "Carton Making Machine",
+   "Corrugated Box Machine",
+   "Case Erector"
+  ],
+  "category": "包装设备",
+  "summary": "纸箱产线设备，随电商与出口包装需求在制造国扩张。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 80,
+    "why": [
+     "制造业与电商高速发展带动纸箱需求增长，中小纸箱厂设备更新需求旺"
+    ],
+    "channels": [
+     "本地代理",
+     "工业展",
+     "Alibaba"
+    ],
+    "entry": "以整线交钥匙方案切入中型纸箱厂",
+    "risk": "原料纸价波动影响客户投资意愿",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 74,
+    "why": [
+     "包装本地化与电商发展带动瓦楞纸板线投资，项目预算相对比较充足"
+    ],
+    "channels": [
+     "EPC 承包商",
+     "展会",
+     "代理"
+    ],
+    "entry": "做整线工程与本地安装调试能力建设",
+    "risk": "项目周期长，需本地工程团队",
+    "rank": 2
+   },
+   {
+    "region": "非洲",
+    "country": "埃及",
+    "heat": 70,
+    "why": [
+     "出口加工区与包装本地化政策带动纸箱产能扩张，成套设备需求上升"
+    ],
+    "channels": [
+     "开罗工业展",
+     "本地代理",
+     "WhatsApp"
+    ],
+    "entry": "以性价比加备件方案进入",
+    "risk": "外汇短缺影响付款",
+    "rank": 3
+   },
+   {
+    "region": "南亚",
+    "country": "孟加拉",
+    "heat": 68,
+    "why": [
+     "成衣出口持续拉动包装纸箱需求，区域性纸箱厂的扩产计划持续推进"
+    ],
+    "channels": [
+     "达卡包装展",
+     "本地代理",
+     "展会"
+    ],
+    "entry": "绑定成衣出口配套包装厂做整线",
+    "risk": "本地低价设备竞争",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 62,
+    "why": [
+     "食品与电商包装需求增长，瓦楞纸板产线设备对进口的依赖度仍然较高"
+    ],
+    "channels": [
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "与本地机械商合作做本地化服务",
+    "risk": "关税与融资成本高",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 3
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 6
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 corrugated box machine supplier",
+    "阿里 P4P 抢整线询盘",
+    "行业目录与展会广告"
+   ],
+   "organic": [
+    "整线运行视频与产能数据",
+    "按纸板克重与箱型分类的选型内容",
+    "项目案例与交付流程页",
+    "展会名录与海关数据开发"
+   ],
+   "budget": "年预算 20-50 万元：展会 35%、阿里 25%、内容 25%、Google 15%",
+   "kpi": "整线询盘数、项目报价金额、交付验收通过率"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "shrink-wrap-machine",
+  "name": "热收缩包装机",
+  "aliases": [
+   "Shrink Wrap Machine",
+   "Shrink Tunnel",
+   "L Sealer"
+  ],
+  "category": "包装设备",
+  "summary": "通用型包装设备，标准化程度高，价格与服务双竞争。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "马来西亚",
+    "heat": 76,
+    "why": [
+     "食品与日化包装标准化程度高，热收缩机在中小企业群体中渗透很快"
+    ],
+    "channels": [
+     "本地代理",
+     "展会",
+     "Alibaba"
+    ],
+    "entry": "做标准机型现货加 7 天交付",
+    "risk": "低价同业与本地组装竞争",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 70,
+    "why": [
+     "转口贸易与本地食品加工带动设备需求，客户尤其看重现货与配件供应"
+    ],
+    "channels": [
+     "迪拜转口商",
+     "展会",
+     "WhatsApp"
+    ],
+    "entry": "设迪拜现货仓做快速交付",
+    "risk": "转口客户价格敏感",
+    "rank": 2
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 66,
+    "why": [
+     "日化与食品小厂设备投资较为活跃，入门级半自动机型的采购需求最大"
+    ],
+    "channels": [
+     "拉各斯工业展",
+     "本地代理",
+     "Facebook"
+    ],
+    "entry": "以入门机型加培训服务切入",
+    "risk": "电力不稳与售后成本",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "哥伦比亚",
+    "heat": 62,
+    "why": [
+     "食品与日化制造业持续增长，包装设备的进口需求保持稳定增长态势"
+    ],
+    "channels": [
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "与本地包装材料商联合销售",
+    "risk": "清关与资金占用",
+    "rank": 4
+   },
+   {
+    "region": "欧洲",
+    "country": "西班牙",
+    "heat": 58,
+    "why": [
+     "食品加工与农产品包装需求大，对 CE 认证与能效指标要求非常明确"
+    ],
+    "channels": [
+     "Europages",
+     "展会",
+     "本地代理"
+    ],
+    "entry": "以 CE 认证与能效数据切入",
+    "risk": "欧盟服务与备件要求高",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 3
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 4
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 5
+   },
+   {
+    "name": "AliExpress / DHgate",
+    "type": "B2C/B2B",
+    "use": "小批量样品与长尾型号测款，验证海外维修市场真实需求",
+    "priority": 6
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 shrink wrap machine price",
+    "阿里 P4P 抢中小买家询盘",
+    "展会官网广告"
+   ],
+   "organic": [
+    "机器运行与换膜教学视频",
+    "标准机型参数对比页",
+    "本地语言说明书与视频",
+    "展会与批发商名录开发"
+   ],
+   "budget": "年预算 10-25 万元：阿里 35%、内容 25%、Google 20%、展会 20%",
+   "kpi": "询盘量、成交周期、返单率"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "led-display-indoor-fine-pitch",
+  "name": "小间距LED显示屏",
+  "aliases": [
+   "Fine Pitch LED Display",
+   "Indoor LED Screen",
+   "P1.86 LED Wall"
+  ],
+  "category": "LED显示",
+  "summary": "会议室与控制室用小间距屏，靠工程案例与本地服务落地。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 90,
+    "why": [
+     "会展中心、政府指挥中心与商用综合体项目密集，P1.5-P2.5 室内屏需求旺盛，客户愿为品质付溢价"
+    ],
+    "channels": [
+     "迪拜视听展",
+     "系统集成商",
+     "项目投标"
+    ],
+    "entry": "绑定本地系统集成商做项目储备，先完成地标案例再谈代理",
+    "risk": "项目账期长，需垫资与本地备件支持",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 86,
+    "why": [
+     "娱乐与文旅项目大爆发，室内外屏采购规模大，本地化服务能力是门槛"
+    ],
+    "channels": [
+     "本地代理",
+     "政府项目招标",
+     "展会"
+    ],
+    "entry": "与本地实力代理合资做组装与售后，满足属地化要求",
+    "risk": "属地化政策与本地内容要求",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 78,
+    "why": [
+     "商显与政府数字化项目增长，室内小间距屏价格敏感但对亮度一致性要求提升"
+    ],
+    "channels": [
+     "本地集成商",
+     "展会",
+     "Alibaba"
+    ],
+    "entry": "做性价比型 P2.5 产品线抢中端项目",
+    "risk": "低价同业激烈竞争，毛利压缩",
+    "rank": 3
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 72,
+    "why": [
+     "会议室与演播室市场成熟，对色准、低辐射与 EMC 标准要求很高"
+    ],
+    "channels": [
+     "ISE 展",
+     "本地经销",
+     "Europages"
+    ],
+    "entry": "做 CE 与低蓝光认证，主攻会议室方案",
+    "risk": "欧洲品牌与服务商壁垒高",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 66,
+    "why": [
+     "商显与广告屏需求增长，当地进口依赖度高但清关与税费成本同样很高"
+    ],
+    "channels": [
+     "本地进口商",
+     "展会",
+     "WhatsApp"
+    ],
+    "entry": "与本地方案商联合投标，提供本地备件包",
+    "risk": "关税高，售后半径长",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "安防专业展会（ISC West / Intersec）",
+    "type": "展会",
+    "use": "展前预约系统集成商与分销商，现场演示平台与算法能力",
+    "priority": 3
+   },
+   {
+    "name": "Big 5 Global 迪拜",
+    "type": "展会",
+    "use": "中东建材与设备核心展，报名 B2B Matchmaking 约见沙特、阿联酋承包商与代理",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 6
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（项目型 B2B 信任驱动）",
+   "paid": [
+    "Google 搜索投 fine pitch LED display price 与项目词",
+    "阿里 P4P 抢工程询盘",
+    "行业媒体（Inavate 类）案例植入"
+   ],
+   "organic": [
+    "项目案例库按场景分类做 SEO",
+    "YouTube 屏体安装与调试实录",
+    "独立站提供尺寸与点间距选型工具",
+    "集成商名录与展会名录开发"
+   ],
+   "budget": "年预算 40-90 万元：展会 40%、案例内容 25%、阿里 20%、Google 15%",
+   "kpi": "项目报备数、中标金额、集成商签约数"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）",
+   "洛图科技(RUNTO) 中国LED显示屏出口月度数据"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "led-display-outdoor-billboard",
+  "name": "户外全彩LED广告屏",
+  "aliases": [
+   "Outdoor LED Billboard",
+   "Outdoor LED Screen",
+   "P10 LED Module"
+  ],
+  "category": "LED显示",
+  "summary": "户外广告屏属工程与租赁双需求，中东非与拉美是主战场。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 88,
+    "why": [
+     "户外广告与体育场馆项目多，高温高亮与防护等级是硬指标，本地广告运营商采购频繁"
+    ],
+    "channels": [
+     "广告运营商",
+     "户外广告展会",
+     "本地代理"
+    ],
+    "entry": "做 8000nit 高亮与 IP65 高温适配版本，绑定广告运营商",
+    "risk": "高温与沙尘环境故障率高，质保成本大",
+    "rank": 1
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 80,
+    "why": [
+     "拉各斯等城市户外广告投资活跃，中国屏性价比优势明显，价格敏感但对亮度要求高"
+    ],
+    "channels": [
+     "本地广告商",
+     "代理商",
+     "WhatsApp"
+    ],
+    "entry": "以整套方案含钢结构与控制系统打包报价",
+    "risk": "电力不稳与外汇管制",
+    "rank": 2
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 74,
+    "why": [
+     "户外广告与体育赛事带动租赁屏需求，本地组装成本高且交付周期长"
+    ],
+    "channels": [
+     "租赁商",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "做租赁屏箱体与快速锁扣设计，服务赛事与演出市场",
+    "risk": "关税与海运周期长",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 72,
+    "why": [
+     "户外广告与商场数字标牌快速扩张，中低价位产品的渠道渗透速度很快"
+    ],
+    "channels": [
+     "本地广告商",
+     "Alibaba",
+     "展会"
+    ],
+    "entry": "以标准箱体现货加本地安装培训切入",
+    "risk": "低价竞争严重，利润薄",
+    "rank": 4
+   },
+   {
+    "region": "独联体",
+    "country": "俄罗斯",
+    "heat": 66,
+    "why": [
+     "户外广告与市政项目需求稳定，欧美品牌退出后中国屏份额快速提升"
+    ],
+    "channels": [
+     "本地代理",
+     "展会",
+     "俄语独立站"
+    ],
+    "entry": "做俄语资料与本地仓储，绑定广告公司",
+    "risk": "结算与物流受限",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 3
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 4
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 5
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 6
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（工程与渠道驱动）",
+   "paid": [
+    "Google 搜索投 outdoor LED billboard price",
+    "阿里 P4P 抢广告商询盘",
+    "行业目录与展会广告"
+   ],
+   "organic": [
+    "户外屏项目实拍与播放效果视频",
+    "防护等级与亮度参数技术内容",
+    "本地广告商合作案例",
+    "展会名录与海关数据开发"
+   ],
+   "budget": "年预算 25-60 万元：展会 35%、阿里 25%、内容与视频 25%、Google 15%",
+   "kpi": "询盘量、集装箱出货量、返单率"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）",
+   "洛图科技(RUNTO) 中国LED显示屏出口月度数据"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "led-lighting-panel",
+  "name": "LED商业照明灯具",
+  "aliases": [
+   "LED Panel Light",
+   "LED High Bay",
+   "Commercial LED Lighting"
+  ],
+  "category": "LED显示",
+  "summary": "商业照明属标准品，靠能效认证与项目渠道稳定出货。",
+  "markets": [
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 78,
+    "why": [
+     "照明能效法规严格，替换需求持续，客户对光效、频闪与认证要求高"
+    ],
+    "channels": [
+     "Light+Building 展",
+     "本地经销",
+     "Europages"
+    ],
+    "entry": "先做 ERP 能效标签与光生物安全认证齐全的产品线",
+    "risk": "反倾销与合规审查风险",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 74,
+    "why": [
+     "大型商业与市政照明项目多，对高温散热与长寿命的光衰指标要求很高"
+    ],
+    "channels": [
+     "EPC 承包商",
+     "本地代理",
+     "展会"
+    ],
+    "entry": "绑定 EPC 做项目照明包供货",
+    "risk": "项目垫资与付款周期长",
+    "rank": 2
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 72,
+    "why": [
+     "工商业照明改造需求稳定，DLC 与 UL 认证是进入渠道的硬性入场券"
+    ],
+    "channels": [
+     "Amazon Business",
+     "批发分销",
+     "展会"
+    ],
+    "entry": "先做 DLC 认证系列，切入工程批发渠道",
+    "risk": "认证成本高，关税影响价格",
+    "rank": 3
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 68,
+    "why": [
+     "工厂与商业建筑照明需求增长，中价位产品在工程市场的接受度较高"
+    ],
+    "channels": [
+     "本地经销",
+     "工业展",
+     "Alibaba"
+    ],
+    "entry": "走工业厂房灯具与工程配套组合",
+    "risk": "本地组装厂价格竞争",
+    "rank": 4
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 62,
+    "why": [
+     "太阳能与市电混合照明需求大，离网照明与商用灯具市场并行存在发展"
+    ],
+    "channels": [
+     "中资项目",
+     "本地代理",
+     "展会"
+    ],
+    "entry": "做太阳能一体化路灯与商用灯组合方案",
+    "risk": "付款与售后半径",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 3
+   },
+   {
+    "name": "Amazon Business",
+    "type": "B2B零售",
+    "use": "标准化工具耗材与小件走 FBA 或海外仓，测终端复购与品牌沉淀",
+    "priority": 4
+   },
+   {
+    "name": "Europages / Kompass",
+    "type": "目录",
+    "use": "欧洲工业采购目录，注册企业页获取德国、意大利、波兰分销商询价",
+    "priority": 5
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 6
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主，项目渠道优先",
+   "paid": [
+    "Google 搜索投 LED high bay 与 panel light 采购词",
+    "阿里 P4P 与关键词排名",
+    "Amazon Business 站内广告"
+   ],
+   "organic": [
+    "能效与光参数对比页做技术 SEO",
+    "项目案例与照明设计方案",
+    "分销商与工程商招募页",
+    "展会名录与海关数据开发"
+   ],
+   "budget": "年预算 25-55 万元：阿里 35%、Google 25%、内容 20%、展会 20%",
+   "kpi": "询盘量、样品单转量产率、分销商新增数"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "solar-module-mono",
+  "name": "单晶光伏组件",
+  "aliases": [
+   "Mono PERC Solar Module",
+   "TOPCon PV Module",
+   "Solar Panel"
+  ],
+  "category": "光伏与新能源组件",
+  "summary": "光伏组件价格透明的大宗品，靠认证、交期与海外仓取胜。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 92,
+    "why": [
+     "2024 年中国光伏组件对沙特进口量约 17GW 居全球前列，大型地面电站与分布式同步爆发"
+    ],
+    "channels": [
+     "EPC 招标",
+     "本地开发商",
+     "展会",
+     "分销商"
+    ],
+    "entry": "锁定本地大型 EPC 做组件供应，配套高温与沙尘环境质保承诺",
+    "risk": "价格战惨烈，账期与汇率风险大",
+    "rank": 1
+   },
+   {
+    "region": "南亚",
+    "country": "巴基斯坦",
+    "heat": 88,
+    "why": [
+     "2024 年进口中国组件超 17GW，进口商与分布式安装商需求旺盛，价格极敏感"
+    ],
+    "channels": [
+     "本地进口商",
+     "分销商",
+     "WhatsApp"
+    ],
+    "entry": "以稳定供应加赊销或信用证组合抢占分布式渠道",
+    "risk": "汇率剧烈波动与付款风险",
+    "rank": 2
+   },
+   {
+    "region": "欧洲",
+    "country": "荷兰",
+    "heat": 84,
+    "why": [
+     "鹿特丹港是中国组件进入欧洲的主要集散地，转口与本地分销规模大"
+    ],
+    "channels": [
+     "鹿特丹转口商",
+     "欧洲分销商",
+     "展会"
+    ],
+    "entry": "做欧盟认证与碳足迹文件合规，走转口分销模式",
+    "risk": "欧盟本土制造政策与关税壁垒",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 76,
+    "why": [
+     "分布式光伏增长快，中国组件占进口主流，本地组装受关税影响明显"
+    ],
+    "channels": [
+     "本地分销",
+     "安装商网络",
+     "展会"
+    ],
+    "entry": "做分销商分级授权与本地仓储，主打分布式户用场景",
+    "risk": "关税与本地化政策变动",
+    "rank": 4
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 70,
+    "why": [
+     "工商业屋顶光伏需求稳定，补贴政策调整后项目普遍转向自发自用模式"
+    ],
+    "channels": [
+     "本地开发商",
+     "EPC",
+     "展会"
+    ],
+    "entry": "做工商业屋顶整包方案，绑定本地 EPC",
+    "risk": "电价与补贴政策波动",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 3
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 4
+   },
+   {
+    "name": "TÜV / SGS 认证展示页",
+    "type": "信任背书",
+    "use": "把 CE、RoHS、IEC 报告做成一页式下载页，缩短技术审核周期",
+    "priority": 5
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 6
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 solar panel supplier 加国别词，预算占比低于 15%",
+    "阿里 P4P 抢分布式买家询盘",
+    "行业媒体（pv magazine）案例与数据文章"
+   ],
+   "organic": [
+    "Tier-1 认证与 bankability 报告展示页",
+    "项目案例与发电量数据背书",
+    "领英面向 EPC 与开发商的技术内容",
+    "展会名录与海关数据主动开发"
+   ],
+   "budget": "年预算 80-200 万元：展会 40%、认证与内容 25%、阿里 20%、Google 15%",
+   "kpi": "出货瓦数、EPC 框架协议金额、分销商签约数"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）",
+   "中国光伏行业协会(CPIA) 出口数据",
+   "Ember/能源智库中国组件出口追踪（2024 沙特与巴基斯坦各约 17GW）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "off-grid-inverter",
+  "name": "离网与混合储能逆变器",
+  "aliases": [
+   "Hybrid Inverter",
+   "Off-grid Solar Inverter",
+   "Solar Inverter"
+  ],
+  "category": "光伏与新能源组件",
+  "summary": "储能逆变器是新能源出海增长点，靠并网认证与售后网络。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 84,
+    "why": [
+     "光储一体项目与离网场景（牧区、工地）需求增长，商业客户重视并网合规与质保"
+    ],
+    "channels": [
+     "本地集成商",
+     "展会",
+     "代理"
+    ],
+    "entry": "做并网认证与本地质保网点，先攻工商业侧储能",
+    "risk": "本地电力公司并网审批慢",
+    "rank": 1
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 82,
+    "why": [
+     "电网不稳推动家庭与商用储能需求爆发，离网逆变器与锂电组合出货量大"
+    ],
+    "channels": [
+     "本地分销",
+     "WhatsApp",
+     "Facebook"
+    ],
+    "entry": "做整套光储方案加安装培训，绑定区域分销商",
+    "risk": "低价劣质产品冲击市场与付款风险",
+    "rank": 2
+   },
+   {
+    "region": "南亚",
+    "country": "巴基斯坦",
+    "heat": 78,
+    "why": [
+     "电费上涨与限电推动户用光储增长，逆变器进口需求大且价格敏感度高"
+    ],
+    "channels": [
+     "进口商",
+     "分销商",
+     "电商"
+    ],
+    "entry": "以性价比机型加本地服务网点抢占户用市场",
+    "risk": "汇率波动与赊销风险",
+    "rank": 3
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 74,
+    "why": [
+     "户用储能渗透率高，对并网认证、转换能效与智能 EMS 要求非常严格"
+    ],
+    "channels": [
+     "本地安装商",
+     "展会",
+     "分销商"
+    ],
+    "entry": "先拿 VDE 与 EN 认证，配本地安装商培训体系",
+    "risk": "认证周期长且本地品牌强势",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 70,
+    "why": [
+     "分布式光储增长，离网与备用电源的需求在南美内陆和偏远地区十分旺盛"
+    ],
+    "channels": [
+     "分销商",
+     "安装商",
+     "展会"
+    ],
+    "entry": "做葡萄牙语界面与本地售后服务网络",
+    "risk": "关税与本地认证要求",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 3
+   },
+   {
+    "name": "TÜV / SGS 认证展示页",
+    "type": "信任背书",
+    "use": "把 CE、RoHS、IEC 报告做成一页式下载页，缩短技术审核周期",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 6
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 hybrid inverter 与并网认证词",
+    "阿里 P4P 抢分销商询盘",
+    "YouTube 安装实操视频投流测转化"
+   ],
+   "organic": [
+    "安装教程与故障排查内容矩阵",
+    "认证与质保页面提升信任",
+    "分销商与安装商招募体系",
+    "展会名录与海关数据开发"
+   ],
+   "budget": "年预算 40-90 万元：内容与视频 30%、阿里 25%、展会 25%、Google 20%",
+   "kpi": "分销商签约数、认证通过型号数、复购订单占比"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "tractor-small",
+  "name": "中小马力轮式拖拉机",
+  "aliases": [
+   "Farm Tractor",
+   "Wheel Tractor",
+   "40-80HP Tractor"
+  ],
+  "category": "农业机械",
+  "summary": "中小马力拖拉机是农机出海主力，靠配件与经销商网络扎根。",
+  "markets": [
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 84,
+    "why": [
+     "农业机械化率低，政府补贴与小农采购并存，40-80 马力机型需求最集中"
+    ],
+    "channels": [
+     "农业展会",
+     "本地经销商",
+     "政府项目"
+    ],
+    "entry": "做农具配套包（犁、耙、拖车）提升单机价值",
+    "risk": "付款风险与售后配件供应",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 80,
+    "why": [
+     "棕榈园与水稻种植机械化持续推进，政府农机补贴直接带动整机采购"
+    ],
+    "channels": [
+     "政府采购",
+     "本地代理",
+     "展会"
+    ],
+    "entry": "响应农机补贴招标，配套本地组装与培训",
+    "risk": "政策补贴变动与本地品牌竞争",
+    "rank": 2
+   },
+   {
+    "region": "南亚",
+    "country": "孟加拉",
+    "heat": 74,
+    "why": [
+     "农业人口密集，小型拖拉机替代耕牛进程加快，客户价格敏感度很高"
+    ],
+    "channels": [
+     "本地代理",
+     "经销商",
+     "WhatsApp"
+    ],
+    "entry": "做 40 马力高性价比机型加分期付款方案",
+    "risk": "低价竞争与回款周期长",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "秘鲁",
+    "heat": 66,
+    "why": [
+     "中小农场机械化需求明确，进口依赖度高且周边国家的转口贸易比较活跃"
+    ],
+    "channels": [
+     "本地进口商",
+     "展会",
+     "农业合作社"
+    ],
+    "entry": "通过农业合作社批量销售，配培训服务",
+    "risk": "海运与清关周期长",
+    "rank": 4
+   },
+   {
+    "region": "独联体",
+    "country": "俄罗斯",
+    "heat": 62,
+    "why": [
+     "农机进口替代持续推进，中小马力拖拉机与配套农具的需求稳定增长"
+    ],
+    "channels": [
+     "俄语代理",
+     "展会",
+     "独立站"
+    ],
+    "entry": "做 EAC 认证与俄语资料，绑定区域经销商",
+    "risk": "结算与季节性强",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "广交会 Canton Fair",
+    "type": "展会",
+    "use": "提前预约对应展区买家，用海关数据锁定到会采购商发邀约，展后 7 天内完成报价",
+    "priority": 3
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 4
+   },
+   {
+    "name": "Facebook / Instagram",
+    "type": "社媒",
+    "use": "面向东南亚、非洲、拉美中小买家，用本地语言素材加 WhatsApp 承接询盘",
+    "priority": 5
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 6
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 60hp tractor price",
+    "阿里 P4P 抢经销商询盘",
+    "Facebook 面向非洲东南亚农业从业者投放"
+   ],
+   "organic": [
+    "田间作业实拍与农具配套视频",
+    "补贴政策与选型指南内容",
+    "经销商与配件网点地图",
+    "展会与农业合作社名录开发"
+   ],
+   "budget": "年预算 30-70 万元：展会 35%、阿里 25%、内容与视频 25%、Google 15%",
+   "kpi": "经销商签约数、单机成交额、配件复购率"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "mini-harvester",
+  "name": "小型联合收割机",
+  "aliases": [
+   "Mini Combine Harvester",
+   "Rice Combine Harvester"
+  ],
+  "category": "农业机械",
+  "summary": "小地块收割机需求集中在东南亚，季节性与服务是命门。",
+  "markets": [
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 82,
+    "why": [
+     "小地块稻麦轮作普遍，小型收割机替代人工趋势明显，价格带敏感但需求稳定"
+    ],
+    "channels": [
+     "本地代理",
+     "IndiaMART",
+     "农业展"
+    ],
+    "entry": "以收割季前交付加驻点维修服务保障作业率",
+    "risk": "季节窗口短，服务不及时将直接失去市场",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 74,
+    "why": [
+     "稻米主产区机械化率较高，收割机更新换代与增购需求持续存在并增长"
+    ],
+    "channels": [
+     "本地代理",
+     "农机展",
+     "展会"
+    ],
+    "entry": "做二手置换与以旧换新业务",
+    "risk": "日系与本地品牌竞争",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "菲律宾",
+    "heat": 70,
+    "why": [
+     "稻米自给政策直接推动农机采购，政府补贴与农业合作社采购项目较多"
+    ],
+    "channels": [
+     "政府招标",
+     "合作社",
+     "代理"
+    ],
+    "entry": "参与农机补贴项目投标，配培训与备件",
+    "risk": "招标价格压力与付款周期",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "埃及",
+    "heat": 66,
+    "why": [
+     "尼罗河三角洲农业机械化推进较快，小型联合收割机的需求持续增长"
+    ],
+    "channels": [
+     "本地代理",
+     "政府项目",
+     "展会"
+    ],
+    "entry": "以整机加备件包模式进入，绑定本地服务商",
+    "risk": "外汇短缺影响付款",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "哥伦比亚",
+    "heat": 60,
+    "why": [
+     "水稻与咖啡产区的机械需求明确，进口农业设备的市场接受度比较高"
+    ],
+    "channels": [
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "与农业服务公司合作做作业服务模式",
+    "risk": "海运与资金占用",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 3
+   },
+   {
+    "name": "Facebook / Instagram",
+    "type": "社媒",
+    "use": "面向东南亚、非洲、拉美中小买家，用本地语言素材加 WhatsApp 承接询盘",
+    "priority": 4
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 5
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 6
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 mini combine harvester price",
+    "阿里 P4P 抢经销商与政府项目询盘",
+    "Facebook 面向农业从业者投放作业视频"
+   ],
+   "organic": [
+    "收割季作业实录与效率对比",
+    "服务网络与备件供应承诺页",
+    "本地语言操作手册与培训视频",
+    "展会与合作社名录开发"
+   ],
+   "budget": "年预算 20-45 万元：展会 30%、内容与视频 30%、阿里 25%、Google 15%",
+   "kpi": "询盘量、收割季交付量、服务响应时长"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "cctv-ip-camera",
+  "name": "网络摄像机与 NVR 套装",
+  "aliases": [
+   "IP Camera",
+   "NVR Kit",
+   "PoE Security Camera"
+  ],
+  "category": "安防设备",
+  "summary": "IP 摄像机套装是安防出海主力，靠方案整合与本地集成商。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "heat": 84,
+    "why": [
+     "城市视频监控升级与中小企业安防需求旺盛，中价位 PoE 套装接受度高"
+    ],
+    "channels": [
+     "本地集成商",
+     "分销商",
+     "展会"
+    ],
+    "entry": "做渠道授权加安装商培训，捆绑 NVR 与存储方案",
+    "risk": "低价竞争与本地品牌崛起",
+    "rank": 1
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 80,
+    "why": [
+     "政府与商业安防项目规模大，对本地化服务能力与合规文件要求很高"
+    ],
+    "channels": [
+     "系统集成商",
+     "政府项目",
+     "Intersec 展"
+    ],
+    "entry": "绑定大型集成商做项目配套，重点做本地数据合规说明",
+    "risk": "地缘政治与合规审查风险",
+    "rank": 2
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 74,
+    "why": [
+     "零售商超与社区安防需求大，进口设备的价格优势仍然比较明显突出"
+    ],
+    "channels": [
+     "分销商",
+     "集成商",
+     "展会"
+    ],
+    "entry": "以套装加本地技术支持切入社区与连锁零售",
+    "risk": "关税高与仿冒品牌冲击",
+    "rank": 3
+   },
+   {
+    "region": "非洲",
+    "country": "南非",
+    "heat": 70,
+    "why": [
+     "安防需求强烈，中资品牌在商业与住宅项目中的市场份额渗透率持续提升"
+    ],
+    "channels": [
+     "本地分销",
+     "集成商",
+     "展会"
+    ],
+    "entry": "走分销加本地技术服务伙伴模式",
+    "risk": "电力与网络基础设施限制",
+    "rank": 4
+   },
+   {
+    "region": "欧洲",
+    "country": "波兰",
+    "heat": 62,
+    "why": [
+     "安防升级需求与欧标合规要求并存，市场价格带处于中位且客户接受度高"
+    ],
+    "channels": [
+     "Europages",
+     "分销商",
+     "展会"
+    ],
+    "entry": "先做 GDPR 合规与 CE 认证产品线",
+    "risk": "合规审查与本地品牌竞争",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "安防专业展会（ISC West / Intersec）",
+    "type": "展会",
+    "use": "展前预约系统集成商与分销商，现场演示平台与算法能力",
+    "priority": 3
+   },
+   {
+    "name": "区域总代与系统集成商",
+    "type": "渠道",
+    "use": "按国别招募独家代理，配套样机、返点与技术支持培训",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 6
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 ip camera distributor 加国别词",
+    "阿里 P4P 抢集成商询盘",
+    "安防行业媒体案例与评测植入"
+   ],
+   "organic": [
+    "产品选型与方案设计内容",
+    "安装调试视频与培训体系",
+    "经销商授权与本地服务网点建设",
+    "展会名录与集成商开发"
+   ],
+   "budget": "年预算 35-80 万元：展会 40%、内容与渠道 30%、阿里 20%、Google 10%",
+   "kpi": "经销商签约数、项目报备数、返单率"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "access-control-face",
+  "name": "人脸识别门禁一体机",
+  "aliases": [
+   "Face Recognition Access Control",
+   "Biometric Terminal",
+   "Access Control Terminal"
+  ],
+  "category": "安防设备",
+  "summary": "人脸门禁是智慧园区入口，软件合规与本地集成决定成败。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 78,
+    "why": [
+     "智慧城市与产业园区项目密集，人脸门禁与访客管理需求快速增长明显"
+    ],
+    "channels": [
+     "系统集成商",
+     "展会",
+     "代理"
+    ],
+    "entry": "与集成商联合做园区方案，提供 SDK 二次开发",
+    "risk": "数据隐私法规与人脸使用限制",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "heat": 74,
+    "why": [
+     "办公楼与工厂门禁升级活跃，对人均成本敏感但对识别稳定性要求高"
+    ],
+    "channels": [
+     "本地分销",
+     "集成商",
+     "展会"
+    ],
+    "entry": "做考勤与门禁一体化方案，配套中文泰语界面",
+    "risk": "价格竞争与软件适配需求",
+    "rank": 2
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 68,
+    "why": [
+     "门禁市场成熟，对 GDPR 与人脸数据合规的要求极其严格且审查频繁"
+    ],
+    "channels": [
+     "Europages",
+     "系统集成",
+     "展会"
+    ],
+    "entry": "先做 GDPR 合规版本与本地数据存储方案",
+    "risk": "人脸识别合规风险高，部分场景受限",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "heat": 64,
+    "why": [
+     "商业楼宇与工业园区的门禁升级需求增长，中端方案在本地接受度较高"
+    ],
+    "channels": [
+     "分销商",
+     "集成商",
+     "展会"
+    ],
+    "entry": "以软硬一体方案绑定本地集成商",
+    "risk": "付款账期与本地竞争",
+    "rank": 4
+   },
+   {
+    "region": "非洲",
+    "country": "尼日利亚",
+    "heat": 60,
+    "why": [
+     "企业与政府机构的门禁管理数字化需求初步释放，项目规模小而分散"
+    ],
+    "channels": [
+     "本地代理",
+     "WhatsApp",
+     "项目投标"
+    ],
+    "entry": "以低门槛方案加培训切入中型企业",
+    "risk": "基础设施与售后限制",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "安防专业展会（ISC West / Intersec）",
+    "type": "展会",
+    "use": "展前预约系统集成商与分销商，现场演示平台与算法能力",
+    "priority": 3
+   },
+   {
+    "name": "区域总代与系统集成商",
+    "type": "渠道",
+    "use": "按国别招募独家代理，配套样机、返点与技术支持培训",
+    "priority": 4
+   },
+   {
+    "name": "GitHub / 开源社区",
+    "type": "内容",
+    "use": "开源 SDK 与例程，沉淀开发者口碑，是硬件方案的信任凭证",
+    "priority": 5
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 6
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 face recognition access control supplier",
+    "阿里 P4P 抢集成商询盘",
+    "安防媒体与行业测评投放"
+   ],
+   "organic": [
+    "SDK 与二次开发文档开放",
+    "隐私合规说明页提升信任",
+    "园区与办公案例内容",
+    "集成商名录与展会开发"
+   ],
+   "budget": "年预算 25-55 万元：展会 35%、内容与 SDK 生态 30%、阿里 25%、Google 10%",
+   "kpi": "集成商签约数、项目中标数、SDK 接入数"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "medical-consumables",
+  "name": "医用耗材（无纺布与导管类）",
+  "aliases": [
+   "Medical Consumables",
+   "Surgical Drape",
+   "Medical Tubing"
+  ],
+  "category": "医疗器械",
+  "summary": "医用耗材出口依赖注册证与质量体系，认证是最大门槛。",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "heat": 86,
+    "why": [
+     "医用耗材需求大，FDA 510(k) 或豁免路径明确，医院集团与分销商采购规范"
+    ],
+    "channels": [
+     "FDA 注册",
+     "分销商",
+     "展会"
+    ],
+    "entry": "先完成 FDA 注册与 ISO13485 体系，切入经销商供应",
+    "risk": "FDA 审核与产品责任风险",
+    "rank": 1
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "heat": 80,
+    "why": [
+     "MDR 法规下耗材准入严格但市场容量大，医院采购注重质量与追溯"
+    ],
+    "channels": [
+     "MDR 注册",
+     "本地经销",
+     "MEDICA 展"
+    ],
+    "entry": "完成 CE MDR 认证与临床评价文件后进入分销体系",
+    "risk": "MDR 认证周期长且成本高",
+    "rank": 2
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 74,
+    "why": [
+     "医疗投入持续增长而本土生产能力不足，进口耗材的需求保持稳定增长"
+    ],
+    "channels": [
+     "本地代理",
+     "医院渠道",
+     "展会"
+    ],
+    "entry": "先完成 AKL 注册，绑定有医院资源的代理",
+    "risk": "注册周期与本地代理依赖",
+    "rank": 3
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 70,
+    "why": [
+     "医疗基建投资大，政府采购与私立医院并存，SFDA 注册为门槛"
+    ],
+    "channels": [
+     "SFDA 注册",
+     "政府招标",
+     "分销商"
+    ],
+    "entry": "完成 SFDA 注册并参与政府医疗采购招标",
+    "risk": "招标价格压力与本地化要求",
+    "rank": 4
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 64,
+    "why": [
+     "公立医疗体系采购量大，ANVISA 注册是进入市场的硬性准入前提"
+    ],
+    "channels": [
+     "ANVISA 注册",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "与本地注册代理合作，做公立医院招标",
+    "risk": "注册与税费成本高",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "TÜV / SGS 认证展示页",
+    "type": "信任背书",
+    "use": "把 CE、RoHS、IEC 报告做成一页式下载页，缩短技术审核周期",
+    "priority": 3
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 4
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 5
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 6
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 medical consumables manufacturer",
+    "阿里 P4P 抢经销商询盘",
+    "MEDICA 等医疗展官网广告"
+   ],
+   "organic": [
+    "ISO13485 与注册证展示页",
+    "产品线按科室分类的选型内容",
+    "分销商与 OEM 代工合作页",
+    "展会名录与海关数据开发"
+   ],
+   "budget": "年预算 30-70 万元：展会 40%、认证与内容 30%、阿里 20%、Google 10%",
+   "kpi": "注册获批数、分销商签约数、OEM 订单金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "patient-monitor",
+  "name": "多参数监护仪",
+  "aliases": [
+   "Patient Monitor",
+   "Vital Signs Monitor",
+   "Multi-parameter Monitor"
+  ],
+  "category": "医疗器械",
+  "summary": "监护仪属中端医疗设备，靠临床反馈与本地服务赢单。",
+  "markets": [
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 80,
+    "why": [
+     "基层医院与诊所设备缺口大，中价位监护仪需求旺盛，CDSCO 注册为门槛"
+    ],
+    "channels": [
+     "本地经销",
+     "政府医疗采购",
+     "展会"
+    ],
+    "entry": "完成 CDSCO 注册，切入私立医院与经销商网络",
+    "risk": "低价竞争与招标付款周期",
+    "rank": 1
+   },
+   {
+    "region": "东南亚",
+    "country": "印度尼西亚",
+    "heat": 76,
+    "why": [
+     "公立医院扩编与基层医疗设施建设，直接带动监护仪的批量采购需求"
+    ],
+    "channels": [
+     "政府招标",
+     "经销商",
+     "展会"
+    ],
+    "entry": "绑定有医院资源的代理做政府招标",
+    "risk": "本地注册与售后服务要求",
+    "rank": 2
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 68,
+    "why": [
+     "医疗基建投入持续增长，基础监护仪与母婴监护设备的采购需求较大"
+    ],
+    "channels": [
+     "国际援助项目",
+     "本地经销",
+     "展会"
+    ],
+    "entry": "参与国际组织与援助项目投标",
+    "risk": "付款与物流条件复杂",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "秘鲁",
+    "heat": 64,
+    "why": [
+     "公立医院招标采购与私立诊所采购并行存在，进口设备接受度比较高"
+    ],
+    "channels": [
+     "政府招标",
+     "本地进口商",
+     "展会"
+    ],
+    "entry": "与本地注册代理合作参与公立医院采购",
+    "risk": "注册与税费成本",
+    "rank": 4
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 62,
+    "why": [
+     "私立医院与高端诊所需求稳定存在，迪拜转口可覆盖整个周边区域市场"
+    ],
+    "channels": [
+     "经销商",
+     "展会",
+     "转口"
+    ],
+    "entry": "做迪拜转口与区域服务网点",
+    "risk": "高端市场竞争激烈",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 3
+   },
+   {
+    "name": "TÜV / SGS 认证展示页",
+    "type": "信任背书",
+    "use": "把 CE、RoHS、IEC 报告做成一页式下载页，缩短技术审核周期",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 销售导航",
+    "type": "社媒",
+    "use": "按采购经理+目标国+行业词建名单，用技术案例与白皮书做长期培育",
+    "priority": 5
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 6
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 patient monitor supplier",
+    "阿里 P4P 抢经销商询盘",
+    "医疗展官网广告与会议赞助"
+   ],
+   "organic": [
+    "临床参数与对比评测内容",
+    "注册证与质量体系展示",
+    "经销商培训与售后体系",
+    "展会名录与招标信息跟踪"
+   ],
+   "budget": "年预算 25-60 万元：展会 45%、内容 25%、阿里 20%、Google 10%",
+   "kpi": "注册获批数、经销商签约数、招标中标金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "sunflower-seed-optical-sorter",
+  "name": "色选机（粮食与坚果分选）",
+  "aliases": [
+   "Optical Sorter",
+   "Color Sorter Machine",
+   "Seed Sorting Machine"
+  ],
+  "category": "农业机械",
+  "summary": "色选机是高附加值分选设备，靠样机演示与粮食品质提升卖点。",
+  "markets": [
+   {
+    "region": "东南亚",
+    "country": "缅甸",
+    "heat": 76,
+    "why": [
+     "稻米与豆类出口需要分级分选，色选机是提升出口品质和溢价的关键设备"
+    ],
+    "channels": [
+     "本地代理",
+     "大米加工厂",
+     "展会"
+    ],
+    "entry": "以原料到成品对比样机演示打动米厂老板",
+    "risk": "购买力有限与付款风险",
+    "rank": 1
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 74,
+    "why": [
+     "香料、坚果与豆类分选需求大，本地设备制造业有一定配套与竞争基础"
+    ],
+    "channels": [
+     "IndiaMART",
+     "代理商",
+     "展会"
+    ],
+    "entry": "以高通道数机型做规模客户，小通道机型走分销",
+    "risk": "本地品牌价格竞争激烈",
+    "rank": 2
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "heat": 66,
+    "why": [
+     "食品与干果转口分选需求稳定存在，客户非常重视售后响应与备件供应"
+    ],
+    "channels": [
+     "转口商",
+     "食品加工厂",
+     "展会"
+    ],
+    "entry": "以本地备件仓与快速响应做差异化",
+    "risk": "市场规模有限",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "heat": 62,
+    "why": [
+     "咖啡、豆类与坚果出口对分选精度和一致性要求高，设备升级意愿强"
+    ],
+    "channels": [
+     "本地进口商",
+     "展会",
+     "咖啡产业渠道"
+    ],
+    "entry": "绑定咖啡与豆类出口加工厂做样板客户",
+    "risk": "关税与海运周期",
+    "rank": 4
+   },
+   {
+    "region": "非洲",
+    "country": "埃塞俄比亚",
+    "heat": 58,
+    "why": [
+     "咖啡与芝麻出口分级需求上升，出口加工厂的品质分选投入持续增加"
+    ],
+    "channels": [
+     "出口加工厂",
+     "展会",
+     "代理"
+    ],
+    "entry": "与国际援助与出口项目合作切入",
+    "risk": "外汇短缺与售后半径",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "YouTube",
+    "type": "内容",
+    "use": "拍开机、稼动、安装调试全流程视频，标题带型号与用途词，是工业品最强的信任资产",
+    "priority": 3
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 4
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 5
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 6
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B信任驱动）",
+   "paid": [
+    "Google 搜索投 color sorter machine price",
+    "阿里 P4P 抢加工厂询盘",
+    "行业媒体与展会广告"
+   ],
+   "organic": [
+    "分选前后对比视频与成品率数据",
+    "按物料分类的技术选型页",
+    "客户案例与投资回报测算",
+    "展会名录与加工厂开发"
+   ],
+   "budget": "年预算 18-40 万元：内容与视频 30%、展会 30%、阿里 25%、Google 15%",
+   "kpi": "样机演示次数、成交单数、单机金额"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "irrigation-drip-system",
+  "name": "滴灌与微喷灌系统",
+  "aliases": [
+   "Drip Irrigation System",
+   "Micro Sprinkler",
+   "Irrigation Kit"
+  ],
+  "category": "农业机械",
+  "summary": "节水灌溉系统随农业投资出海，靠项目与农资渠道渗透。",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "heat": 82,
+    "why": [
+     "农业节水政策严格，滴灌替代漫灌属刚性需求，政府补贴项目多且预算明确"
+    ],
+    "channels": [
+     "农业项目招标",
+     "工程承包商",
+     "展会"
+    ],
+    "entry": "响应农业节水补贴项目，配套设计与安装服务",
+    "risk": "项目账期与本地施工依赖",
+    "rank": 1
+   },
+   {
+    "region": "非洲",
+    "country": "肯尼亚",
+    "heat": 74,
+    "why": [
+     "小农灌溉与园艺出口带动滴灌需求，NGO 项目与政府项目并行推进"
+    ],
+    "channels": [
+     "农资店",
+     "NGO 项目",
+     "分销商"
+    ],
+    "entry": "做小农户套装加农资店分销",
+    "risk": "单笔金额小，物流成本高",
+    "rank": 2
+   },
+   {
+    "region": "南亚",
+    "country": "印度",
+    "heat": 72,
+    "why": [
+     "节水灌溉补贴快速推动滴灌普及，但本地制造商众多且价格竞争激烈"
+    ],
+    "channels": [
+     "政府补贴项目",
+     "经销商",
+     "IndiaMART"
+    ],
+    "entry": "以质量与交期切入补贴项目供应商体系",
+    "risk": "本地制造商价格优势明显",
+    "rank": 3
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "heat": 66,
+    "why": [
+     "干旱地区农业灌溉改造需求大，滴灌管材与配套设备对进口依赖度较高"
+    ],
+    "channels": [
+     "农业工程商",
+     "分销商",
+     "展会"
+    ],
+    "entry": "与农业工程公司合作做整体灌溉方案",
+    "risk": "关税与本地竞争",
+    "rank": 4
+   },
+   {
+    "region": "独联体",
+    "country": "乌兹别克斯坦",
+    "heat": 60,
+    "why": [
+     "棉花与果蔬种植区的节水改造需求明显，政府持续推动滴灌技术落地"
+    ],
+    "channels": [
+     "政府项目",
+     "本地代理",
+     "展会"
+    ],
+    "entry": "参与政府节水农业项目，配套本地安装培训",
+    "risk": "付款与本地化要求",
+    "rank": 5
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "开通 Gold Supplier 店铺，按品类发布产品并配 RFQ 报价抢单；详情页放技术参数表、认证与工厂视频",
+    "priority": 1
+   },
+   {
+    "name": "Made-in-China",
+    "type": "B2B",
+    "use": "开 Audited Supplier 认证店铺，欧洲与中东买家占比高，报名线上采购季与专题推广",
+    "priority": 2
+   },
+   {
+    "name": "行业专业展会",
+    "type": "展会",
+    "use": "按目标区域选择对口专业展，展前用买家名录预约 20 家以上客户",
+    "priority": 3
+   },
+   {
+    "name": "WhatsApp Business",
+    "type": "私域",
+    "use": "建客户目录与快捷回复库，直接发送安装视频与操作手册，中东非洲南美成交主通道",
+    "priority": 4
+   },
+   {
+    "name": "Google Ads 搜索",
+    "type": "付费投放",
+    "use": "投采购长尾词，落地页只放技术参数与询盘表单，按询盘成本核算 ROI",
+    "priority": 5
+   },
+   {
+    "name": "海关提单数据（特易/贸立方）",
+    "type": "数据工具",
+    "use": "反查目标国活跃进口商与采购频次，锁定高潜力客户后再投样与报价",
+    "priority": 6
+   },
+   {
+    "name": "Facebook / Instagram",
+    "type": "社媒",
+    "use": "面向东南亚、非洲、拉美中小买家，用本地语言素材加 WhatsApp 承接询盘",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主（B2B与项目驱动）",
+   "paid": [
+    "Google 搜索投 drip irrigation system price",
+    "阿里 P4P 抢农资与项目询盘",
+    "Facebook 面向农户与农资商投放"
+   ],
+   "organic": [
+    "灌溉方案设计与选型工具",
+    "节水效益测算与案例内容",
+    "农资店分销体系与陈列支持",
+    "展会与政府项目名录开发"
+   ],
+   "budget": "年预算 12-30 万元：阿里 30%、内容 25%、展会 25%、Google 与社媒 20%",
+   "kpi": "询盘量、项目中标数、农资店分销覆盖数"
+  },
+  "sources": [
+   "中国海关总署进出口统计月报",
+   "UN Comtrade Database 中国出口目的国数据",
+   "中国机电产品进出口商会行业出口报告",
+   "Google Keyword Planner 采购意图词搜索量（2024-2025）"
+  ],
+  "confidence": "medium"
+ }
+]

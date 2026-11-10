@@ -1,0 +1,4618 @@
+[
+  {
+    "id": "usb-c-gan-charger",
+    "name": "氮化镓多口快充充电器",
+    "aliases": [
+      "GaN Charger",
+      "USB-C PD Charger",
+      "氮化镓充电器"
+    ],
+    "category": "3C电子",
+    "summary": "一个充电头喂饱手机笔记本等多设备，是3C配件里最稳的高复购标品",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓，适合低单价配件铺量",
+        "priority": 2
+      },
+      {
+        "name": "Jungle Scout / Helium10",
+        "type": "数据",
+        "use": "用BSR与关键词搜索量选品定价，反推竞品差评做改进点与卖点排序",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon Sponsored Products 打核心词 65W/100W GaN Charger",
+        "TikTok Shop 达人挂车短视频+直播切片",
+        "Google Search 收割独立站品牌词与品类词"
+      ],
+      "organic": [
+        "Reddit r/UsbCHardware 做实测贴",
+        "YouTube 拆解测评做长尾背书",
+        "德语日语详情页做本地SEO"
+      ],
+      "budget": "月 1.5-2 万美元，广告占比 70%，其中 Amazon 占 55%",
+      "kpi": "ACOS<28%，月销 8000 台，Review 4.5 星以上，退货率<3%"
+    },
+    "sources": [
+      "Amazon Best Sellers: USB Chargers",
+      "Statista: Consumer Electronics Accessories",
+      "海关总署 8504.40 出口数据"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "magsafe-power-bank",
+    "name": "磁吸无线充电宝",
+    "aliases": [
+      "Magnetic Power Bank",
+      "MagSafe Battery Pack",
+      "磁吸充电宝"
+    ],
+    "category": "3C电子",
+    "summary": "吸附即充的便携充电宝，跟着iPhone生态走，欧美日需求最集中",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "韩国电竞与手游产业发达，外设和快充配件换代快，审美与设计权重很高"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，配Naver博客社区种草",
+        "risk": "KC认证强制，本地价格战与本土品牌偏好强"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "体量约为美国十分之一而竞争弱、毛利高，适合美国站跑通后的低成本延伸"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Walmart Canada",
+          "独立站"
+        ],
+        "entry": "复用美国站Listing做税费与英法双语标签，走FBA远程配送",
+        "risk": "人口少单量天花板低，物流成本高于美国"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "北美第二平台分散Amazon风险，用WFS对标FBA时效，走低价心智",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop (US/UK)",
+        "type": "社交",
+        "use": "美英本地达人矩阵铺量，用小黄车测试卖点话术，跑出素材后放大投流",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御+品类词收割，配再营销RLSA与PMax，把独立站获客成本压到可控",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "TikTok Shop 美国达人开箱+通勤场景短视频",
+        "Meta Advantage+ 兴趣人群扩量",
+        "Amazon Sponsored Brands 打磁吸充电宝品类词"
+      ],
+      "organic": [
+        "独立站做iPhone配件套装组合页",
+        "YouTube 旅行vlog植入",
+        "Pinterest 送礼场景图文"
+      ],
+      "budget": "月 1.2-1.8 万美元，TikTok 与 Amazon 各占 35%",
+      "kpi": "ROAS>2.5，月销 6000 件，差评率<2%，复购配件连带率>15%"
+    },
+    "sources": [
+      "Amazon US Electronics 榜单",
+      "YouTube 数码测评频道参考",
+      "Apple MagSafe 生态公开资料"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "bluetooth-earbuds",
+    "name": "真无线蓝牙耳机",
+    "aliases": [
+      "TWS Earbuds",
+      "True Wireless Earbuds",
+      "TWS耳机"
+    ],
+    "category": "3C电子",
+    "summary": "入门到中端的TWS耳机，靠性价比与本地化调音吃下沉市场",
+    "markets": [
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "印尼手机用户基数庞大，配件属高频消耗品，TikTok直播带货转化极强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "Tokopedia"
+        ],
+        "entry": "TikTok Shop印尼本地达人直播+COD，先铺中低价再上品牌款",
+        "risk": "本地含量与进口许可要求严，低价内卷毛利薄"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "菲律宾年轻人口与手游人群规模大，入门级外设和配件出货快，试错与验证成本低"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "跨境店小包先测款，用COD配合本地网红做低价爆款",
+        "risk": "物流时效差、客诉与退货率偏高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      },
+      {
+        "region": "非洲",
+        "country": "尼日利亚",
+        "rank": 4,
+        "heat": 67,
+        "why": [
+          "电网不稳使小型储能与逆变配件成为刚性需求，买家价格敏感但复购频次高"
+        ],
+        "channels": [
+          "Jumia",
+          "广交会",
+          "本地代理"
+        ],
+        "entry": "以广交会+本地代理做整柜出货，主推耐高温低价储能与逆变配件",
+        "risk": "外汇管制与汇兑损失，赊销风险大"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 3,
+        "heat": 73,
+        "why": [
+          "泰国汽车与摩托车改装市场活跃，配件消费力在东南亚处于领先位置"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "用Lazada本地仓做时效，配合泰国改装社区内容种草",
+        "risk": "认证与本地代理渠道分散，需逐家谈判"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重，再转本地仓降低时效投诉",
+        "priority": 2
+      },
+      {
+        "name": "Lazada",
+        "type": "B2C",
+        "use": "在印尼马来菲律宾铺中低价位，用LazMall做品牌背书与官方旗舰店",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓，适合低单价配件铺量",
+        "priority": 2
+      },
+      {
+        "name": "Lazada",
+        "type": "B2C",
+        "use": "在印尼马来菲律宾铺中低价位，用LazMall做品牌背书与官方旗舰店",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Shopee/Lazada 关键词广告与首页banner",
+        "TikTok 东南亚本地达人直播",
+        "Mercado Libre 站内Product Ads"
+      ],
+      "organic": [
+        "本地网红测评视频",
+        "Facebook 妈妈群与游戏群口碑",
+        "店铺评价运营(赠品换评)"
+      ],
+      "budget": "月 8000-1.2 万美元，本地平台广告占 60%",
+      "kpi": "单款月销 2 万件，退货率<5%，ACOS<25%，4.5星以上"
+    },
+    "sources": [
+      "Canalys 全球TWS出货报告",
+      "Shopee 跨境类目周报",
+      "海关 8518.30 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "mechanical-keyboard",
+    "name": "机械键盘",
+    "aliases": [
+      "Mechanical Keyboard",
+      "Gaming Keyboard",
+      "客制化键盘"
+    ],
+    "category": "3C电子",
+    "summary": "客制化与量产机械键盘并行，欧美电竞与办公客群愿为手感付费",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "韩国电竞与手游产业发达，外设和快充配件换代快，审美与设计权重很高"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，配Naver博客社区种草",
+        "risk": "KC认证强制，本地价格战与本土品牌偏好强"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      },
+      {
+        "name": "Reddit / 垂类论坛",
+        "type": "社交",
+        "use": "在对应垂类做真实使用贴与AMA，导流独立站并收集痛点迭代",
+        "priority": 4
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给科技测评与改装频道，做长尾搜索词覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "Jungle Scout / Helium10",
+        "type": "数据",
+        "use": "用BSR与关键词搜索量选品定价，反推竞品差评做改进点与卖点排序",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流与内容并重",
+      "paid": [
+        "Amazon Sponsored Brands 打 gaming keyboard 词",
+        "Google Shopping 承接客制化长尾词",
+        "Reddit 广告定向机械键盘社区"
+      ],
+      "organic": [
+        "r/MechanicalKeyboards 晒单与GB团购",
+        "YouTube 打字音测评",
+        "Discord 社群做首发预售"
+      ],
+      "budget": "季度 2-3 万美元，内容与广告各半，新品期广告占 70%",
+      "kpi": "客单价>$89，毛利率>40%，首月出货 3000 台，Reddit 自然帖>20"
+    },
+    "sources": [
+      "r/MechanicalKeyboards 社区规模",
+      "Amazon 键盘类目BSR",
+      "KBDFans/Keychron 公开渠道策略"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "gaming-mouse",
+    "name": "电竞游戏鼠标",
+    "aliases": [
+      "Gaming Mouse",
+      "Esports Mouse",
+      "轻量化鼠标"
+    ],
+    "category": "3C电子",
+    "summary": "轻量化与高回报率的电竞鼠标，靠参数与职业选手背书打北美欧洲",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "韩国电竞与手游产业发达，外设和快充配件换代快，审美与设计权重很高"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，配Naver博客社区种草",
+        "risk": "KC认证强制，本地价格战与本土品牌偏好强"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "Coupang",
+        "type": "B2C",
+        "use": "韩国火箭配送做时效壁垒，用韩语详情页与本地客服降低退货",
+        "priority": 2
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop (US/UK)",
+        "type": "社交",
+        "use": "美英本地达人矩阵铺量，用小黄车测试卖点话术，跑出素材后放大投流",
+        "priority": 1
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给科技测评与改装频道，做长尾搜索词覆盖，为高客单产品背书",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon Sponsored Products 打 lightweight gaming mouse",
+        "TikTok 电竞达人开箱",
+        "YouTube 前置广告贴片给测评频道"
+      ],
+      "organic": [
+        "赞助本地半职业战队",
+        "Reddit r/MouseReview 参数实测",
+        "Discord 固件更新社群运营"
+      ],
+      "budget": "月 1-1.5 万美元，Amazon 占 50%，达人合作 30%",
+      "kpi": "ACOS<30%，月销 5000 只，复购与配件(脚贴/键帽)连带>12%"
+    },
+    "sources": [
+      "Amazon 游戏鼠标类目数据",
+      "电竞外设行业媒体报道",
+      "厂商公开规格对标"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "usb-c-hub",
+    "name": "USB-C 扩展坞",
+    "aliases": [
+      "USB-C Hub",
+      "Docking Station",
+      "多功能扩展坞"
+    ],
+    "category": "3C电子",
+    "summary": "一线连多屏多接口，是笔记本与掌机用户的刚需生产力配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "韩国电竞与手游产业发达，外设和快充配件换代快，审美与设计权重很高"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，配Naver博客社区种草",
+        "risk": "KC认证强制，本地价格战与本土品牌偏好强"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "北美第二平台分散Amazon风险，用WFS对标FBA时效，走低价心智",
+        "priority": 3
+      },
+      {
+        "name": "LinkedIn",
+        "type": "社交",
+        "use": "按职位搜进口商采购经理，做内容式开发信，回复率明显高于冷邮件",
+        "priority": 3
+      },
+      {
+        "name": "Jungle Scout / Helium10",
+        "type": "数据",
+        "use": "用BSR与关键词搜索量选品定价，反推竞品差评做改进点与卖点排序",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon Sponsored Products 打 docking station 高意图词",
+        "Google Search 收割 MacBook 适配长尾词",
+        "Walmart 站内广告做第二平台"
+      ],
+      "organic": [
+        "企业IT采购用LinkedIn做B端内容",
+        "YouTube 办公装备测评",
+        "Reddit 笔记本社区答疑帖"
+      ],
+      "budget": "月 1-1.2 万美元，Amazon 占 60%，B端询盘靠自然流量",
+      "kpi": "ACOS<25%，客单价>$45，企业批量订单占比>20%"
+    },
+    "sources": [
+      "Amazon 扩展坞类目",
+      "DisplayLink/Thunderbolt 授权公开信息",
+      "海关 8471.80 出口数据"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "charger-cable-set",
+    "name": "快充数据线套装",
+    "aliases": [
+      "USB-C Cable",
+      "Fast Charging Cable",
+      "编织数据线"
+    ],
+    "category": "3C电子",
+    "summary": "低单价高频消耗品，靠多语言认证与组合装冲量，适合全托管平台",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "印尼手机用户基数庞大，配件属高频消耗品，TikTok直播带货转化极强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "Tokopedia"
+        ],
+        "entry": "TikTok Shop印尼本地达人直播+COD，先铺中低价再上品牌款",
+        "risk": "本地含量与进口许可要求严，低价内卷毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      },
+      {
+        "region": "非洲",
+        "country": "尼日利亚",
+        "rank": 4,
+        "heat": 67,
+        "why": [
+          "电网不稳使小型储能与逆变配件成为刚性需求，买家价格敏感但复购频次高"
+        ],
+        "channels": [
+          "Jumia",
+          "广交会",
+          "本地代理"
+        ],
+        "entry": "以广交会+本地代理做整柜出货，主推耐高温低价储能与逆变配件",
+        "risk": "外汇管制与汇兑损失，赊销风险大"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓，适合低单价配件铺量",
+        "priority": 2
+      },
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重，再转本地仓降低时效投诉",
+        "priority": 2
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Temu 站内推荐位与秒杀",
+        "Shopee 关键词广告冲类目排名",
+        "TikTok 低价爆款短视频投放"
+      ],
+      "organic": [
+        "组合装捆绑销售",
+        "多语言详情页做平台SEO",
+        "评价运营做首屏口碑"
+      ],
+      "budget": "月 6000-9000 美元，平台内广告占 75%",
+      "kpi": "单条成本<$0.6，月出 30 万条，退货率<4%，ACOS<20%"
+    },
+    "sources": [
+      "海关 8544.42 出口数据",
+      "Temu/Shopee 类目价格带",
+      "USB-IF 认证公开规范"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "mini-projector",
+    "name": "便携投影仪",
+    "aliases": [
+      "Portable Projector",
+      "Mini Projector",
+      "便携投影"
+    ],
+    "category": "3C电子",
+    "summary": "卧室与露营场景的入门投影，靠流明与体积打动价格敏感家庭",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "沙特汽车保有量高且改装文化盛行，完成SASO认证后需求释放很快"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SABER/SASO认证，再通过利雅得吉达批发市场铺货",
+        "risk": "认证周期长，高温环境对可靠性要求高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "印尼手机用户基数庞大，配件属高频消耗品，TikTok直播带货转化极强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "Tokopedia"
+        ],
+        "entry": "TikTok Shop印尼本地达人直播+COD，先铺中低价再上品牌款",
+        "risk": "本地含量与进口许可要求严，低价内卷毛利薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Noon / Amazon.ae",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页+本地仓，配合斋月与白色星期五大促",
+        "priority": 2
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给科技测评与改装频道，做长尾搜索词覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon 站内广告打 1080P projector",
+        "TikTok 家庭影院场景短视频",
+        "Google 独立站搜索广告"
+      ],
+      "organic": [
+        "YouTube 投影效果实拍对比",
+        "露营场景内容营销",
+        "本地KOL测评"
+      ],
+      "budget": "月 1.5 万美元，Amazon 与独立站各 40%",
+      "kpi": "ACOS<32%，客单价>$120，月销 3000 台，差评率<4%"
+    },
+    "sources": [
+      "Amazon 投影仪类目",
+      "洛图科技智能投影市场报告",
+      "海关 8528.62 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "smart-band",
+    "name": "智能手环",
+    "aliases": [
+      "Smart Band",
+      "Fitness Tracker",
+      "运动手环"
+    ],
+    "category": "3C电子",
+    "summary": "心率血氧续航三件套，是中低价位可穿戴的主力出货形态",
+    "markets": [
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "印尼手机用户基数庞大，配件属高频消耗品，TikTok直播带货转化极强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "Tokopedia"
+        ],
+        "entry": "TikTok Shop印尼本地达人直播+COD，先铺中低价再上品牌款",
+        "risk": "本地含量与进口许可要求严，低价内卷毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "菲律宾年轻人口与手游人群规模大，入门级外设和配件出货快，试错与验证成本低"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "跨境店小包先测款，用COD配合本地网红做低价爆款",
+        "risk": "物流时效差、客诉与退货率偏高"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "沙特汽车保有量高且改装文化盛行，完成SASO认证后需求释放很快"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SABER/SASO认证，再通过利雅得吉达批发市场铺货",
+        "risk": "认证周期长，高温环境对可靠性要求高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重，再转本地仓降低时效投诉",
+        "priority": 2
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Noon / Amazon.ae",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页+本地仓，配合斋月与白色星期五大促",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓，适合低单价配件铺量",
+        "priority": 2
+      },
+      {
+        "name": "Lazada",
+        "type": "B2C",
+        "use": "在印尼马来菲律宾铺中低价位，用LazMall做品牌背书与官方旗舰店",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Shopee/ML 站内广告抢类目首页",
+        "TikTok 运动场景达人短视频",
+        "Noon 首页活动位"
+      ],
+      "organic": [
+        "本地健身博主长测",
+        "健康管理内容科普",
+        "App生态与表盘商店运营"
+      ],
+      "budget": "月 1 万美元，本地平台广告占 70%",
+      "kpi": "月销 1.5 万只，ACOS<27%，App留存>30%，Rating 4.4+"
+    },
+    "sources": [
+      "IDC 可穿戴设备季度跟踪",
+      "Canalys 手环出货数据",
+      "本地平台类目榜单"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "car-dashcam",
+    "name": "车载行车记录仪",
+    "aliases": [
+      "Dash Cam",
+      "Car DVR",
+      "双录行车记录仪"
+    ],
+    "category": "3C电子",
+    "summary": "前后双录与夜视是核心卖点，靠本地安装与保险理赔场景成交",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "沙特汽车保有量高且改装文化盛行，完成SASO认证后需求释放很快"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SABER/SASO认证，再通过利雅得吉达批发市场铺货",
+        "risk": "认证周期长，高温环境对可靠性要求高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "汽配摩配靠车型适配表(Part Finder)精准曝光，长尾SKU吃免费搜索流量",
+        "priority": 1
+      },
+      {
+        "name": "eBay UK/DE",
+        "type": "B2C",
+        "use": "欧洲二手与改装件流量大，用适配器表+德语标题覆盖DIY车主",
+        "priority": 2
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给科技测评与改装频道，做长尾搜索词覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "LinkedIn",
+        "type": "社交",
+        "use": "按职位搜进口商采购经理，做内容式开发信，回复率明显高于冷邮件",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon 打 dash cam 4K 夜视词",
+        "Google Search 收割 best dash cam 榜单词",
+        "YouTube 测评频道贴片广告"
+      ],
+      "organic": [
+        "行车事故实例内容",
+        "本地汽车论坛与保险社区",
+        "德语/西语安装指南SEO"
+      ],
+      "budget": "月 1.5-2 万美元，Amazon 占 55%，内容 25%",
+      "kpi": "ACOS<30%，客单价>$85，月销 4000 台，退货率<5%"
+    },
+    "sources": [
+      "Amazon 行车记录仪类目",
+      "保险理赔相关政策公开资料",
+      "海关 8525.80 出口数据"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "car-phone-mount",
+    "name": "车载手机支架",
+    "aliases": [
+      "Car Phone Mount",
+      "Magnetic Car Holder",
+      "车载支架"
+    ],
+    "category": "3C电子",
+    "summary": "低单价高复购的车内小配件，靠适配性与磁吸体验做爆款",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "印尼手机用户基数庞大，配件属高频消耗品，TikTok直播带货转化极强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "Tokopedia"
+        ],
+        "entry": "TikTok Shop印尼本地达人直播+COD，先铺中低价再上品牌款",
+        "risk": "本地含量与进口许可要求严，低价内卷毛利薄"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "摩托车保有量超过五千万辆，摩配与车载配件属于长期刚性的替换需求"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "Tiki"
+        ],
+        "entry": "用Shopee越南跨境店测款，配本地修车铺做B端分销",
+        "risk": "本地价格极低，品牌意识弱、忠诚度低"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 3,
+        "heat": 73,
+        "why": [
+          "泰国汽车与摩托车改装市场活跃，配件消费力在东南亚处于领先位置"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "用Lazada本地仓做时效，配合泰国改装社区内容种草",
+        "risk": "认证与本地代理渠道分散，需逐家谈判"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重，再转本地仓降低时效投诉",
+        "priority": 2
+      },
+      {
+        "name": "Lazada",
+        "type": "B2C",
+        "use": "在印尼马来菲律宾铺中低价位，用LazMall做品牌背书与官方旗舰店",
+        "priority": 3
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓，适合低单价配件铺量",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon 站内广告打 magnetic phone mount",
+        "TikTok 车内实测短视频",
+        "Mercado Libre 站内Promotion"
+      ],
+      "organic": [
+        "套装组合与多场景内容",
+        "本地司机社群口碑",
+        "多车型适配说明页"
+      ],
+      "budget": "月 7000-1 万美元，平台广告占 70%",
+      "kpi": "月销 6 万件，ACOS<22%，退货率<4%，单价$9-19"
+    },
+    "sources": [
+      "Amazon 车载支架类目BSR",
+      "拉美/东南亚平台类目榜",
+      "海关 8302.30 出口数据"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "led-headlight-kit",
+    "name": "LED汽车大灯改装套装",
+    "aliases": [
+      "LED Headlight Kit",
+      "H4 LED Bulb",
+      "LED大灯灯泡"
+    ],
+    "category": "3C电子",
+    "summary": "原卤素灯升级的合规替换件，靠亮度与装车适配表成交",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "沙特汽车保有量高且改装文化盛行，完成SASO认证后需求释放很快"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SABER/SASO认证，再通过利雅得吉达批发市场铺货",
+        "risk": "认证周期长，高温环境对可靠性要求高"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "限电常态化推动家用储能与车载电源需求，南非汽车保有量在非洲位居首位"
+        ],
+        "channels": [
+          "Takealot",
+          "Amazon.co.za",
+          "本地代理"
+        ],
+        "entry": "用Takealot先跑单，配本地安装商做储能套装",
+        "risk": "物流与电力售后成本高，价格敏感度高于欧美"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "汽配摩配靠车型适配表(Part Finder)精准曝光，长尾SKU吃免费搜索流量",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Noon / Amazon.ae",
+        "type": "B2C",
+        "use": "中东主渠道，阿语详情页+本地仓，配合斋月与白色星期五大促",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "Automechanika / EICMA",
+        "type": "展会",
+        "use": "法兰克福汽配展与米兰摩托车展直接对接欧洲渠道商与改装品牌",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon/eBay 适配表精准广告",
+        "Google Search 打 H4/H7 LED 换装词",
+        "Facebook 拉力与越野社群投放"
+      ],
+      "organic": [
+        "车型适配查询工具页做SEO",
+        "YouTube 装车教程",
+        "汽配论坛答疑"
+      ],
+      "budget": "月 1.2 万美元，eBay 与 Amazon 各 40%",
+      "kpi": "ACOS<28%，月销 2 万套，改装店B端复购>25%"
+    },
+    "sources": [
+      "DOT/ECE R112 法规公开文件",
+      "eBay Motors 适配器数据",
+      "海关 8512.20 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "car-seat-cover",
+    "name": "汽车座套",
+    "aliases": [
+      "Car Seat Cover",
+      "Car Seat Protector",
+      "防水座套"
+    ],
+    "category": "3C电子",
+    "summary": "防水耐磨的保护型座套，靠版型贴合与材质手感做欧洲与北美",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "汽配摩配靠车型适配表(Part Finder)精准曝光，长尾SKU吃免费搜索流量",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon 打 seat cover 车型词",
+        "Google Shopping 承接车型适配长尾",
+        "Facebook 宠物与网约车人群"
+      ],
+      "organic": [
+        "车型版型查询页SEO",
+        "洗车与养护场景内容",
+        "本地改装店合作"
+      ],
+      "budget": "月 1-1.4 万美元，Amazon 占 55%",
+      "kpi": "客单价>$45，ACOS<30%，退货率<6%(版型类偏高)"
+    },
+    "sources": [
+      "Amazon 座套类目数据",
+      "汽车内饰改装行业报道",
+      "海关 6304.93 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "roof-rack-cargo-box",
+    "name": "车顶行李箱",
+    "aliases": [
+      "Roof Cargo Box",
+      "Car Roof Box",
+      "车顶箱"
+    ],
+    "category": "3C电子",
+    "summary": "自驾与露营装载刚需，靠风阻、防水与锁具安全性打动欧洲买家",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "体量约为美国十分之一而竞争弱、毛利高，适合美国站跑通后的低成本延伸"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Walmart Canada",
+          "独立站"
+        ],
+        "entry": "复用美国站Listing做税费与英法双语标签，走FBA远程配送",
+        "risk": "人口少单量天花板低，物流成本高于美国"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "汽配摩配靠车型适配表(Part Finder)精准曝光，长尾SKU吃免费搜索流量",
+        "priority": 1
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御+品类词收割，配再营销RLSA与PMax，把独立站获客成本压到可控",
+        "priority": 2
+      },
+      {
+        "name": "Europages",
+        "type": "B2B",
+        "use": "欧洲B2B名录开发中小批发与安装商，配德语法语本地化页面",
+        "priority": 4
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流与B端并重",
+      "paid": [
+        "Amazon.eu 打 roof box 品类词",
+        "Google Shopping 做车型适配搜索",
+        "Europages 开发露营装备分销商"
+      ],
+      "organic": [
+        "自驾露营场景内容",
+        "车型适配工具页SEO",
+        "欧洲露营展会现场转化"
+      ],
+      "budget": "月 1.5 万美元，平台与独立站各 50%",
+      "kpi": "客单价>€250，ACOS<33%，退货率<8%(大件物流偏高)"
+    },
+    "sources": [
+      "Thule 等品牌公开渠道策略",
+      "欧洲露营市场公开报告",
+      "海关 8708.29 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "motorcycle-phone-holder",
+    "name": "摩托车手机支架",
+    "aliases": [
+      "Motorcycle Phone Mount",
+      "Bike Phone Holder",
+      "摩配支架"
+    ],
+    "category": "3C电子",
+    "summary": "骑行导航刚需件，靠防震防脱结构与车型适配走量",
+    "markets": [
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "摩托车保有量超过五千万辆，摩配与车载配件属于长期刚性的替换需求"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "Tiki"
+        ],
+        "entry": "用Shopee越南跨境店测款，配本地修车铺做B端分销",
+        "risk": "本地价格极低，品牌意识弱、忠诚度低"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 3,
+        "heat": 73,
+        "why": [
+          "泰国汽车与摩托车改装市场活跃，配件消费力在东南亚处于领先位置"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "用Lazada本地仓做时效，配合泰国改装社区内容种草",
+        "risk": "认证与本地代理渠道分散，需逐家谈判"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "印尼手机用户基数庞大，配件属高频消耗品，TikTok直播带货转化极强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "Tokopedia"
+        ],
+        "entry": "TikTok Shop印尼本地达人直播+COD，先铺中低价再上品牌款",
+        "risk": "本地含量与进口许可要求严，低价内卷毛利薄"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重，再转本地仓降低时效投诉",
+        "priority": 2
+      },
+      {
+        "name": "Lazada",
+        "type": "B2C",
+        "use": "在印尼马来菲律宾铺中低价位，用LazMall做品牌背书与官方旗舰店",
+        "priority": 3
+      },
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Mercado Libre/Shopee 站内广告",
+        "TikTok 骑行第一视角短视频",
+        "Amazon 打 motorcycle phone mount"
+      ],
+      "organic": [
+        "骑行社群与机车博主合作",
+        "防震实测对比内容",
+        "B端供货本地机车配件店"
+      ],
+      "budget": "月 8000 美元，拉美与东南亚各占 40%",
+      "kpi": "月销 5 万件，ACOS<24%，退货率<5%，单价$8-25"
+    },
+    "sources": [
+      "摩托车保有量公开统计",
+      "Mercado Libre 摩配类目数据",
+      "海关 8517.70 附件口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "motorcycle-led-light",
+    "name": "摩托车LED灯具与转向灯",
+    "aliases": [
+      "Motorcycle LED Light",
+      "LED Turn Signal",
+      "摩托灯具"
+    ],
+    "category": "3C电子",
+    "summary": "替换原厂卤素灯具的改装件，欧美改装文化与东南亚刚需双驱动",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 3,
+        "heat": 73,
+        "why": [
+          "泰国汽车与摩托车改装市场活跃，配件消费力在东南亚处于领先位置"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "用Lazada本地仓做时效，配合泰国改装社区内容种草",
+        "risk": "认证与本地代理渠道分散，需逐家谈判"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "摩托车保有量超过五千万辆，摩配与车载配件属于长期刚性的替换需求"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "Tiki"
+        ],
+        "entry": "用Shopee越南跨境店测款，配本地修车铺做B端分销",
+        "risk": "本地价格极低，品牌意识弱、忠诚度低"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "汽配摩配靠车型适配表(Part Finder)精准曝光，长尾SKU吃免费搜索流量",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Automechanika / EICMA",
+        "type": "展会",
+        "use": "法兰克福汽配展与米兰摩托车展直接对接欧洲渠道商与改装品牌",
+        "priority": 2
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重，再转本地仓降低时效投诉",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      }
+    ],
+    "adStrategy": {
+      "verdict": "B端渠道为主",
+      "paid": [
+        "eBay 与 Amazon 打车型灯具词",
+        "Facebook 改装社群投放",
+        "EICMA/展会前投流预热"
+      ],
+      "organic": [
+        "改装作品实拍内容",
+        "车型适配表SEO",
+        "本地改装店分销"
+      ],
+      "budget": "季度 2 万美元，展会与B端拜访占 40%",
+      "kpi": "B端客户年采购>5 万美元，退货率<4%，客单价$25-60"
+    },
+    "sources": [
+      "ECE R113 灯具法规",
+      "EICMA 展会公开信息",
+      "海关 8512.20 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "motorcycle-helmet-intercom",
+    "name": "摩托车头盔蓝牙对讲机",
+    "aliases": [
+      "Helmet Intercom",
+      "Bluetooth Headset for Helmet",
+      "骑行对讲"
+    ],
+    "category": "3C电子",
+    "summary": "骑行通话与导航音频的刚需装备，客单价高、粘性强",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "沙特汽车保有量高且改装文化盛行，完成SASO认证后需求释放很快"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地批发市场"
+        ],
+        "entry": "先完成SABER/SASO认证，再通过利雅得吉达批发市场铺货",
+        "risk": "认证周期长，高温环境对可靠性要求高"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给科技测评与改装频道，做长尾搜索词覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "Automechanika / EICMA",
+        "type": "展会",
+        "use": "法兰克福汽配展与米兰摩托车展直接对接欧洲渠道商与改装品牌",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "内容为主+投流辅助",
+      "paid": [
+        "Amazon 打 helmet intercom 词",
+        "YouTube 骑行频道贴片广告",
+        "Reddit/机车论坛定向投放"
+      ],
+      "organic": [
+        "车队骑行场景内容",
+        "与头盔品牌做联名兼容",
+        "测评频道长测背书"
+      ],
+      "budget": "月 1.5 万美元，达人合作占 45%",
+      "kpi": "客单价>$89，ACOS<30%，月销 2500 台，复购队拍率>20%"
+    },
+    "sources": [
+      "Cardo/Sena 公开产品与渠道策略",
+      "Amazon 摩托电子类目",
+      "EICMA 展会资料"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "motorcycle-inverter",
+    "name": "摩托车/汽车车载逆变器",
+    "aliases": [
+      "Car Power Inverter",
+      "Motorcycle Inverter",
+      "车载逆变电源"
+    ],
+    "category": "3C电子",
+    "summary": "把车电转成市电的设备，非洲东南亚与南美缺电场景的硬需求",
+    "markets": [
+      {
+        "region": "非洲",
+        "country": "尼日利亚",
+        "rank": 4,
+        "heat": 67,
+        "why": [
+          "电网不稳使小型储能与逆变配件成为刚性需求，买家价格敏感但复购频次高"
+        ],
+        "channels": [
+          "Jumia",
+          "广交会",
+          "本地代理"
+        ],
+        "entry": "以广交会+本地代理做整柜出货，主推耐高温低价储能与逆变配件",
+        "risk": "外汇管制与汇兑损失，赊销风险大"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "限电常态化推动家用储能与车载电源需求，南非汽车保有量在非洲位居首位"
+        ],
+        "channels": [
+          "Takealot",
+          "Amazon.co.za",
+          "本地代理"
+        ],
+        "entry": "用Takealot先跑单，配本地安装商做储能套装",
+        "risk": "物流与电力售后成本高，价格敏感度高于欧美"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "印尼手机用户基数庞大，配件属高频消耗品，TikTok直播带货转化极强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "Tokopedia"
+        ],
+        "entry": "TikTok Shop印尼本地达人直播+COD，先铺中低价再上品牌款",
+        "risk": "本地含量与进口许可要求严，低价内卷毛利薄"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "摩托车保有量超过五千万辆，摩配与车载配件属于长期刚性的替换需求"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "Tiki"
+        ],
+        "entry": "用Shopee越南跨境店测款，配本地修车铺做B端分销",
+        "risk": "本地价格极低，品牌意识弱、忠诚度低"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Jumia",
+        "type": "B2C",
+        "use": "非洲头部平台，主推低价刚需款，用COD与本地代理履约",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重，再转本地仓降低时效投诉",
+        "priority": 2
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "广交会 / Canton Fair",
+        "type": "展会",
+        "use": "春秋两季现场收中东、拉美、非洲采购商名片，锁定年度框架单",
+        "priority": 2
+      },
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      }
+    ],
+    "adStrategy": {
+      "verdict": "B端渠道为主",
+      "paid": [
+        "Jumia 站内广告做刚需关键词",
+        "Google 西语葡语搜索广告",
+        "本地代理联合铺货支持"
+      ],
+      "organic": [
+        "缺电场景实测内容",
+        "B端代理招募页",
+        "说明书与安全规范科普"
+      ],
+      "budget": "季度 1.5 万美元，B端展会与代理支持占 60%",
+      "kpi": "整柜订单占比>60%，客单价$30-80，售后返修率<3%"
+    },
+    "sources": [
+      "Jumia 类目价格带",
+      "非洲电力供应公开报道",
+      "海关 8504.40 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "portable-power-station",
+    "name": "便携式户外电源",
+    "aliases": [
+      "Portable Power Station",
+      "Outdoor Power Supply",
+      "储能电源"
+    ],
+    "category": "3C电子",
+    "summary": "露营与应急双场景的锂电池储能，是户外电源赛道的基本款",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "限电常态化推动家用储能与车载电源需求，南非汽车保有量在非洲位居首位"
+        ],
+        "channels": [
+          "Takealot",
+          "Amazon.co.za",
+          "本地代理"
+        ],
+        "entry": "用Takealot先跑单，配本地安装商做储能套装",
+        "risk": "物流与电力售后成本高，价格敏感度高于欧美"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.de/.co.uk",
+        "type": "B2C",
+        "use": "用欧洲站跑德英法意西五国，德语详情页+本地退货地址降低转化摩擦",
+        "priority": 1
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给科技测评与改装频道，做长尾搜索词覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御+品类词收割，配再营销RLSA与PMax，把独立站获客成本压到可控",
+        "priority": 2
+      },
+      {
+        "name": "Amazon.com.au",
+        "type": "B2C",
+        "use": "澳洲本地仓前景好，配Safety Mark认证，主打露营与自驾场景",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流与内容并重",
+      "paid": [
+        "Amazon 打 portable power station 高意图词",
+        "YouTube 户外与房车频道贴片",
+        "Google Shopping 承接容量对比词"
+      ],
+      "organic": [
+        "露营断电实测内容",
+        "应急备灾场景科普",
+        "测评频道长测+白皮书"
+      ],
+      "budget": "月 3-4 万美元，Amazon 占 45%，达人内容 30%",
+      "kpi": "客单价>$350，ACOS<35%，月销 1500 台，售后率<4%"
+    },
+    "sources": [
+      "Frost & Sullivan 全球便携储能报告",
+      "Amazon 储能类目BSR",
+      "海关 8507.60 出口数据"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "solar-foldable-panel",
+    "name": "可折叠太阳能板",
+    "aliases": [
+      "Foldable Solar Panel",
+      "Portable Solar Charger",
+      "折叠太阳能"
+    ],
+    "category": "3C电子",
+    "summary": "与户外电源组套销售，靠转化效率与防水等级区分档次",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "限电常态化推动家用储能与车载电源需求，南非汽车保有量在非洲位居首位"
+        ],
+        "channels": [
+          "Takealot",
+          "Amazon.co.za",
+          "本地代理"
+        ],
+        "entry": "用Takealot先跑单，配本地安装商做储能套装",
+        "risk": "物流与电力售后成本高，价格敏感度高于欧美"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给科技测评与改装频道，做长尾搜索词覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御+品类词收割，配再营销RLSA与PMax，把独立站获客成本压到可控",
+        "priority": 2
+      },
+      {
+        "name": "Amazon.com.au",
+        "type": "B2C",
+        "use": "澳洲本地仓前景好，配Safety Mark认证，主打露营与自驾场景",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      }
+    ],
+    "adStrategy": {
+      "verdict": "内容为主+投流辅助",
+      "paid": [
+        "Amazon 打 foldable solar panel",
+        "Google Shopping 做与电源组套词",
+        "YouTube 露营频道贴片"
+      ],
+      "organic": [
+        "户外充电实测数据内容",
+        "与电源品牌做兼容清单",
+        "露营社群口碑"
+      ],
+      "budget": "月 1.5 万美元，内容与投放各半",
+      "kpi": "客单价>$180，ACOS<33%，组套连带率>35%，退货率<5%"
+    },
+    "sources": [
+      "便携储能市场研究报告",
+      "Amazon 太阳能板类目",
+      "海关 8541.43 出口数据"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "outdoor-energy-kit",
+    "name": "户外储能整套解决方案",
+    "aliases": [
+      "Solar Generator Kit",
+      "Off-grid Power Kit",
+      "储能套装"
+    ],
+    "category": "3C电子",
+    "summary": "电源+太阳能板+配件的整套方案，对接离网与应急备灾大额需求",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "限电常态化推动家用储能与车载电源需求，南非汽车保有量在非洲位居首位"
+        ],
+        "channels": [
+          "Takealot",
+          "Amazon.co.za",
+          "本地代理"
+        ],
+        "entry": "用Takealot先跑单，配本地安装商做储能套装",
+        "risk": "物流与电力售后成本高，价格敏感度高于欧美"
+      },
+      {
+        "region": "非洲",
+        "country": "尼日利亚",
+        "rank": 4,
+        "heat": 67,
+        "why": [
+          "电网不稳使小型储能与逆变配件成为刚性需求，买家价格敏感但复购频次高"
+        ],
+        "channels": [
+          "Jumia",
+          "广交会",
+          "本地代理"
+        ],
+        "entry": "以广交会+本地代理做整柜出货，主推耐高温低价储能与逆变配件",
+        "risk": "外汇管制与汇兑损失，赊销风险大"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "阿联酋人均消费力高且为免税转口枢纽，汽配与消费电子的批发转口业务长期活跃"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会",
+          "Europages"
+        ],
+        "entry": "用迪拜自由区公司做转口，广交会与迪拜汽配展现场接单",
+        "risk": "本地代理与保人制度，渠道易被代理绑定"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "体量约为美国十分之一而竞争弱、毛利高，适合美国站跑通后的低成本延伸"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Walmart Canada",
+          "独立站"
+        ],
+        "entry": "复用美国站Listing做税费与英法双语标签，走FBA远程配送",
+        "risk": "人口少单量天花板低，物流成本高于美国"
+      }
+    ],
+    "tools": [
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      },
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "广交会 / Canton Fair",
+        "type": "展会",
+        "use": "春秋两季现场收中东、拉美、非洲采购商名片，锁定年度框架单",
+        "priority": 2
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御+品类词收割，配再营销RLSA与PMax，把独立站获客成本压到可控",
+        "priority": 2
+      },
+      {
+        "name": "LinkedIn",
+        "type": "社交",
+        "use": "按职位搜进口商采购经理，做内容式开发信，回复率明显高于冷邮件",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "B端与内容并重",
+      "paid": [
+        "Google Search 打 solar generator kit",
+        "Amazon 打整套装关键词",
+        "Facebook 备灾人群定向"
+      ],
+      "organic": [
+        "离网生活纪录片式内容",
+        "B端经销商招募",
+        "应急备灾白皮书"
+      ],
+      "budget": "季度 4 万美元，B端线索与广告各半",
+      "kpi": "客单价>$800，B端线索月 80 条，转化率>8%，ACOS<32%"
+    },
+    "sources": [
+      "离网储能行业公开报告",
+      "美国应急备灾市场公开资料",
+      "海关 8507.60/8541.43 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "ebike-conversion-kit",
+    "name": "电动自行车改装套件",
+    "aliases": [
+      "E-bike Conversion Kit",
+      "Electric Bike Kit",
+      "电助力改装"
+    ],
+    "category": "3C电子",
+    "summary": "把普通自行车改装成电助力车的套件，欧美改装与维修市场稳定",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "户外露营与自驾文化成熟，户外电源和车载配件客单价高、品牌忠诚度低"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "澳洲本地仓+Safety Mark认证，主打露营场景内容营销",
+        "risk": "市场体量小，认证与本地售后成本摊薄困难"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "体量约为美国十分之一而竞争弱、毛利高，适合美国站跑通后的低成本延伸"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Walmart Canada",
+          "独立站"
+        ],
+        "entry": "复用美国站Listing做税费与英法双语标签，走FBA远程配送",
+        "risk": "人口少单量天花板低，物流成本高于美国"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "汽配摩配靠车型适配表(Part Finder)精准曝光，长尾SKU吃免费搜索流量",
+        "priority": 1
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给科技测评与改装频道，做长尾搜索词覆盖，为高客单产品背书",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "品牌词防御+品类词收割，配再营销RLSA与PMax，把独立站获客成本压到可控",
+        "priority": 2
+      },
+      {
+        "name": "Europages",
+        "type": "B2B",
+        "use": "欧洲B2B名录开发中小批发与安装商，配德语法语本地化页面",
+        "priority": 4
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon/eBay 打 ebike conversion kit",
+        "Google Shopping 承接轮径与电压适配词",
+        "YouTube 改装频道贴片"
+      ],
+      "organic": [
+        "装车教程视频SEO",
+        "改装前后对比内容",
+        "B端维修店供货"
+      ],
+      "budget": "月 1.2 万美元，平台与独立站各 50%",
+      "kpi": "客单价>$180，ACOS<30%，退货率<7%(适配类偏高)"
+    },
+    "sources": [
+      "欧洲E-bike市场公开报告",
+      "Amazon/eBay 改装件类目",
+      "海关 8501.31 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "electric-scooter-parts",
+    "name": "电动滑板车配件",
+    "aliases": [
+      "E-scooter Parts",
+      "Electric Scooter Accessories",
+      "滑板车配件"
+    ],
+    "category": "3C电子",
+    "summary": "刹车片轮胎电池等易损件，跟着共享滑板车与私人代步保有量走",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "摩托车保有量与电竞人群同时快速增长，进口配件需求旺但本地供给稀缺"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Shopee Brazil",
+          "Amazon.com.br"
+        ],
+        "entry": "以Mercado Libre本地仓+分期付款切入，葡语详情页与本地售后建立信任",
+        "risk": "关税与清关复杂，税务合规(NFe)门槛高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "印尼手机用户基数庞大，配件属高频消耗品，TikTok直播带货转化极强"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "Tokopedia"
+        ],
+        "entry": "TikTok Shop印尼本地达人直播+COD，先铺中低价再上品牌款",
+        "risk": "本地含量与进口许可要求严，低价内卷毛利薄"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "近岸制造与美墨加协定带来物流通道优势，汽配与消费电子需求同步上升"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Walmart MX"
+        ],
+        "entry": "用美墨边境仓快速补货，配西语客服承接北美回流需求",
+        "risk": "治安与货损、清关代理不规范易滞港"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "eBay",
+        "type": "B2C",
+        "use": "汽配摩配靠车型适配表(Part Finder)精准曝光，长尾SKU吃免费搜索流量",
+        "priority": 1
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美主渠道，用巴西墨西哥本地仓+分期付款提升转化，葡语标题做SEO",
+        "priority": 1
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店先跑单量，用秒杀与优惠券拉权重，再转本地仓降低时效投诉",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "以RFQ报价+Trade Assurance接批量询盘，详情页首屏放认证与参数表，按国家做落地页",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "达人短视频挂车+直播切片，用本地达人做开箱实测，短链路转化高互动品类",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon/eBay 打车型适配配件词",
+        "Mercado Libre 站内广告",
+        "Shopee 关键词冲类目"
+      ],
+      "organic": [
+        "车型兼容对照表SEO",
+        "维修教程内容",
+        "本地维修店分销"
+      ],
+      "budget": "月 9000 美元，平台广告占 70%",
+      "kpi": "月销 3 万件，ACOS<26%，退货率<6%，客单价$12-40"
+    },
+    "sources": [
+      "欧洲滑板车保有量公开统计",
+      "Amazon 滑板车配件类目",
+      "海关 8714.99 出口数据"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "tablet-stand-case",
+    "name": "平板保护套与支架",
+    "aliases": [
+      "Tablet Case",
+      "Tablet Stand Cover",
+      "平板保护套"
+    ],
+    "category": "3C电子",
+    "summary": "带支架与笔槽的保护套，跟iPad与国产平板生态做配套出货",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 95,
+        "why": [
+          "全球最大消费电子与汽配单一市场，平台基建完善，愿意为品牌与品质付费"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA为主+独立站做品牌，用Helium10选词，Vine做冷启动评论",
+        "risk": "关税与原产地合规审核严，退货率与广告竞价高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "德国家庭自驾露营普及，配件替换与升级需求稳定，对认证齐全的产品愿意支付溢价"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "TikTok Shop"
+        ],
+        "entry": "先做德语详情页与CE/GS认证公示，用Amazon.de跑数据再谈德国本地分销",
+        "risk": "EPR包装法与电池法注册成本高，缺认证直接下架"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "日本消费者愿为认证齐全、做工精细的配件支付溢价，家电卖场与电商双渠道都成熟"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语详情页+PSE认证，与本地商社合作进线下3C卖场",
+        "risk": "PSE/技适认证与责任担保制度，账期长"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "韩国电竞与手游产业发达，外设和快充配件换代快，审美与设计权重很高"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，配Naver博客社区种草",
+        "risk": "KC认证强制，本地价格战与本土品牌偏好强"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "英国电商渗透率欧洲最高，配件类独立站与平台生态成熟，改装与电竞文化浓厚"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "TikTok Shop UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证+英国本地仓前置，用TikTok Shop UK达人开箱打爆单品",
+        "risk": "脱欧后VAT与清关责任转移，需注册英国VAT"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "体量约为美国十分之一而竞争弱、毛利高，适合美国站跑通后的低成本延伸"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Walmart Canada",
+          "独立站"
+        ],
+        "entry": "复用美国站Listing做税费与英法双语标签，走FBA远程配送",
+        "risk": "人口少单量天花板低，物流成本高于美国"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA做北美主战场，Vine做首批评论，ACOS控制在毛利30%内，主推2-3个变体打权重",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.co.jp",
+        "type": "B2C",
+        "use": "日语详情页强调细节与质保，配日本本地仓做次日达，主打品质溢价",
+        "priority": 2
+      },
+      {
+        "name": "Coupang",
+        "type": "B2C",
+        "use": "韩国火箭配送做时效壁垒，用韩语详情页与本地客服降低退货",
+        "priority": 2
+      },
+      {
+        "name": "Temu",
+        "type": "B2C",
+        "use": "全托管小单快反测款，验证价格带后转半托管本地仓，适合低单价配件铺量",
+        "priority": 2
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "Shopify+Google Shopping+Meta Pixel沉淀首方数据，做品牌与复购，避开平台比价",
+        "priority": 3
+      },
+      {
+        "name": "Jungle Scout / Helium10",
+        "type": "数据",
+        "use": "用BSR与关键词搜索量选品定价，反推竞品差评做改进点与卖点排序",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon 打 iPad case 机型词",
+        "Temu 站内推荐位",
+        "Coupang 韩国站内广告"
+      ],
+      "organic": [
+        "机型对照表详情页SEO",
+        "文具与办公场景内容",
+        "组合装连带"
+      ],
+      "budget": "月 9000 美元，Amazon 占 60%",
+      "kpi": "月销 2 万件，ACOS<25%，退货率<4%，客单价$15-30"
+    },
+    "sources": [
+      "Amazon 平板配件类目",
+      "平板出货量公开数据",
+      "海关 3926.90 相关口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "bluetooth-speaker",
+    "name": "便携蓝牙音箱",
+    "aliases": [
+      "Portable Bluetooth Speaker",
+      "防水音箱"
+    ],
+    "category": "3C电子",
+    "summary": "IPX7防水与长续航的小音箱，露营与海滩场景的高复购配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "户外与泳池场景普及，防水音箱是季节性冲量标品，平台评论壁垒可积累"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "用Amazon FBA打防水音箱品类词，配合夏季TikTok达人开箱冲销量",
+        "risk": "红海竞争激烈，需小步试款避免压货"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "德国露营与骑行人群庞大，重视防水等级与续航参数，愿为品牌付费"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE",
+          "独立站"
+        ],
+        "entry": "德语详情页突出IPX7与电池容量实测，配CE认证公示与本地仓发货",
+        "risk": "CE/RED认证与电池法注册，退货率高"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "年轻人口与户外集会文化活跃，中低价位音箱在Shopee走量快"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "跨境店低价测款后用本地仓提升时效，配直播带货冲榜",
+        "risk": "价格战与本地品牌挤压，毛利薄"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "巴西海滩与派对文化带来稳定需求，进口音频产品本地供给有限且价格偏高"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.br",
+          "Shopee Brazil"
+        ],
+        "entry": "葡语页面+ML本地仓，用分期付款降低价格门槛",
+        "risk": "关税与清关复杂，税务合规成本高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "澳大利亚海滩露营文化成熟，防水音箱需求季节性明显且客单价整体偏高"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "本地仓备货赶夏季旺季，主打续航与防水实测",
+        "risk": "市场体量小，旺季备货错判易滞销"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 6,
+        "heat": 72,
+        "why": [
+          "阿联酋户外沙漠营地与聚会文化盛行，高功率防水音箱客单价高、买家愿为音质付费"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "用阿语页面+Noon站内广告，主推大功率与户外友好款",
+        "risk": "高温环境电池寿命考验，售后成本高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "FBA主推防水便携音箱，用Vine做首批评价并卡住露营关键词",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "夏季达人海滩与露营场景短视频挂车，测卖点话术后放量",
+        "priority": 1
+      },
+      {
+        "name": "Shopee",
+        "type": "B2C",
+        "use": "东南亚跨境店低价测款，用秒杀拉权重后转本地仓",
+        "priority": 2
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "巴西墨西哥站内广告加分期付款承接海滩场景需求",
+        "priority": 2
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "承接促销礼品与线下渠道的贴牌小批量订单",
+        "priority": 3
+      },
+      {
+        "name": "Google Trends",
+        "type": "数据",
+        "use": "对比各国夏季搜索热度确定备货与投放节奏",
+        "priority": 3
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给露营与测评频道做防水实测长尾内容",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon 打 waterproof bluetooth speaker 品类词",
+        "TikTok 夏季场景短视频挂车",
+        "Walmart 站内广告做第二平台"
+      ],
+      "organic": [
+        "防水实测视频做长尾",
+        "露营社群口碑内容",
+        "站内评价与UGC回传"
+      ],
+      "budget": "月 1.2 万美元，旺季翻倍，Amazon 占 55%",
+      "kpi": "ACOS<28%，夏季月销 8000 台，退货率<5%，4.4星以上"
+    },
+    "sources": [
+      "Amazon 蓝牙音箱类目BSR",
+      "户外音频市场公开报告",
+      "海关 8518.22 出口数据"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "wireless-charger-pad",
+    "name": "多合一无线充电板",
+    "aliases": [
+      "Wireless Charging Pad",
+      "3-in-1 Charger",
+      "无线充电座"
+    ],
+    "category": "3C电子",
+    "summary": "手机手表耳机一板同充，桌面整洁诉求带动的办公与床头配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "苹果生态设备保有量巨大，多合一充电座属于桌面与床头刚需，客单价稳定"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon FBA主推3合1型号，用桌面场景图与兼容列表提升转化",
+        "risk": "Qi2 MPP认证门槛，兼容性差评直接影响排名"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 82,
+        "why": [
+          "英国家庭人均电子设备多，对桌面收纳与整洁诉求强，愿为设计感付费"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "eBay UK",
+          "独立站"
+        ],
+        "entry": "UKCA认证先行，主打设计感与礼盒装切入礼品季",
+        "risk": "RF与EMC合规审核，礼品季过后需求回落"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "日本家居空间小，桌面与床头收纳诉求强，对做工细节挑剔但复购稳定"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo购物"
+        ],
+        "entry": "日语页面强调做工与安全认证，配本地仓做次日达",
+        "risk": "PSE与技适认证，包装与说明书本地化成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 75,
+        "why": [
+          "韩国手机配件更新换代快，桌面美学与礼盒类礼品需求都很明显且常年不断档"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store"
+        ],
+        "entry": "用Coupang火箭配送做时效优势，配Naver博客种草",
+        "risk": "KC认证强制，本土品牌竞争激烈"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "阿联酋高收入人群苹果设备普及率高，礼品与酒店配套采购需求持续存在"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.ae",
+          "广交会"
+        ],
+        "entry": "走礼盒与酒店B端配套两条线，阿语页面提升信任",
+        "risk": "渠道被本地代理绑定，价格透明"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 6,
+        "heat": 66,
+        "why": [
+          "新加坡消费力高且办公人群密集，对桌面收纳类配件的接受度明显高于周边市场"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "Amazon.sg"
+        ],
+        "entry": "用高客单设计款做差异化，避免与低价板卷价格",
+        "risk": "市场体量小，物流成本摊薄困难"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "主推3合1充电座，靠兼容列表与桌面场景图提升转化",
+        "priority": 1
+      },
+      {
+        "name": "Amazon.co.jp",
+        "type": "B2C",
+        "use": "日语页面加本地仓做次日达，主打做工与认证打动挑剔客群",
+        "priority": 2
+      },
+      {
+        "name": "Coupang",
+        "type": "B2C",
+        "use": "火箭配送做时效壁垒，配Naver博客种草导流",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "桌面改造类短视频挂车，视觉冲击强转化",
+        "priority": 2
+      },
+      {
+        "name": "独立站 (Shopify)",
+        "type": "独立站",
+        "use": "做品牌套装与礼品组合，沉淀首方数据做复购",
+        "priority": 3
+      },
+      {
+        "name": "Google Ads/Shopping",
+        "type": "独立站",
+        "use": "承接3-in-1 charger长尾搜索，配再营销降低获客成本",
+        "priority": 3
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon 打 wireless charging station 品类词",
+        "TikTok 桌面改造场景短视频",
+        "Google Shopping 承接兼容性长尾词"
+      ],
+      "organic": [
+        "兼容机型对照表做SEO",
+        "礼品季礼盒内容",
+        "桌面美学社群种草"
+      ],
+      "budget": "月 1 万美元，礼品季(Q4)翻倍",
+      "kpi": "ACOS<27%，月销 1.2 万件，退货率<4%，客单价$35-70"
+    },
+    "sources": [
+      "Amazon 无线充电类目",
+      "WPC Qi2 标准公开资料",
+      "海关 8504.40 出口数据"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "gaming-headset",
+    "name": "电竞耳机",
+    "aliases": [
+      "Gaming Headset",
+      "Esports Headset",
+      "游戏耳机"
+    ],
+    "category": "3C电子",
+    "summary": "7.1声道与低延迟是核心卖点，靠职业选手与FPS玩家口碑带动",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 91,
+        "why": [
+          "主机与PC玩家规模全球最大，愿意为语音清晰度与舒适度支付溢价"
+        ],
+        "channels": [
+          "Amazon",
+          "Walmart",
+          "TikTok Shop",
+          "独立站"
+        ],
+        "entry": "Amazon主推无线低延迟款，用FPS实测与麦克风对比内容打差异化",
+        "risk": "大牌价格下压，新品起量成本高"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "欧洲PC游戏与电竞观众规模大，德国玩家尤其重视佩戴舒适度与耐用性"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "eBay DE"
+        ],
+        "entry": "德语页面突出舒适度与可换耳罩，配CE认证与两年质保承诺",
+        "risk": "EPR与WEEE注册，售后换件成本高"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "韩国网吧与电竞产业发达，外设消费频次高且买家对新品接受度很高"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "TikTok Shop"
+        ],
+        "entry": "用网吧B端批量订单加线上零售双线，配本地点评种草",
+        "risk": "KC认证，本土品牌挤压"
+      },
+      {
+        "region": "拉美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 76,
+        "why": [
+          "巴西电竞玩家数量增长快，入门价位耳机需求旺，但本地供给价高量少"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.br",
+          "Shopee Brazil"
+        ],
+        "entry": "ML本地仓加分期付款，主推入门价位吃量",
+        "risk": "进口税负高，价格敏感度强"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 5,
+        "heat": 72,
+        "why": [
+          "菲律宾手游与网吧文化带来大量入门耳机需求，TikTok直播带货转化很强"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "用跨境店低价测款，配本地游戏主播直播",
+        "risk": "客单价低，物流与售后成本占比高"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 6,
+        "heat": 68,
+        "why": [
+          "澳大利亚电竞观众与主机玩家持续增长，网购习惯成熟、客单价较高"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "独立站"
+        ],
+        "entry": "本地仓备货，主打主机兼容与舒适佩戴",
+        "risk": "体量小，售后寄修成本高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon",
+        "type": "B2C",
+        "use": "主推无线低延迟款，用FPS实测与麦克风对比内容打差异化",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "游戏主播直播切片加开箱挂车，冲爆单品",
+        "priority": 1
+      },
+      {
+        "name": "Coupang",
+        "type": "B2C",
+        "use": "韩国站用火箭配送做时效，配网吧B端批量订单",
+        "priority": 3
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "巴西墨西哥本地仓加分期付款吃入门价位",
+        "priority": 2
+      },
+      {
+        "name": "YouTube",
+        "type": "社交",
+        "use": "寄样给FPS与硬件测评频道做麦克风实测背书",
+        "priority": 2
+      },
+      {
+        "name": "Reddit / 垂类论坛",
+        "type": "社交",
+        "use": "在游戏外设社区做真实体验贴，导流独立站",
+        "priority": 3
+      },
+      {
+        "name": "Jungle Scout / Helium10",
+        "type": "数据",
+        "use": "反推大牌差评痛点做改进点与卖点排序",
+        "priority": 2
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon 打 gaming headset 品类词",
+        "TikTok 游戏场景直播切片投放",
+        "YouTube 测评频道贴片广告"
+      ],
+      "organic": [
+        "麦克风与延迟实测内容",
+        "Reddit外设社区口碑",
+        "赞助半职业战队"
+      ],
+      "budget": "月 1.8 万美元，Amazon 占 50%，达人内容 30%",
+      "kpi": "ACOS<30%，月销 6000 只，退货率<5%，客单价$39-99"
+    },
+    "sources": [
+      "Amazon 游戏耳机类目",
+      "电竞产业年度公开报告",
+      "海关 8518.30 出口数据"
+    ],
+    "confidence": "medium"
+  }
+]

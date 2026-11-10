@@ -1,0 +1,769 @@
+[
+ {
+  "id": "A1",
+  "grp": "烘焙",
+  "in": "我是做饼干机器的",
+  "expect": "饼干糕点成型机",
+  "expectAny": true
+ },
+ {
+  "id": "A2",
+  "grp": "烘焙",
+  "in": "饼干机",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A3",
+  "grp": "烘焙",
+  "in": "做饼干的设备",
+  "expect": "饼干糕点成型机",
+  "expectAny": true
+ },
+ {
+  "id": "A4",
+  "grp": "烘焙",
+  "in": "蛋糕烤炉",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A5",
+  "grp": "烘焙",
+  "in": "面包生产线",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A6",
+  "grp": "烘焙",
+  "in": "和面机",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A7",
+  "grp": "烘焙",
+  "in": "biscuit making machine",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A8",
+  "grp": "烘焙",
+  "in": "cookie press machine",
+  "expect": "bakery-equipment"
+ },
+ {
+  "id": "A9",
+  "grp": "烘焙",
+  "in": "烤箱",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A10",
+  "grp": "烘焙",
+  "in": "烘焙设备",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "B1",
+  "grp": "包装",
+  "in": "我是做包装机的",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "B2",
+  "grp": "包装",
+  "in": "封口机",
+  "expect": "packaging-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "B3",
+  "grp": "包装",
+  "in": "真空包装机",
+  "expect": "packaging-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "B4",
+  "grp": "包装",
+  "in": "给人家做袋子的机器",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "C1",
+  "grp": "口语消费品",
+  "in": "我是做杯子的",
+  "expect": "保温杯"
+ },
+ {
+  "id": "C2",
+  "grp": "口语消费品",
+  "in": "做水杯的",
+  "expect": "保温杯"
+ },
+ {
+  "id": "C3",
+  "grp": "口语消费品",
+  "in": "做手机壳的",
+  "expect": null
+ },
+ {
+  "id": "C4",
+  "grp": "口语消费品",
+  "in": "我是卖袜子的",
+  "expect": null
+ },
+ {
+  "id": "C5",
+  "grp": "口语消费品",
+  "in": "做行李箱的",
+  "expect": null
+ },
+ {
+  "id": "C6",
+  "grp": "口语消费品",
+  "in": "做美甲的",
+  "expect": "nail-art",
+  "expectAny": true
+ },
+ {
+  "id": "C7",
+  "grp": "口语消费品",
+  "in": "做假发的",
+  "expect": "假发",
+  "expectPool": "beauty"
+ },
+ {
+  "id": "C8",
+  "grp": "口语消费品",
+  "in": "做猫爬架的",
+  "expect": null
+ },
+ {
+  "id": "C9",
+  "grp": "口语消费品",
+  "in": "做玩具的",
+  "expect": "toy"
+ },
+ {
+  "id": "C10",
+  "grp": "口语消费品",
+  "in": "做灯具的",
+  "expect": "led-lighting",
+  "expectAny": true
+ },
+ {
+  "id": "C11",
+  "grp": "口语消费品",
+  "in": "做轮胎的",
+  "expect": null
+ },
+ {
+  "id": "D1",
+  "grp": "中英混写",
+  "in": "做LED灯的",
+  "expect": "LED商业照明灯具",
+  "expectAny": true
+ },
+ {
+  "id": "D2",
+  "grp": "中英混写",
+  "in": "做USB线的",
+  "expect": "charger-cable-set",
+  "expectPool": "electronics",
+  "expectAny": true
+ },
+ {
+  "id": "D3",
+  "grp": "中英混写",
+  "in": "我是做tws耳机的",
+  "expect": "bluetooth-earbuds",
+  "expectAny": true
+ },
+ {
+  "id": "D4",
+  "grp": "中英混写",
+  "in": "做PCBA的",
+  "expect": null
+ },
+ {
+  "id": "D5",
+  "grp": "中英混写",
+  "in": "做LED显示屏的",
+  "expect": "led-display",
+  "expectPool": "electronics"
+ },
+ {
+  "id": "D6",
+  "grp": "中英混写",
+  "in": "做solar panel的",
+  "expect": "光伏组件",
+  "expectAny": true
+ },
+ {
+  "id": "E1",
+  "grp": "俗称多义",
+  "in": "做机械的",
+  "expect": "machinery"
+ },
+ {
+  "id": "E2",
+  "grp": "俗称多义",
+  "in": "我是做五金的",
+  "expect": null
+ },
+ {
+  "id": "E3",
+  "grp": "俗称多义",
+  "in": "做小家电的",
+  "expect": "electronics",
+  "expectAny": true
+ },
+ {
+  "id": "E4",
+  "grp": "俗称多义",
+  "in": "做的是B2B",
+  "expect": null
+ },
+ {
+  "id": "E5",
+  "grp": "俗称多义",
+  "in": "做外贸的",
+  "expect": null
+ },
+ {
+  "id": "E6",
+  "grp": "俗称多义",
+  "in": "做服装的",
+  "expect": "apparel"
+ },
+ {
+  "id": "E7",
+  "grp": "俗称多义",
+  "in": "做家具的",
+  "expect": "home"
+ },
+ {
+  "id": "E8",
+  "grp": "俗称多义",
+  "in": "做医疗的",
+  "expect": null
+ },
+ {
+  "id": "E9",
+  "grp": "俗称多义",
+  "in": "做农机的",
+  "expect": "machinery",
+  "expectAny": true
+ },
+ {
+  "id": "E10",
+  "grp": "俗称多义",
+  "in": "做储能",
+  "expect": "储能",
+  "expectAny": true
+ },
+ {
+  "id": "F1",
+  "grp": "品牌多义",
+  "in": "Amazon",
+  "expect": null
+ },
+ {
+  "id": "F2",
+  "grp": "品牌多义",
+  "in": "苹果",
+  "expect": null
+ },
+ {
+  "id": "F3",
+  "grp": "品牌多义",
+  "in": "小米",
+  "expect": null
+ },
+ {
+  "id": "G1",
+  "grp": "边界",
+  "in": "",
+  "expect": "__ERR__"
+ },
+ {
+  "id": "G2",
+  "grp": "边界",
+  "in": "   ",
+  "expect": "__ERR__"
+ },
+ {
+  "id": "G3",
+  "grp": "边界",
+  "in": "123456",
+  "expect": "__ERR__"
+ },
+ {
+  "id": "G4",
+  "grp": "边界",
+  "in": "!@#$%",
+  "expect": "__ERR__"
+ },
+ {
+  "id": "G5",
+  "grp": "边界",
+  "in": "abcdefgxxxx",
+  "expect": null
+ },
+ {
+  "id": "G6",
+  "grp": "边界",
+  "in": "保温杯 出口 欧洲 市场 分析 报告 详细 说明 版本 二 三 四 五",
+  "expect": "保温杯",
+  "expectAny": true
+ },
+ {
+  "id": "H1",
+  "grp": "回归",
+  "in": "保温杯",
+  "expect": "保温杯"
+ },
+ {
+  "id": "H2",
+  "grp": "回归",
+  "in": "TWS耳机",
+  "expect": "bluetooth-earbuds",
+  "expectAny": true
+ },
+ {
+  "id": "H3",
+  "grp": "回归",
+  "in": "挖掘机",
+  "expect": null
+ },
+ {
+  "id": "H4",
+  "grp": "回归",
+  "in": "光伏组件",
+  "expect": null
+ },
+ {
+  "id": "H5",
+  "grp": "回归",
+  "in": "瑜伽裤",
+  "expect": "yoga-wear",
+  "expectAny": true
+ },
+ {
+  "id": "A20",
+  "grp": "烘焙",
+  "in": "做饼干的机器",
+  "expect": "饼干糕点成型机",
+  "expectAny": true
+ },
+ {
+  "id": "A21",
+  "grp": "烘焙",
+  "in": "做曲奇的设备",
+  "expect": "饼干糕点成型机",
+  "expectAny": true
+ },
+ {
+  "id": "A22",
+  "grp": "烘焙",
+  "in": "做蛋糕的",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A23",
+  "grp": "烘焙",
+  "in": "面包房设备",
+  "expect": "bakery-equipment"
+ },
+ {
+  "id": "A24",
+  "grp": "烘焙",
+  "in": "做吐司的",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A25",
+  "grp": "烘焙",
+  "in": "醒发箱",
+  "expect": "bakery-equipment"
+ },
+ {
+  "id": "A26",
+  "grp": "烘焙",
+  "in": "糕点生产线",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "A27",
+  "grp": "烘焙",
+  "in": "做面包的流水线",
+  "expect": "bakery-equipment"
+ },
+ {
+  "id": "A28",
+  "grp": "烘焙",
+  "in": "食品加工设备",
+  "expect": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "B10",
+  "grp": "包装",
+  "in": "做封口机的",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "B11",
+  "grp": "包装",
+  "in": "灌装机",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "B12",
+  "grp": "包装",
+  "in": "贴标设备",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "B13",
+  "grp": "包装",
+  "in": "纸箱机",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "B14",
+  "grp": "包装",
+  "in": "收缩包装机",
+  "expect": "packaging-equipment",
+  "expectPool": "packaging-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "B15",
+  "grp": "包装",
+  "in": "做枕式包装的",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "B16",
+  "grp": "包装",
+  "in": "给食品厂做包装的",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "C20",
+  "grp": "口语消费品",
+  "in": "做手机的",
+  "expect": null
+ },
+ {
+  "id": "C21",
+  "grp": "口语消费品",
+  "in": "我是做电器的",
+  "expect": null
+ },
+ {
+  "id": "C22",
+  "grp": "口语消费品",
+  "in": "做小家电的",
+  "expect": "electronics",
+  "expectAny": true
+ },
+ {
+  "id": "C23",
+  "grp": "口语消费品",
+  "in": "做厨房用品的",
+  "expect": "home"
+ },
+ {
+  "id": "C24",
+  "grp": "口语消费品",
+  "in": "做家纺的",
+  "expect": "home",
+  "expectPool": "home",
+  "expectAny": true
+ },
+ {
+  "id": "C25",
+  "grp": "口语消费品",
+  "in": "做儿童玩具的",
+  "expect": "toy"
+ },
+ {
+  "id": "C26",
+  "grp": "口语消费品",
+  "in": "做户外用品的",
+  "expect": "outdoor"
+ },
+ {
+  "id": "C27",
+  "grp": "口语消费品",
+  "in": "做运动服的",
+  "expect": "apparel",
+  "expectPool": "outdoor",
+  "expectAny": true
+ },
+ {
+  "id": "C28",
+  "grp": "口语消费品",
+  "in": "做鞋的",
+  "expect": "apparel",
+  "expectAny": true
+ },
+ {
+  "id": "C29",
+  "grp": "口语消费品",
+  "in": "做包包的",
+  "expect": "apparel",
+  "expectAny": true
+ },
+ {
+  "id": "C30",
+  "grp": "口语消费品",
+  "in": "做美妆的",
+  "expect": "beauty"
+ },
+ {
+  "id": "C31",
+  "grp": "口语消费品",
+  "in": "做宠物用品的",
+  "expect": "pet",
+  "expectPool": "pet",
+  "expectAny": true
+ },
+ {
+  "id": "C32",
+  "grp": "口语消费品",
+  "in": "做汽配的",
+  "expect": "auto"
+ },
+ {
+  "id": "C33",
+  "grp": "口语消费品",
+  "in": "做灯具的",
+  "expect": null
+ },
+ {
+  "id": "C34",
+  "grp": "口语消费品",
+  "in": "做太阳能板的",
+  "expect": null
+ },
+ {
+  "id": "D20",
+  "grp": "中英混写",
+  "in": "做 LED 灯带的",
+  "expect": "led-strip",
+  "expectPool": "home",
+  "expectAny": true
+ },
+ {
+  "id": "D21",
+  "grp": "中英混写",
+  "in": "做type-c线的",
+  "expect": "charger-cable-set",
+  "expectAny": true
+ },
+ {
+  "id": "D22",
+  "grp": "中英混写",
+  "in": "做power bank的",
+  "expect": "磁吸无线充电宝"
+ },
+ {
+  "id": "D23",
+  "grp": "中英混写",
+  "in": "做bluetooth音箱的",
+  "expect": "speaker",
+  "expectAny": true
+ },
+ {
+  "id": "D24",
+  "grp": "中英混写",
+  "in": "做ev charger的",
+  "expect": null
+ },
+ {
+  "id": "D25",
+  "grp": "中英混写",
+  "in": "做solar street light的",
+  "expect": null
+ },
+ {
+  "id": "E20",
+  "grp": "俗称多义",
+  "in": "做五金的",
+  "expect": null
+ },
+ {
+  "id": "E21",
+  "grp": "俗称多义",
+  "in": "做机械的",
+  "expect": "machinery"
+ },
+ {
+  "id": "E22",
+  "grp": "俗称多义",
+  "in": "做注塑的",
+  "expect": "machinery",
+  "expectPool": "machinery"
+ },
+ {
+  "id": "E23",
+  "grp": "俗称多义",
+  "in": "做包装的",
+  "expect": "packaging-equipment"
+ },
+ {
+  "id": "E24",
+  "grp": "俗称多义",
+  "in": "做纺织的",
+  "expect": null
+ },
+ {
+  "id": "E25",
+  "grp": "俗称多义",
+  "in": "做化工的",
+  "expect": null
+ },
+ {
+  "id": "E26",
+  "grp": "俗称多义",
+  "in": "做食品的",
+  "expect": "bakery-equipment",
+  "expectPool": "bakery-equipment",
+  "expectAny": true
+ },
+ {
+  "id": "E27",
+  "grp": "俗称多义",
+  "in": "做医疗器械的",
+  "expect": null
+ },
+ {
+  "id": "E28",
+  "grp": "俗称多义",
+  "in": "做无人机的",
+  "expect": null
+ },
+ {
+  "id": "E29",
+  "grp": "俗称多义",
+  "in": "做充电桩的",
+  "expect": null
+ },
+ {
+  "id": "E30",
+  "grp": "俗称多义",
+  "in": "做储能的",
+  "expect": null
+ },
+ {
+  "id": "F20",
+  "grp": "品牌多义",
+  "in": "亚马逊",
+  "expect": null
+ },
+ {
+  "id": "F21",
+  "grp": "品牌多义",
+  "in": "阿里巴巴",
+  "expect": null
+ },
+ {
+  "id": "F22",
+  "grp": "品牌多义",
+  "in": "拼多多",
+  "expect": null
+ },
+ {
+  "id": "G20",
+  "grp": "边界",
+  "in": "a",
+  "expect": "__ERR__"
+ },
+ {
+  "id": "G21",
+  "grp": "边界",
+  "in": "啊啊啊啊啊啊啊啊啊",
+  "expect": null
+ },
+ {
+  "id": "G22",
+  "grp": "边界",
+  "in": "<script>alert(1)</script>",
+  "expect": null
+ },
+ {
+  "id": "G23",
+  "grp": "边界",
+  "in": "'; DROP TABLE users;--",
+  "expect": null
+ },
+ {
+  "id": "G24",
+  "grp": "边界",
+  "in": "保温杯'.$X",
+  "expect": null
+ },
+ {
+  "id": "H20",
+  "grp": "回归",
+  "in": "保温杯",
+  "expect": "保温杯"
+ },
+ {
+  "id": "H21",
+  "grp": "回归",
+  "in": "假发",
+  "expect": "wigs",
+  "expectAny": true
+ },
+ {
+  "id": "H22",
+  "grp": "回归",
+  "in": "猫砂盆",
+  "expect": "pet"
+ },
+ {
+  "id": "H23",
+  "grp": "回归",
+  "in": "行李箱",
+  "expect": "luggage",
+  "expectAny": true
+ },
+ {
+  "id": "H24",
+  "grp": "回归",
+  "in": "洗衣机",
+  "expect": null
+ },
+ {
+  "id": "H25",
+  "grp": "回归",
+  "in": "光伏组件",
+  "expect": null
+ },
+ {
+  "id": "H26",
+  "grp": "回归",
+  "in": "挖掘机",
+  "expect": null
+ },
+ {
+  "id": "H27",
+  "grp": "回归",
+  "in": "空气炸锅",
+  "expect": "air-fryer",
+  "expectAny": true
+ }
+]

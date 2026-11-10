@@ -1,0 +1,331 @@
+[
+ {
+  "id": "thermal-mug",
+  "name": "保温杯",
+  "aliases": [
+   "Stainless Steel Vacuum Flask",
+   "Tumbler",
+   "Vacuum Insulated Bottle",
+   "HS 9617"
+  ],
+  "category": "家居园艺",
+  "summary": "不锈钢真空保温容器，欧美日韩礼品+日用双属性，复购与季节峰值明显",
+  "markets": [
+   {
+    "region": "北美洲",
+    "country": "美国",
+    "rank": 1,
+    "heat": 94,
+    "why": [
+     "通勤与户外文化驱动大水杯需求，Stanley/Hydro Flask 已把'杯子'做成社交货币，客单可做 25-45 美元",
+     "Q4 礼品季与返校季双峰值，定制刻字/联名礼盒溢价空间大"
+    ],
+    "channels": [
+     "Amazon.com（FBA 主导）",
+     "TikTok Shop + 达人短视频",
+     "Shopify 独立站（定制刻字）"
+    ],
+    "entry": "先用 2-3 个容量/颜色做 Amazon 搜索词验证，再靠 TikTok 开箱与'保温 24 小时'实测视频放大",
+    "risk": "FDA 食品接触材料声明、Prop 65；同质化严重，价格战明显"
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "rank": 2,
+    "heat": 88,
+    "why": [
+     "环保意识强，可重复使用替代一次性杯，'Coffee to go 自带杯'是商超与咖啡连锁的常态场景",
+     "户外徒步与自行车通勤人口多，骑行水壶架配套需求连带"
+    ],
+    "channels": [
+     "Amazon.de",
+     "OTTO",
+     "本地户外连锁（Decathlon 类）"
+    ],
+    "entry": "主打无 BPA、可洗碗机、可回收材质，listing 用德语写清材质与保温时长实测值",
+    "risk": "LFGB 食品接触测试、EPR 包装注册、CE 不适用但需合规声明"
+   },
+   {
+    "region": "欧洲",
+    "country": "英国",
+    "rank": 3,
+    "heat": 82,
+    "why": [
+     "办公室通勤与学校'no single-use cup'倡议普及，家长采购带盖防漏款",
+     "礼品定制（企业 logo 杯）B2B 小单多"
+    ],
+    "channels": [
+     "Amazon.co.uk",
+     "Etsy（定制）",
+     "企业礼品 B2B 目录"
+    ],
+    "entry": "以'防漏+可单手开合'为差异点，叠加企业礼品批量报价页",
+    "risk": "UKCA/UK 食品接触合规，VAT 与进口申报"
+   },
+   {
+    "region": "亚洲",
+    "country": "日本",
+    "rank": 4,
+    "heat": 80,
+    "why": [
+     "便携保温壶是通勤与孩子远足的标配，对做工与密封性要求极高",
+     "对 300-500ml 小容量与轻量化更偏好"
+    ],
+    "channels": [
+     "Amazon.co.jp",
+     "乐天",
+     "LOHACO"
+    ],
+    "entry": "做小容量轻量款，日文 listing 强调'洗碗机可'与'6 小时 65℃ 以上'实测",
+    "risk": "食品卫生法、PSE 不适用但需电池类区分；对细节瑕疵容忍度低"
+   },
+   {
+    "region": "大洋洲",
+    "country": "澳大利亚",
+    "rank": 5,
+    "heat": 74,
+    "why": [
+     "户外与海滩文化强，防摔大容量款好卖；夏季（本地 12-2 月）为旺季，与北半球反季"
+    ],
+    "channels": [
+     "Amazon.com.au",
+     "本地户外电商"
+    ],
+    "entry": "用北半球淡季库存做反季铺货",
+    "risk": "GST 与澳标食品接触合规；物流成本高"
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "rank": 6,
+    "heat": 70,
+    "why": [
+     "户外与沙漠活动场景多，GCC 高客单人群接受溢价款；斋月与节庆送礼需求集中"
+    ],
+    "channels": [
+     "Noon",
+     "Amazon.ae",
+     "本地礼品店"
+    ],
+    "entry": "做礼盒装与金属哑光质感款，配阿拉伯语包装",
+    "risk": "SASO/ESMA 认证；夏季高温对包装有要求"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central（FBA）",
+    "type": "B2C",
+    "use": "主渠道，靠评论与 A+ 页面建立信任，广告打核心词",
+    "priority": 1
+   },
+   {
+    "name": "TikTok Shop / 短视频",
+    "type": "社交",
+    "use": "实测类内容（热水 24h 对比）做爆款，达人分销铺量",
+    "priority": 2
+   },
+   {
+    "name": "Meta Ads（Facebook/Instagram）",
+    "type": "投流",
+    "use": "兴趣定向（户外、健身、通勤）测素材，再放大到 Advantage+",
+    "priority": 3
+   },
+   {
+    "name": "Pinterest",
+    "type": "社交",
+    "use": "礼物与家居场景图，长尾自然流量",
+    "priority": 4
+   },
+   {
+    "name": "Google Shopping / Search",
+    "type": "投流",
+    "use": "截流'best travel mug'类决策期搜索",
+    "priority": 5
+   },
+   {
+    "name": "Etsy",
+    "type": "B2C",
+    "use": "定制刻字/婚礼伴手礼，客单更高",
+    "priority": 6
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "接企业礼品与进口商批量单",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行（前期投流测款 → 自然流做内容承接）",
+   "paid": [
+    "先用 TikTok Spark Ads + Meta 兴趣定向小额测试 3 组素材",
+    "Amazon PPC 只打转化率高的大词，ACoS 控制在 25% 以内",
+    "旺季（9-12 月）加预算，淡季收缩只保留再营销"
+   ],
+   "organic": [
+    "短视频实测+场景种草是可复用的自然流量资产",
+    "独立站做'保温时长对比表'与定制刻字页，吃 SEO 长尾",
+    "Pinterest 与 Reddit/户外论坛做口碑沉淀"
+   ],
+   "budget": "起步 800-1500 美元/月，6 成投流测款、4 成内容制作",
+   "kpi": "ACoS < 25%，首月转化率 > 8%，退货率 < 5%"
+  },
+  "sources": [
+   "Amazon Best Sellers - Travel Mugs & Tumblers",
+   "HS 9617 归类的 UN Comtrade 公开贸易统计口径"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "led-strip",
+  "name": "LED 灯带",
+  "aliases": [
+   "LED Strip Light",
+   "RGB LED Tape",
+   "氛围灯带",
+   "HS 9405"
+  ],
+  "category": "家居园艺",
+  "summary": "柔性 LED 装饰与氛围照明，单价低、内容传播性强，合规门槛高",
+  "markets": [
+   {
+    "region": "北美洲",
+    "country": "美国",
+    "rank": 1,
+    "heat": 93,
+    "why": [
+     "游戏房、宿舍、TikTok 房间改造场景带动，RGB 智能灯带是典型内容驱动品",
+     "与 Alexa/Google 联动款溢价明显"
+    ],
+    "channels": [
+     "Amazon.com",
+     "TikTok Shop",
+     "Temu 低价铺货"
+    ],
+    "entry": "做'随音乐律动+App 控制'差异点，短视频实测是主流量入口",
+    "risk": "UL/ETL 与 FCC、Prop 65；低价同质化竞争极激烈"
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "rank": 2,
+    "heat": 85,
+    "why": [
+     "租客多不能改硬装，氛围灯是低成本的房间升级方案",
+     "能源价格敏感，用户关注功耗与可调光"
+    ],
+    "channels": [
+     "Amazon.de",
+     "OTTO",
+     "本地 3C 连锁"
+    ],
+    "entry": "强调能效等级与外置驱动安全认证，德语 listing 标清 W/m 与防水等级",
+    "risk": "CE + EN 60598 安全、ErP 能效、EPR 电子废弃物注册"
+   },
+   {
+    "region": "欧洲",
+    "country": "英国",
+    "rank": 3,
+    "heat": 79,
+    "why": [
+     "家装内容社区（Instagram/Pinterest）传播强，节日装饰季峰值明显"
+    ],
+    "channels": [
+     "Amazon.co.uk",
+     "Argos 类零售",
+     "独立站"
+    ],
+    "entry": "捆绑'节日装饰套装'提高客单",
+    "risk": "UKCA、WEEE 注册"
+   },
+   {
+    "region": "中东",
+    "country": "沙特阿拉伯",
+    "rank": 4,
+    "heat": 72,
+    "why": [
+     "室内装饰与节庆装饰需求旺，进口依赖度高，价格带跨度大"
+    ],
+    "channels": [
+     "Noon",
+     "Amazon.sa",
+     "本地家电卖场"
+    ],
+    "entry": "做主推高亮度的工程款与家装款双线",
+    "risk": "SASO 认证与 SABER 平台申报"
+   },
+   {
+    "region": "亚洲",
+    "country": "日本",
+    "rank": 5,
+    "heat": 68,
+    "why": [
+     "小户型与独居人口多，氛围照明受欢迎，但要求做工与静音"
+    ],
+    "channels": [
+     "Amazon.co.jp",
+     "乐天"
+    ],
+    "entry": "小尺寸、静音电源、细致说明书",
+    "risk": "PSE 认证（电源适配器）"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "主站，靠变体与评论量取胜",
+    "priority": 1
+   },
+   {
+    "name": "TikTok / Instagram Reels",
+    "type": "社交",
+    "use": "房间改造类内容天然带货，投 Spark Ads 放大",
+    "priority": 2
+   },
+   {
+    "name": "Meta Ads",
+    "type": "投流",
+    "use": "兴趣定向：游戏、家居改造、学生宿舍",
+    "priority": 3
+   },
+   {
+    "name": "Temu / AliExpress",
+    "type": "B2C",
+    "use": "低价铺货测试价格带下限",
+    "priority": 4
+   },
+   {
+    "name": "Shopify + Google Shopping",
+    "type": "独立站",
+    "use": "承接品牌搜索与套装销售",
+    "priority": 5
+   },
+   {
+    "name": "Alibaba.com",
+    "type": "B2B",
+    "use": "工程/酒店装饰批量单",
+    "priority": 6
+   }
+  ],
+  "adStrategy": {
+   "verdict": "投流为主（内容素材驱动），自然流做承接",
+   "paid": [
+    "短视频素材跑量是核心，素材迭代速度决定生死",
+    "Amazon 只打'led strip lights'类高转化词",
+    "用再营销降低 5-10 美元低客单的获客成本"
+   ],
+   "organic": [
+    "UGC 房间改造内容沉淀为长期自然流量",
+    "SEO 做'how to install led strip'教程页"
+   ],
+   "budget": "1000-2000 美元/月，素材制作占 40%",
+   "kpi": "ACoS < 30%，素材周更 ≥ 5 条，评论月增 50+"
+  },
+  "sources": [
+   "Amazon Best Sellers - LED Strip Lights",
+   "HS 9405 灯具类贸易口径"
+  ],
+  "confidence": "medium"
+ }
+]

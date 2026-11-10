@@ -1,0 +1,1141 @@
+{
+ "note": "品类池：知识库未收录产品时的离线兜底模板。结论属规则推断，UI 会标注 medium 置信度。",
+ "regions": [
+  {
+   "name": "美国",
+   "region": "北美洲",
+   "lang": "英语",
+   "gdpPc": 81695
+  },
+  {
+   "name": "德国",
+   "region": "欧洲",
+   "lang": "德语",
+   "gdpPc": 54300
+  },
+  {
+   "name": "英国",
+   "region": "欧洲",
+   "lang": "英语",
+   "gdpPc": 48800
+  },
+  {
+   "name": "法国",
+   "region": "欧洲",
+   "lang": "法语",
+   "gdpPc": 44400
+  },
+  {
+   "name": "日本",
+   "region": "亚洲",
+   "lang": "日语",
+   "gdpPc": 33800
+  },
+  {
+   "name": "阿联酋",
+   "region": "中东",
+   "lang": "阿拉伯语",
+   "gdpPc": 49000
+  },
+  {
+   "name": "沙特阿拉伯",
+   "region": "中东",
+   "lang": "阿拉伯语",
+   "gdpPc": 32500
+  },
+  {
+   "name": "澳大利亚",
+   "region": "大洋洲",
+   "lang": "英语",
+   "gdpPc": 64400
+  },
+  {
+   "name": "巴西",
+   "region": "拉丁美洲",
+   "lang": "葡萄牙语",
+   "gdpPc": 10300
+  },
+  {
+   "name": "墨西哥",
+   "region": "拉丁美洲",
+   "lang": "西班牙语",
+   "gdpPc": 13900
+  },
+  {
+   "name": "韩国",
+   "region": "亚洲",
+   "lang": "韩语",
+   "gdpPc": 33100
+  },
+  {
+   "name": "加拿大",
+   "region": "北美洲",
+   "lang": "英语",
+   "gdpPc": 53400
+  },
+  {
+   "name": "波兰",
+   "region": "欧洲",
+   "lang": "波兰语",
+   "gdpPc": 22100
+  },
+  {
+   "name": "俄罗斯",
+   "region": "欧洲",
+   "lang": "俄语",
+   "gdpPc": 13800
+  },
+  {
+   "name": "印度",
+   "region": "亚洲",
+   "lang": "英语",
+   "gdpPc": 2500
+  },
+  {
+   "name": "南非",
+   "region": "非洲",
+   "lang": "英语",
+   "gdpPc": 6800
+  },
+  {
+   "name": "尼日利亚",
+   "region": "非洲",
+   "lang": "英语",
+   "gdpPc": 2200
+  },
+  {
+   "name": "土耳其",
+   "region": "中东",
+   "lang": "土耳其语",
+   "gdpPc": 13000
+  },
+  {
+   "name": "意大利",
+   "region": "欧洲",
+   "lang": "意大利语",
+   "gdpPc": 38700
+  },
+  {
+   "name": "西班牙",
+   "region": "欧洲",
+   "lang": "西班牙语",
+   "gdpPc": 33500
+  },
+  {
+   "name": "越南",
+   "region": "亚洲",
+   "lang": "越南语",
+   "gdpPc": 4300
+  },
+  {
+   "name": "印度尼西亚",
+   "region": "亚洲",
+   "lang": "印尼语",
+   "gdpPc": 4900
+  },
+  {
+   "name": "泰国",
+   "region": "亚洲",
+   "lang": "泰语",
+   "gdpPc": 7300
+  },
+  {
+   "name": "马来西亚",
+   "region": "亚洲",
+   "lang": "马来语",
+   "gdpPc": 11700
+  }
+ ],
+ "categories": [
+  {
+   "id": "pet",
+   "label": "宠物用品",
+   "keywords": [
+    "宠物",
+    "猫",
+    "狗",
+    "pet",
+    "猫砂",
+    "牵引绳",
+    "宠物窝",
+    "宠物粮",
+    "猫爬架"
+   ],
+   "regions": [
+    "北美洲",
+    "欧洲",
+    "亚洲",
+    "大洋洲"
+   ],
+   "why": [
+    "欧美宠物'家庭成员化'程度高，宠主在用品上年支出持续上升",
+    "宠物用品决策轻、复购强，内容种草与订阅制天然适配"
+   ],
+   "channels": [
+    "Amazon",
+    "Chewy / 本地宠物连锁",
+    "TikTok + 宠物 KOL"
+   ],
+   "entry": "先用低成本高频品（玩具、牵引绳、食盆）引流，再用猫爬架等高客单品类拉客单",
+   "risk": "REACH/FDA 类材质安全，玩具小零件合规（CPSC）；部分品类需动物检疫",
+   "tools": [
+    {
+     "name": "Amazon Seller Central",
+     "type": "B2C",
+     "use": "主力渠道，靠评论数与 Subscribe & Save 复购",
+     "priority": 1
+    },
+    {
+     "name": "TikTok / Instagram",
+     "type": "社交",
+     "use": "宠物短视频天然高完播，达人寄样铺量",
+     "priority": 2
+    },
+    {
+     "name": "Meta Ads",
+     "type": "投流",
+     "use": "兴趣定向宠主，再营销提高复购",
+     "priority": 3
+    },
+    {
+     "name": "Chewy / Petco 类垂直平台",
+     "type": "B2C",
+     "use": "垂直渠道信任度高，适合批发进场",
+     "priority": 4
+    },
+    {
+     "name": "Shopify 独立站 + 订阅",
+     "type": "独立站",
+     "use": "耗材订阅沉淀私域",
+     "priority": 5
+    },
+    {
+     "name": "Alibaba.com",
+     "type": "B2B",
+     "use": "接海外宠物连锁与批发商",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "投流为主（内容驱动），自然流做达人矩阵",
+    "paid": [
+     "TikTok Spark Ads 跑爆款宠物视频，CPA 低",
+     "Meta 做再营销，拉高复购频次",
+     "Amazon PPC 只打高转化长尾词"
+    ],
+    "organic": [
+     "宠物 KOL 寄样 + UGC 是最便宜的自然流来源",
+     "独立站做'养宠指南'内容吃 SEO"
+    ],
+    "budget": "800-1500 美元/月，达人寄样占三成",
+    "kpi": "ACoS < 30%，复购率 > 20%，视频完播 > 35%"
+   },
+   "sources": [
+    "宠物经济行业报告（APPA 口径）"
+   ]
+  },
+  {
+   "id": "apparel",
+   "label": "服装服饰",
+   "keywords": [
+    "服装",
+    "衣",
+    "裤",
+    "裙",
+    "t恤",
+    "t-shirt",
+    "卫衣",
+    "外套",
+    "牛仔",
+    "童装",
+    "连衣裙"
+   ],
+   "regions": [
+    "欧洲",
+    "北美洲",
+    "亚洲",
+    "拉丁美洲"
+   ],
+   "why": [
+    "服饰是跨境第一大类，SKU 迭代快、内容驱动强",
+    "快反供应链让款多量少成为可能，测款成本低"
+   ],
+   "channels": [
+    "Amazon",
+    "SHEIN / Temu",
+    "TikTok Shop",
+    "独立站"
+   ],
+   "entry": "先用小批量多款测点击率，跑出爆款后再做尺码延伸与颜色扩展",
+   "risk": "尺码差异导致高退货率；欧盟纺织品标签与 REACH 染料限制",
+   "tools": [
+    {
+     "name": "SHEIN / Temu 供应链",
+     "type": "B2C",
+     "use": "快反铺货，验证款式与价格带",
+     "priority": 1
+    },
+    {
+     "name": "TikTok Shop",
+     "type": "社交",
+     "use": "直播与短视频带货，退货率可控",
+     "priority": 2
+    },
+    {
+     "name": "Meta Ads（Advantage+）",
+     "type": "投流",
+     "use": "自动素材组合测款，快速找爆品",
+     "priority": 3
+    },
+    {
+     "name": "Amazon 服装类目",
+     "type": "B2C",
+     "use": "尺码表与评论做转化",
+     "priority": 4
+    },
+    {
+     "name": "Pinterest",
+     "type": "社交",
+     "use": "穿搭灵感图带来长尾自然流量",
+     "priority": 5
+    },
+    {
+     "name": "Shopify + KOL 联盟",
+     "type": "独立站",
+     "use": "沉淀品牌与复购",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "双轨并行（投流测款 + 内容承接）",
+    "paid": [
+     "Meta Advantage+ 以最小预算批量测款",
+     "TikTok 短视频投流放量，控制退货率"
+    ],
+    "organic": [
+     "KOL 穿搭内容 + UGC 是主要自然流量",
+     "站点做尺码指南减少退货"
+    ],
+    "budget": "1000-2500 美元/月，测款占六成",
+    "kpi": "退货率 < 15%，CTR > 2%，ROAS > 2.5"
+   },
+   "sources": [
+    "服装跨境电商行业通行口径"
+   ]
+  },
+  {
+   "id": "beauty",
+   "label": "美妆个护",
+   "keywords": [
+    "美妆",
+    "化妆",
+    "护肤",
+    "口红",
+    "睫毛",
+    "假发",
+    "美甲",
+    "美瞳",
+    "香水",
+    "beauty",
+    "cosmetic"
+   ],
+   "regions": [
+    "北美洲",
+    "欧洲",
+    "亚洲",
+    "中东"
+   ],
+   "why": [
+    "短视频与达人生态成熟，单条爆款视频可撑起一个月的销量",
+    "假发、穿戴甲、美甲工具等品类中国供应链优势极强"
+   ],
+   "channels": [
+    "TikTok Shop",
+    "Amazon",
+    "独立站 + 达人分销"
+   ],
+   "entry": "先在 TikTok 用小样与教程内容测试审美接受度，再铺 Amazon 承接搜索流量",
+   "risk": "化妆品法规最严（欧盟 CPNP、美国 MoCRA），假发需注意材质与过敏；宣称功效易违规",
+   "tools": [
+    {
+     "name": "TikTok Shop + 达人分销",
+     "type": "社交",
+     "use": "内容电商主战场，佣金激励达人铺量",
+     "priority": 1
+    },
+    {
+     "name": "Amazon Beauty",
+     "type": "B2C",
+     "use": "承接品牌搜索与复购",
+     "priority": 2
+    },
+    {
+     "name": "Meta / Instagram Reels",
+     "type": "投流",
+     "use": "再营销与相似人群扩量",
+     "priority": 3
+    },
+    {
+     "name": "YouTube 长视频测评",
+     "type": "社交",
+     "use": "建立信任，长尾自然流量稳定",
+     "priority": 4
+    },
+    {
+     "name": "Shopify 独立站",
+     "type": "独立站",
+     "use": "订阅与组合套装提升 LTV",
+     "priority": 5
+    },
+    {
+     "name": "B2B：美容院/美业批发",
+     "type": "B2B",
+     "use": "假发与美甲走专业渠道",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "投流为主（达人内容 + 付费放大）",
+    "paid": [
+     "TikTok Spark Ads 放量达人爆款素材",
+     "Meta 再营销降低新客成本"
+    ],
+    "organic": [
+     "达人矩阵与 UGC 是核心自然流资产",
+     "教程型内容做长期 SEO"
+    ],
+    "budget": "1500-3000 美元/月，达人佣金占三成",
+    "kpi": "ROAS > 3，视频 CTR > 3%，复购率 > 25%"
+   },
+   "sources": [
+    "美妆跨境电商行业通行口径"
+   ]
+  },
+  {
+   "id": "electronics",
+   "label": "3C 与消费电子",
+   "keywords": [
+    "电子",
+    "3c",
+    "数码",
+    "充电",
+    "耳机",
+    "键盘",
+    "鼠标",
+    "音箱",
+    "相机",
+    "数据线",
+    "鼠标",
+    "电子设备"
+   ],
+   "regions": [
+    "北美洲",
+    "欧洲",
+    "亚洲",
+    "中东"
+   ],
+   "why": [
+    "标准品、可比价，搜索与比价流量大",
+    "迭代快，功能升级可快速做新品"
+   ],
+   "channels": [
+    "Amazon",
+    "TikTok Shop",
+    "Temu / AliExpress",
+    "独立站"
+   ],
+   "entry": "避免正面价格战：选一个细分场景（如办公、户外、游戏）做差异化功能点",
+   "risk": "强制认证多（FCC/CE/UL/PSE），电池类物流限制；同质化价格战激烈",
+   "tools": [
+    {
+     "name": "Amazon Seller Central",
+     "type": "B2C",
+     "use": "主力，靠评论与 A+ 页建立信任",
+     "priority": 1
+    },
+    {
+     "name": "TikTok Shop",
+     "type": "社交",
+     "use": "开箱与实测内容带货",
+     "priority": 2
+    },
+    {
+     "name": "Temu / AliExpress",
+     "type": "B2C",
+     "use": "低价测款与铺货",
+     "priority": 3
+    },
+    {
+     "name": "Google Shopping",
+     "type": "投流",
+     "use": "截流比价与决策期搜索",
+     "priority": 4
+    },
+    {
+     "name": "YouTube 评测",
+     "type": "社交",
+     "use": "长测评建立专业信任",
+     "priority": 5
+    },
+    {
+     "name": "Alibaba.com",
+     "type": "B2B",
+     "use": "接 OEM/ODM 与分销",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "双轨并行（投流测款 + 搜索承接）",
+    "paid": [
+     "Amazon PPC 打核心词，控制 ACoS",
+     "TikTok / Meta 测素材再放大"
+    ],
+    "organic": [
+     "评测视频与教程做长期自然流",
+     "站点做对比表吃长尾 SEO"
+    ],
+    "budget": "1000-2000 美元/月",
+    "kpi": "ACoS < 25%，退货率 < 8%"
+   },
+   "sources": [
+    "3C 跨境电商行业通行口径"
+   ]
+  },
+  {
+   "id": "home",
+   "label": "家居日用",
+   "keywords": [
+    "家居",
+    "厨房",
+    "收纳",
+    "锅",
+    "餐具",
+    "浴室",
+    "清洁",
+    "床品",
+    "毛巾",
+    "日用",
+    "家具",
+    "装饰"
+   ],
+   "regions": [
+    "欧洲",
+    "北美洲",
+    "亚洲",
+    "大洋洲"
+   ],
+   "why": [
+    "欧美公寓与租房人口多，免安装/免打孔是长期强需求",
+    "单价适中、决策轻，适合平台站内流量"
+   ],
+   "channels": [
+    "Amazon",
+    "OTTO / 本地零售",
+    "独立站"
+   ],
+   "entry": "抓一个具体场景痛点（厨房太小、浴室无打孔权）做功能差异，配实测图",
+   "risk": "体积重导致物流成本高；食品接触材料与包装法（EPR）合规",
+   "tools": [
+    {
+     "name": "Amazon Seller Central",
+     "type": "B2C",
+     "use": "主力，长尾关键词铺词",
+     "priority": 1
+    },
+    {
+     "name": "OTTO / 本地平台",
+     "type": "B2C",
+     "use": "德国等市场本地信任渠道",
+     "priority": 2
+    },
+    {
+     "name": "TikTok / Reels",
+     "type": "社交",
+     "use": "收纳改造类内容天然带货",
+     "priority": 3
+    },
+    {
+     "name": "Pinterest",
+     "type": "社交",
+     "use": "家居灵感图带来长期自然流量",
+     "priority": 4
+    },
+    {
+     "name": "Meta Ads",
+     "type": "投流",
+     "use": "兴趣定向家居改造人群",
+     "priority": 5
+    },
+    {
+     "name": "Alibaba.com",
+     "type": "B2B",
+     "use": "接批发与商超采购",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "双轨并行（搜索承接为主，内容补量）",
+    "paid": [
+     "Amazon PPC 覆盖场景长尾词",
+     "Meta 用改造前后对比素材"
+    ],
+    "organic": [
+     "Pinterest + 博客内容做长期 SEO",
+     "UGC 收纳改造视频"
+    ],
+    "budget": "600-1200 美元/月",
+    "kpi": "ACoS < 25%，评分 > 4.3"
+   },
+   "sources": [
+    "家居家装跨境电商通行口径"
+   ]
+  },
+  {
+   "id": "outdoor",
+   "label": "户外运动露营",
+   "keywords": [
+    "户外",
+    "露营",
+    "帐篷",
+    "运动",
+    "健身",
+    "骑行",
+    "钓鱼",
+    "登山",
+    "烧烤",
+    "瑜伽"
+   ],
+   "regions": [
+    "北美洲",
+    "欧洲",
+    "大洋洲",
+    "亚洲"
+   ],
+   "why": [
+    "疫情后户外运动人口结构性上升，装备消费粘性强",
+    "季节性强，反季铺货可吃北半球/南半球时间差"
+   ],
+   "channels": [
+    "Amazon",
+    "REI / Decathlon 类连锁",
+    "独立站 + 社媒"
+   ],
+   "entry": "先做配件与耗材（轻小件）建立店铺权重，再上高客单主装备",
+   "risk": "季节波动大、库存风险高；欧美对安全与认证有明确标准",
+   "tools": [
+    {
+     "name": "Amazon",
+     "type": "B2C",
+     "use": "主站，靠季节节奏打爆",
+     "priority": 1
+    },
+    {
+     "name": "YouTube 户外评测",
+     "type": "社交",
+     "use": "装备测评是决策关键",
+     "priority": 2
+    },
+    {
+     "name": "Instagram / TikTok",
+     "type": "社交",
+     "use": "场景种草",
+     "priority": 3
+    },
+    {
+     "name": "Meta Ads",
+     "type": "投流",
+     "use": "兴趣定向户外人群",
+     "priority": 4
+    },
+    {
+     "name": "专业展会（ISPO 等）",
+     "type": "展会",
+     "use": "对接渠道商与品牌方",
+     "priority": 5
+    },
+    {
+     "name": "Shopify 独立站",
+     "type": "独立站",
+     "use": "品牌与会员沉淀",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "投流测款 + 季节自然流承接",
+    "paid": [
+     "旺季前 6-8 周开投流做预热",
+     "视频测评素材放大"
+    ],
+    "organic": [
+     "户外 KOL 测评与路线内容",
+     "SEO 做装备选购指南"
+    ],
+    "budget": "1000-2000 美元/月，旺季加倍",
+    "kpi": "旺季售罄率 > 80%，ACoS < 30%"
+   },
+   "sources": [
+    "户外用品跨境电商通行口径"
+   ]
+  },
+  {
+   "id": "toy",
+   "label": "母婴玩具",
+   "keywords": [
+    "玩具",
+    "积木",
+    "婴儿",
+    "母婴",
+    "儿童",
+    "奶瓶",
+    "尿不湿",
+    "童车",
+    "早教"
+   ],
+   "regions": [
+    "北美洲",
+    "欧洲",
+    "亚洲",
+    "中东"
+   ],
+   "why": [
+    "节庆送礼属性强，Q4 是绝对旺季",
+    "家长愿为安全与教育属性付溢价"
+   ],
+   "channels": [
+    "Amazon",
+    "Walmart / Target",
+    "TikTok Shop"
+   ],
+   "entry": "必须把安全认证与测试报告前置，listing 突出年龄分级与教育价值",
+   "risk": "CPSC/CPSIA（美国）、EN71（欧盟）认证严格，违规即下架；小零件窒息风险",
+   "tools": [
+    {
+     "name": "Amazon Toys",
+     "type": "B2C",
+     "use": "旺季核心渠道",
+     "priority": 1
+    },
+    {
+     "name": "Walmart Marketplace",
+     "type": "B2C",
+     "use": "美国第二渠道",
+     "priority": 2
+    },
+    {
+     "name": "TikTok Shop",
+     "type": "社交",
+     "use": "开箱与玩法演示带货",
+     "priority": 3
+    },
+    {
+     "name": "Meta Ads",
+     "type": "投流",
+     "use": "家长兴趣定向，旺季放量",
+     "priority": 4
+    },
+    {
+     "name": "专业玩具展（Nuremberg 等）",
+     "type": "展会",
+     "use": "接品牌与渠道订单",
+     "priority": 5
+    },
+    {
+     "name": "Alibaba.com",
+     "type": "B2B",
+     "use": "OEM 与批发",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "投流为主（旺季集中投放）",
+    "paid": [
+     "Q4 前 2 个月集中投流打爆",
+     "Amazon PPC 抢节日词"
+    ],
+    "organic": [
+     "达人开箱与亲子内容做自然流",
+     "SEO 做'送礼指南'"
+    ],
+    "budget": "旺季 2000-4000 美元/月",
+    "kpi": "Q4 占全年 50%+，ACoS < 30%"
+   },
+   "sources": [
+    "玩具母婴跨境电商通行口径"
+   ]
+  },
+  {
+   "id": "auto",
+   "label": "汽车与摩托配件",
+   "keywords": [
+    "汽车",
+    "摩托",
+    "汽配",
+    "轮胎",
+    "改装",
+    "车载",
+    "车品",
+    "配件",
+    "洗车",
+    "车灯"
+   ],
+   "regions": [
+    "北美洲",
+    "欧洲",
+    "中东",
+    "拉丁美洲"
+   ],
+   "why": [
+    "欧美汽车文化与 DIY 维修文化强，配件复购稳定",
+    "车型适配是天然护城河，一旦对上型号转化很高"
+   ],
+   "channels": [
+    "Amazon",
+    "eBay / RockAuto 类垂直",
+    "本地汽配连锁"
+   ],
+   "entry": "先锁定 3-5 个保有量最高的车型做适配款，把适配表做成可筛选的标准化数据",
+   "risk": "适配错误导致高退货；DOT/ECE 认证（车灯类）、电池类运输限制",
+   "tools": [
+    {
+     "name": "eBay / Amazon Automotive",
+     "type": "B2C",
+     "use": "按车型筛选是核心转化路径",
+     "priority": 1
+    },
+    {
+     "name": "垂直汽配平台（RockAuto 类）",
+     "type": "B2C",
+     "use": "精准需求，客单较高",
+     "priority": 2
+    },
+    {
+     "name": "YouTube 改装教程",
+     "type": "社交",
+     "use": "安装教程直接带来成交",
+     "priority": 3
+    },
+    {
+     "name": "Google Shopping",
+     "type": "投流",
+     "use": "按车型与零件号精准投",
+     "priority": 4
+    },
+    {
+     "name": "SEMA / Automechanika 展会",
+     "type": "展会",
+     "use": "接经销与改装店",
+     "priority": 5
+    },
+    {
+     "name": "Alibaba.com",
+     "type": "B2B",
+     "use": "接批发与自有品牌",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "自然流为主（搜索与适配数据驱动）",
+    "paid": [
+     "Google 按零件号精准投放 ROI 最高",
+     "Amazon 只投适配明确的词"
+    ],
+    "organic": [
+     "适配数据表做 SEO 护城河",
+     "安装教程视频长期带量"
+    ],
+    "budget": "500-1500 美元/月",
+    "kpi": "退货率 < 10%，适配准确率 > 98%"
+   },
+   "sources": [
+    "汽配跨境电商通行口径"
+   ]
+  },
+  {
+   "id": "machinery",
+   "label": "工业机械与设备",
+   "keywords": [
+    "机械",
+    "设备",
+    "机床",
+    "泵",
+    "阀",
+    "电机",
+    "压缩机",
+    "工业",
+    "生产线",
+    "轴承",
+    "发电机",
+    "叉车",
+    "挖掘机",
+    "装载机",
+    "推土机",
+    "工程机械",
+    "起重机",
+    "excavator",
+    "loader",
+    "crane"
+   ],
+   "regions": [
+    "中东",
+    "亚洲",
+    "欧洲",
+    "非洲",
+    "拉丁美洲"
+   ],
+   "why": [
+    "新兴市场基建与制造业投资驱动，进口依赖度高",
+    "决策链长但单值高，一个客户可撑全年产能"
+   ],
+   "channels": [
+    "Alibaba.com",
+    "Made-in-China",
+    "展会",
+    "LinkedIn 直销"
+   ],
+   "entry": "把参数表、认证、案例做成可下载资料，用询盘质量而非流量衡量投放",
+   "risk": "认证与标准差异（CE、UL）、售后与备件是成败关键；付款与汇率风险",
+   "tools": [
+    {
+     "name": "Alibaba.com / Made-in-China",
+     "type": "B2B",
+     "use": "询盘主渠道，配 P4P 关键词",
+     "priority": 1
+    },
+    {
+     "name": "LinkedIn Sales Navigator",
+     "type": "社交",
+     "use": "按采购/工程职位定向开发",
+     "priority": 2
+    },
+    {
+     "name": "Google Ads（Search）",
+     "type": "投流",
+     "use": "高意图参数与型号词承接",
+     "priority": 3
+    },
+    {
+     "name": "行业展会（Canton Fair 等）",
+     "type": "展会",
+     "use": "大客户与代理签约",
+     "priority": 4
+    },
+    {
+     "name": "海关数据（ImportGenius 等）",
+     "type": "数据",
+     "use": "找到真实进口商名单",
+     "priority": 5
+    },
+    {
+     "name": "YouTube 设备实拍",
+     "type": "社交",
+     "use": "工厂实拍视频建立信任",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "自然流为主（B2B 信任驱动）",
+    "paid": [
+     "Google 长尾词 + 阿里 P4P，占总预算 20-30%",
+     "LinkedIn 定向广告小步测试"
+    ],
+    "organic": [
+     "展会 + 海关数据 + 领英开发是主力",
+     "独立站参数库与案例做 SEO"
+    ],
+    "budget": "年度 2-5 万元人民币，展会占大头",
+    "kpi": "询盘转化率 > 5%，样品单转正式单 > 20%"
+   },
+   "sources": [
+    "机械设备出口通行口径"
+   ]
+  },
+  {
+   "id": "bakery-equipment",
+   "label": "烘焙与食品加工设备",
+   "keywords": [
+    "烘焙",
+    "饼干",
+    "曲奇",
+    "蛋糕",
+    "面包",
+    "烤炉",
+    "烤箱",
+    "和面",
+    "醒发",
+    "糕点",
+    "吐司",
+    "食品机械",
+    "biscuit",
+    "cookie",
+    "bakery",
+    "dough"
+   ],
+   "regions": [
+    "中东",
+    "东南亚",
+    "拉丁美洲",
+    "非洲",
+    "欧洲"
+   ],
+   "why": [
+    "新兴市场烘焙连锁与中央厨房扩张，整线设备依赖进口",
+    "欧美中小烘焙店设备更新周期稳定，单机与备件复购强"
+   ],
+   "channels": [
+    "Alibaba.com / Made-in-China",
+    "行业展会（IBA、Gulfood、FHA）",
+    "本地食品机械代理商"
+   ],
+   "entry": "先做单机（饼干成型机、和面机）验证询盘，再推整线方案；配多语言参数表与 CE 证书",
+   "risk": "CE/UL 与食品接触材料认证；售后与备件是成交关键，海运体积重大",
+   "tools": [
+    {
+     "name": "Alibaba.com（P4P）",
+     "type": "B2B",
+     "use": "主力询盘，铺饼干机/和面机关键词",
+     "priority": 1
+    },
+    {
+     "name": "Made-in-China",
+     "type": "B2B",
+     "use": "第二询盘渠道，覆盖中东与非洲买家",
+     "priority": 2
+    },
+    {
+     "name": "展会 IBA / Gulfood",
+     "type": "展会",
+     "use": "对接经销商与烘焙连锁大客户",
+     "priority": 3
+    },
+    {
+     "name": "LinkedIn",
+     "type": "社交",
+     "use": "定向烘焙厂采购与工程负责人",
+     "priority": 4
+    },
+    {
+     "name": "YouTube 实拍",
+     "type": "社交",
+     "use": "整线运行视频建立专业信任",
+     "priority": 5
+    },
+    {
+     "name": "Google Ads（Search）",
+     "type": "投流",
+     "use": "承接 biscuit making machine 类长尾词",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "自然流为主（B2B 信任驱动，投流只做长尾承接）",
+    "paid": [
+     "Google 只投高意图长尾词，占总预算 20-30%",
+     "阿里 P4P 用于新品冷启动，出价按询盘成本控制"
+    ],
+    "organic": [
+     "展会 + 海关数据 + 领英开发是主力询盘来源",
+     "独立站做参数库与整线方案页吃 SEO",
+     "YouTube 整线运行实拍是最强信任资产"
+    ],
+    "budget": "年度 2-5 万元人民币，展会与样品占大头",
+    "kpi": "询盘转化率 > 5%，样品单转正式单 > 20%，单询盘成本 < 150 元"
+   },
+   "sources": [
+    "IBA 国际烘焙展公开资料",
+    "Alibaba 烘焙设备类目结构"
+   ]
+  },
+  {
+   "id": "packaging-equipment",
+   "label": "包装机械",
+   "keywords": [
+    "包装",
+    "封口",
+    "灌装",
+    "贴标",
+    "纸箱",
+    "真空包装",
+    "收缩",
+    "枕式",
+    "packaging",
+    "filling",
+    "sealing",
+    "labeling",
+    "carton"
+   ],
+   "regions": [
+    "东南亚",
+    "中东",
+    "拉丁美洲",
+    "非洲",
+    "欧洲"
+   ],
+   "why": [
+    "食品、日化、电商仓配扩张带动包装自动化替代人工",
+    "包装耗材与备件复购强，客户生命周期长"
+   ],
+   "channels": [
+    "Alibaba.com",
+    "行业展会（ProPak、Interpack）",
+    "本地包装材料商代理"
+   ],
+   "entry": "按行业切入（食品/日化/电商件），先卖替代人工最直接的封口、贴标单机",
+   "risk": "CE 机械指令与安全防护；电压与气源标准差异大，需按目的地定制",
+   "tools": [
+    {
+     "name": "Alibaba.com",
+     "type": "B2B",
+     "use": "主力询盘，按行业关键词铺货",
+     "priority": 1
+    },
+    {
+     "name": "Made-in-China",
+     "type": "B2B",
+     "use": "补充新兴市场询盘",
+     "priority": 2
+    },
+    {
+     "name": "展会 ProPak / Interpack",
+     "type": "展会",
+     "use": "对接渠道商与大客户",
+     "priority": 3
+    },
+    {
+     "name": "LinkedIn",
+     "type": "社交",
+     "use": "定向包装工程师与采购",
+     "priority": 4
+    },
+    {
+     "name": "Google Ads",
+     "type": "投流",
+     "use": "承接 packaging machine 类关键词",
+     "priority": 5
+    },
+    {
+     "name": "YouTube 实拍",
+     "type": "社交",
+     "use": "设备运行视频降低信任成本",
+     "priority": 6
+    }
+   ],
+   "adStrategy": {
+    "verdict": "自然流为主（B2B 询盘驱动）",
+    "paid": [
+     "Google 长尾词与阿里 P4P 合计占 20-30%",
+     "对老客户做再营销，提高复购与备件单"
+    ],
+    "organic": [
+     "展会与代理渠道是主力",
+     "独立站做设备参数对比页吃 SEO",
+     "YouTube 运行实拍建立专业信任"
+    ],
+    "budget": "年度 3-6 万元人民币",
+    "kpi": "月度有效询盘 ≥ 20 条，样品单转化 > 15%"
+   },
+   "sources": [
+    "ProPak / Interpack 展会公开资料"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "foreign-trade-lookup",
+  "version": "1.0.0",
+  "description": "外贸快查 · 产品出海市场地图（移动端）— 输入产品，秒出目标国家、原因、平台优先级与投流/自然流建议",
+  "type": "module",
+  "main": "server.mjs",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs",
+    "build:kb": "node tools/build-kb.mjs",
+    "test": "node tools/run-cases.mjs && node tools/selftest-engine.mjs",
+    "test:cases": "node tools/run-cases.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["cross-border", "ecommerce", "foreign-trade", "market-analysis", "ai"],
+  "license": "MIT"
+}

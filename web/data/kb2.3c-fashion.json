@@ -1,0 +1,1971 @@
+[
+  {
+    "id": "socks",
+    "name": "袜子",
+    "aliases": [
+      "Socks",
+      "Crew Socks",
+      "Ankle Socks",
+      "袜子厂",
+      "做袜子的",
+      "棉袜",
+      "运动袜",
+      "船袜",
+      "堆堆袜",
+      "织袜",
+      "帽袜围巾",
+      "袜套"
+    ],
+    "category": "服饰鞋包",
+    "summary": "低单价高频复购的基础耗材，靠SKU厚度与自动织机效率赚钱。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "美国袜子是典型的高消耗快消品，亚马逊多件装客单稳定，运动袜与船袜常年稳居服饰类目前列。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Costco供应商",
+          "独立站"
+        ],
+        "entry": "以6双或10双多件装切入，主打棉混纺与抗菌整理，先做白袜与黑袜两个基本盘。",
+        "risk": "单价低，FBA配送费吃掉利润，必须靠套装抬高客单价。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "德国消费者看重耐磨与成分标识，袜类是药妆店与超市的高频补货品，对再生棉与环保认证接受度高。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "Zalando",
+          "本地批发商"
+        ],
+        "entry": "做再生棉混纺系列并备OEKO-TEX证书，主推中筒商务袜与企业定制。",
+        "risk": "德国的纺织品申报与成分标注误差会被抽检处罚。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 81,
+        "why": [
+          "日本袜类是百元店与便利店刚需品类，对配色与五趾袜等细分款接受度高，商场渠道也走量。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "百元店供应商",
+          "Don Quijote"
+        ],
+        "entry": "做五趾袜与浅口隐形袜细分款，配色走日系低饱和，包装重细节。",
+        "risk": "日本对线头与脚感极挑剔，验货标准需前置到打样。"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "菲律宾热带气候让船袜与薄运动袜全年有需求，本地制造弱，跨境小包与海外仓都在放量。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "走薄款船袜与运动袜，多色混装一包，用低价快速起量。",
+        "risk": "客单价极低，物流占比高，需做组合装摊薄运费。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "沙特日常穿长袍配拖鞋，中筒长袜需求集中在秋冬与国际品牌替代，礼品装也有空间。"
+        ],
+        "channels": [
+          "Noon",
+          "Amazon.sa",
+          "本地集市批发"
+        ],
+        "entry": "做纯棉中筒与超长袜，配本地斋月礼盒装，走批发市场分销。",
+        "risk": "斋月与夏季淡旺季切换剧烈，压货风险大。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架多件装袜类，用变体矩阵覆盖厚度与配色。",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接欧美连锁与品牌定制询盘，展示织机产能。",
+        "priority": 2
+      },
+      {
+        "name": "阿里1688跨境专供",
+        "type": "B2B",
+        "use": "对接国内袜业产业带货源，做小单快反补货。",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "用踩不破与防臭演示短视频带动转化。",
+        "priority": 4
+      },
+      {
+        "name": "SHEIN卖家入驻",
+        "type": "B2C",
+        "use": "进快时尚供应链做多色船袜小单测试。",
+        "priority": 5
+      },
+      {
+        "name": "Shopee跨境",
+        "type": "B2C",
+        "use": "铺东南亚站点，主推薄款船袜组合装。",
+        "priority": 6
+      },
+      {
+        "name": "OEKO-TEX认证服务商",
+        "type": "数据",
+        "use": "做有害物质检测，满足欧盟电商上架审核。",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP自动广告拓词",
+        "Google Shopping",
+        "TikTok 短视频投放"
+      ],
+      "organic": [
+        "多件装内容对比图",
+        "买家晒单合辑",
+        "袜子收纳与搭配话题"
+      ],
+      "budget": "月投放3000-6000美元，占GMV 10-15%",
+      "kpi": "ACOS<22%，套装客单价>15美元，退货率<3%"
+    },
+    "sources": [
+      "Amazon Best Sellers 服饰类目",
+      "中国海关总署商品进出口统计",
+      "OEKO-TEX 官方标准说明"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "tote-bag",
+    "name": "帆布托特包",
+    "aliases": [
+      "Tote Bag",
+      "Canvas Tote Bag",
+      "Shopper Bag",
+      "帆布袋",
+      "布包",
+      "购物袋",
+      "手提袋",
+      "印logo的袋子",
+      "宣传袋",
+      "定做袋子",
+      "环保袋",
+      "手提包"
+    ],
+    "category": "服饰鞋包",
+    "summary": "企业定制与零售双驱动的帆布袋，克重与印刷工艺是分水岭。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美国品牌与活动周边常年采购定制帆布袋，亚马逊上素色大容量托特属于稳定长销款。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "定制印刷公司合作",
+          "独立站"
+        ],
+        "entry": "主推12oz到16oz加厚大容量款，接品牌小批量丝印定制，走B端批量订单。",
+        "risk": "棉价与人工波动大，报价需锁定有效期。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "英国超市与书店的环保购物袋文化根深蒂固，零售商按季度补定制款，印刷品质要求高。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Etsy",
+          "本地促销品代理"
+        ],
+        "entry": "对接英国的促销礼品代理商，做多色丝印与刺绣logo定制。",
+        "risk": "塑料袋税推动需求但客户压价凶，毛利靠工艺溢价。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "日本文具店与服装品牌偏爱帆布副包与环保袋，对缝线平整与内袋细节有明确标准。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Loft与文具渠道",
+          "展示会"
+        ],
+        "entry": "做带内袋与拉链的升级款，用小批量多SKU接品牌联名单。",
+        "risk": "日单起订量小、打样轮次多，前期开发成本高。"
+      },
+      {
+        "region": "东南亚",
+        "country": "印度尼西亚",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "印尼本地品牌与集市的环保袋需求旺盛，社媒带货带动印花帆布袋销量，价格敏感度高。"
+        ],
+        "channels": [
+          "Shopee",
+          "Tokopedia",
+          "TikTok Shop"
+        ],
+        "entry": "做印花款与卡通联名款，把小批量定制门槛降到100件。",
+        "risk": "本地制造价格低，需靠设计与交期竞争。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "迪拜商超与企业礼赠季节性强，高端旅行与酒店渠道采购定制布袋做礼品与客房用品。"
+        ],
+        "channels": [
+          "Dubai本地礼品代理",
+          "Amazon.ae",
+          "展会"
+        ],
+        "entry": "做高端厚帆布配皮质提手款，切入酒店与地产商礼赠。",
+        "risk": "季节性极强，错过礼赠季库存需要一整年消化。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "主通道承接定制询盘，用RFQ抢企业采购订单。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架素色与印花款，靠评价积累长销。",
+        "priority": 2
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "做个性化定制与手作风帆布袋，客单价更高。",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "与欧美促销品代理商现场谈定制批量单。",
+        "priority": 4
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "上线在线设计器，接品牌小批量丝印订单。",
+        "priority": 5
+      },
+      {
+        "name": "AliExpress",
+        "type": "B2C",
+        "use": "小批量零售测试印花款的市场反应。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流测款）",
+      "paid": [
+        "Google Shopping",
+        "Alibaba P4P关键词",
+        "Meta 定制广告"
+      ],
+      "organic": [
+        "定制案例合集",
+        "印刷工艺短视频",
+        "环保袋使用场景内容"
+      ],
+      "budget": "B端P4P月300-800美元，C端测款月2000美元起步",
+      "kpi": "询盘转化率>5%，单笔定制金额>2000美元"
+    },
+    "sources": [
+      "Alibaba 行业数据洞察",
+      "Etsy 趋势报告",
+      "Promotional Products Association International"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "baseball-cap",
+    "name": "棒球帽",
+    "aliases": [
+      "Baseball Cap",
+      "Snapback",
+      "Dad Hat",
+      "Trucker Hat",
+      "鸭舌帽",
+      "棒球帽厂",
+      "做帽子的",
+      "印logo的帽子",
+      "弯檐帽",
+      "帽子定制",
+      "广告帽",
+      "空顶帽"
+    ],
+    "category": "服饰鞋包",
+    "summary": "品牌周边与潮流双赛道，logo定制与小批量快反是切入点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 91,
+        "why": [
+          "美国棒球帽文化成熟，品牌周边、赛事与街潮三条线并存，亚马逊与独立站都能出量。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Shopify品牌定制",
+          "TikTok Shop",
+          "赛事周边代理"
+        ],
+        "entry": "主推dad hat与snapback两款，刺绣logo定制起订量压到50顶接品牌周边单。",
+        "risk": "潮流款生命周期短，配色押错就积压。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "欧洲运动与户外品牌集中，卡车帽与功能性棒球帽需求稳定，德国客户看重交期与工艺一致。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "户外品牌代工"
+        ],
+        "entry": "做水洗棉与速干面料两条产线，接户外品牌ODM订单。",
+        "risk": "德国客对刺绣针数与色差要求苛刻，打样周期长。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 77,
+        "why": [
+          "韩国空顶帽与软顶棒球帽跟随偶像造型快速变化，社媒一带货就出现跟单潮。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "Musinsa"
+        ],
+        "entry": "跟款做空顶帽与复古软顶款，配合本地网红寄样铺量。",
+        "risk": "款式迭代以月计，备货稍慢就错过窗口。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "沙特与企业礼赠和足球文化带动帽子采购，夏季遮阳功能款也走量。"
+        ],
+        "channels": [
+          "Noon",
+          "本地礼品代理",
+          "集市批发"
+        ],
+        "entry": "做遮阳宽檐与团队定制款，捆绑礼赠打包销售。",
+        "risk": "本地对图案与标识有文化禁忌，设计需本地审稿。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "巴西街头潮流与足球队周边消费旺盛，夏季长、帽子使用周期长，价格带偏低。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地经销商"
+        ],
+        "entry": "做足球队配色平价款，走本地批发商分销。",
+        "risk": "关税与税率高，需DDP报价并做好清关代理。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接品牌周边与代理商定制询盘，展示刺绣样。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架基础款跑评论与数据，反推爆款配色。",
+        "priority": 2
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "接品牌小批量定制，上线logo预览下单流程。",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "穿搭短视频带货，空顶帽与软顶款是主要素材。",
+        "priority": 4
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接欧美促销品与品牌采购商，现场看工艺。",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "抓取美站帽子类目价格带与销量判断备货。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流测款）",
+      "paid": [
+        "Amazon SP广告",
+        "TikTok Spark Ads",
+        "Meta 兴趣定向"
+      ],
+      "organic": [
+        "帽型适配脸型内容",
+        "刺绣工艺特写",
+        "品牌定制案例"
+      ],
+      "budget": "月投放占GMV 12-18%，新品期上探25%",
+      "kpi": "ACOS<25%，定制询盘月增>20条"
+    },
+    "sources": [
+      "Amazon Best Sellers 帽子类目",
+      "Alibaba 行业数据洞察",
+      "中国海关帽类出口统计"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "belt",
+    "name": "皮腰带",
+    "aliases": [
+      "Belt",
+      "Leather Belt",
+      "Men's Belt",
+      "皮带",
+      "腰带",
+      "做皮带的",
+      "皮带厂",
+      "真皮腰带",
+      "针扣腰带",
+      "自动扣皮带",
+      "裤带",
+      "挂皮带"
+    ],
+    "category": "服饰鞋包",
+    "summary": "男装礼赠刚需，皮料等级与五金件决定客单与复购。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国男士腰带是父亲节与圣诞的高频礼赠品，全粒面皮革款在亚马逊有稳定高客单需求。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "独立站",
+          "礼赠渠道"
+        ],
+        "entry": "做全粒面头层牛皮带针扣款，配礼盒与打孔器做礼赠方案。",
+        "risk": "仿皮与真皮争议多，商品页需明确皮料说明避免投诉。"
+      },
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "意大利腰带讲工艺与皮料产地，奢侈品牌与中高端男装对意大利植鞣皮与手工缝合认可度高。"
+        ],
+        "channels": [
+          "品牌代工",
+          "展会",
+          "买手店"
+        ],
+        "entry": "以植鞣皮与意式打磨工艺做ODM，接中高端男装品牌。",
+        "risk": "工艺门槛高，样衣返工成本需计入报价。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "德国工装与户外场景腰带强调承重与耐用，自动扣尼龙带和加宽皮带都有固定客群。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "工装品牌代工",
+          "Otto"
+        ],
+        "entry": "做军规尼龙带与重型皮革带两条线，主打耐用与承重。",
+        "risk": "德国消费者对塑料件老化的投诉率高，五金需选合格供应商。"
+      },
+      {
+        "region": "中东",
+        "country": "沙特阿拉伯",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "沙特男性长袍搭配腰带的着装习惯带来细分需求，节日礼赠客单价高，喜欢金属扣与亮面款。"
+        ],
+        "channels": [
+          "Noon",
+          "本地集市批发",
+          "礼品店"
+        ],
+        "entry": "做亮皮配金属自动扣款，配礼盒进礼品与集市渠道。",
+        "risk": "夏季高温使合成材料易裂，需做耐候测试。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "越南摩托车通勤与工装文化让尼龙与PU腰带走量，价格敏感但对款式更新要求快。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "本地批发"
+        ],
+        "entry": "走低价自动扣与帆布带，做多色小批量上新。",
+        "risk": "本地制造便宜，纯基础款没有利润空间。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架礼盒装腰带，用尺码表与打孔说明降退货。",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接男装品牌与礼赠采购商的ODM询盘。",
+        "priority": 2
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "与欧美买手现场确认皮料与五金手感。",
+        "priority": 3
+      },
+      {
+        "name": "APLF 香港皮革展",
+        "type": "展会",
+        "use": "对接皮料供应与中高端品牌采购。",
+        "priority": 4
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做礼品定制与刻字服务，拉高客单。",
+        "priority": 5
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做六价铬与偶氮染料检测，满足欧盟皮具要求。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流测款）",
+      "paid": [
+        "Amazon SP/SB广告",
+        "Google Shopping",
+        "Meta 礼赠定向"
+      ],
+      "organic": [
+        "皮料剖面对比内容",
+        "腰带长度挑选指南",
+        "开箱礼盒视频"
+      ],
+      "budget": "礼赠季前2个月起量，月预算3000-8000美元",
+      "kpi": "ACOS<25%，退货率<8%，礼赠季GMV占比>50%"
+    },
+    "sources": [
+      "Amazon 男士腰带类目",
+      "APLF 展会行业资料",
+      "中国皮革协会公开信息"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "leggings",
+    "name": "瑜伽紧身裤",
+    "aliases": [
+      "Leggings",
+      "Yoga Leggings",
+      "Tights",
+      "打底裤",
+      "紧身裤",
+      "瑜伽裤",
+      "做瑜伽裤的",
+      "运动打底",
+      "提臀裤",
+      "鲨鱼裤",
+      "无痕裤"
+    ],
+    "category": "服饰鞋包",
+    "summary": "高退货高复购的运动紧身裤，面料与版型是唯一护城河。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 94,
+        "why": [
+          "美国运动休闲着装渗透率极高，紧身裤是日常穿着，消费者愿为面料与版型支付溢价。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop",
+          "Shopify独立站",
+          "TikTok红人合作"
+        ],
+        "entry": "主推高腰提臀与侧口袋款，用四面弹锦纶面料做差异化。",
+        "risk": "尺码与透光投诉是主要退货源，需提供实拍与试穿视频。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "德国健身人口稳定，线上购买运动紧身裤成常态，对环保再生面料与认证敏感。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "Otto"
+        ],
+        "entry": "做再生锦纶系列并附GRS证书，主打高腰不透光。",
+        "risk": "德国退货率高，需把退货成本计入定价。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "韩国瑜伽与普拉提普及度高，鲨鱼裤与无痕打底在社媒持续爆发，款式更新快。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "Musinsa"
+        ],
+        "entry": "跟款做鲨鱼裤与无痕打底，配本地网红寄样快速铺量。",
+        "risk": "季节性强，春秋两季外容易积压。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "泰国健身与瑜伽社群活跃，气候炎热使薄款与速干款紧身裤需求强，价格带偏低。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做薄款速干与高腰收腹款，走直播带货低价起量。",
+        "risk": "客单价低，直播佣金与退货会压缩利润。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 67,
+        "why": [
+          "巴西健身文化浓厚，紧身裤兼具运动与日常穿搭属性，本土消费者偏好提臀高腰版型。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地代理",
+          "TikTok"
+        ],
+        "entry": "开发巴西专属提臀版型，找本地代理做批发分销。",
+        "risk": "关税与州税复杂，需按州核算并做DDP报价。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架主打款并用A+展示面料弹力与不透光测试。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "深蹲不透光与提臀对比短视频是最强转化素材。",
+        "priority": 2
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做品牌站沉淀复购，主推套装与订阅优惠。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外小型运动品牌ODM询盘。",
+        "priority": 4
+      },
+      {
+        "name": "SHEIN卖家入驻",
+        "type": "B2C",
+        "use": "进快时尚供应链做多色小单快反测试。",
+        "priority": 5
+      },
+      {
+        "name": "GRS认证机构",
+        "type": "数据",
+        "use": "办再生材料认证，满足欧洲客户合规要求。",
+        "priority": 6
+      },
+      {
+        "name": "Google Trends",
+        "type": "数据",
+        "use": "追踪打底裤相关词趋势，提前一季排产。",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "TikTok Spark Ads",
+        "Amazon SP广告",
+        "Meta Reels广告"
+      ],
+      "organic": [
+        "健身场景内容",
+        "尺码与不透光答疑",
+        "红人寄样测评"
+      ],
+      "budget": "月投放占GMV 15-22%，爆款期上探30%",
+      "kpi": "退货率<18%，转化率>3%，30天动销率>70%"
+    },
+    "sources": [
+      "Amazon 运动紧身裤类目",
+      "GRS 全球回收标准说明",
+      "TikTok Shop 商家规则"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "sports-bra",
+    "name": "运动文胸",
+    "aliases": [
+      "Sports Bra",
+      "Sports Bras",
+      "High Impact Bra",
+      "运动内衣",
+      "文胸",
+      "内衣",
+      "做运动内衣的",
+      "健身内衣",
+      "防震文胸",
+      "瑜伽内衣",
+      "运动bra"
+    ],
+    "category": "服饰鞋包",
+    "summary": "支撑等级决定客单与技术门槛，女装运动类目里最难退货管理的一环。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "美国女性健身参与度高，高支撑运动内衣是刚需，消费者按支撑等级与罩杯尺码精准挑选。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Shopify独立站",
+          "TikTok Shop"
+        ],
+        "entry": "按低中高三档支撑做产品线，尺码覆盖到大罩杯，用实测支撑说明降退货。",
+        "risk": "尺码退货率极高，无实测数据支撑很难起量。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "英国运动内衣是跑步与健身房装备标配，消费者看重支撑性能与可调节肩带设计。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Zalando",
+          "运动品牌代工"
+        ],
+        "entry": "做可调节背扣与宽肩带款，主打中大罩杯高支撑。",
+        "risk": "英国增值税与清关成本需计入定价。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "日本瑜伽与普拉提人群扩大，偏好轻薄无钢圈与日系配色，对穿着舒适度要求极高。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "ZOZOTOWN"
+        ],
+        "entry": "做无钢圈轻薄款配日系低饱和色，突出无感穿着。",
+        "risk": "日系尺码偏小，版型需按本地开发。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 4,
+        "heat": 75,
+        "why": [
+          "德国健身渗透率高，消费者重视环保证书与可回收包装，品牌忠诚度强。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "Zalando"
+        ],
+        "entry": "走再生锦纶与可回收包装，主打可持续叙事。",
+        "risk": "德国的包装法规要求严格，包装不合规会被罚。"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "越南女性健身与舞蹈社群增长，低价无钢圈运动内衣在社媒带货放量快。"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "本地代理"
+        ],
+        "entry": "做平价低支撑款配多色套装，走直播快速起量。",
+        "risk": "客单价低，物流与佣金吃掉大部分利润。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "按支撑等级分变体，用尺码指南降低退货。",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "冲击测试与运动场景短视频做转化素材。",
+        "priority": 2
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做尺码问答与支撑分级测评内容沉淀复购。",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外运动品牌ODM，展示支撑测试报告。",
+        "priority": 4
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做纤维成分与色牢度检测，用于欧美上架。",
+        "priority": 5
+      },
+      {
+        "name": "GRS认证机构",
+        "type": "数据",
+        "use": "办再生材料认证，抬高欧洲客户接受度。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP广告",
+        "TikTok Spark Ads",
+        "Meta 兴趣定向"
+      ],
+      "organic": [
+        "支撑等级科普",
+        "真实试穿测评",
+        "尺码对比内容"
+      ],
+      "budget": "月投放占GMV 15-20%，新尺码上线期加投",
+      "kpi": "退货率<15%，ACOS<28%，复购率>20%"
+    },
+    "sources": [
+      "Amazon 运动内衣类目",
+      "GRS 全球回收标准说明",
+      "纤维成分标签法规公开资料"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "backpack",
+    "name": "双肩包",
+    "aliases": [
+      "Backpack",
+      "Daypack",
+      "Laptop Backpack",
+      "旅行背包",
+      "双肩包",
+      "书包",
+      "做背包的",
+      "学生包",
+      "电脑包",
+      "户外登山包",
+      "背囊"
+    ],
+    "category": "服饰鞋包",
+    "summary": "通勤与旅行双场景，拉链与背负系统决定客单和差评率。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美国通勤与大学场景叠加，带USB充电口与电脑仓的功能包长销，亚马逊类目容量大。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "独立站",
+          "企业定制"
+        ],
+        "entry": "做15.6寸电脑仓加防泼水面料款，主打通勤耐用。",
+        "risk": "拉链与拉杆损坏是主要差评来源，五金需选可靠供应商。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 82,
+        "why": [
+          "德国重视功能性通勤与骑行通勤，带反光条与人体工学背负的背包有稳定需求。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "户外品牌代工"
+        ],
+        "entry": "做反光条与人体工学背负系统款，接户外与通勤品牌ODM。",
+        "risk": "德国对背带断裂等安全问题投诉率高，需做承重测试。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "日本通勤与小学生书包市场成熟，轻量与收纳分区是核心卖点，消费者愿意为设计付费。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "LOFT与杂货渠道"
+        ],
+        "entry": "做轻量通勤款与多分区收纳款，配色走日系素色。",
+        "risk": "日本客对缝线与内衬整洁度标准苛刻，验货需前置。"
+      },
+      {
+        "region": "东南亚",
+        "country": "印度尼西亚",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "印尼摩托车通勤与雨季环境让防泼水背包走量，学生群体规模大，价格带偏低。"
+        ],
+        "channels": [
+          "Shopee",
+          "Tokopedia",
+          "TikTok Shop"
+        ],
+        "entry": "做防泼水学生款与轻便通勤款，走组合价快速起量。",
+        "risk": "本地价格战激烈，需用款型差异避开直降。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "迪拜商务差旅与留学人群带动高端通勤包需求，消费者偏好品牌感与皮质细节。"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "本地精品店",
+          "企业礼品"
+        ],
+        "entry": "做皮质拼接高端通勤款，切商务礼品与差旅场景。",
+        "risk": "高端定位对品牌故事要求高，纯代工难溢价。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接品牌与分销商批量询盘，展示承重与防泼测试。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架通勤款，用A+展示分区与背负细节。",
+        "priority": 2
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做品牌定制与联名款，沉淀高客单人群。",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接欧美箱包进口商与品牌采购。",
+        "priority": 4
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "收纳展示与防泼水演示短视频引流。",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "分析美站价格带与评论痛点，指导改款。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流测款）",
+      "paid": [
+        "Amazon SP广告",
+        "Google Shopping",
+        "LinkedIn B2B定向"
+      ],
+      "organic": [
+        "收纳演示内容",
+        "防泼水测试",
+        "通勤场景vlog"
+      ],
+      "budget": "B端P4P月500-1500美元，C端月投放3000美元起",
+      "kpi": "ACOS<25%，差评率<3%，询盘月增>15条"
+    },
+    "sources": [
+      "Amazon 双肩包类目",
+      "Alibaba 行业数据洞察",
+      "中国箱包出口统计公开信息"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "luggage",
+    "name": "旅行拉杆箱",
+    "aliases": [
+      "Luggage",
+      "Suitcase",
+      "Hardshell Luggage",
+      "行李箱",
+      "拉杆箱",
+      "箱包",
+      "做箱包的",
+      "登机箱",
+      "PC硬箱",
+      "万向轮箱",
+      "旅行箱"
+    ],
+    "category": "服饰鞋包",
+    "summary": "高客单大件，箱体材质与轮组寿命是最容易被退货击穿的两点。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 89,
+        "why": [
+          "美国航空出行频率高，登机箱与24寸托运箱换新需求稳定，硬壳TSA锁款在电商占比大。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "独立站",
+          "批发分销"
+        ],
+        "entry": "做20寸登机PC硬箱配TSA锁，主打轮组静音与承重。",
+        "risk": "大件物流成本高，破损赔付会吃掉毛利。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 81,
+        "why": [
+          "德国出行以铁路与廉价航空为主，20寸登机箱需求集中，对尺寸限制与重量极敏感。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Otto",
+          "箱包连锁",
+          "本地分销"
+        ],
+        "entry": "严格按廉航登机尺寸做箱体，主打轻量化与静音万向轮。",
+        "risk": "尺寸超限客诉多，产品页需精确标注三边尺寸。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "迪拜是国际中转枢纽，转机客与外来务工人员流动大，耐用大容量箱包的置换频率高。"
+        ],
+        "channels": [
+          "Noon",
+          "本地箱包批发市场",
+          "机场免税周边渠道"
+        ],
+        "entry": "做28寸大容量耐用款，配厚PC箱体与加固拉杆。",
+        "risk": "高温环境下劣质材料易变形，需做耐候测试。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 4,
+        "heat": 71,
+        "why": [
+          "日本旅行与出差频繁，静音轮组与可扩展容量是核心卖点，消费者愿为轻量付费。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "家具杂货渠道"
+        ],
+        "entry": "做超轻PC箱体配超静音轮，主打地铁与酒店场景。",
+        "risk": "日本对轮子噪音与拉杆晃动的容忍度极低。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 5,
+        "heat": 65,
+        "why": [
+          "泰国旅游与跨境带货人群多，中低价硬箱走量，本地箱包制造能力有限。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "本地批发市场"
+        ],
+        "entry": "走中低价ABS复合箱体，做多色批量铺货。",
+        "risk": "低价段价格战激烈，退货与破损成本高。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外箱包进口商与品牌批量询盘。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架登机箱，用视频展示轮组与箱体测试。",
+        "priority": 2
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "箱包专馆是欧美进口商的主要采购场。",
+        "priority": 3
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做品牌站承接高客单直销与套装销售。",
+        "priority": 4
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做箱体跌落与拉杆疲劳测试，出具报告背书。",
+        "priority": 5
+      },
+      {
+        "name": "Noon",
+        "type": "B2C",
+        "use": "铺中东站点，主打大容量耐用款。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流测款）",
+      "paid": [
+        "Amazon SP/SB广告",
+        "Google Shopping",
+        "Meta 旅行场景定向"
+      ],
+      "organic": [
+        "跌落与承重测试视频",
+        "登机箱尺寸对比",
+        "旅行vlog植入"
+      ],
+      "budget": "淡季前2个月起量，月投放占GMV 10-15%",
+      "kpi": "退货率<10%，破损率<2%，ACOS<28%"
+    },
+    "sources": [
+      "Amazon 行李箱类目",
+      "中国箱包出口统计公开信息",
+      "SGS 箱包检测公开标准说明"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "pet-feeder",
+    "name": "宠物自动喂食器",
+    "aliases": [
+      "Automatic Pet Feeder",
+      "Pet Feeder",
+      "Smart Feeder",
+      "喂食器",
+      "自动喂食器",
+      "做宠物用品的",
+      "猫粮机",
+      "狗粮机",
+      "定时喂食机",
+      "宠物投喂机",
+      "宠物投食器"
+    ],
+    "category": "宠物用品",
+    "summary": "宠物智能硬件里跑得最快的一支，APP稳定性与卡粮率决定口碑。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 93,
+        "why": [
+          "美国养宠家庭比例高，上班族与多宠家庭对定时定量喂食的刚需强，智能款溢价空间大。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy供应商",
+          "Shopify独立站",
+          "TikTok Shop"
+        ],
+        "entry": "做4L到6L带APP远程控制与摄像款，主打防卡粮与断电续喂。",
+        "risk": "APP掉线与卡粮是主要差评，需本地化客服与固件更新。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "德国宠物经济成熟，宠物用品连锁与线上渠道并行，消费者重视安全认证与食品级材质。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "Otto",
+          "宠物连锁"
+        ],
+        "entry": "做食品级内胆与可拆洗结构，附CE与RoHS合规文件。",
+        "risk": "电子类需CE认证与WEEE注册，缺文件无法上架。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 79,
+        "why": [
+          "日本养猫比例高、居住空间小，紧凑型静音喂食器适配小户型公寓需求。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "宠物连锁店"
+        ],
+        "entry": "做小容量静音款，日文说明与本地售后卡是必备。",
+        "risk": "日本电气用品法规对电源适配器有本地要求。"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "泰国宠物经济增速快，公寓养宠与新中产群体扩大，低价基础定时款放量明显。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "做无APP的基础定时款，走直播带货低价起量。",
+        "risk": "高温高湿环境下电机与密封件易失效。"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 61,
+        "why": [
+          "迪拜外籍人口多、出差频繁，宠物寄养与自动喂食需求并存，对智能款接受度高。"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "本地宠物店",
+          "Noon"
+        ],
+        "entry": "做带摄像与双向语音的智能款，切远程看宠场景。",
+        "risk": "市场规模有限，需与本地代理捆绑铺货。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架智能喂食器，用A+展示防卡粮与清洗结构。",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外宠物品牌与分销商OEM询盘。",
+        "priority": 2
+      },
+      {
+        "name": "Global Sources 环球资源",
+        "type": "B2B",
+        "use": "对接欧美宠物用品批发商与连锁采购。",
+        "priority": 3
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做品牌站与订阅耗材组合，提高复购。",
+        "priority": 4
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "远程看宠与出差喂猫场景短视频转化高。",
+        "priority": 5
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做CE与RoHS认证，满足欧盟电子类上架。",
+        "priority": 6
+      },
+      {
+        "name": "Amazon Vine测评",
+        "type": "数据",
+        "use": "新品期获取早期评论，加速类目排名。",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP/SB广告",
+        "TikTok Spark Ads",
+        "Google Shopping"
+      ],
+      "organic": [
+        "出差喂宠场景内容",
+        "防卡粮测试视频",
+        "宠物博主寄样"
+      ],
+      "budget": "月投放占GMV 15-20%，新品期上探28%",
+      "kpi": "ACOS<30%，差评率<4%，月退货率<8%"
+    },
+    "sources": [
+      "Amazon 宠物喂食器类目",
+      "Zooplus 品类公开信息",
+      "CE 与 RoHS 合规公开说明"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "cat-scratcher",
+    "name": "猫咪猫抓板",
+    "aliases": [
+      "Cat Scratcher",
+      "Cat Scratching Post",
+      "Cat Tree",
+      "猫抓板",
+      "猫抓柱",
+      "猫爬架",
+      "做宠物用品的",
+      "猫抓垫",
+      "瓦楞猫抓板",
+      "猫磨爪器",
+      "猫玩具"
+    ],
+    "category": "宠物用品",
+    "summary": "耗材属性强的猫经济单品，瓦楞密度与尺寸决定回购率。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美国养猫家庭基数大，猫抓板属于高频更换耗材，亚马逊上多件装与异形款都有稳定销量。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy供应商",
+          "Petco供应商",
+          "独立站"
+        ],
+        "entry": "做高密度瓦楞多件装与沙发造型款，主打不掉屑与耐用。",
+        "risk": "瓦楞纸运费占比高，抛货属性吃利润。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 82,
+        "why": [
+          "德国家庭养猫普及，居家环境讲究整洁，可替换内芯的猫抓板设计更受欢迎。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zooplus",
+          "Fressnapf",
+          "Otto"
+        ],
+        "entry": "做可替换瓦楞内芯的框架款，主打环保与省空间。",
+        "risk": "欧盟包装法规与回收责任要求需提前合规。"
+      },
+      {
+        "region": "东亚",
+        "country": "日本",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "日本小户型与高养猫率叠加，节省空间的立式与沙发贴合款需求强，审美要求高。"
+        ],
+        "channels": [
+          "Rakuten",
+          "Amazon.co.jp",
+          "宠物连锁店"
+        ],
+        "entry": "做窄身立式与家具同色款，配色走日系素雅。",
+        "risk": "日本的尺寸与居室风格适配要求高，款型需本地化。"
+      },
+      {
+        "region": "欧洲",
+        "country": "俄罗斯",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "俄罗斯家庭养猫比例高，价格敏感但对耐用性要求明确，本地制造以低端为主。"
+        ],
+        "channels": [
+          "Wildberries",
+          "Ozon",
+          "本地宠物店"
+        ],
+        "entry": "做厚瓦楞大尺寸款，主打耐用与低价，通过本地仓配送。",
+        "risk": "结算与物流路径受限，回款方式需提前设计。"
+      },
+      {
+        "region": "东南亚",
+        "country": "马来西亚",
+        "rank": 5,
+        "heat": 63,
+        "why": [
+          "马来西亚城市养宠人群增长，气候潮湿使耐用与防霉成为卖点，价格带偏低。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "本地宠物店"
+        ],
+        "entry": "做防潮处理瓦楞款，走组合装提高客单价。",
+        "risk": "潮湿环境易发霉，包装需加防潮内袋。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接宠物用品进口商与自有品牌询盘。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架多件装，用尺寸对比图降低误购退货。",
+        "priority": 2
+      },
+      {
+        "name": "Global Sources 环球资源",
+        "type": "B2B",
+        "use": "对接欧美宠物连锁与批发商采购。",
+        "priority": 3
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做订阅制耗材复购，提高客户生命周期。",
+        "priority": 4
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "猫抓互动与不掉屑测试短视频是最强素材。",
+        "priority": 5
+      },
+      {
+        "name": "AliExpress",
+        "type": "B2C",
+        "use": "小批量试款，验证造型与配色的市场反应。",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP自动广告",
+        "TikTok 短视频投放",
+        "Google Shopping"
+      ],
+      "organic": [
+        "猫咪实测视频",
+        "不掉屑对比图",
+        "养猫知识内容"
+      ],
+      "budget": "月投放占GMV 12-18%",
+      "kpi": "ACOS<25%，订阅复购率>25%，退货率<5%"
+    },
+    "sources": [
+      "Amazon 猫抓板类目",
+      "Zooplus 品类公开信息",
+      "中国宠物用品出口公开统计"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "dog-leash",
+    "name": "狗狗牵引绳",
+    "aliases": [
+      "Dog Leash",
+      "Retractable Dog Leash",
+      "Dog Harness",
+      "牵引绳",
+      "狗绳",
+      "狗链",
+      "做宠物用品的",
+      "伸缩牵引绳",
+      "狗背带",
+      "遛狗绳",
+      "宠物绳"
+    ],
+    "category": "宠物用品",
+    "summary": "遛狗刚需高频更换品，拉力测试与五金件是最直接的退货闸门。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 91,
+        "why": [
+          "美国养狗家庭基数大，牵引绳与胸背带属于绑定购买的刚需，防爆冲与夜间反光款溢价明显。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Chewy供应商",
+          "Shopify独立站",
+          "TikTok Shop"
+        ],
+        "entry": "做防爆冲胸背带加反光条款，主打大犬拉力承受。",
+        "risk": "断裂导致狗走失的索赔风险高，需做拉力测试背书。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "德国遛狗法规明确，公共场所牵引要求严格，消费者对安全扣具与握把手感要求高。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Fressnapf",
+          "Zooplus",
+          "宠物品牌代工"
+        ],
+        "entry": "做符合本地法规要求的固定长度款配金属扣具，附测试报告。",
+        "risk": "扣具失效引发的安全投诉在德国极易升级。"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 77,
+        "why": [
+          "英国养狗热情高，雨天多让防水与易清洁牵引绳更受欢迎，家庭多犬组合购买常见。"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Pets at Home供应商",
+          "独立站"
+        ],
+        "entry": "做防水尼龙与双层握把款，配多犬套装提高客单。",
+        "risk": "英国气候湿冷，配色与材质易显旧影响复购。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "韩国小型犬比例极高，轻量设计与配色美学是核心，社媒晒宠带动同款购买。"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "Instagram小店"
+        ],
+        "entry": "做小型犬轻量款，配色走韩系马卡龙，博主寄样铺量。",
+        "risk": "面料太薄易被咬断，需兼顾轻量与强度。"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "巴西城市养狗人群大，价格敏感但有稳定更换需求，伸缩绳在当地接受度高。"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "本地宠物店",
+          "批发市场"
+        ],
+        "entry": "做中低价伸缩牵引绳，走本地批发分销。",
+        "risk": "低价伸缩绳卡线故障率高，投诉会拖垮评分。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架防爆冲套装，用拉力测试视频建立信任。",
+        "priority": 1
+      },
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外宠物品牌与分销商OEM询盘。",
+        "priority": 2
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做品牌站与组合套装，沉淀高复购客群。",
+        "priority": 3
+      },
+      {
+        "name": "Global Sources 环球资源",
+        "type": "B2B",
+        "use": "对接欧美宠物连锁与批发商批量采购。",
+        "priority": 4
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "遛狗实测与防爆冲演示短视频转化高。",
+        "priority": 5
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做拉力与色牢度测试，出具第三方报告。",
+        "priority": 6
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "分析竞品价格带与差评点，指导改款方向。",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP/SB广告",
+        "TikTok Spark Ads",
+        "Meta 养宠兴趣定向"
+      ],
+      "organic": [
+        "防爆冲实测",
+        "遛狗场景vlog",
+        "犬只体型选购指南"
+      ],
+      "budget": "月投放占GMV 14-20%，大促前加大预算",
+      "kpi": "ACOS<26%，差评率<3%，退货率<6%"
+    },
+    "sources": [
+      "Amazon 牵引绳类目",
+      "Fressnapf 品类公开信息",
+      "SGS 宠物用品检测公开说明"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "sneakers-white",
+    "name": "白底小白鞋",
+    "aliases": [
+      "White Sneakers",
+      "Sneakers",
+      "Canvas Shoes",
+      "小白鞋",
+      "白球鞋",
+      "板鞋",
+      "做鞋子的",
+      "帆布鞋",
+      "运动鞋",
+      "休闲鞋",
+      "老爹鞋"
+    ],
+    "category": "服饰鞋包",
+    "summary": "百搭基本款白鞋，鞋楦与鞋底配方是复购率的分水岭。",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国消费者对白色板鞋接受度极高，通勤与休闲两用，亚马逊与独立站都能出量。"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Shopify独立站",
+          "TikTok Shop"
+        ],
+        "entry": "做真皮面或超纤板鞋配橡胶大底，主打小白鞋百搭与耐穿。",
+        "risk": "鞋码退货率是服饰类里最高的，需做详细楦型说明。"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国小白鞋是通勤休闲常规款，消费者重视缓震与鞋底耐用度，对环保材料有偏好。"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "Otto"
+        ],
+        "entry": "做可回收鞋底与环保鞋面款，附材料说明与认证。",
+        "risk": "德国退货率高且退货运费贵，定价需留缓冲。"
+      },
+      {
+        "region": "东亚",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "韩国小白鞋是校服与街头穿搭的长期基本款，款式更新快，社媒带动同款爆发。"
+        ],
+        "channels": [
+          "Coupang",
+          "Musinsa",
+          "Naver Smart Store"
+        ],
+        "entry": "做厚底与复古款跟潮流迭代，每季上新两次。",
+        "risk": "潮流周期短，压货风险需靠小单快反化解。"
+      },
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "rank": 4,
+        "heat": 71,
+        "why": [
+          "意大利是鞋类制造与设计中心，中高端品牌需要中国供应做成本优化，工艺标准高。"
+        ],
+        "channels": [
+          "品牌代工",
+          "MICAM展会",
+          "买手店"
+        ],
+        "entry": "以真皮鞋面与意大利风格楦型做ODM，接中端品牌订单。",
+        "risk": "意大利工艺要求严苛，打样与返工周期长。"
+      },
+      {
+        "region": "东南亚",
+        "country": "菲律宾",
+        "rank": 5,
+        "heat": 64,
+        "why": [
+          "菲律宾学生与通勤人群密集，气候湿热使透气布面白鞋需求强，价格带偏低。"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop"
+        ],
+        "entry": "走布面透气款配EVA大底，做低价组合与直播起量。",
+        "risk": "低价段仿款泛滥，需用版型与包装做区分。"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba国际站",
+        "type": "B2B",
+        "use": "承接海外品牌与批发商询盘，展示大底与工艺。",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "上架基本款，用尺码指南降低最大退货源。",
+        "priority": 2
+      },
+      {
+        "name": "MICAM Milano 米兰鞋展",
+        "type": "展会",
+        "use": "对接欧洲中高端品牌与买手，做代工报价。",
+        "priority": 3
+      },
+      {
+        "name": "Shopify独立站",
+        "type": "独立站",
+        "use": "做品牌站承接复购，主推经典款与联名。",
+        "priority": 4
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "穿搭与开箱短视频是最主要的转化入口。",
+        "priority": 5
+      },
+      {
+        "name": "SGS检测",
+        "type": "数据",
+        "use": "做鞋底耐磨与材质安全检测，支撑欧美上架。",
+        "priority": 6
+      },
+      {
+        "name": "Google Trends",
+        "type": "数据",
+        "use": "追踪白鞋相关搜索趋势，指导配色与备货。",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主",
+      "paid": [
+        "Amazon SP广告",
+        "TikTok Spark Ads",
+        "Google Shopping"
+      ],
+      "organic": [
+        "白鞋穿搭合集",
+        "清洁保养教程",
+        "尺码实测内容"
+      ],
+      "budget": "月投放占GMV 15-22%，新品上线期加投",
+      "kpi": "退货率<20%，ACOS<30%，复购率>15%"
+    },
+    "sources": [
+      "Amazon 运动休闲鞋类目",
+      "MICAM Milano 展会公开信息",
+      "SGS 鞋类检测公开标准说明"
+    ],
+    "confidence": "medium"
+  }
+]

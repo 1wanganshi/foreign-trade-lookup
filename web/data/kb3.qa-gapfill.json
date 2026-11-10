@@ -1,0 +1,543 @@
+[
+  {
+    "id": "cotton-tshirt",
+    "name": "纯棉T恤",
+    "aliases": [
+      "Cotton T-Shirt",
+      "Tee Shirt",
+      "Basic Tee",
+      "空白T恤",
+      "圆领T恤",
+      "做T恤的",
+      "文化衫",
+      "班服定制",
+      "T-Shirt"
+    ],
+    "category": "服饰基础款",
+    "summary": "高频复购的基础服饰，靠克重、版型与印花工艺做差异，适合 POD 与小单快反",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美国 POD（按需印花）与定制班服市场成熟，空白T恤是独立站与 Etsy 卖家的刚需耗材，复购频次高"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "Shopify 独立站",
+          "Printful/Printify 供应链"
+        ],
+        "entry": "以 180-220g 精梳棉空白款切入，主打'不透不缩水'，给 POD 卖家做批发装（5 件/10 件装）",
+        "risk": "尺码偏差与缩水率是退货主因，需提供水洗测试数据与详细尺码表"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "德国环保意识强，GOTS 有机棉与 OEKO-TEX 认证款溢价明显，企业团建与社团定制需求稳定"
+        ],
+        "channels": [
+          "Amazon.de",
+          "Zalando",
+          "Spreadshirt",
+          "企业定制批发"
+        ],
+        "entry": "主推 OEKO-TEX Standard 100 认证款，强调无荧光增白剂，配套德语尺码表与洗涤说明",
+        "risk": "REACH 对偶氮染料有严格限制，缺检测报告会被平台下架"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "日本对克重与手感要求极高，厚磅（5.6oz 以上）复古款与联名印花款溢价空间大"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "ZOZOTOWN",
+          "古着店"
+        ],
+        "entry": "以 6.2oz 厚磅复古版型切入，主打'洗后不变形'，配日语洗标与成分表",
+        "risk": "日本家庭用品品质标签法要求成分标注，缺标即违规"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "本地制衣产能强但面料依赖进口，中国面料+越南成衣的跨境分工成熟，价格敏感但走量大"
+        ],
+        "channels": [
+          "Shopee",
+          "Lazada",
+          "TikTok Shop",
+          "本地批发市场"
+        ],
+        "entry": "以 160g 中低价位走量，主打 5 色基础款，给本地批发商做整箱供货",
+        "risk": "价格战激烈，纯拼价格毛利极薄，需靠面料克重做区分"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "按颜色与尺码做变体矩阵，主图放克重与面料特写",
+        "priority": 1
+      },
+      {
+        "name": "Shopify + Printful/Printify",
+        "type": "独立站",
+        "use": "POD 模式零库存，按订单生产定制印花",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "穿搭与洗后对比短视频，达人分销",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "接 POD 卖家与定制团体的批发询盘",
+        "priority": 4
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "定制文化衫与手作印花，客单价高",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（自然流为主，投流做测款放大）",
+      "paid": [
+        "先投 TikTok Spark Ads 测 5-8 组素材，只放大已出单素材",
+        "Amazon 只打竞品 ASIN 与'blank t-shirt bulk'长尾词",
+        "ACOS 控制在 20% 以内，基础款毛利薄不支持高竞价"
+      ],
+      "organic": [
+        "用穿搭与洗后不变形对比视频做自然流",
+        "给 POD 卖家做批发，靠复购而非广告",
+        "SEO 关键词：'bulk blank t-shirts'、'heavyweight tee'"
+      ],
+      "budget": "$500–1000/月",
+      "kpi": "退货率 < 8%，复购率 > 25%"
+    },
+    "sources": [
+      "Amazon Best Sellers - Men's T-Shirts",
+      "OEKO-TEX Standard 100 认证说明",
+      "HS 6109 针织T恤贸易口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "phone-case-silicone",
+    "name": "手机保护壳",
+    "aliases": [
+      "Phone Case",
+      "Mobile Case",
+      "手机壳",
+      "硅胶手机壳",
+      "防摔壳",
+      "磁吸手机壳",
+      "做手机壳的",
+      "TPU保护套",
+      "手机保护套"
+    ],
+    "category": "3C配件",
+    "summary": "机型驱动的高频耗材，靠上新速度与 IP 联名取胜，机型数据库与库存周转是核心能力",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 91,
+        "why": [
+          "iPhone 出货占比高，新机发布即带来换壳潮，MagSafe 磁吸与防摔（MIL-STD-810G）是两大溢价点"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop US",
+          "Shopify 独立站",
+          "运营商门店"
+        ],
+        "entry": "跟 iPhone 新机节奏上新，主推磁吸+防摔二合一，主图放 2 米跌落测试与磁吸强度",
+        "risk": "机型适配错误会导致大量退货，需维护机型对照表并做适配标注"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "德国消费者偏好简约与环保材质，可降解 TPU 与再生塑料款有明确溢价空间"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "MediaMarkt",
+          "本地配件批发"
+        ],
+        "entry": "做环保材质系列，包装去塑化，标注再生材料比例与可回收说明",
+        "risk": "GPSR 要求欧盟责任人信息上标，缺失 Listing 会被下架"
+      },
+      {
+        "region": "东南亚",
+        "country": "印尼",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "手机保有量大且换壳频繁，单价低但复购极强，TikTok 直播是主要成交场景"
+        ],
+        "channels": [
+          "Shopee",
+          "TikTok Shop",
+          "Lazada",
+          "线下手机店"
+        ],
+        "entry": "以 $2-4 价格带每周上新 15-20 款，用直播测款，出单款 48 小时内追单",
+        "risk": "IP 联名图案未授权会被下架索赔，卡通图案需慎用"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "高端机型（iPhone Pro Max、三星 Ultra）占比高，客单价高，偏好奢华材质（真皮、芳纶纤维）"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon",
+          "线下商场专柜"
+        ],
+        "entry": "主推真皮与芳纶纤维高端款，配礼盒包装，进入商场配件专柜",
+        "risk": "高温环境下硅胶易发黄，需做抗黄变处理并说明"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "按机型建变体，标题埋机型与年份关键词",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "开箱与防摔测试短视频，直播测款",
+        "priority": 2
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做 IP 联名与会员复购，邮件提醒新机发布",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "给海外配件批发商与品牌商做 OEM",
+        "priority": 4
+      }
+    ],
+    "adStrategy": {
+      "verdict": "投流为主（上新测款靠投流，爆款转自然流承接）",
+      "paid": [
+        "TikTok 用 $20/天小预算快速测 10 组素材，只放大 CTR > 1.5% 的",
+        "Amazon 打机型长尾词与竞品 ASIN，新品期可接受 ACOS 35%",
+        "Meta 再营销承接加购未付款"
+      ],
+      "organic": [
+        "机型关键词 SEO 做长期自然流量",
+        "用 UGC 买家秀沉淀评价",
+        "老客邮件营销推新机壳"
+      ],
+      "budget": "$800–2000/月（上新期高，稳定期降到 $500）",
+      "kpi": "点击率 > 1.5%，退货率 < 6%"
+    },
+    "sources": [
+      "Amazon Best Sellers - Cell Phone Basic Cases",
+      "iPhone 年度出货报告",
+      "HS 3926.90 塑料制品口径"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "cnc-machining-center",
+    "name": "数控加工中心",
+    "aliases": [
+      "CNC Machining Center",
+      "CNC Machine",
+      "数控机床",
+      "加工中心",
+      "CNC",
+      "立式加工中心",
+      "做数控机床的",
+      "电脑锣",
+      "CNC铣床"
+    ],
+    "category": "工业机床",
+    "summary": "工业母机，客单价高、决策周期长，靠精度稳定性与售后响应取胜",
+    "markets": [
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "制造业从中国转移，越南本土模具与五金加工厂大量新增，中国二线品牌机床性价比优势明显"
+        ],
+        "channels": [
+          "Alibaba.com",
+          "本地机床代理",
+          "越南工业展（VIMF）",
+          "LinkedIn"
+        ],
+        "entry": "以 850 型立式加工中心切入，配本地代理做安装调试与备件库，承诺 48 小时响应",
+        "risk": "售后响应慢会直接失去订单，必须有本地服务能力"
+      },
+      {
+        "region": "欧洲",
+        "country": "波兰",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "波兰是欧洲制造业外包承接地，汽车零部件与家电配套厂密集，对中端机床需求稳定"
+        ],
+        "channels": [
+          "EMO 展会",
+          "本地代理",
+          "Europages",
+          "LinkedIn"
+        ],
+        "entry": "以 CE 认证机型切入，强调精度重复定位（±0.005mm）与 CE 合规文件齐全",
+        "risk": "CE 机械指令与噪音指令必须合规，缺文件无法清关"
+      },
+      {
+        "region": "中东",
+        "country": "土耳其",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "土耳其是欧洲与中东之间的制造枢纽，模具与汽车配件产业发达，对中端数控设备需求旺盛"
+        ],
+        "channels": [
+          "本地代理",
+          "Maktek 展会",
+          "Alibaba.com"
+        ],
+        "entry": "与伊斯坦布尔本地代理绑定，做分期付款方案降低客户决策门槛",
+        "risk": "汇率波动大，需锁定美元结算与付款节奏"
+      },
+      {
+        "region": "拉美",
+        "country": "墨西哥",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "近岸外包（nearshoring）推动墨西哥制造业投资，汽车与电子代工厂扩产带动机床需求"
+        ],
+        "channels": [
+          "本地代理",
+          "EXPOMAQ 展会",
+          "LinkedIn"
+        ],
+        "entry": "以'交期短+备件足'为卖点，配套西语操作培训与远程诊断",
+        "risk": "NOM 认证与西语技术文件必须齐备"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "主站询盘，详情页放精度参数与加工视频",
+        "priority": 1
+      },
+      {
+        "name": "LinkedIn",
+        "type": "社交",
+        "use": "按'工厂经理/设备采购/工艺工程师'定向触达",
+        "priority": 2
+      },
+      {
+        "name": "Google Ads（Search）",
+        "type": "投流",
+        "use": "高意图词如'CNC machining center supplier'",
+        "priority": 3
+      },
+      {
+        "name": "行业展会（EMO/IMTS/VIMF）",
+        "type": "展会",
+        "use": "大客户面对面成交，现场试切",
+        "priority": 4
+      },
+      {
+        "name": "本地代理网络",
+        "type": "B2B",
+        "use": "安装调试、备件与售后，是成单前提",
+        "priority": 5
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主（B2B 长决策链，投流只做高意图词承接）",
+      "paid": [
+        "Google Search 只投高意图长尾词，单次点击贵但转化精准",
+        "LinkedIn 只投文档型广告（白皮书/选型指南）获取线索",
+        "不做泛词投放，询盘质量比数量重要"
+      ],
+      "organic": [
+        "Alibaba 主站优化 + RFQ 反向报价",
+        "LinkedIn 发加工案例与技术对比内容",
+        "展会前 30 天预约目标客户，展后 48 小时跟进"
+      ],
+      "budget": "$1500–3000/月（展会另计）",
+      "kpi": "询盘转报价率 > 30%，成单周期 < 90 天"
+    },
+    "sources": [
+      "Alibaba.com CNC Machining Center 类目",
+      "HS 8457 加工中心贸易口径",
+      "EMO 汉诺威机床展参展商名录"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "silicone-baking-mat",
+    "name": "硅胶烘焙垫",
+    "aliases": [
+      "Silicone Baking Mat",
+      "烘焙垫",
+      "硅胶烤垫",
+      "不粘烤垫",
+      "做烘焙垫的",
+      "揉面垫",
+      "Baking Mat"
+    ],
+    "category": "烘焙周边",
+    "summary": "低单价高复购的烘焙耗材，靠食品级认证与尺寸适配做差异，适合与烤盘捆绑",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "美国家庭烘焙普及率高，硅胶烘焙垫是可重复使用的环保替代品，常与烤盘做捆绑销售"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "Shopify 独立站",
+          "Williams Sonoma"
+        ],
+        "entry": "以 2 件装（半张+四分之一张）切入，主打 FDA 食品级与 -40~230℃ 耐温",
+        "risk": "食品接触材料需 FDA 检测报告，虚标耐温会导致融化投诉"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "法国烘焙文化深厚，马卡龙与可颂家庭制作需求稳定，对垫子厚度与导热均匀性敏感"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "厨具专卖店",
+          "烘焙教室"
+        ],
+        "entry": "做 0.75mm 加厚款，配法语烘焙食谱卡，进烘焙教室做体验装",
+        "risk": "LFGB 食品接触检测必须，缺报告无法上架"
+      },
+      {
+        "region": "亚太",
+        "country": "日本",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "日本家庭烘焙与便当文化带来稳定需求，对尺寸精度（贴合烤盘）要求极高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天市场",
+          "百元店批发",
+          "制菓用品店"
+        ],
+        "entry": "按日本常见烤盘尺寸（27×27cm）做精准适配，标注尺寸公差",
+        "risk": "尺寸偏差会导致退货，需提供实测尺寸表"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "澳洲家庭烘焙与 BBQ 文化并存，耐高温垫在烤箱与烤架两场景通吃"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kitchen Warehouse"
+        ],
+        "entry": "做烤箱+烤架两用款，标注澳洲电压无需适配，配英文食谱",
+        "risk": "澳洲夏季高温，需明确标注最高耐温避免误用"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "与烤盘做捆绑销售提升客单",
+        "priority": 1
+      },
+      {
+        "name": "Etsy",
+        "type": "B2C",
+        "use": "手作烘焙周边，客单价高于平台",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "烘焙过程短视频，面团不粘演示",
+        "priority": 3
+      },
+      {
+        "name": "Alibaba.com",
+        "type": "B2B",
+        "use": "给厨具品牌做 OEM 与捆绑配套",
+        "priority": 4
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主（低单价，投流ROI难打正）",
+      "paid": [
+        "只做捆绑销售的站内广告，单独投放难盈利",
+        "节日季（圣诞烘焙季）短周期加投"
+      ],
+      "organic": [
+        "烘焙食谱内容带产品链接做长期SEO",
+        "与烤盘捆绑提升客单摊薄获客成本",
+        "评价沉淀是关键，前 50 条评价决定转化"
+      ],
+      "budget": "$200–500/月",
+      "kpi": "捆绑率 > 40%，ACOS < 18%"
+    },
+    "sources": [
+      "Amazon Best Sellers - Baking Mats",
+      "FDA 食品接触材料指南",
+      "HS 3924.10 塑料厨房用具口径"
+    ],
+    "confidence": "medium"
+  }
+]

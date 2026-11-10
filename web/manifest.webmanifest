@@ -1,0 +1,8 @@
+{
+  "name": "外贸快查 · 产品出海市场地图",
+  "short_name": "外贸快查",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220"
+}

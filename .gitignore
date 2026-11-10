@@ -1,0 +1,17 @@
+# 密钥与环境变量（绝不提交）
+.env
+.env.local
+*.key
+
+# 本地备份与临时文件
+.backup-*/
+temp/
+tools/tmp-*.mjs
+
+# 运行时产物
+web/data/misses.jsonl
+
+# 系统文件
+Thumbs.db
+.DS_Store
+node_modules/

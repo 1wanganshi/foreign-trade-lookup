@@ -1,0 +1,3735 @@
+[
+  {
+    "id": "kitchen-cabinet-door-organizer",
+    "name": "免打孔橱柜门挂收纳架",
+    "aliases": [
+      "Over the Cabinet Door Organizer",
+      "Küchenschranktür Organizer ohne Bohren",
+      "HS 8302.50 / 3924.90"
+    ],
+    "category": "收纳",
+    "summary": "免工具挂在柜门内侧的薄型收纳架，破解小厨房空间焦虑",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 94,
+        "why": [
+          "德国租房比例超五成，租客不能打孔装修，免打孔挂式收纳搜索常年高位；小户型厨房多，柜门内侧是唯一可开发空间"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "本地五金连锁 toom / OBI",
+          "Temu / Kaufland 跨境"
+        ],
+        "entry": "先做三色基础款打评价，主打不钻孔不伤柜门与承重实测视频，抢占免打孔长尾词",
+        "risk": "柜门厚度规格不一，退货率易超 8%，需做适配说明"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 90,
+        "why": [
+          "美国公寓租住人口与搬家频率高，柜内收纳被 TikTok 家居改造内容长期种草，客单 15-25 美元属冲动购买区间"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart Marketplace",
+          "Etsy",
+          "TikTok Shop US"
+        ],
+        "entry": "以 2/4/6 件装组合拉高客单，绑定租房改造场景做短视频，主图突出承重与免工具安装",
+        "risk": "低价同款竞争激烈，易陷价格战"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "与美国同语言同审美但竞争少一档，亚马逊加拿大站家居收纳新品上榜机会多，多伦多公寓户型同样偏小"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Walmart.ca",
+          "Shopify 独立站"
+        ],
+        "entry": "复用美国 listing 做英法双语本地化，在 Facebook 与 Reddit 家居群组做社群种草",
+        "risk": "市场体量小，尾程物流成本占比高"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 4,
+        "heat": 84,
+        "why": [
+          "日本住宅面积小、收纳文化成熟，缝隙收纳搜索量大，对做工精度与包装细节要求高但复购表现好"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天 Rakuten",
+          "Yahoo! Shopping",
+          "Loft / 东急Hands"
+        ],
+        "entry": "做工与包装按日本标准升级，文案强调节省空间并附尺寸图，走乐天与亚马逊双平台验证",
+        "risk": "对毛刺、色差容错极低，质检成本上升"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 5,
+        "heat": 70,
+        "why": [
+          "澳洲独栋房屋厨房偏大但年轻人合租公寓多，家居收纳品类竞争弱，客单价高、利润空间好"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan",
+          "Bunnings 线上"
+        ],
+        "entry": "以高客单套装切入，本地仓备货保 7 日达，配合 eBay 老买家做复购营销",
+        "risk": "人口少、单量分散，库存周转慢"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.de 为主阵地，FBA 发货，主图加 A+ 加视频一体化上架",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "自动加手动竞品词分层投放，首月主打长尾精准词控 ACoS",
+        "priority": 2
+      },
+      {
+        "name": "OTTO Marketplace",
+        "type": "B2C",
+        "use": "德国本土流量第二电商，适合站稳后的品牌升级渠道",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop / TikTok 内容营销",
+        "type": "社交",
+        "use": "拍摄柜内改造前后对比，短链直接挂车引流",
+        "priority": 4
+      },
+      {
+        "name": "Jungle Scout / Helium 10",
+        "type": "数据",
+        "use": "反查竞品客单、月销与关键词搜索量做选品定版",
+        "priority": 5
+      },
+      {
+        "name": "Global Sources / 义乌选品",
+        "type": "B2B",
+        "use": "比价打样，确认注塑模具与挂钩五金件供应商",
+        "priority": 6
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "沉淀品牌与套装组合，承接社媒流量做复购",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "自动广告跑词两周后收口到高转化长尾词",
+        "竞品 ASIN 定投主打耐用性对比，突出承重数据",
+        "品牌词防守，防止被跟卖抢流量"
+      ],
+      "organic": [
+        "主图六图做安装步骤可视化，降低退货咨询",
+        "买家视频与问答区主动答疑柜门厚度适配",
+        "关键词翻译请母语校对，避免免打孔表述失真"
+      ],
+      "budget": "$800-1500/月，先测 2 个 SKU 各 2 色",
+      "kpi": "ACoS<30%，首月转化率>8%，退货率<8%"
+    },
+    "sources": [
+      "Amazon.de 免打孔收纳 Best Sellers 类目页",
+      "cifnews.com 亚马逊家居选品分析",
+      "baijing.cn 生活百货品类攻略手册"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "stackable-fridge-organization-bins",
+    "name": "冰箱分层可叠收纳盒",
+    "aliases": [
+      "Stackable Fridge Organizer Bins",
+      "Kühlschrank Organizer Boxen",
+      "HS 3924.90"
+    ],
+    "category": "收纳",
+    "summary": "透明可叠冰箱收纳盒，把凌乱冷柜变成可视化食材库",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 93,
+        "why": [
+          "美国家庭冰箱容积大、囤货习惯强，冷藏收纳是社交平台长期热门标签，套装化可把客单拉到 35 美元"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop US",
+          "HomeGoods / TJ Maxx 线下批发",
+          "Costco 批发试点"
+        ],
+        "entry": "以 6-8 件套组合装为核心 SKU，配保鲜倒计时贴纸做差异化，主打冰箱改造一次到位",
+        "risk": "亚克力易裂纹退货，需做跌落测试"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 86,
+        "why": [
+          "德国人按周采购、冰箱分储习惯强，注重材质可回收与食品级认证，透明可叠设计契合厨房整理风潮"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Depot 家居连锁"
+        ],
+        "entry": "主打 LFGB 食品级检测报告与 BPA Free 卖点，规格尺寸对齐欧洲冰箱常见深度",
+        "risk": "LFGB 认证成本高，未过检将被下架"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 82,
+        "why": [
+          "日本冰箱普遍小容量但收纳细分极致，透明叠加盒相关场景内容常年热销，尺寸规格标注决定转化"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "无印良品平替渠道"
+        ],
+        "entry": "提供厘米级尺寸对照图与多机型适配表，强调可冷藏耐温范围",
+        "risk": "尺寸标注不细易引发尺码不符差评"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "澳人每周大采购加上烧烤文化，冷柜收纳与大容量盒具需求集中，夏季为销售旺季"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kitchen Warehouse"
+        ],
+        "entry": "旺季前两个月备货，做烧烤食材分装大容量型号，主打户外场景",
+        "risk": "旺季集中、淡季库存压力大"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "迪拜外籍人口占比高、家庭采购集中，欧美式生活场景接受度高，客单价可通过套装上探"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地商超渠道"
+        ],
+        "entry": "英文 listing 主打耐用大容量，与 Noon 做闪购活动快速起量",
+        "risk": "高温运输易变形，需选厚壁材质"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，FBA 发货，做套装化上架",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "大词抢曝光加长尾收口，首月控 ACoS",
+        "priority": 2
+      },
+      {
+        "name": "TikTok 内容营销 / TikTok Shop",
+        "type": "社交",
+        "use": "拍冰箱整理前后对比，引流套装购买",
+        "priority": 3
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "美国第二渠道铺货，承接家庭用户",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "监测收纳类目 BSR 变动与竞品评价痛点",
+        "priority": 5
+      },
+      {
+        "name": "SGS / Intertek 检测机构",
+        "type": "数据",
+        "use": "办理 LFGB 与 FDA 食品接触材料检测",
+        "priority": 6
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接亚克力与 PP 注塑工厂，比对模具与起订量",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "套装 ASIN 为主投，单品引流款做低价截流",
+        "定向竞品品牌词与冰箱收纳大词",
+        "旺季前 30 天加预算抢排名"
+      ],
+      "organic": [
+        "A+ 页面做冰箱塞满前后对比图",
+        "上传尺寸兼容表供买家自查",
+        "引导买家晒图换保修延长，积累真人素材"
+      ],
+      "budget": "$1000-2000/月，先测 1 个 8 件套主力 SKU",
+      "kpi": "ACoS<28%，首月评价量≥50，退货率<7%"
+    },
+    "sources": [
+      "Amazon.com 冷藏收纳 Best Sellers 类目页",
+      "kuajingyan.com 亚马逊家居五站点分析",
+      "TikTok 冰箱整理话题页"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "airtight-cereal-storage-container-set",
+    "name": "密封谷物收纳罐套装",
+    "aliases": [
+      "Airtight Cereal Container Set",
+      "Vorratsdosen Set luftdicht",
+      "HS 3924.10"
+    ],
+    "category": "厨房用品",
+    "summary": "一键按压密封的透明谷物罐，兼顾防潮保鲜与橱柜陈列",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 91,
+        "why": [
+          "美国家庭囤谷物、咖啡豆与宠物粮习惯强，密封防潮是刚需，套装配件提升感知价值"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Costco 线上",
+          "Etsy 定制刻字"
+        ],
+        "entry": "以 4/7/10 件套梯度定价，附赠磁性标签与量勺，主打一罐到底的收纳体系",
+        "risk": "密封圈老化致差评，需提供备件包"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "英国厨房橱柜空间窄、烘焙文化浓，玻璃密封罐品牌价位高，中价密封套装存在明显空档"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Wayfair UK",
+          "Dunelm",
+          "Argos"
+        ],
+        "entry": "主打玻璃款质感对标高端但价格更低，强调可洗碗机清洗与 BPA Free",
+        "risk": "玻璃罐跨境运输破损率高，需气柱包装"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "德国零浪费与囤货文化并存，储物罐是高频搜索词，对密封性与可堆叠性要求具体"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo 季节促销"
+        ],
+        "entry": "标注容积与堆叠孔位尺寸，突出食品级检测报告，做早餐麦片场景图",
+        "risk": "德国买家对颜色差异极度敏感"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 4,
+        "heat": 76,
+        "why": [
+          "日本防潮防虫储物文化强，米箱与调味料容器细分需求稳定，收纳尺寸与洗净度是决策点"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "推小容量组合适配日式窄橱柜，强调可拆洗与干燥剂兼容槽位",
+        "risk": "本土品牌市占高，需差异化设计切入"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 5,
+        "heat": 68,
+        "why": [
+          "中东家庭囤米面香料习惯强，气候湿热对密封防潮需求突出，电商增速快且竞品少"
+        ],
+        "channels": [
+          "Amazon.sa",
+          "Noon.com",
+          "本地连锁超市渠道"
+        ],
+        "entry": "大容量阿拉伯语 listing 主打防潮防虫，配香米与香料场景图快速起量",
+        "risk": "物流时效长，需提前 45 天备货"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，套装上架并做变体矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "大词打排名，长尾词养转化",
+        "priority": 2
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "英欧家居平台，承接厨房收纳与烘焙场景流量",
+        "priority": 3
+      },
+      {
+        "name": "TikTok / Pinterest 内容营销",
+        "type": "社交",
+        "use": "拍囤货整理与谷物倾倒视觉，做收藏引流",
+        "priority": 4
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做刻字定制与礼盒，提高客单与复购",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "比价竞品定价带，确定套装梯度",
+        "priority": 6
+      },
+      {
+        "name": "Global Sources 供应商检索",
+        "type": "B2B",
+        "use": "筛选玻璃与塑料双材质能力的工厂",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "密封罐大词打排名，长尾词养转化",
+        "竞品 ASIN 定投强调附赠配件价值",
+        "旺季前推变体矩阵占坑"
+      ],
+      "organic": [
+        "Pinterest 图片沉淀做长期免费流量",
+        "A+ 页面做食材保鲜天数对比",
+        "包装插卡引导留评换配件"
+      ],
+      "budget": "$900-1600/月，先测玻璃与塑料各 1 款",
+      "kpi": "ACoS<30%，破损率<3%，复购率>10%"
+    },
+    "sources": [
+      "Amazon.com Pantry Storage 类目页",
+      "baijing.cn 生活百货品类攻略",
+      "Wayfair UK 厨房收纳页"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "silicone-kitchen-utensil-set",
+    "name": "耐高温硅胶厨具套装",
+    "aliases": [
+      "Silicone Kitchen Utensil Set",
+      "Silikon Küchenhelfer Set",
+      "HS 3924.10 / 7323.93"
+    ],
+    "category": "厨房用品",
+    "summary": "不粘锅友好的耐高温硅胶铲勺套装，兼顾颜值与健康",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "美国不粘锅普及率高，硅胶厨具可防刮涂层，套装 25-40 美元区间竞争激烈但礼品与复购属性强"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "Etsy"
+        ],
+        "entry": "以含木柄或钢柄的 12 件套切入，主打 FDA 食品级与 230 度耐温实测视频",
+        "risk": "同质化严重，需靠设计与色系突围"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "德国注重厨具安全与耐用，食品级检测与耐温参数是转化关键，木柄加硅胶设计契合北欧风厨房审美"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "本地厨具连锁"
+        ],
+        "entry": "提供食品级与耐温报告，配色走燕麦灰或鼠尾草绿等欧系低饱和，强调不伤锅",
+        "risk": "硅胶异味投诉风险，需做脱味工艺"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "法式烹饪重酱汁搅拌，锅铲与打蛋器高频使用，消费者偏好设计感强、可挂式收纳的套装"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "Fnac Marketplace",
+          "本土买手店"
+        ],
+        "entry": "做可挂环设计加礼盒包装，法语 listing 强调不含双酚A与可洗碗机清洗",
+        "risk": "法语本地化不到位影响信任转化"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "澳人家庭厨房开放、烧烤文化浓，耐高温硅胶夹与铲需求大，本地品牌溢价给了中价空档"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Kitchen Warehouse",
+          "Harris Scarfe"
+        ],
+        "entry": "加入烧烤场景 SKU（硅胶夹与刷），旺季前备货，主推耐 250 度",
+        "risk": "市场体量小，需与家居品类共用运营"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 5,
+        "heat": 64,
+        "why": [
+          "泰国中产厨房升级与内容电商同步爆发，硅胶厨具客单低但走量快"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH"
+        ],
+        "entry": "做低价小套装切入直播带货，主打颜色丰富与不粘锅适配",
+        "risk": "价格战透明，毛利易被压到 15% 以下"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做套装与配色矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "大词抢首屏加长尾细化，控 ACoS",
+        "priority": 2
+      },
+      {
+        "name": "OTTO Marketplace",
+        "type": "B2C",
+        "use": "德国本土家居厨具主渠道，做欧洲第二增长点",
+        "priority": 3
+      },
+      {
+        "name": "Shopee / Lazada 卖家中心",
+        "type": "B2C",
+        "use": "东南亚低价快速起量，测配色与套装",
+        "priority": 4
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "短视频演示刮锅测试，直连成交",
+        "priority": 5
+      },
+      {
+        "name": "SGS 检测认证",
+        "type": "数据",
+        "use": "办理 FDA 与 LFGB 食品接触材料报告",
+        "priority": 6
+      },
+      {
+        "name": "Canton Fair / 义乌",
+        "type": "展会",
+        "use": "对接硅胶压模与包胶工艺工厂，压起订量",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "硅胶厨具大词抢首屏，长尾词细化场景",
+        "竞品定投突出配件数量与耐温数值",
+        "节日礼品季加投礼品词"
+      ],
+      "organic": [
+        "视频演示不粘锅刮擦对比",
+        "配色系列化形成收藏引导复购",
+        "礼盒化提升自然搜索点击率"
+      ],
+      "budget": "$1000-1800/月，先测 2 个配色 SKU",
+      "kpi": "ACoS<30%，首月转化率>9%，差评率<3%"
+    },
+    "sources": [
+      "Amazon.com Kitchen Utensils Best Sellers 类目页",
+      "kuajingyan.com 亚马逊家居站点分析",
+      "SGS 食品接触材料指南"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "electric-food-chopper",
+    "name": "无线电动蒜泥绞肉机",
+    "aliases": [
+      "Cordless Electric Food Chopper",
+      "Elektrischer Zerkleinerer Akku",
+      "HS 8509.40"
+    ],
+    "category": "厨房用品",
+    "summary": "无线充电小型料理机，切蒜绞肉的厨房效率神器",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "美式家庭备餐文化强，无线小巧料理机在短视频平台高频种草，客单 30-45 美元"
+        ],
+        "channels": [
+          "Amazon.com",
+          "TikTok Shop US",
+          "Walmart",
+          "Wayfair 小家电频道"
+        ],
+        "entry": "主打 15 秒切蒜演示视频与可拆洗刀头，先做 250 毫升单杯款测款",
+        "risk": "电机寿命与锂电池运输认证是硬门槛"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 2,
+        "heat": 83,
+        "why": [
+          "日本厨房台面极小，无线轻量小家电契合一人食与收纳场景，对噪音与做工细节要求高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "Yodobashi"
+        ],
+        "entry": "做静音与可全拆洗卖点，办理 PSE 认证，包装尺寸按日式橱柜设计",
+        "risk": "PSE 电气认证与干扰测试周期长"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "德国厨房效率类小家电接受度高，看重 CE 与能效标识合规，料理机搜索量稳定"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "MediaMarkt 线上",
+          "Kaufland"
+        ],
+        "entry": "补齐 CE 与 RoHS 认证和德语说明书，主打三秒快拆清洗",
+        "risk": "缺失 CE 或说明书不合规将被电商下架"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 4,
+        "heat": 76,
+        "why": [
+          "英国烹饪节目带动快手料理需求，小家电在圣诞礼品季集中爆发，需注意 BS 插头规格"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Argos",
+          "Currys",
+          "Wayfair UK"
+        ],
+        "entry": "配备英规插头版本与礼盒装，11-12 月前铺货抢礼品季",
+        "risk": "季节性明显，淡季库存压力大"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "巴西厨房料理机需求大但客单敏感，跨境小家电增速快，本地分销与 Mercado Livre 流量集中"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Amazon.com.br",
+          "Shopee BR"
+        ],
+        "entry": "做低价有线款降低认证门槛，绑定洋葱切丁高频场景铺量",
+        "risk": "巴西税负与清关复杂，认证周期长"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做无线料理机主力款",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "15 秒切蒜绞肉演示视频挂车，是做爆款主渠道",
+        "priority": 2
+      },
+      {
+        "name": "TUV / Intertek 认证服务",
+        "type": "数据",
+        "use": "办理 CE、能效、PSE 与锂电池运输认证",
+        "priority": 3
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "竞品定投加长尾词收口，配合视频广告",
+        "priority": 4
+      },
+      {
+        "name": "MediaMarkt / Currys 线上渠道",
+        "type": "B2C",
+        "use": "欧洲本土小家电分销，做品牌背书",
+        "priority": 5
+      },
+      {
+        "name": "Mercado Livre 卖家后台",
+        "type": "B2C",
+        "use": "南美低价铺量，测价格敏感度",
+        "priority": 6
+      },
+      {
+        "name": "深圳小家电供应链 / 阿里国际站",
+        "type": "B2B",
+        "use": "确认电机、锂电池与模具产能，做整机验厂",
+        "priority": 7
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "承接社媒爆款流量，做配件复购与延保",
+        "priority": 8
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "短视频素材驱动投流，CTR 优于关键词广告",
+        "竞品定投比价，突出无线便携与清洗便利",
+        "礼品季前 30 天放量投礼品词"
+      ],
+      "organic": [
+        "用户生成内容分发到短视频三大平台",
+        "A+ 页面做拆机结构图强调安全锁",
+        "说明书写明常见食材用量，降低退货"
+      ],
+      "budget": "$1500-3000/月，先测 1 款 250 毫升无线机",
+      "kpi": "ACoS<35%，退货率<10%，首月点评≥30"
+    },
+    "sources": [
+      "Amazon.com 小型料理机 Best Sellers",
+      "tradeaiders.com 小家电出口合规指南",
+      "kuajingyan.com 家居品类站点分析"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "drip-irrigation-kit-garden",
+    "name": "花园自动滴灌套装",
+    "aliases": [
+      "Drip Irrigation Kit",
+      "Tropfbewässerung Set",
+      "HS 8424.81"
+    ],
+    "category": "家居园艺",
+    "summary": "可自行组装的庭院滴灌系统，解决出差与夏季浇水焦虑",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 92,
+        "why": [
+          "美国独栋后院菜园与花坛普及，夏季干旱限水地区扩大，滴灌套装客单 30-60 美元且配件复购稳定"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Home Depot 线上",
+          "Lowe's 线上",
+          "Etsy 园艺店"
+        ],
+        "entry": "做 25 米与 50 米两档套装，附滴头分类收纳盒，主打出差一周不打理场景",
+        "risk": "季节性极强，5-8 月销售占比过半"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "德国园艺协会会员超千万，小花园文化盛，节水灌溉受政府补贴与环保舆论双重推动"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OBI / toom 园艺区",
+          "OTTO",
+          "园艺垂直电商"
+        ],
+        "entry": "主打节水与免挖沟安装，德语视频讲解配件接驳，做兼容 GARDENA 接口版本",
+        "risk": "接口不兼容主流品牌会被差评攻占"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 3,
+        "heat": 84,
+        "why": [
+          "澳洲长期限水令与高温干旱，家庭菜园灌溉是刚需，五金连锁渠道话语权极大"
+        ],
+        "channels": [
+          "Bunnings",
+          "Amazon.com.au",
+          "eBay AU",
+          "园艺垂直站"
+        ],
+        "entry": "以限水令合规节水标章为卖点，先做 eBay 测款再谈连锁上架",
+        "risk": "本地品牌强势，价格被压"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 4,
+        "heat": 74,
+        "why": [
+          "英国后院与分配菜园文化深厚，夏季干旱频发推高花园浇水工具需求"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Wayfair UK",
+          "Garden Centre 连锁",
+          "eBay UK"
+        ],
+        "entry": "做小户型阳台版迷你滴灌套装，切分配菜园社群做口碑传播",
+        "risk": "季节性短，需与温室品类联动销售"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "南非长期缺水且中产园艺需求上升，节水灌溉在本地零售与电商均有稳定询盘"
+        ],
+        "channels": [
+          "Takealot",
+          "Builders Warehouse",
+          "本地园艺批发"
+        ],
+        "entry": "做低成本耐晒版，主打大面积菜园灌溉性价比，走本地分销商切入",
+        "risk": "售后与配件供应半径长"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，套装加配件分级上架",
+        "priority": 1
+      },
+      {
+        "name": "Home Depot / Lowe's 线上渠道",
+        "type": "B2B",
+        "use": "美国建材园艺渠道，按季节上新滴灌套装",
+        "priority": 2
+      },
+      {
+        "name": "Bunnings 供应商入驻",
+        "type": "B2B",
+        "use": "澳洲园艺五金主渠道，做区域独家陈列",
+        "priority": 3
+      },
+      {
+        "name": "阿里巴巴国际站",
+        "type": "B2B",
+        "use": "承接园艺批发商与工程商 B2B 询盘",
+        "priority": 4
+      },
+      {
+        "name": "Spoga+Gafa 科隆园艺展",
+        "type": "展会",
+        "use": "对接欧洲园艺批发商与花园中心采购",
+        "priority": 5
+      },
+      {
+        "name": "YouTube 园艺 KOL 合作",
+        "type": "社交",
+        "use": "做整套安装教程长视频，带动搜索转化",
+        "priority": 6
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "春季集中投放抢园艺大词排名",
+        "priority": 7
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "监测园艺类目季节性销量曲线与竞品库存",
+        "priority": 8
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "春季 3-5 月集中投流抢园艺大词",
+        "视频广告展示整套安装过程",
+        "淡季收窄预算只保品牌词"
+      ],
+      "organic": [
+        "YouTube 安装教程沉淀长尾搜索流量",
+        "A+ 页面做配件清单与兼容接口表",
+        "园艺社群做真实使用帖"
+      ],
+      "budget": "$800-1500/月，集中在春季投放",
+      "kpi": "ACoS<30%，旺季转化率>7%，配件复购率>15%"
+    },
+    "sources": [
+      "Amazon.com 滴灌套装 Best Sellers",
+      "Spoga+Gafa 官网",
+      "cifnews.com 家居园艺品类分析"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "raised-garden-bed-fabric",
+    "name": "加厚种植床与园艺种植袋",
+    "aliases": [
+      "Fabric Raised Garden Bed",
+      "Pflanzsack / Hochbeet Stoff",
+      "HS 6307.90"
+    ],
+    "category": "家居园艺",
+    "summary": "透气加厚无纺布种植袋，阳台种菜党的移动菜园",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 89,
+        "why": [
+          "美国都市种菜与阳台农业热度上升，无纺布种植袋轻便可移动，公寓租客也能用，客单 20-40 美元"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "Walmart Marketplace",
+          "园艺垂直独立站"
+        ],
+        "entry": "做 5/10/20 加仑梯度与把手设计，主打移植不伤根与可折叠收纳",
+        "risk": "低价布艺同款多，需做工差异化"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 82,
+        "why": [
+          "德国阳台种菜与小花园文化流行，环保耐用与可回收材质是重要卖点，注重尺寸标注精确"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OBI",
+          "园艺垂直电商",
+          "Etsy DE"
+        ],
+        "entry": "做加厚黑布与加强缝线款，德语 listing 标注容量与承重，强调可折叠存放",
+        "risk": "褪色与缝线开裂是差评主因"
+      },
+      {
+        "region": "亚洲",
+        "country": "韩国",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "韩国公寓阳台园艺与家种蔬菜内容流行，产品需颜值化与小型化，主流平台强调次日达"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "Gmarket"
+        ],
+        "entry": "做奶油白与米色小尺寸款，内容种草配合快速履约",
+        "risk": "本土卖家反应快，跟品周期短"
+      },
+      {
+        "region": "北美",
+        "country": "加拿大",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "加拿大家庭后院菜园普及，短生长季对可移动种植箱需求高，与美国同语言易于复用素材"
+        ],
+        "channels": [
+          "Amazon.ca",
+          "Canadian Tire 线上",
+          "Home Hardware"
+        ],
+        "entry": "复用美国 listing 并本地化配送承诺，强调耐低温材质",
+        "risk": "淡旺季明显，冬季滞销库存压力"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "沙特推进家庭绿化倡议，屋顶与庭院种植需求增长，本地供给缺口明显"
+        ],
+        "channels": [
+          "Amazon.sa",
+          "Noon.com",
+          "本地园艺分销商"
+        ],
+        "entry": "主打抗紫外线耐晒材质与滴灌配套，做阿拉伯语整套方案",
+        "risk": "高温紫外线对布料寿命考验大"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做容量梯度套装",
+        "priority": 1
+      },
+      {
+        "name": "Etsy 店铺",
+        "type": "B2C",
+        "use": "园艺手作人群聚集地，做个性化尺寸与套装",
+        "priority": 2
+      },
+      {
+        "name": "Coupang 卖家中心",
+        "type": "B2C",
+        "use": "韩国快速起量，依托火箭配送做次日达",
+        "priority": 3
+      },
+      {
+        "name": "YouTube 种菜 KOL",
+        "type": "社交",
+        "use": "种植全过程内容带货，说明袋体透气优势",
+        "priority": 4
+      },
+      {
+        "name": "阿里国际站",
+        "type": "B2B",
+        "use": "承接海外园艺分销与工程订单",
+        "priority": 5
+      },
+      {
+        "name": "Spoga+Gafa 展会",
+        "type": "展会",
+        "use": "欧洲园艺渠道采购对接与新品发布",
+        "priority": 6
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "春季抢占种植床大词与长尾词",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "春季抢占种植床大词与长尾词",
+        "定位竞品 ASIN 做耐用性对比",
+        "视频广告演示折叠收纳场景"
+      ],
+      "organic": [
+        "园艺社区与论坛做自然口碑",
+        "产品尺寸与容量详解降低退货",
+        "套装组合提升自然流量客单"
+      ],
+      "budget": "$400-800/月，主打春季",
+      "kpi": "ACoS<25%，差评率<3%，春季转化率>8%"
+    },
+    "sources": [
+      "Amazon.com Raised Garden Bed 类目页",
+      "Spoga+Gafa 官网",
+      "Etsy 园艺类目趋势页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "solar-garden-light",
+    "name": "太阳能庭院装饰灯",
+    "aliases": [
+      "Solar Garden Light",
+      "Solar Gartenleuchte",
+      "HS 9405.41"
+    ],
+    "category": "照明灯具",
+    "summary": "免布线太阳能庭院灯，一次布置点亮整条花园小径",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 91,
+        "why": [
+          "美国独栋庭院与派对照明需求大，太阳能免布线免电费易决策，夏季园艺季销量集中爆发"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Home Depot 线上",
+          "Walmart",
+          "Wayfair"
+        ],
+        "entry": "做 2/4/8 件装，主打暖光光斑与 IP65 防水，绑定庭院小路与围栏场景图",
+        "risk": "续航与防水不达标导致差评集中"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "德国阳台与露台文化强，节能环保是购买动因，需注意光污染法规与 CE 及能效合规"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OBI",
+          "OTTO",
+          "Kaufland"
+        ],
+        "entry": "补齐 CE 与能效文件，主打暖光不刺眼、光斑角度可调",
+        "risk": "光污染限制与电池新规推高合规成本"
+      },
+      {
+        "region": "欧洲",
+        "country": "荷兰",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "荷兰家庭后院与运河边住宅密集，园艺美化投入高，注重设计与光色质感而非单纯亮度"
+        ],
+        "channels": [
+          "Amazon.nl",
+          "bol.com",
+          "Intratuin 园艺连锁"
+        ],
+        "entry": "走设计感路线，上架荷兰主流平台并强调可替换电池与长质保",
+        "risk": "荷兰买家对亮度虚标极为敏感"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 76,
+        "why": [
+          "澳洲户外生活方式强，后院烧烤与泳池周边照明常年需求，五金连锁与电商双渠道成熟"
+        ],
+        "channels": [
+          "Bunnings",
+          "eBay AU",
+          "Amazon.com.au",
+          "Kogan"
+        ],
+        "entry": "做高亮地插款与泳池边吸盘款组合，强调抗晒抗雨",
+        "risk": "强紫外线加速塑料老化，需选材升级"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 5,
+        "heat": 65,
+        "why": [
+          "东南亚别墅与度假民宿多，庭院氛围照明需求增长，短视频内容传播效率高"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH"
+        ],
+        "entry": "做低价装饰串灯与地插组合，直播演示夜晚亮灯效果",
+        "risk": "雨季高湿环境下防水失效风险"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，多件装矩阵上架",
+        "priority": 1
+      },
+      {
+        "name": "Home Depot / Bunnings 供应商渠道",
+        "type": "B2B",
+        "use": "建材园艺连锁，做季节性堆头与量贩装",
+        "priority": 2
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "夏季前集中投放抢庭院灯大词排名",
+        "priority": 3
+      },
+      {
+        "name": "Bol.com 卖家平台",
+        "type": "B2C",
+        "use": "荷兰及比荷卢主电商，设计款重点上架",
+        "priority": 4
+      },
+      {
+        "name": "TikTok / Instagram 短视频",
+        "type": "社交",
+        "use": "夜间亮灯氛围视频是最高转化素材",
+        "priority": 5
+      },
+      {
+        "name": "TUV 认证服务",
+        "type": "数据",
+        "use": "办理 CE、能效与锂电池运输合规文件",
+        "priority": 6
+      },
+      {
+        "name": "Light + Building 法兰克福展",
+        "type": "展会",
+        "use": "对接欧洲照明批发商与花园渠道采购",
+        "priority": 7
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "追踪庭院灯季节性 BSR 与竞品评价痛点",
+        "priority": 8
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "夏季前 45 天集中投放抢排名",
+        "视频广告展示夜景前后对比",
+        "捆绑套装提升客单后降低 ACoS"
+      ],
+      "organic": [
+        "社媒夜景氛围内容长期沉淀",
+        "A+ 页面做防水与续航实测数据",
+        "变体矩阵占据多个价格带"
+      ],
+      "budget": "$1200-2500/月，集中在春夏",
+      "kpi": "ACoS<32%，退货率<9%，差评率<4%"
+    },
+    "sources": [
+      "Amazon.com 太阳能庭院灯 Best Sellers",
+      "tradeaiders.com LED 出口合规指南",
+      "Light + Building 展会官网"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "magnetic-track-picture-light",
+    "name": "磁吸轨道射灯与装饰画灯",
+    "aliases": [
+      "Magnetic Track Light",
+      "Magnetische Schienenleuchte",
+      "HS 9405.11"
+    ],
+    "category": "照明灯具",
+    "summary": "无主灯设计的磁吸轨道灯，装修升级的高毛利品类",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "德国无主灯装修潮流成熟，出租房与旧房改造需免吊顶照明方案，看重防眩光与显色指数参数"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "灯具垂直站",
+          "本地电工渠道"
+        ],
+        "entry": "主打高显色与防眩设计，配德语安装图解，做全屋轨道套装",
+        "risk": "电气安装不合规将面临下架与退货"
+      },
+      {
+        "region": "亚洲",
+        "country": "中国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "国内无主灯设计爆发且竞争激烈，可作供应链验证与内容母基地，反哺出口产品迭代"
+        ],
+        "channels": [
+          "天猫与淘宝",
+          "京东",
+          "小红书内容种草"
+        ],
+        "entry": "国内先跑通爆款款型，再以验证过的 SKU 出口欧洲和东南亚",
+        "risk": "国内价格战严重，利润空间被压缩"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "美国住宅改造与画廊墙陈列流行，磁吸画灯在装饰照明中属高毛利细分，但需 UL 或 ETL 认证"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Wayfair",
+          "Etsy",
+          "建筑照明经销商"
+        ],
+        "entry": "先做无插电充电画灯绕开认证门槛，抢占装饰照明词",
+        "risk": "UL 或 ETL 认证费用高、周期长"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "迪拜高端住宅与酒店项目多，工程照明采购量大，中国供应商在中东工程渠道接受度高"
+        ],
+        "channels": [
+          "本地工程项目投标",
+          "Amazon.ae",
+          "迪拜灯具批发市场"
+        ],
+        "entry": "走工程项目与样板间合作，主推定制色温与整屋方案",
+        "risk": "工程回款周期长，需控制账期风险"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 5,
+        "heat": 63,
+        "why": [
+          "越南城市公寓装修高速增长，磁吸灯因安装简便在年轻业主中接受度上升"
+        ],
+        "channels": [
+          "Shopee VN",
+          "Lazada VN",
+          "本地建材连锁"
+        ],
+        "entry": "做中低价入门套装配简易安装视频，主推动手 DIY 场景",
+        "risk": "本地电气标准与插头适配需调整"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.de 为主站点，做无主灯套装上架",
+        "priority": 1
+      },
+      {
+        "name": "Light + Building 法兰克福展",
+        "type": "展会",
+        "use": "对接欧洲照明批发商与工程采购方",
+        "priority": 2
+      },
+      {
+        "name": "阿里巴巴国际站",
+        "type": "B2B",
+        "use": "承接中东与东南亚工程项目询盘与样品单",
+        "priority": 3
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "美国装饰照明渠道，做画灯与轨道灯组合",
+        "priority": 4
+      },
+      {
+        "name": "小红书 / 抖音内容营销",
+        "type": "社交",
+        "use": "国内先验证爆款款型与卖点表达",
+        "priority": 5
+      },
+      {
+        "name": "TUV / Intertek",
+        "type": "数据",
+        "use": "办理 CE 能效与 UL/ETL 电气安全认证",
+        "priority": 6
+      },
+      {
+        "name": "Google Ads 独立站投放",
+        "type": "数据",
+        "use": "承接设计师与工程客户的高意向搜索",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "Google 搜索广告承接项目型高意向客户",
+        "站内做大词加参数长尾（高显色与防眩）",
+        "竞品定投强化安装便利性对比"
+      ],
+      "organic": [
+        "安装教程与场景图沉淀长尾搜索",
+        "设计师社群与样板间案例做口碑",
+        "A+ 页面列明电气参数与认证编号"
+      ],
+      "budget": "$1000-2000/月，项目型询盘可单独配预算",
+      "kpi": "询盘转化率>5%，ACoS<35%，退货率<6%"
+    },
+    "sources": [
+      "Light + Building 官方展商目录",
+      "Amazon.de Leuchten 类目页",
+      "hqtsgroup.com 灯具出口法规问答"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "rechargeable-desk-lamp",
+    "name": "充电式护眼台灯",
+    "aliases": [
+      "Rechargeable LED Desk Lamp",
+      "Akku Tischlampe",
+      "HS 9405.21"
+    ],
+    "category": "照明灯具",
+    "summary": "大电池无绳护眼台灯，书桌与床头两用",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国居家办公与宿舍场景需求稳定，护眼无频闪是核心卖点，返校季 8-9 月销量集中"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "Staples"
+        ],
+        "entry": "返校季前铺货，主打无频闪调光与 USB-C 充电，做学生宿舍场景图",
+        "risk": "锂电产品运输与退货合规成本高"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "日本书桌文化与小户型收纳结合，充电式免拉线受欢迎，对灯具照度与色温标注极敏感"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yodobashi",
+          "Loft"
+        ],
+        "entry": "按日本照度标准实测标注，主打可折叠便携与暖白光切换",
+        "risk": "参数虚标会迅速被差评曝光"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "德国居家办公普及率高，注重护眼与能效标识，台灯类目竞争相对温和"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "MediaMarkt",
+          "Kaufland"
+        ],
+        "entry": "补齐 CE 与能效标签，德语说明书强调护眼无眩光",
+        "risk": "能效标签不合规直接下架"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "巴西学生与远程工作者数量大，充电台灯在本地电商走量，价格敏感但配件复购好"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Amazon.com.br",
+          "Shopee BR"
+        ],
+        "entry": "推基础有线款避开认证，充电款做高端线梯度上架",
+        "risk": "认证与清关周期长"
+      },
+      {
+        "region": "非洲",
+        "country": "尼日利亚",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "电力供应不稳，充电式照明是刚需，本地太阳能与充电灯具需求持续增长"
+        ],
+        "channels": [
+          "Jumia",
+          "Konga",
+          "本地电子批发市场"
+        ],
+        "entry": "推超大电池加太阳能双模版，主打停电应急与学习照明",
+        "risk": "支付与售后体系弱，坏账率高"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，返校季前完成铺货",
+        "priority": 1
+      },
+      {
+        "name": "乐天 RMS 卖家后台",
+        "type": "B2C",
+        "use": "日本本土电商主渠道，做高参数标注转化",
+        "priority": 2
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "返校季前集中投放抢护眼台灯排名",
+        "priority": 3
+      },
+      {
+        "name": "Mercado Livre",
+        "type": "B2C",
+        "use": "南美走量渠道，测价格敏感度与款型",
+        "priority": 4
+      },
+      {
+        "name": "Jumia 卖家平台",
+        "type": "B2C",
+        "use": "非洲刚需照明切入，做应急照明款",
+        "priority": 5
+      },
+      {
+        "name": "TUV / Intertek",
+        "type": "数据",
+        "use": "办理 CE 能效与锂电池运输认证",
+        "priority": 6
+      },
+      {
+        "name": "TikTok / YouTube 测评",
+        "type": "社交",
+        "use": "测评类视频强调护眼参数与续航实测",
+        "priority": 7
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "追踪返校季搜索曲线与竞品评价",
+        "priority": 8
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "返校季前集中投放抢排名",
+        "竞品定投比较续航与调光段数",
+        "礼品季追加开学礼物词"
+      ],
+      "organic": [
+        "测评视频沉淀长期搜索流量",
+        "A+ 页面列明照度与色温实测数据",
+        "多色款变体占据搜索结果位"
+      ],
+      "budget": "$800-1500/月，返校季加倍",
+      "kpi": "ACoS<30%，退货率<8%，首月评价≥40"
+    },
+    "sources": [
+      "Amazon.com 书桌台灯 Best Sellers",
+      "tradeaiders.com LED 出口认证指南",
+      "乐天照明类目排名页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "brushed-microfiber-sheet-set",
+    "name": "磨毛微纤维四件套床品",
+    "aliases": [
+      "Brushed Microfiber Sheet Set",
+      "Mikrofaser Bettwäsche",
+      "HS 6302.22"
+    ],
+    "category": "家纺",
+    "summary": "亲肤磨毛微纤维床品，以性价比打美国床品刚需",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 88,
+        "why": [
+          "美国床品为高频更换品，微纤维四件套价格带 25-45 美元接受度高，Q4 与开学季双旺季"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Macy's Marketplace",
+          "Wayfair"
+        ],
+        "entry": "做全尺寸覆盖，主打磨毛亲肤与不缩水，附床垫深度适配说明",
+        "risk": "尺寸不符是退货首因，需精确标注"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "英国床品注重纺织品安全认证与洗涤耐久，微纤维在高通胀下替代纯棉增长明显"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Dunelm",
+          "Argos",
+          "Wayfair UK"
+        ],
+        "entry": "补齐环保纺织认证与验厂文件，主打 90 天不起球质保",
+        "risk": "床品尺寸标准与欧陆不同，需分版本"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 3,
+        "heat": 75,
+        "why": [
+          "德国床品按 135x200 等标准规格购买，注重耐洗与环保认证，微纤维搜索稳定"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "严格按德国标准尺寸生产，德语标注认证编号与洗涤次数测试",
+        "risk": "尺寸规格错误直接导致滞销"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "澳洲床品更换频率高、客单高，夏季轻薄款需求强，电商双渠道并行"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Spotlight",
+          "Kogan"
+        ],
+        "entry": "做夏季薄款与冬季磨毛双线，eBay 测款后扩线下连锁",
+        "risk": "市场小，SKU 过多会分散库存"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 5,
+        "heat": 66,
+        "why": [
+          "中东家庭卧室装饰投入高，缎面质感床品受欢迎，跨境电商覆盖度提升快"
+        ],
+        "channels": [
+          "Amazon.sa",
+          "Noon.com",
+          "本地家居卖场"
+        ],
+        "entry": "开发缎面质感款配阿拉伯语包装，走礼盒化路线提升客单",
+        "risk": "对起球与色差敏感，需加强质检"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做尺寸全覆盖变体",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "床品大词抢曝光，尺寸长尾词收口",
+        "priority": 2
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "美欧家居平台，床品与软装捆绑销售",
+        "priority": 3
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "美国第二渠道，做尺寸全覆盖铺货",
+        "priority": 4
+      },
+      {
+        "name": "OEKO-TEX / BSCI 认证机构",
+        "type": "数据",
+        "use": "办理纺织品安全检测与验厂审核，打开欧洲渠道",
+        "priority": 5
+      },
+      {
+        "name": "Heimtextil 法兰克福家纺展",
+        "type": "展会",
+        "use": "对接欧洲家纺批发商与自有品牌采购",
+        "priority": 6
+      },
+      {
+        "name": "TikTok / Instagram 内容营销",
+        "type": "社交",
+        "use": "卧室软装改造内容带动床品转化",
+        "priority": 7
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "追踪床品尺寸价格带与竞品评分分布",
+        "priority": 8
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "床品大词抢曝光加尺寸长尾收口",
+        "竞品定投强调环保纺织认证",
+        "Q4 旺季加倍预算抢榜单位"
+      ],
+      "organic": [
+        "A+ 页面做尺寸与床垫深度适配图",
+        "软装场景图提升自然点击率",
+        "引导买家晒卧室实拍积累素材"
+      ],
+      "budget": "$1000-2000/月，先测 Queen 主力尺寸",
+      "kpi": "ACoS<28%，退货率<10%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.com Sheet Sets Best Sellers",
+      "Heimtextil 官方展商目录",
+      "baijing.cn 家纺品类出海分析"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "waffle-cotton-bath-towel-set",
+    "name": "华夫格纯棉浴巾套装",
+    "aliases": [
+      "Waffle Cotton Towel Set",
+      "Waffelpique Handtücher",
+      "HS 6302.60"
+    ],
+    "category": "家纺",
+    "summary": "快干华夫格浴巾组合，主打酒店感与速干不闷",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "德国家庭浴巾按套购买且讲究纺织认证与耐洗次数，快干华夫格契合节能晾晒习惯"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Heimtextil 批发渠道"
+        ],
+        "entry": "主打环保认证与 60 次耐洗测试数据，按德国标准尺寸分色成套",
+        "risk": "本土品牌价格壁垒高，需差异化材质"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "美国浴巾更换频率高，华夫格因速干不闷在社媒走红，酒店风家装趋势带动溢价"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Target Marketplace",
+          "HomeGoods",
+          "Etsy 定制刺绣"
+        ],
+        "entry": "做酒店风套装与刺绣定制，主打速干与低掉毛",
+        "risk": "掉毛与掉色是差评高发点"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "日本家纺强调吸水性与速干，华夫格毛巾在极简家居群体中受欢迎，注重克重与手感"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "Loft"
+        ],
+        "entry": "标注克重与吸水率实测，包装走日式极简礼盒",
+        "risk": "日本对毛圈工艺细节极挑剔"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "澳洲浴室用品更替频率高，速干需求因潮湿气候强，本地家居连锁话语权大"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "eBay AU",
+          "Bed Bath N' Table",
+          "Kogan"
+        ],
+        "entry": "做沙滩巾与浴巾双线组合，主打海边使用场景",
+        "risk": "本地渠道议价强，账期压力大"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "高端酒店与民宿翻新带来批量采购，同时家庭消费对礼盒装接受度高"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "酒店用品批发渠道"
+        ],
+        "entry": "做白与米双色礼盒装，对接酒店与民宿批发订单",
+        "risk": "批量订单回款周期长"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.de 为主阵地，做套装与色系组合",
+        "priority": 1
+      },
+      {
+        "name": "OTTO Marketplace",
+        "type": "B2C",
+        "use": "德国家纺主渠道，做套装配色上架",
+        "priority": 2
+      },
+      {
+        "name": "Heimtextil 家纺展",
+        "type": "展会",
+        "use": "对接欧洲家纺批发商与自有品牌采购",
+        "priority": 3
+      },
+      {
+        "name": "OEKO-TEX 认证机构",
+        "type": "数据",
+        "use": "办理纺织品有害物质检测，是欧洲入场券",
+        "priority": 4
+      },
+      {
+        "name": "阿里国际站",
+        "type": "B2B",
+        "use": "承接海外家纺批发与酒店布草订单",
+        "priority": 5
+      },
+      {
+        "name": "Instagram / Pinterest",
+        "type": "社交",
+        "use": "浴室 spa 风格图集沉淀长期种草流量",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "华夫格浴巾精准词小预算试投",
+        "竞品定投主打认证与克重参数",
+        "节日礼品季加投礼盒词"
+      ],
+      "organic": [
+        "浴室场景图在 Pinterest 长期沉淀",
+        "A+ 页面展示材质与吸水性实测",
+        "套装色系化促进连带购买"
+      ],
+      "budget": "$300-700/月，精投长尾词",
+      "kpi": "ACoS<25%，评分≥4.5，退货率<8%"
+    },
+    "sources": [
+      "Amazon.de 毛巾家纺类目页",
+      "Heimtextil 官方展商目录",
+      "OEKO-TEX 官网认证说明"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "adhesive-kitchen-wall-shelf",
+    "name": "免打孔厨房壁挂置物架",
+    "aliases": [
+      "Adhesive Kitchen Wall Shelf",
+      "Küchenregal ohne Bohren",
+      "HS 8302.50"
+    ],
+    "category": "家具配件",
+    "summary": "免钻孔粘贴式厨房置物架，租房厨房的轻改造方案",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 90,
+        "why": [
+          "德国租客不能钻孔，免打孔是高频修饰词，小厨房对墙面垂直收纳依赖强，该类目搜索常年高位"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "OBI 线上",
+          "Kaufland"
+        ],
+        "entry": "主打工业级免钉胶与承重 10 公斤实测，配瓷砖与乳胶漆墙面适配说明先立信任",
+        "risk": "墙面材质不适配导致掉落差评"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 85,
+        "why": [
+          "美国租房人口规模大且多数禁打孔，无损收纳是社媒热门主题，客单 20-35 美元"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Etsy",
+          "TikTok Shop"
+        ],
+        "entry": "做可拆除不留痕演示视频，出品调味架加挂杆套装组合",
+        "risk": "掉落索赔风险，需提供赔付条款"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 80,
+        "why": [
+          "日本租住率高且对墙面损伤零容忍，租房可用壁面收纳搜索量大，注重承重与安装说明"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "东急Hands"
+        ],
+        "entry": "做磁吸加粘贴双版本，说明书细化到墙面类型判断并标注承重",
+        "risk": "说明书不细致将导致大量退货"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 72,
+        "why": [
+          "澳洲租房合同普遍禁止钻孔，厨房收纳空间不足，五金连锁与电商双渠道成熟"
+        ],
+        "channels": [
+          "Amazon.com.au",
+          "Bunnings",
+          "eBay AU",
+          "Kogan"
+        ],
+        "entry": "做不锈钢耐腐蚀款适配潮湿厨房，主打澳洲租房场景",
+        "risk": "人口少，SKU 需精简控制库存"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "迪拜外籍租客密集、租房流动率高，免打孔收纳符合短租与搬迁需求，电商渗透快"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地超市渠道"
+        ],
+        "entry": "主打易拆迁移与多件套组合，做英文加阿拉伯语双语文案",
+        "risk": "高温高湿环境胶性衰减快"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.de 为主阵地，做套装与结构款矩阵",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "德语免打孔精准词比英语大词更省成本",
+        "priority": 2
+      },
+      {
+        "name": "OTTO Marketplace",
+        "type": "B2C",
+        "use": "德国本土家居主渠道，做套装与色系上架",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop / 短视频",
+        "type": "社交",
+        "use": "拍免打孔安装与承重测试，转化极高",
+        "priority": 4
+      },
+      {
+        "name": "Bunnings / OBI 供应商渠道",
+        "type": "B2B",
+        "use": "澳洲与欧洲五金园艺连锁，进店即品牌背书",
+        "priority": 5
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "反查免打孔相关词搜索量与竞品客单",
+        "priority": 6
+      },
+      {
+        "name": "Global Sources",
+        "type": "B2B",
+        "use": "比价五金件与免钉胶供应商，压缩成本",
+        "priority": 7
+      },
+      {
+        "name": "Shopify 独立站",
+        "type": "独立站",
+        "use": "做租房改造套装组合，承接社媒流量",
+        "priority": 8
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "德语精准词成本优于英语大词",
+        "竞品定投强调承重与墙体适配",
+        "套装 ASIN 做防守词防守跟卖"
+      ],
+      "organic": [
+        "安装演示视频做详情页首图视频",
+        "A+ 列明可粘贴与不可粘贴墙面清单",
+        "引导买家晒安装图积累真实素材"
+      ],
+      "budget": "$800-1500/月，先测 2 个结构款",
+      "kpi": "ACoS<28%，退货率<8%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.de 免打孔置物架类目页",
+      "flapen.com 免打孔品类分析",
+      "kuajingyan.com 亚马逊家居站点分析"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "furniture-riser-legs",
+    "name": "可调家具增高腿与托架",
+    "aliases": [
+      "Furniture Risers & Adjustable Legs",
+      "Möbelfüße höhenverstellbar",
+      "HS 8302.49"
+    ],
+    "category": "家具配件",
+    "summary": "可调高度的家具增高配件，为扫地机器人与收纳腾空间",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 84,
+        "why": [
+          "扫地机器人普及后床底净空需求明确，家具增高件属低竞争高复购配件，客单 15-25 美元"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Wayfair",
+          "Etsy"
+        ],
+        "entry": "做 4 件套可调高度款，主打留出扫地机 10 厘米净空场景，兼顾宿舍与老人床增高",
+        "risk": "承重不足导致塌陷投诉，需做极限测试"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国注重家具耐用与安全承重，家具脚是稳定长尾词，木纹与金属配色需匹配主流家具风格"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "OBI 线上",
+          "Kaufland"
+        ],
+        "entry": "标注承重公斤数与材质，做木纹加黑金两色匹配常见家具",
+        "risk": "与家具螺丝孔不匹配是退货主因"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "日本租房禁止改造但允许加装配件，扫地机与家具防潮需求并存，注重毫米级尺寸精度"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping"
+        ],
+        "entry": "做防潮垫高与扫地机净空双场景，尺寸表按日式家具腿径分列",
+        "risk": "尺寸不规范引发尺码不符退货"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "英国老房子地板不平、防潮需求常见，家具配件在小件工具类目复购稳定"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Argos",
+          "eBay UK",
+          "Wayfair UK"
+        ],
+        "entry": "做可微调螺纹款解决地板不平，主打家庭 DIY 工位人群",
+        "risk": "低价同款多，需靠材质与承重数据拉开"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "巴西家具更换周期长、维修配件需求旺，本地电商上家具脚垫类走量明显"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Shopee BR",
+          "Amazon.com.br"
+        ],
+        "entry": "做多规格通用套装，靠低价多件装走量摊薄物流",
+        "risk": "客单低，物流成本占比高于 30%"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做多规格套装",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "以竞品 ASIN 定投为主，成本低转化准",
+        "priority": 2
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "家具平台卖配件，傍主品类流量",
+        "priority": 3
+      },
+      {
+        "name": "TikTok / YouTube DIY 内容",
+        "type": "社交",
+        "use": "拍扫地机卡床底痛点与解决方案",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "查扫地机相关词的关联购买机会",
+        "priority": 5
+      },
+      {
+        "name": "阿里国际站",
+        "type": "B2B",
+        "use": "对海外家具厂做配套配件供货",
+        "priority": 6
+      },
+      {
+        "name": "Mercado Livre",
+        "type": "B2C",
+        "use": "南美低价走量，验证多规格套装",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "以竞品 ASIN 定投为主，成本低转化准",
+        "扫地机品牌词周边投放做场景截流",
+        "小预算试多规格套装词"
+      ],
+      "organic": [
+        "场景化图片直接解决痛点，自然点击强",
+        "配套安装尺寸对照表减少退货",
+        "与扫地机配件做捆绑推荐位"
+      ],
+      "budget": "$300-600/月，主打竞品定投",
+      "kpi": "ACoS<22%，退货率<6%，评分≥4.5"
+    },
+    "sources": [
+      "Amazon.com Furniture Risers 类目页",
+      "Wayfair 家具配件页",
+      "kuajingyan.com 家居配件分析"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "soft-close-drawer-hinges",
+    "name": "阻尼缓冲铰链",
+    "aliases": [
+      "Soft Close Cabinet Hinges",
+      "Dämpfungsscharnier",
+      "HS 8302.41"
+    ],
+    "category": "家具配件",
+    "summary": "静音阻尼铰链，橱柜翻新的高性价比升级件",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "德国家庭橱柜翻新与 DIY 需求强，高端品牌价高，中价阻尼配件存在替代空间，孔位匹配是关键"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OBI / toom 五金区",
+          "家具配件批发商",
+          "OTTO"
+        ],
+        "entry": "做 35 毫米标准杯口全规格覆盖，配安装孔位图与钻孔器套装",
+        "risk": "孔位不适配是退货第一大原因"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "美国橱柜改造 DIY 与房车升级场景多，软关闭铰链在家居建材渠道稳定出货"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Home Depot",
+          "Lowe's",
+          "Wayfair"
+        ],
+        "entry": "做 10/20/50 件装梯度，主打房车与出租房改造高频场景",
+        "risk": "需区分外盖与内嵌类型，说明不清易退货"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "日本厨房静音需求强且对细节做工要求高，DIY 改装人群小而精准，客单接受度好"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "家居建材连锁"
+        ],
+        "entry": "做防锈镀层与静音实测，说明书按常用铰链型号对照",
+        "risk": "本土标准差异大，需做适配表"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "澳洲厨房翻新市场活跃，五金连锁品类齐全但进口配件价格高，性价比机会存在"
+        ],
+        "channels": [
+          "Bunnings",
+          "Amazon.com.au",
+          "eBay AU"
+        ],
+        "entry": "以多件装切中本地中价位缺位，配合改造教程内容",
+        "risk": "渠道被本地五金连锁把控，需找分销"
+      },
+      {
+        "region": "中东",
+        "country": "沙特",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "沙特地产与装修项目增长快，工程与家具厂配套采购量大，对中国五金件接受度好"
+        ],
+        "channels": [
+          "本地五金批发市场",
+          "Amazon.sa",
+          "家具厂配套采购"
+        ],
+        "entry": "走家具厂配套与工程项目批量供货，主推抗湿热盐雾测试报告",
+        "risk": "工程账期长，需控制回款风险"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以多件装切入 DIY 与橱柜翻新人群",
+        "priority": 1
+      },
+      {
+        "name": "Home Depot / Bunnings 供应商渠道",
+        "type": "B2B",
+        "use": "五金连锁渠道走量大，需备足产能",
+        "priority": 2
+      },
+      {
+        "name": "阿里国际站",
+        "type": "B2B",
+        "use": "承接海外橱柜厂与家具厂配套采购",
+        "priority": 3
+      },
+      {
+        "name": "Canton Fair 广交会",
+        "type": "展会",
+        "use": "对接家具五金批发商与进口商",
+        "priority": 4
+      },
+      {
+        "name": "YouTube DIY 教程合作",
+        "type": "社交",
+        "use": "橱柜改造教程植入，转化高意向用户",
+        "priority": 5
+      },
+      {
+        "name": "SGS 盐雾测试服务",
+        "type": "数据",
+        "use": "出具中性盐雾报告，进入工程渠道硬门槛",
+        "priority": 6
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "软关闭铰链精准词小预算维持曝光",
+        "竞品定投比价，突出多件装价值",
+        "工程客户走搜索广告单独承接"
+      ],
+      "organic": [
+        "A+ 列出型号对照与孔位尺寸图",
+        "DIY 教程内容做长期自然流量",
+        "多件装梯度占据搜索结果位"
+      ],
+      "budget": "$300-700/月，重点做长尾词",
+      "kpi": "ACoS<22%，退货率<6%，复购率>12%"
+    },
+    "sources": [
+      "Amazon.de 家具五金类目页",
+      "Home Depot 五金配件页",
+      "Canton Fair 官网"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "under-bed-storage-bags",
+    "name": "床底衣物收纳袋",
+    "aliases": [
+      "Under Bed Storage Bags",
+      "Bettzeug Aufbewahrungstasche",
+      "HS 6307.90"
+    ],
+    "category": "收纳",
+    "summary": "防潮可视床底收纳袋，换季衣物的一次性归置方案",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 87,
+        "why": [
+          "美国独栋与公寓床底空间未被利用，换季收纳与宿舍搬家场景明显，客单 20-30 美元套装好卖"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Target Marketplace",
+          "TikTok Shop"
+        ],
+        "entry": "做 3 件与 6 件套装，带加固提手与透明视窗，主打一床一箱换季衣物",
+        "risk": "无纺布易破，需做提手拉力测试"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 80,
+        "why": [
+          "德国租房多用储物床，换季收纳与防潮需求稳定，注重尺寸与床底净高匹配"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "标注高度与承重，做适配 20-30 厘米床底净高的规格系列",
+        "risk": "尺寸不匹配导致差评占比高"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "日本榻榻米与床下收纳文化成熟，防潮防虫是核心诉求，对材质透气性要求高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "家居连锁平替渠道"
+        ],
+        "entry": "做防潮内衬加防虫片槽设计，规格对齐日式床架",
+        "risk": "本土品牌价格与渠道强势"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "英国老房子潮湿、衣柜空间小，床底收纳在中端家庭中属刚需，家居平台与亚马逊双渠道好卖"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Wayfair UK",
+          "Argos",
+          "Dunelm"
+        ],
+        "entry": "主打防潮透气与可折叠，与收纳箱组合做换季方案包",
+        "risk": "价格敏感，需靠套装拉高客单"
+      },
+      {
+        "region": "南美",
+        "country": "墨西哥",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "墨西哥城市公寓空间小、家庭人口多，收纳类目在本地电商增长快且低价竞争尚可"
+        ],
+        "channels": [
+          "Mercado Libre",
+          "Amazon.com.mx",
+          "Shopee MX"
+        ],
+        "entry": "做低价双件装走量，西班牙语 listing 主打节省空间",
+        "risk": "客单低，需靠物流组合降本"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做件数梯度套装",
+        "priority": 1
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "英欧家居平台，做床品与收纳捆绑",
+        "priority": 2
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "换季整理视频直接挂车，转化高",
+        "priority": 3
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "换季前集中投放抢排名",
+        "priority": 4
+      },
+      {
+        "name": "Mercado Libre",
+        "type": "B2C",
+        "use": "拉美走量渠道，验证低价套装",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "比对收纳袋评分与差评痛点做改良",
+        "priority": 6
+      },
+      {
+        "name": "阿里国际站",
+        "type": "B2B",
+        "use": "对接收纳类批发商与自有品牌贴牌",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "换季前 30 天集中投流抢排名",
+        "竞品定投强调提手与防潮材质",
+        "社媒短视频投流成本低于关键词"
+      ],
+      "organic": [
+        "换季整理内容在社媒长期沉淀",
+        "A+ 列出床底净高适配表",
+        "多件装梯度覆盖不同家庭规模"
+      ],
+      "budget": "$600-1200/月，换季翻倍",
+      "kpi": "ACoS<28%，退货率<8%，评分≥4.3"
+    },
+    "sources": [
+      "Amazon.com Under Bed Storage 类目页",
+      "Nitori 商品页",
+      "kuajingyan.com 收纳品类分析"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "corner-shower-caddy",
+    "name": "免打孔转角浴室置物架",
+    "aliases": [
+      "Adhesive Corner Shower Caddy",
+      "Duschregal ohne Bohren",
+      "HS 8302.50"
+    ],
+    "category": "收纳",
+    "summary": "免打孔转角淋浴架，潮湿浴室的防腐收纳方案",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 89,
+        "why": [
+          "德国浴室多瓷砖且租房禁钻孔，免打孔淋浴置物架是常年需求，注重防腐与承重表现"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "OBI 线上",
+          "Kaufland"
+        ],
+        "entry": "做不锈钢加防锈镀层款，主打 10 公斤承重与瓷砖长期不掉落",
+        "risk": "锈蚀投诉毁评分，需盐雾测试保障"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 84,
+        "why": [
+          "美国浴室小，合租与宿舍场景多，免钉淋浴架在电商平台长期热销，套装化可提升客单"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Home Depot 线上",
+          "TikTok Shop"
+        ],
+        "entry": "做 2-3 层加挂钩套装组合，主打防锈与快速安装",
+        "risk": "同质化严重，价格战压力大"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 78,
+        "why": [
+          "日本浴室狭小且注重清洁便利，免钉置物架需求高，对做工与排水设计挑剔"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "东急Hands"
+        ],
+        "entry": "做可拆洗层板与排水孔设计，说明书细化墙面类型判断",
+        "risk": "细节做工不过关将迅速差评"
+      },
+      {
+        "region": "东南亚",
+        "country": "泰国",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "东南亚高湿环境对防锈要求极高，出租公寓普及免钉置物，电商走量快"
+        ],
+        "channels": [
+          "Shopee TH",
+          "Lazada TH",
+          "TikTok Shop TH"
+        ],
+        "entry": "主打 304 不锈钢与抗潮，做低价双件套走直播销量",
+        "risk": "潮湿环境下胶与镀层考验大"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 62,
+        "why": [
+          "迪拜外籍租客与短租公寓密集，无法钻孔的租房限制普遍，本地电商供给有限"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地家居卖场"
+        ],
+        "entry": "主打耐热耐湿与易拆迁移，做英文加阿拉伯语双版本",
+        "risk": "高温影响胶性，需给出使用条件"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.de 为主阵地，做套装与结构款",
+        "priority": 1
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "德语精准词成本低于英语大词",
+        "priority": 2
+      },
+      {
+        "name": "OTTO Marketplace",
+        "type": "B2C",
+        "use": "德国本土渠道，做浴室收纳套装上架",
+        "priority": 3
+      },
+      {
+        "name": "TikTok Shop / 短视频",
+        "type": "社交",
+        "use": "防水测试与安装演示素材转化最高",
+        "priority": 4
+      },
+      {
+        "name": "Home Depot / OBI 供应商渠道",
+        "type": "B2B",
+        "use": "建材连锁渠道，做浴室用品堆头",
+        "priority": 5
+      },
+      {
+        "name": "SGS 盐雾测试",
+        "type": "数据",
+        "use": "出具抗腐蚀报告，支撑防锈卖点",
+        "priority": 6
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "追踪免钉类词搜索趋势与竞品价格",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "德语精准词成本低于英语大词",
+        "竞品定投强调承重与防锈实测",
+        "用引流款低价截流套装 ASIN"
+      ],
+      "organic": [
+        "安装与防水视频放详情页首位",
+        "A+ 列明可粘贴墙面清单",
+        "买家晒图返现积累真实素材"
+      ],
+      "budget": "$700-1400/月，先测 2 款结构",
+      "kpi": "ACoS<30%，退货率<9%，评分≥4.3"
+    },
+    "sources": [
+      "Amazon.de 淋浴置物架类目页",
+      "flapen.com 免打孔品类分析",
+      "kuajingyan.com 家居站点分析"
+    ],
+    "confidence": "high"
+  },
+  {
+    "id": "vacuum-storage-bags",
+    "name": "真空压缩收纳袋",
+    "aliases": [
+      "Vacuum Storage Bags",
+      "Vakuumbeutel Kleidung",
+      "HS 3923.21"
+    ],
+    "category": "收纳",
+    "summary": "抽气压缩衣物袋，一柜变两柜的空间魔术",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 86,
+        "why": [
+          "美国换季与搬家频繁，真空袋单价低复购高，含手泵或电动泵套装是常见成交组合"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "TikTok Shop",
+          "Etsy"
+        ],
+        "entry": "做含电动泵套装拉高客单，主打防潮防霉与可重复使用",
+        "risk": "漏气差评是最大的评分杀手"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国家庭换季收纳与行李箱空间优化需求强，注重阀门密封质量与可回收材质"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "做双阀门密封设计并做 100 次循环测试，德语标注可重复使用次数",
+        "risk": "一次漏气即差评，需加强品控抽检"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 76,
+        "why": [
+          "日本衣橱空间极小，衣物压缩袋属成熟刚需，对密封与尺寸精确度要求高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "家居连锁平替渠道"
+        ],
+        "entry": "做多尺寸组合适配日式衣橱与行李箱，标注压缩后厚度",
+        "risk": "本土成熟品牌多，需差异化包装"
+      },
+      {
+        "region": "欧洲",
+        "country": "西班牙",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "西班牙公寓小、换季收纳需求强，当地亚马逊收纳类目竞争弱于德国，存在机会窗口"
+        ],
+        "channels": [
+          "Amazon.es",
+          "El Corte Ingles 线上",
+          "Carrefour 线上"
+        ],
+        "entry": "做西班牙语 listing 抢占低竞争词，主打行李箱压缩场景",
+        "risk": "本地语言运营能力不足会拖转化"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "巴西公寓小且衣物多，本地电商上压缩袋走量快，价格极度敏感"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Shopee BR",
+          "Amazon.com.br"
+        ],
+        "entry": "做低单价多件装走量，靠销量摊薄广告与物流",
+        "risk": "客单低导致毛利压缩至 15% 以内"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做泵+袋组合",
+        "priority": 1
+      },
+      {
+        "name": "TikTok Shop",
+        "type": "社交",
+        "use": "压缩前后对比视频是最强转化素材",
+        "priority": 2
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "美国铺货走量，做低价套装",
+        "priority": 3
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "短视频素材配合关键词，换季前加投",
+        "priority": 4
+      },
+      {
+        "name": "Mercado Livre",
+        "type": "B2C",
+        "use": "拉美低价走量，验证多件装",
+        "priority": 5
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "追踪漏气相关差评与竞品改进点",
+        "priority": 6
+      },
+      {
+        "name": "阿里国际站",
+        "type": "B2B",
+        "use": "对接复合膜供应与贴牌订单",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "双轨并行（前期投流破冰）",
+      "paid": [
+        "短视频投流的 ROI 高于纯关键词",
+        "竞品定投强调阀门密封设计",
+        "换季与搬家季前加投"
+      ],
+      "organic": [
+        "压缩对比视觉内容天然高点击",
+        "A+ 展示循环测试与承重数据",
+        "多件装梯度覆盖不同家庭"
+      ],
+      "budget": "$600-1200/月，主打短视频",
+      "kpi": "ACoS<28%，差评率<4%，评分≥4.2"
+    },
+    "sources": [
+      "Amazon.com Vacuum Storage Bags 类目页",
+      "Nitori 收纳商品页",
+      "TikTok 真空收纳话题页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "foldable-laundry-sorter",
+    "name": "可折叠分格脏衣篮",
+    "aliases": [
+      "Foldable Laundry Sorter",
+      "Wäschesorter faltbar",
+      "HS 6307.90"
+    ],
+    "category": "收纳",
+    "summary": "折叠分格脏衣车，让洗衣分类变成顺手动作",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 80,
+        "why": [
+          "美国家庭洗衣量大且洗衣机在室内，分格脏衣车契合分类洗涤习惯，宿舍与家庭双场景"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Walmart",
+          "Wayfair",
+          "Target Marketplace"
+        ],
+        "entry": "做三格加滚轮款，主打可折叠收纳与再装能力，配深浅色分区标识",
+        "risk": "框架松动与轮子断裂是主要投诉"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "德国家庭注重分类洗衣与节省空间，折叠式产品受小户型欢迎，注重材质与承重"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OTTO",
+          "Kaufland",
+          "Tchibo"
+        ],
+        "entry": "做可折叠无工具组装款，德语标注承重与布料克重",
+        "risk": "布料薄易塌，需加强支撑杆"
+      },
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 3,
+        "heat": 70,
+        "why": [
+          "日本洗濯物分类与室内晾晒习惯强，折叠收纳是核心诉求，尺寸需贴合小卫生间"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "家居连锁平替"
+        ],
+        "entry": "做窄身版适配日式卫生间，主打收起厚度仅十厘米",
+        "risk": "尺寸偏大即难进入日本住宅"
+      },
+      {
+        "region": "欧洲",
+        "country": "法国",
+        "rank": 4,
+        "heat": 64,
+        "why": [
+          "法国家庭洗衣频率高、公寓小，折叠脏衣篮在当地电商增长稳定"
+        ],
+        "channels": [
+          "Amazon.fr",
+          "Cdiscount",
+          "Fnac Marketplace"
+        ],
+        "entry": "做法语 listing 强调设计感配色，配合家居软装内容种草",
+        "risk": "法国市场对价格与设计双敏感"
+      },
+      {
+        "region": "非洲",
+        "country": "南非",
+        "rank": 5,
+        "heat": 55,
+        "why": [
+          "南非中产家庭洗衣量大，本地供给以低端为主，性价比折叠款存在升级机会"
+        ],
+        "channels": [
+          "Takealot",
+          "Makro",
+          "本地家居零售"
+        ],
+        "entry": "做耐用加强版，通过电商起量再谈线下连锁",
+        "risk": "售后与配件供应链距离远"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做三格主力款",
+        "priority": 1
+      },
+      {
+        "name": "Wayfair Partner Home",
+        "type": "B2B",
+        "use": "家居平台做洗护收纳类目扩展",
+        "priority": 2
+      },
+      {
+        "name": "Walmart Marketplace",
+        "type": "B2C",
+        "use": "美国第二渠道，做低价套装铺量",
+        "priority": 3
+      },
+      {
+        "name": "TikTok / Instagram",
+        "type": "社交",
+        "use": "宿舍与出租屋整理内容带动转化",
+        "priority": 4
+      },
+      {
+        "name": "Takealot 卖家平台",
+        "type": "B2C",
+        "use": "南非电商主渠道，验证新兴市场需求",
+        "priority": 5
+      },
+      {
+        "name": "Jungle Scout",
+        "type": "数据",
+        "use": "比对分格篮价格带与评价痛点",
+        "priority": 6
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "开学季前加投宿舍场景词",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "脏衣篮精准词小预算维持",
+        "竞品定投强调结构稳定性",
+        "开学季前加投宿舍场景词"
+      ],
+      "organic": [
+        "A+ 展示承重与折叠结构",
+        "家居整理内容沉淀长期流量",
+        "多色款变体占位搜索结果"
+      ],
+      "budget": "$400-800/月，长尾词为主",
+      "kpi": "ACoS<25%，差评率<4%，评分≥4.3"
+    },
+    "sources": [
+      "Amazon.com Laundry Sorters 类目页",
+      "Wayfair 洗护收纳页",
+      "Takealot 家居类目页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "outdoor-patio-furniture-cover",
+    "name": "户外家具防水防尘罩",
+    "aliases": [
+      "Patio Furniture Cover",
+      "Abdeckplane Gartenmöbel",
+      "HS 6306.12"
+    ],
+    "category": "家居园艺",
+    "summary": "抗紫外线防水家具罩，延长户外家具寿命的低决策成本配件",
+    "markets": [
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 1,
+        "heat": 85,
+        "why": [
+          "美国后院户外家具保有量大，四季温差与雨雪让防尘罩成为刚需更换件，规格繁多易切细分"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Home Depot",
+          "Lowe's",
+          "Wayfair"
+        ],
+        "entry": "做椅、沙发与烧烤炉细分规格矩阵，主打抗紫外线与加厚面料",
+        "risk": "尺寸不符是退货第一原因"
+      },
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 2,
+        "heat": 78,
+        "why": [
+          "德国露台家具占比高，冬季防雪防潮需求明确，注重环保材质与可持续性表述"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OBI",
+          "OTTO",
+          "园艺垂直电商"
+        ],
+        "entry": "做德语尺寸对照表与拉绳加固款，标注环保无聚氯乙烯材质",
+        "risk": "环保合规要求趋严，材质需调整"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 74,
+        "why": [
+          "英国多雨多风，防雨罩是常年刚需而非季节性，对防风绑带与透气性要求高"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Wayfair UK",
+          "Garden Centre 连锁",
+          "Argos"
+        ],
+        "entry": "主打防风绑带加透气孔设计，做风速抗性数据支撑",
+        "risk": "大风撕裂投诉集中，需加强缝线"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 70,
+        "why": [
+          "澳洲强紫外线对户外织物损耗快，抗紫外线罩更替周期短，五金连锁与电商双渠道并行"
+        ],
+        "channels": [
+          "Bunnings",
+          "Amazon.com.au",
+          "eBay AU",
+          "Kogan"
+        ],
+        "entry": "主打抗紫外线面料与两年质保，切入烧烤炉罩细分",
+        "risk": "紫外线老化快，质保成本需测算"
+      },
+      {
+        "region": "中东",
+        "country": "阿联酋",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "中东别墅户外家具多但沙尘大，防尘覆盖需求真实，本地电商供给有限"
+        ],
+        "channels": [
+          "Amazon.ae",
+          "Noon.com",
+          "本地家居批发"
+        ],
+        "entry": "做防沙尘加抗晒款，阿拉伯语标注耐温范围",
+        "risk": "高温加速材料老化，需选耐温面料"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.com 为主阵地，做规格矩阵上架",
+        "priority": 1
+      },
+      {
+        "name": "Home Depot / Lowe's 线上渠道",
+        "type": "B2B",
+        "use": "美国建材园艺渠道，做季节堆头",
+        "priority": 2
+      },
+      {
+        "name": "Spoga+Gafa 科隆展",
+        "type": "展会",
+        "use": "对接欧洲园艺与户外家具渠道采购",
+        "priority": 3
+      },
+      {
+        "name": "阿里巴巴国际站",
+        "type": "B2B",
+        "use": "承接户外家具厂配套供货与贴牌",
+        "priority": 4
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "冬季前投防雪防雨词，细分烧烤炉罩单独投放",
+        "priority": 5
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "梳理规格矩阵与竞品评价痛点",
+        "priority": 6
+      },
+      {
+        "name": "YouTube / TikTok 内容",
+        "type": "社交",
+        "use": "展示防雨防雪测试与绑带固定",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "冬季前投防雪防雨词",
+        "竞品定投强调面料克重与抗紫外线等级",
+        "细分烧烤炉罩单独投放"
+      ],
+      "organic": [
+        "规格对照表提升转化降低退货",
+        "材质实测内容做长期自然流量",
+        "家具厂配套走 B2B 询盘"
+      ],
+      "budget": "$400-900/月，秋冬加倍",
+      "kpi": "ACoS<25%，退货率<9%，差评率<4%"
+    },
+    "sources": [
+      "Amazon.com Patio Furniture Covers 类目页",
+      "Spoga+Gafa 官网",
+      "Bunnings 户外品类页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "moisture-absorbing-desiccant-pack",
+    "name": "防潮除湿盒与可重复干燥剂",
+    "aliases": [
+      "Moisture Absorber / Reusable Silica Gel",
+      "Luftentfeuchter Box",
+      "HS 3824.99"
+    ],
+    "category": "家居园艺",
+    "summary": "衣柜鞋柜防潮除湿，梅雨季与船舱防霉刚需",
+    "markets": [
+      {
+        "region": "亚洲",
+        "country": "日本",
+        "rank": 1,
+        "heat": 82,
+        "why": [
+          "日本梅雨季与木质住宅防潮需求强烈，除湿剂属常年消耗品，复购频次高、包装诚实度要求高"
+        ],
+        "channels": [
+          "Amazon.co.jp",
+          "乐天",
+          "Yahoo! Shopping",
+          "药妆与家居店"
+        ],
+        "entry": "做可重复加热再生硅胶盒，日文标注吸湿量与再生次数，主打衣柜鞋柜",
+        "risk": "跨境运输属化学品类，需安全数据表"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 2,
+        "heat": 76,
+        "why": [
+          "英国老房子潮湿、霉斑问题普遍，除湿与防霉类目常年稳定，租房人群属刚需"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Argos",
+          "Wayfair UK",
+          "Dunelm"
+        ],
+        "entry": "做衣柜挂式除湿袋加盒装组合，主打两个月免打理",
+        "risk": "液体渗漏污染衣物会引发投诉"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "美国南部与沿海州霉菌问题明确，房车与储物柜防潮场景细分，可重复硅胶接受度高"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Home Depot",
+          "Walmart",
+          "房车用品垂直站"
+        ],
+        "entry": "切房车与车库防潮细分场景，做可重复再生加湿度指示珠款",
+        "risk": "需满足化学品与加州法规合规"
+      },
+      {
+        "region": "东南亚",
+        "country": "越南",
+        "rank": 4,
+        "heat": 68,
+        "why": [
+          "越南高湿气候与木质家具普及，除湿剂需求真实，电商走量便宜但复购快"
+        ],
+        "channels": [
+          "Shopee VN",
+          "Lazada VN",
+          "TikTok Shop VN"
+        ],
+        "entry": "低价补充装走量，主打衣柜与鞋柜高频复购",
+        "risk": "低单价下物流成本占比过高"
+      },
+      {
+        "region": "南美",
+        "country": "巴西",
+        "rank": 5,
+        "heat": 56,
+        "why": [
+          "巴西湿热地区防霉需求大，本地供给以基础款为主，可重复硅胶存在升级空间"
+        ],
+        "channels": [
+          "Mercado Livre",
+          "Shopee BR",
+          "本地家居零售"
+        ],
+        "entry": "做多件补充装，主推可重复使用降低成本感觉",
+        "risk": "化学品进口与认证流程复杂"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.co.jp 为主阵地，做衣柜场景主款",
+        "priority": 1
+      },
+      {
+        "name": "乐天 RMS 卖家后台",
+        "type": "B2C",
+        "use": "日本本土主渠道，做消耗品复购体系",
+        "priority": 2
+      },
+      {
+        "name": "SDS 与化学安全服务商",
+        "type": "数据",
+        "use": "办理化学品安全数据表与运输鉴定",
+        "priority": 3
+      },
+      {
+        "name": "Amazon Seller Central (UK/US)",
+        "type": "B2C",
+        "use": "英欧与北美同步上架，测试不同场景词",
+        "priority": 4
+      },
+      {
+        "name": "Shopee / Lazada",
+        "type": "B2C",
+        "use": "东南亚低价走量，验证复购率",
+        "priority": 5
+      },
+      {
+        "name": "YouTube / 小红书内容",
+        "type": "社交",
+        "use": "回南天与梅雨防霉科普内容带动转化",
+        "priority": 6
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "季节性词精准投放，如霉雨与潮湿",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "梅雨与回南天季节性词精准投放",
+        "竞品定投强调可重复再生",
+        "订阅式复购 ASIN 小预算维持"
+      ],
+      "organic": [
+        "防霉科普内容长期沉淀搜索流量",
+        "A+ 展示吸湿量与可重复次数",
+        "补充装连带购买提升客户终身价值"
+      ],
+      "budget": "$300-700/月，季节性放量",
+      "kpi": "ACoS<25%，复购率>20%，差评率<3%"
+    },
+    "sources": [
+      "Amazon.co.jp 除湿剂类目页",
+      "Amazon.co.uk 潮湿防护类目页",
+      "REACH 法规合规指南"
+    ],
+    "confidence": "low"
+  },
+  {
+    "id": "balcony-railing-plant-stand",
+    "name": "阳台栏杆花架",
+    "aliases": [
+      "Balcony Railing Plant Stand",
+      "Balkonblumenkasten Halterung",
+      "HS 8302.49"
+    ],
+    "category": "家居园艺",
+    "summary": "免打孔栏杆挂钩花架，把阳台栏杆变成垂直花园",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 81,
+        "why": [
+          "德国公寓阳台种花文化极强，租房禁打孔，栏杆挂钩式花架属经典需求，规格需匹配常见栏杆宽度"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OBI",
+          "OTTO",
+          "园艺垂直电商"
+        ],
+        "entry": "做可调宽度 3-6 厘米栏杆适配款，德语标注承重与防锈检测，先做单层基础款打评价",
+        "risk": "栏杆宽度不适配是退货主因"
+      },
+      {
+        "region": "欧洲",
+        "country": "意大利",
+        "rank": 2,
+        "heat": 72,
+        "why": [
+          "意大利阳台绿化审美强，对铁艺与造型设计要求高，中高端价位接受度好"
+        ],
+        "channels": [
+          "Amazon.it",
+          "本地园艺连锁",
+          "Etsy IT"
+        ],
+        "entry": "做复古锻铁风格款，主打设计感与防锈烤漆，走中高溢价路线",
+        "risk": "造型设计被跟款速度快"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 3,
+        "heat": 68,
+        "why": [
+          "美国公寓阳台绿化与都市园艺上升，能挂在栏杆上的花架省空间且免安装"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Etsy",
+          "Home Depot 线上",
+          "Walmart"
+        ],
+        "entry": "做双层可折叠款配合阳台种菜场景，主打免工具安装",
+        "risk": "美国栏杆规格与欧洲差异大，需分版本"
+      },
+      {
+        "region": "东南亚",
+        "country": "新加坡",
+        "rank": 4,
+        "heat": 62,
+        "why": [
+          "新加坡组屋与公寓阳台绿化政策鼓励，居住面积小，垂直园艺需求真实，客单接受度高"
+        ],
+        "channels": [
+          "Shopee SG",
+          "Lazada SG",
+          "本地园艺零售"
+        ],
+        "entry": "做抗潮湿锈款，主打组屋阳台场景与轻量安装",
+        "risk": "气候高湿对镀层考验大"
+      },
+      {
+        "region": "亚洲",
+        "country": "韩国",
+        "rank": 5,
+        "heat": 58,
+        "why": [
+          "韩国公寓阳台园艺与城市农场内容流行，颜值与小型化是选购关键"
+        ],
+        "channels": [
+          "Coupang",
+          "Naver Smart Store",
+          "Gmarket"
+        ],
+        "entry": "做奶油白配色迷你款，内容种草配合快速履约",
+        "risk": "本土卖家跟款速度快"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.de 为主阵地，做宽度可调款",
+        "priority": 1
+      },
+      {
+        "name": "Etsy 店铺",
+        "type": "B2C",
+        "use": "园艺与家居手工人群，做设计与定制溢价",
+        "priority": 2
+      },
+      {
+        "name": "Coupang / Naver Smart Store",
+        "type": "B2C",
+        "use": "韩国快速起量，依托次日达配送",
+        "priority": 3
+      },
+      {
+        "name": "Spoga+Gafa 园艺展",
+        "type": "展会",
+        "use": "对接欧洲园艺批发与花园中心采购",
+        "priority": 4
+      },
+      {
+        "name": "SGS 盐雾测试",
+        "type": "数据",
+        "use": "出具防锈报告，支撑户外长期使用",
+        "priority": 5
+      },
+      {
+        "name": "Instagram / Pinterest",
+        "type": "社交",
+        "use": "阳台花园场景图沉淀长期种草流量",
+        "priority": 6
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "春季前精准词投放抢园艺季排名",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "春季前精准词投放抢园艺季排名",
+        "竞品定投强调栏杆适配宽度",
+        "设计款单独投放高溢价词"
+      ],
+      "organic": [
+        "阳台花园场景图提升自然点击",
+        "A+ 列明栏杆规格适配表",
+        "园艺社区口碑与测评沉淀"
+      ],
+      "budget": "$400-800/月，集中春季",
+      "kpi": "ACoS<25%，退货率<8%，评分≥4.4"
+    },
+    "sources": [
+      "Amazon.de 阳台园艺类目页",
+      "Spoga+Gafa 官网",
+      "Etsy 阳台园艺类目页"
+    ],
+    "confidence": "medium"
+  },
+  {
+    "id": "cold-frame-greenhouse-kit",
+    "name": "小型园艺温室罩与育苗棚",
+    "aliases": [
+      "Pop-up Greenhouse / Cold Frame",
+      "Frühbeet / Gewächshaus Folie",
+      "HS 6306.12"
+    ],
+    "category": "家居园艺",
+    "summary": "折叠育苗温室，为家庭菜园延长一个生长季",
+    "markets": [
+      {
+        "region": "欧洲",
+        "country": "德国",
+        "rank": 1,
+        "heat": 78,
+        "why": [
+          "德国小花园文化发达，早春育苗与防霜需求明确，折叠免安装款受欢迎"
+        ],
+        "channels": [
+          "Amazon.de",
+          "OBI",
+          "园艺垂直电商",
+          "OTTO"
+        ],
+        "entry": "做三层折叠架加塑料罩组合，主打春季提前四周育苗与防霜",
+        "risk": "支架抗风性不足易吹倒，需加地钉"
+      },
+      {
+        "region": "北美",
+        "country": "美国",
+        "rank": 2,
+        "heat": 74,
+        "why": [
+          "美国后院种菜与育苗季集中，折叠温室单价低决策快，春季为绝对旺季"
+        ],
+        "channels": [
+          "Amazon.com",
+          "Home Depot",
+          "Walmart",
+          "Etsy"
+        ],
+        "entry": "做三至四层架式款与小型覆盖罩双线，主打冬季保苗与早春育苗",
+        "risk": "旺季极短，备货节奏风险高"
+      },
+      {
+        "region": "欧洲",
+        "country": "英国",
+        "rank": 3,
+        "heat": 72,
+        "why": [
+          "英国分配菜园与后院园艺盛行，防霜防雨与日照不足决定了温室需求稳定性"
+        ],
+        "channels": [
+          "Amazon.co.uk",
+          "Garden Centre 连锁",
+          "Wayfair UK",
+          "eBay UK"
+        ],
+        "entry": "做透明可拆洗罩款，主打多风地区加固设计",
+        "risk": "英国多风，支架加固成本上升"
+      },
+      {
+        "region": "大洋洲",
+        "country": "澳大利亚",
+        "rank": 4,
+        "heat": 66,
+        "why": [
+          "澳洲家庭菜园普及但强晒强风，抗紫外线罩与防风支架是核心竞争力，五金连锁渠道强"
+        ],
+        "channels": [
+          "Bunnings",
+          "Amazon.com.au",
+          "eBay AU"
+        ],
+        "entry": "主打抗紫外线与防风地钉款，配合菜园内容营销",
+        "risk": "紫外线老化快，质保承诺需谨慎"
+      },
+      {
+        "region": "亚洲",
+        "country": "中国",
+        "rank": 5,
+        "heat": 60,
+        "why": [
+          "国内阳台种菜与家庭菜园内容流行，产品可作出口款型的国内验证与内容母基地"
+        ],
+        "channels": [
+          "淘宝与天猫",
+          "拼多多",
+          "抖音电商"
+        ],
+        "entry": "国内先验证款型与实际使用痛点，再反向优化出口版本",
+        "risk": "国内价格战激烈，利润薄"
+      }
+    ],
+    "tools": [
+      {
+        "name": "Amazon Seller Central",
+        "type": "B2C",
+        "use": "以 Amazon.de 为主阵地，做折叠架式款",
+        "priority": 1
+      },
+      {
+        "name": "Home Depot / Bunnings 供应商渠道",
+        "type": "B2B",
+        "use": "园艺旺季堆头，按区域备货",
+        "priority": 2
+      },
+      {
+        "name": "Spoga+Gafa 园艺展",
+        "type": "展会",
+        "use": "对接欧洲花园中心与批发商采购",
+        "priority": 3
+      },
+      {
+        "name": "YouTube 种菜 KOL",
+        "type": "社交",
+        "use": "育苗全过程内容植入，转化精准",
+        "priority": 4
+      },
+      {
+        "name": "Helium 10",
+        "type": "数据",
+        "use": "测算春季销量曲线与备货节奏",
+        "priority": 5
+      },
+      {
+        "name": "阿里国际站",
+        "type": "B2B",
+        "use": "承接园艺批发与工程类采购",
+        "priority": 6
+      },
+      {
+        "name": "Amazon Ads (Sponsored Products)",
+        "type": "B2C",
+        "use": "早春 2-4 月集中投放抢排名",
+        "priority": 7
+      }
+    ],
+    "adStrategy": {
+      "verdict": "自然流为主",
+      "paid": [
+        "早春 2-4 月集中投放抢排名",
+        "视频广告展示快速展开安装",
+        "竞品定投强调支架加固"
+      ],
+      "organic": [
+        "育苗内容做长尾自然流量",
+        "A+ 列明层高与承重",
+        "园艺社群合作做真实测评"
+      ],
+      "budget": "$400-900/月，集中早春",
+      "kpi": "ACoS<28%，季节性转化率>8%，退货率<9%"
+    },
+    "sources": [
+      "Amazon.de 育苗温室类目页",
+      "Spoga+Gafa 官网",
+      "Home Depot 园艺温室页"
+    ],
+    "confidence": "medium"
+  }
+]

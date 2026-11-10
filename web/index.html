@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=1, user-scalable=no" />
+<meta name="theme-color" content="#0b1220" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<title>外贸快查 · 产品出海市场地图</title>
+<link rel="manifest" href="./manifest.webmanifest" />
+<link rel="stylesheet" href="./css/app.css?v=20261109m" />
+</head>
+<body>
+<div id="app">
+  <!-- ========== 顶部搜索区 ========== -->
+  <header class="topbar" id="topbar">
+    <div class="brand">
+      <span class="logo">⚡</span>
+      <div class="brand-txt"><b>外贸快查</b><i id="kbCount">正在加载…</i></div>
+      <button class="icon-btn" id="btnHistory" aria-label="历史">🕘</button>
+    </div>
+    <form class="search" id="searchForm" autocomplete="off">
+      <input id="q" type="search" enterkeyhint="search" placeholder="输入产品，如：保温杯 / 饼干机 / 蓝牙耳机" aria-label="产品名称" />
+      <button type="submit" id="btnSearch">查询</button>
+    </form>
+    <div class="hot" id="hotTags"></div>
+  </header>
+
+  <!-- ========== 主内容 ========== -->
+  <main id="main">
+    <!-- 空态 -->
+    <section class="empty" id="emptyState">
+      <div class="empty-ico">🌍</div>
+      <h2>一个产品，三个答案</h2>
+      <p>收录 156 个常见出口产品，断网也能查；没收录的会按同类产品估算。</p>
+      <div class="empty-grid">
+        <div><b>先做哪个国家</b><i>按好卖程度排序</i></div>
+        <div><b>为什么好卖</b><i>当地人怎么用它</i></div>
+        <div><b>投流还是自然流</b><i>上哪个平台更划算</i></div>
+      </div>
+    </section>
+
+    <!-- 加载骨架 -->
+    <section class="skeleton" id="loading" hidden>
+      <div class="sk sk-title"></div>
+      <div class="sk sk-line"></div>
+      <div class="sk sk-card"></div>
+    </section>
+
+    <!-- 错误态 -->
+    <section class="error" id="errorState" hidden>
+      <div class="err-ico">⚠️</div>
+      <h3 id="errTitle">查询失败</h3>
+      <p id="errMsg"></p>
+      <button class="ghost-btn" id="errRetry">重新输入</button>
+    </section>
+
+    <!-- 结果：一张答案卡，三问按固定顺序 -->
+    <section id="result" hidden>
+      <div class="hero">
+        <div class="hero-top">
+          <h1 id="pName">—</h1>
+          <span class="badge" id="srcBadge">已收录</span>
+        </div>
+        <div class="hero-sub">
+          <span id="pCat" class="chip"></span>
+          <span id="tookMs" class="took"></span>
+        </div>
+      </div>
+
+      <div class="notice" id="noticeBox" hidden></div>
+
+      <!-- 三问：全部首屏可见，无折叠 -->
+      <div class="qa-card" id="qaCard">
+        <div class="qa-row" id="qa1">
+          <div class="qa-k"><span class="qa-no">1</span>先做哪个国家</div>
+          <div class="qa-v" id="qa1v">—</div>
+        </div>
+        <div class="qa-row" id="qa2">
+          <div class="qa-k"><span class="qa-no">2</span>为什么好卖</div>
+          <div class="qa-v" id="qa2v">—</div>
+        </div>
+        <div class="qa-row" id="qa3">
+          <div class="qa-k"><span class="qa-no">3</span>投流还是自然流</div>
+          <div class="qa-v" id="qa3v">—</div>
+        </div>
+      </div>
+
+      <!-- 平台：只列名字 + 一个标签 -->
+      <div class="plat-line" id="platLine"></div>
+
+      <!-- 展开看细节（默认折叠，不影响三问阅读） -->
+      <details class="more" id="moreBox">
+        <summary>看细节：市场、工具与依据</summary>
+        <div class="more-body">
+          <div class="market-list" id="marketList"></div>
+          <div class="tool-list" id="toolList"></div>
+          <div class="sources" id="sourcesBox">
+            <h4>信息来源</h4>
+            <ul id="sourceList"></ul>
+          </div>
+        </div>
+      </details>
+
+      <div class="related" id="relatedBox" hidden>
+        <h4>相关产品</h4>
+        <div class="rel-chips" id="relChips"></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ========== 历史抽屉 ========== -->
+  <div class="drawer-mask" id="drawerMask" hidden></div>
+  <aside class="drawer" id="drawer" hidden>
+    <div class="drawer-head"><b>最近查询</b><button class="icon-btn" id="btnCloseDrawer">✕</button></div>
+    <div id="historyList" class="history-list"></div>
+  </aside>
+
+  <!-- ========== 底部信息 ========== -->
+  <footer class="foot">
+    <span id="footNote">断网也能用 · 联网查更多需启动服务</span>
+  </footer>
+</div>
+
+<script src="./js/synonyms.js?v=20261109m"></script>
+<script src="./js/aliases.js?v=20261109m"></script>
+<script src="./js/reference.js?v=20261109m"></script>
+<script src="./js/rules.js?v=20261109m"></script>
+<script src="./js/channels.js?v=20261109m"></script>
+<script src="./js/market-engine.js?v=20261109m"></script>
+<script src="./data/kb.bundle.js?v=20261109m"></script>
+<script src="./js/app.js?v=20261109m"></script>
+</body>
+</html>

@@ -1,0 +1,1676 @@
+[
+ {
+  "id": "blender-kitchen",
+  "name": "家用破壁机",
+  "aliases": [
+   "Countertop Blender / High-Speed Blender",
+   "破壁机、搅拌机、榨汁机、豆浆机",
+   "料理机",
+   "果汁机（误称，实为破壁搅拌）",
+   "Blender for Smoothies",
+   "Countertop Blender",
+   "High-Speed Blender"
+  ],
+  "category": "厨房小家电",
+  "summary": "高转速冷热双打的家用破壁机，主打豆浆与辅食场景",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 1,
+    "heat": 90,
+    "why": [
+     "美国家庭早餐习惯以果昔与蛋白粉饮品为主，对高转速与大容量需求稳定，中价位段复购与礼品需求双旺"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Walmart Marketplace",
+     "TikTok Shop US",
+     "Shopify 独立站"
+    ],
+    "entry": "以 1.5L 家用款切入，主打静音罩与可拆洗刀头，先做维生素证书与 UL 认证再上架主推款",
+    "risk": "产品责任险与 UL 认证缺一不可，电机返修引发高退货"
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "rank": 2,
+    "heat": 84,
+    "why": [
+     "德国家庭重视厨房电器耐用性与可维修性，CE 加 WEEE 注册是入场门槛，中高端品牌溢价空间大"
+    ],
+    "channels": [
+     "Amazon.de",
+     "OTTO",
+     "MediaMarkt 线上",
+     "本地家电连锁"
+    ],
+    "entry": "主推玻璃杯体与金属机身版本，附德语说明书与本地质保承诺，走中高端定价避开低价内卷",
+    "risk": "WEEE 与包装法注册不全将被下架，退货期长"
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "rank": 3,
+    "heat": 76,
+    "why": [
+     "越南家庭有自制豆奶与水果冰沙习惯，对多刀头破壁机接受度高，价格敏感但销量增长快"
+    ],
+    "channels": [
+     "Shopee VN",
+     "Lazada VN",
+     "TikTok Shop VN",
+     "本地电器批发市场"
+    ],
+    "entry": "以 600W 性价比款切入，主打冰沙与豆奶双语菜谱，配合本地达人测评快速起量",
+    "risk": "电压插头需本地化，低价同款竞争极端激烈"
+   },
+   {
+    "region": "中东",
+    "country": "沙特",
+    "rank": 4,
+    "heat": 70,
+    "why": [
+     "中东海湾家庭人口多、聚餐场景频繁，大容量搅拌机需求旺，客单价承受力高于东南亚"
+    ],
+    "channels": [
+     "Amazon.sa",
+     "Noon",
+     "本地电器分销商",
+     "Instagram 达人"
+    ],
+    "entry": "主推 2L 大容量与耐高温杯体，配套阿拉伯语食谱卡与两年质保，走商超与电商双线",
+    "risk": "需 SASO 认证与本地代理，清关周期偏长"
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "rank": 5,
+    "heat": 64,
+    "why": [
+     "墨西哥饮食以辣椒酱与果昔为日常，搅拌类电器属家庭刚需，美客多平台电器类目流量集中"
+    ],
+    "channels": [
+     "Mercado Libre",
+     "Amazon.com.mx",
+     "Walmart México",
+     "本地批发渠道"
+    ],
+    "entry": "以 350W 入门款试水，先做 NOM 认证，主图突出打辣椒酱与冰沙两种本地高频场景",
+    "risk": "售后网络缺失导致差评，汇率波动压缩利润"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "以美国站为主阵地做 FBA，A+ 与视频一体化上架",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Ads（Sponsored Products/Brands）",
+    "type": "B2C",
+    "use": "自动跑词两周后收口到果昔与辅食长尾词",
+    "priority": 2
+   },
+   {
+    "name": "TikTok Shop / TikTok 内容营销",
+    "type": "社交",
+    "use": "拍摄冰块打碎与豆浆破壁对比视频挂车引流",
+    "priority": 3
+   },
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "承接中东与东南亚分销商的小批量 OEM 询盘",
+    "priority": 4
+   },
+   {
+    "name": "Canton Fair 广交会",
+    "type": "展会",
+    "use": "现场演示与多家家电进口商建立年度供货关系",
+    "priority": 5
+   },
+   {
+    "name": "SGS / TÜV 检测服务",
+    "type": "数据",
+    "use": "提前完成 UL CE 报告，压缩上架前的认证周期",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "沉淀菜谱内容与套装组合，承接社媒复购",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行（前期投流测款）",
+   "paid": [
+    "先用自动广告跑出真实搜索词，两周后只保留高转化果昔与辅食词",
+    "竞品 ASIN 定投主打静音与可拆洗刀头对比",
+    "品牌词防守，防止跟卖抢流量位"
+   ],
+   "organic": [
+    "主图六图做打冰与清洗步骤可视化，降低退货咨询",
+    "上传真实打碎测试短视频与问答区答疑",
+    "关键词请母语校对，避免把破壁机写成榨汁机导致错配流量"
+   ],
+   "budget": "$1200-2000/月，先测 2 个 SKU",
+   "kpi": "ACoS<30%，转化率>8%，退货率<6%"
+  },
+  "sources": [
+   "Amazon.com Home & Kitchen 小家电类目页",
+   "cifnews.com 小家电出海选品分析",
+   "baijing.cn 厨房电器品类攻略",
+   "中国家电网 破壁机出口观察"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "air-fryer",
+  "name": "空气炸锅",
+  "aliases": [
+   "Air Fryer",
+   "空气炸烤箱、无油炸锅",
+   "空气炸锅机",
+   "电炸锅（误称，实为热风循环）",
+   "Air Fryer Oven"
+  ],
+  "category": "厨房小家电",
+  "summary": "热风循环少油烹饪小家电，靠内容种草拉动复购",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 1,
+    "heat": 92,
+    "why": [
+     "美国家庭空气炸锅渗透高但换机周期到来，大容量双篮款成为升级首选，TikTok 食谱内容持续喂流量"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Walmart Marketplace",
+     "TikTok Shop US",
+     "Costco 线下"
+    ],
+    "entry": "以 6-8 夸脱双篮款切入，配英文食谱手册与不粘涂层测试视频，避开 3 夸脱低价红海",
+    "risk": "涂层脱落投诉敏感，需备好 BPA-free 与食品级证明"
+   },
+   {
+    "region": "欧洲",
+    "country": "英国",
+    "rank": 2,
+    "heat": 87,
+    "why": [
+     "英国电价高推动家庭追求省电快速烹饪，小户型厨房对双功能炸烤一体机搜索增长明显"
+    ],
+    "channels": [
+     "Amazon.co.uk",
+     "Argos",
+     "Very",
+     "TikTok Shop UK"
+    ],
+    "entry": "主打省电与快速预热卖点，用英式菜谱做本地化，先做 UKCA 与 CE 双认证",
+    "risk": "UKCA 认证缺失将被平台下架，包装需符合当地环保要求"
+   },
+   {
+    "region": "亚太",
+    "country": "日本",
+    "rank": 3,
+    "heat": 74,
+    "why": [
+     "日本小家庭与单身人群多，厨房空间窄，紧凑型空气炸锅接受度高，注重静音与气味外泄控制"
+    ],
+    "channels": [
+     "Amazon.co.jp",
+     "乐天市场",
+     "Yahoo!购物",
+     "家电量贩店"
+    ],
+    "entry": "以 2-3L 紧凑款切入，强调静音与低油烟，配日语菜谱与详细尺寸图",
+    "risk": "PSE 认证必须，日文说明书不合规易被投诉"
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "rank": 4,
+    "heat": 71,
+    "why": [
+     "迪拜外籍人口占比高，多国籍饮食需求推动多功能炸锅，高端家居电器卖场与电商并行"
+    ],
+    "channels": [
+     "Amazon.ae",
+     "Noon",
+     "Sharaf DG",
+     "Instagram 达人"
+    ],
+    "entry": "主推大容量与炸烤一体款，进入本地家电连锁做陈列，用多国籍菜谱内容做种草",
+    "risk": "需本地代理商与保修网点，高温环境下电器散热要求高"
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "rank": 5,
+    "heat": 68,
+    "why": [
+     "巴西家庭烹饪以油炸食品为主，空气炸锅切中健康诉求，美客多平台电器成交集中且增长快"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "Amazon.com.br",
+     "Magalu",
+     "本地经销商"
+    ],
+    "entry": "主推 4-5L 中容量款，配葡语食谱与本地电压版本，先做 INMETRO 认证再铺货",
+    "risk": "巴西税负重且物流周期长，需提前核算到岸成本"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "美国站做主力，A+ 页嵌入菜谱与容量对比图",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Ads（Sponsored Products/Brands）",
+    "type": "B2C",
+    "use": "自动广告拓词后压价竞品词，抢换机升级流量",
+    "priority": 2
+   },
+   {
+    "name": "TikTok Shop / TikTok 内容营销",
+    "type": "社交",
+    "use": "15 秒无油炸鸡翅对比视频挂车，重复制爆款",
+    "priority": 3
+   },
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "承接欧洲与中东进口商的贴牌与规格定制询盘",
+    "priority": 4
+   },
+   {
+    "name": "Canton Fair 广交会",
+    "type": "展会",
+    "use": "现场出锅演示，与商超采购建立年度订单",
+    "priority": 5
+   },
+   {
+    "name": "Jungle Scout / Helium 10",
+    "type": "数据",
+    "use": "监控竞品客单与评论痛点，反向定义产品卖点",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "沉淀食谱库与配件复购，承接社交流量",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行（前期投流测款）",
+   "paid": [
+    "先测 2-3 组视频素材，跑出点击率最高的开场三秒",
+    "竞品 ASIN 定投主攻双篮与大容量对比",
+    "旺季前一个月加预算抢占换机词"
+   ],
+   "organic": [
+    "主图突出内腔尺寸与实际装量，减少尺寸误解退货",
+    "持续更新短食谱内容养账号权重",
+    "问答区主动说明涂层材质与清洁方式"
+   ],
+   "budget": "$1500-2500/月，旺季上浮 50%",
+   "kpi": "ACoS<28%，转化率>9%，评分维持 4.5 以上"
+  },
+  "sources": [
+   "Amazon.com Air Fryers Best Sellers 页",
+   "cifnews.com 空气炸锅出海观察",
+   "中国机电产品进出口商会 小家电出口简报",
+   "baijing.cn 厨房小电品类攻略"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "robot-vacuum",
+  "name": "扫地机器人",
+  "aliases": [
+   "Robot Vacuum / Robot Vacuum and Mop",
+   "扫地机、拖地机器人、擦地机器人",
+   "扫地机器人设备",
+   "吸尘机器人",
+   "扫拖一体机",
+   "Robot Vacuum",
+   "Robot Vacuum and Mop"
+  ],
+  "category": "清洁电器",
+  "summary": "激光导航扫拖一体机器人，靠地图与避障技术做品牌",
+  "markets": [
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "rank": 1,
+    "heat": 89,
+    "why": [
+     "德国宠物家庭比例高且家居地面以硬质地板为主，扫拖一体刚需强，对地图精度与集尘基站功能敏感"
+    ],
+    "channels": [
+     "Amazon.de",
+     "MediaMarkt/Saturn 线上",
+     "OTTO",
+     "本地家电连锁"
+    ],
+    "entry": "主推带自动集尘基站的版本，突出激光建图与宠物毛发清理，强调德语 App 与两年质保",
+    "risk": "退货率偏高，需备好本地维修点与备用电池"
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 2,
+    "heat": 86,
+    "why": [
+     "美国家庭地毯覆盖率高，吸力与地毯识别成为关键决策点，中高端价格带被头部品牌教育成熟"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Best Buy",
+     "Walmart Marketplace",
+     "Shopify 独立站"
+    ],
+    "entry": "主打强吸力与地毯增压模式，用对比测试视频切入，避开与头部品牌的参数正面战",
+    "risk": "头部品牌专利围栏密集，需做 FTO 检索"
+   },
+   {
+    "region": "亚太",
+    "country": "韩国",
+    "rank": 3,
+    "heat": 78,
+    "why": [
+     "韩国家庭高度接受智能家居，公寓户型规整适合扫地机工作，注重静音与自动上下水功能"
+    ],
+    "channels": [
+     "Coupang",
+     "Naver Smart Store",
+     "11st",
+     "本地家电渠道"
+    ],
+    "entry": "以静音与自动上下水基站为卖点，接入本地智能家居生态，先做 KC 认证",
+    "risk": "KC 认证与本地售后网点是硬门槛"
+   },
+   {
+    "region": "中东",
+    "country": "沙特",
+    "rank": 4,
+    "heat": 72,
+    "why": [
+     "沙特住宅面积大且多宠物与地毯混合场景，富裕家庭倾向高价全自动方案，集尘与续航要求高"
+    ],
+    "channels": [
+     "Amazon.sa",
+     "Noon",
+     "Extra 家电连锁",
+     "本地经销商"
+    ],
+    "entry": "主推大电池与长续航版本，强调自动集尘减少人工干预，配阿拉伯语 App 界面",
+    "risk": "高温沙尘环境加速部件损耗，需加严测试"
+   },
+   {
+    "region": "东南亚",
+    "country": "新加坡",
+    "rank": 5,
+    "heat": 66,
+    "why": [
+     "新加坡公寓密集、家庭清洁外包成本高，扫地机被视为省时刚需，用户对 App 稳定性要求高"
+    ],
+    "channels": [
+     "Shopee SG",
+     "Lazada SG",
+     "Courts 家电连锁",
+     "TikTok Shop SG"
+    ],
+    "entry": "以紧凑机身与吸拖一体切入，主打小户型适配与 App 稳定性，走电商加实体陈列组合",
+    "risk": "市场体量小，需靠高客单与配件利润支撑"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "德国与美国站双线，A+ 页嵌入建图与避障演示",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Ads（Sponsored Brands/Products）",
+    "type": "B2C",
+    "use": "品牌词与品类词分层，抢宠物家庭搜索流量",
+    "priority": 2
+   },
+   {
+    "name": "YouTube 测评与开箱合作",
+    "type": "社交",
+    "use": "与家电测评频道合作做长视频深度对比",
+    "priority": 3
+   },
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "承接中东与东南亚家电分销商代理询盘",
+    "priority": 4
+   },
+   {
+    "name": "IFA 柏林消费电子展",
+    "type": "展会",
+    "use": "面向欧洲渠道商展示新品与基站方案",
+    "priority": 5
+   },
+   {
+    "name": "SGS / TÜV 检测服务",
+    "type": "数据",
+    "use": "完成 CE RED 与电池运输认证，支撑跨境发货",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "沉淀品牌与耗材复购，承接测评流量",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行（前期投流测款）",
+   "paid": [
+    "先用品牌词与竞品词分层测试，锁定高转化价格带",
+    "视频广告投宠物毛发与地毯场景，控制完播率成本",
+    "旺季前抢建品牌词防守位"
+   ],
+   "organic": [
+    "长视频测评是最好的转化素材，优先做地面实测",
+    "主图突出基站尺寸与安装条件，降低退换",
+    "FAQ 覆盖地毯识别与耗材更换周期"
+   ],
+   "budget": "$3000-5000/月，客单价高需更长测试周期",
+   "kpi": "ACoS<35%，转化率>3%，退货率<10%"
+  },
+  "sources": [
+   "Amazon.de Saugroboter 类目页",
+   "cifnews.com 清洁电器出海分析",
+   "中国机电产品进出口商会 清洁电器出口简报",
+   "GfK 家电零售监测（公开摘要）"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "electric-toothbrush",
+  "name": "电动牙刷",
+  "aliases": [
+   "Electric Toothbrush / Sonic Toothbrush",
+   "声波牙刷、牙刷机器",
+   "电动牙刷设备",
+   "冲牙器（常被混称）",
+   "Sonic Electric Toothbrush",
+   "Electric Toothbrush",
+   "Sonic Toothbrush"
+  ],
+  "category": "个护小家电",
+  "summary": "声波振动电动牙刷，耗材复购稳定、适合品牌化运营",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 1,
+    "heat": 88,
+    "why": [
+     "美国口腔护理意识强，牙医渠道背书影响购买决策，刷头耗材形成稳定复购，礼品季需求集中"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Walmart Marketplace",
+     "Target 线上",
+     "Shopify 独立站"
+    ],
+    "entry": "以入门款加多刷头套装拉高客单，强调压力感应与两分钟计时，主打成人家庭装",
+    "risk": "FDA 相关宣称需谨慎，避免医疗功效表述越界"
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "rank": 2,
+    "heat": 82,
+    "why": [
+     "德国民众定期洗牙习惯普及，牙医推荐显著影响电动牙刷选择，对刷毛硬度与压力保护要求高"
+    ],
+    "channels": [
+     "Amazon.de",
+     "dm/Rossmann 药妆渠道",
+     "OTTO",
+     "牙医诊所渠道"
+    ],
+    "entry": "进入药妆连锁做日常陈列，包装突出压力感应与牙医推荐语，建立德语使用指南",
+    "risk": "药妆渠道账期长，包装法规与回收登记须合规"
+   },
+   {
+    "region": "亚太",
+    "country": "日本",
+    "rank": 3,
+    "heat": 76,
+    "why": [
+     "日本消费者对口腔护理精细化程度高，偏好小刷头与静音设计，药妆店与电商渠道并行"
+    ],
+    "channels": [
+     "Amazon.co.jp",
+     "乐天市场",
+     "松本清等药妆店",
+     "Yahoo!购物"
+    ],
+    "entry": "以小刷头与超静音款切入，配合日文齿科说明与旅行盒，走药妆与电商双线",
+    "risk": "日文标注与医疗器械分类判断需提前确认"
+   },
+   {
+    "region": "东南亚",
+    "country": "印尼",
+    "rank": 4,
+    "heat": 69,
+    "why": [
+     "印尼年轻人口多、口腔护理意识快速提升，电商低价段爆发，TikTok 达人带货转化效率高"
+    ],
+    "channels": [
+     "Shopee ID",
+     "Tokopedia",
+     "TikTok Shop ID",
+     "本地药妆连锁"
+    ],
+    "entry": "以低价入门款加平价刷头复购模型切入，配合本地达人短视频做教育与销量双拉动",
+    "risk": "低价竞争激烈，售后与刷头供应易断档"
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "rank": 5,
+    "heat": 64,
+    "why": [
+     "阿联酋消费力强且注重个人形象，高端个护小电在购物中心与电商同步走量，礼品属性明显"
+    ],
+    "channels": [
+     "Amazon.ae",
+     "Noon",
+     "Boots 中东门店",
+     "Instagram 达人"
+    ],
+    "entry": "主推礼盒装与美白护理套装，进入商场专柜与高端电商渠道做形象陈列",
+    "risk": "需 ESMA 注册与本地代理，单价高但量有限"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "美国站做主力，套装与刷头订阅式组合上架",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Ads（Sponsored Products/Brands）",
+    "type": "B2C",
+    "use": "牙医相关词与竞品刷头词分层投放",
+    "priority": 2
+   },
+   {
+    "name": "TikTok Shop / TikTok 内容营销",
+    "type": "社交",
+    "use": "达人演示压力感应与牙龈保护，挂车引流",
+    "priority": 3
+   },
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "承接药妆连锁与牙科诊所渠道的贴牌订单",
+    "priority": 4
+   },
+   {
+    "name": "Global Sources 香港电子展",
+    "type": "展会",
+    "use": "对接中东与欧洲个护渠道采购商",
+    "priority": 5
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "做刷头订阅复购模型，沉淀用户数据",
+    "priority": 6
+   },
+   {
+    "name": "Jungle Scout / Helium 10",
+    "type": "数据",
+    "use": "监控竞品评论里对刷毛与震感的真实反馈",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行（前期投流测款）",
+   "paid": [
+    "首月自动广告跑词，锁定牙龈敏感与压力感应相关词",
+    "刷头与机身组合投放提升客单",
+    "品牌词防守，防止跟卖与刷头截流"
+   ],
+   "organic": [
+    "主图展示压力感应提示与国际认证标识",
+    "短视频强调两分钟计时与分区提醒",
+    "问答区解释刷头更换周期，引导复购"
+   ],
+   "budget": "$800-1500/月，先测 2 个套装",
+   "kpi": "ACoS<30%，转化率>10%，复购率>15%"
+  },
+  "sources": [
+   "Amazon.com Electric Toothbrushes 类目页",
+   "cifnews.com 个护小电出海分析",
+   "baijing.cn 个护家清品类攻略",
+   "中国口腔清洁护理用品工业协会 公开信息"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "hair-dryer",
+  "name": "高速吹风机",
+  "aliases": [
+   "Hair Dryer / High-Speed Hair Dryer",
+   "吹风机、风机、电吹风",
+   "吹风筒",
+   "卷发棒（常被混称）",
+   "Ionic Hair Dryer",
+   "Hair Dryer",
+   "High-Speed Hair Dryer"
+  ],
+  "category": "个护小家电",
+  "summary": "高速无刷电机吹风机，靠风速与护发体验做高端化",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 1,
+    "heat": 87,
+    "why": [
+     "美国沙龙护理文化成熟，用户愿为高速护发吹风机支付溢价，内容平台上护发对比视频转化效率高"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Ulta Beauty",
+     "Sephora 线上",
+     "TikTok Shop US"
+    ],
+    "entry": "以高速加负离子护发切入，主打护发前后对比视频，配多风嘴套装拉高客单",
+    "risk": "高端价格带需品牌背书，功率与插头需美规适配"
+   },
+   {
+    "region": "欧洲",
+    "country": "英国",
+    "rank": 2,
+    "heat": 80,
+    "why": [
+     "英国消费者对发质护理投入高，沙龙渠道与美妆零售联动强，对噪音与重量敏感"
+    ],
+    "channels": [
+     "Amazon.co.uk",
+     "Boots",
+     "Lookfantastic",
+     "沙龙批发渠道"
+    ],
+    "entry": "主打轻量机身与低噪音卖点，进入美妆零售做实物体验，配英规插头与两年保修",
+    "risk": "UKCA 认证与插头合规缺一不可"
+   },
+   {
+    "region": "亚太",
+    "country": "日本",
+    "rank": 3,
+    "heat": 78,
+    "why": [
+     "日本市场对吹风机护发功能与温控精度极为挑剔，大功率快干款在女性用户中渗透高"
+    ],
+    "channels": [
+     "Amazon.co.jp",
+     "乐天市场",
+     "家电量贩店",
+     "美妆店渠道"
+    ],
+    "entry": "主推温控防烫与快干两项指标，附日文护发指南，进入家电量贩做体验位",
+    "risk": "PSE 认证与本地说明书要求严格，退货期长"
+   },
+   {
+    "region": "中东",
+    "country": "沙特",
+    "rank": 4,
+    "heat": 71,
+    "why": [
+     "海湾女性对发型护理投入高，沙尘与高温环境强调速干与耐热，礼品与自用需求并存"
+    ],
+    "channels": [
+     "Amazon.sa",
+     "Noon",
+     "本地美妆连锁",
+     "Instagram 达人"
+    ],
+    "entry": "以速干与耐高温设计为卖点，做礼盒包装切入礼品季，接入本地美妆连锁分销",
+    "risk": "需 SASO 认证，本地售后网点缺失影响口碑"
+   },
+   {
+    "region": "拉美",
+    "country": "巴西",
+    "rank": 5,
+    "heat": 66,
+    "why": [
+     "巴西美发沙龙文化浓厚，家用高速吹风机消费升级明显，美客多平台个护电器增长快"
+    ],
+    "channels": [
+     "Mercado Livre",
+     "Amazon.com.br",
+     "美妆连锁渠道",
+     "TikTok Shop BR"
+    ],
+    "entry": "以中端价格带切入，主打沙龙级风速与卷梳配件套装，配葡语使用说明",
+    "risk": "巴西电压 127/220V 双制，需明确标注避免误接"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "美国站主推，套装与风嘴配件组合上架",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Ads（Sponsored Brands/Video）",
+    "type": "B2C",
+    "use": "视频广告投放护发对比内容，抢占高端词",
+    "priority": 2
+   },
+   {
+    "name": "TikTok / Instagram 达人种草",
+    "type": "社交",
+    "use": "美发达人做前后对比短视频挂车转化",
+    "priority": 3
+   },
+   {
+    "name": "Global Sources 香港电子展",
+    "type": "展会",
+    "use": "对接中东与欧洲美妆渠道贴牌采购",
+    "priority": 4
+   },
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "承接沙龙连锁与区域品牌的小批量定制",
+    "priority": 5
+   },
+   {
+    "name": "SGS / TÜV 检测服务",
+    "type": "数据",
+    "use": "完成 CE 与插头合规报告，缩短上架周期",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "做品牌护发内容阵地，沉淀高价值客户",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行（前期投流测款）",
+   "paid": [
+    "先测视频素材的护发对比开头三秒",
+    "竞品高端型号定投主打轻量与温控对比",
+    "品牌词抢占防跟卖"
+   ],
+   "organic": [
+    "主图展示风速档位与重量数据，建立参数信任",
+    "达人长测评做深度种草，沉淀口碑",
+    "FAQ 说明电压与转换插头适配"
+   ],
+   "budget": "$1000-1800/月，素材测试占比 30%",
+   "kpi": "ACoS<32%，转化率>5%，退货率<8%"
+  },
+  "sources": [
+   "Amazon.com Hair Dryers 类目页",
+   "cifnews.com 个护小电出海分析",
+   "Statista 个护电器消费公开摘要",
+   "baijing.cn 美发电器品类攻略"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "led-bulb",
+  "name": "LED 智能灯泡",
+  "aliases": [
+   "LED Light Bulb / Smart LED Bulb",
+   "灯泡、LED灯、智能灯泡",
+   "LED灯珠（实为灯珠非成品灯泡）",
+   "LED Bulb",
+   "LED Light Bulb",
+   "Smart LED Bulb"
+  ],
+  "category": "照明电器",
+  "summary": "标准螺口 LED 灯泡，靠认证与能效比做规模出货",
+  "markets": [
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "rank": 1,
+    "heat": 86,
+    "why": [
+     "欧盟 ErP 能效标签强制分级推动 LED 替换，德国照明渠道成熟，工程与零售市场需求并存"
+    ],
+    "channels": [
+     "Amazon.de",
+     "OBI/toom 五金连锁",
+     "MediaMarkt",
+     "B2B 工程批发商"
+    ],
+    "entry": "以 E27/E14 标准款切入，先完成 CE 与 ErP 能效注册，主打长寿命与色温一致性",
+    "risk": "能效标签不合规将被强制下架，价格竞争压毛利"
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 2,
+    "heat": 84,
+    "why": [
+     "美国各州能效法规推动白炽灯退出，家居与商用照明替换需求稳定，UL 认证是渠道入场券"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Home Depot 供应商体系",
+     "Walmart Marketplace",
+     "本地分销商"
+    ],
+    "entry": "主推可调光与高显色款切入中端，批量供货给本地分销商，终端做多规格混装箱",
+    "risk": "UL 与 FCC 认证成本高，低价渠道被本土品牌抢占"
+   },
+   {
+    "region": "中东",
+    "country": "沙特",
+    "rank": 3,
+    "heat": 78,
+    "why": [
+     "沙特大规模基建与住宅项目推动照明采购，政府对能效与本地化生产有明确导向，工程单占比高"
+    ],
+    "channels": [
+     "本地工程承包商",
+     "Alibaba 国际站",
+     "Amazon.sa",
+     "照明批发市场"
+    ],
+    "entry": "以工程批量订单为切入点，先做 SASO 能效认证，提供整箱配光方案与保修承诺",
+    "risk": "工程账期长，需核验买方资信与结算方式"
+   },
+   {
+    "region": "东南亚",
+    "country": "印尼",
+    "rank": 4,
+    "heat": 72,
+    "why": [
+     "印尼电网覆盖提升带动照明需求，价格敏感且渠道层级多，电商与批发市场并行出货"
+    ],
+    "channels": [
+     "Shopee ID",
+     "Tokopedia",
+     "本地照明批发商",
+     "五金店分销"
+    ],
+    "entry": "以高性价比标准款走批发渠道，主打明装替换方便与低电费，做小包装适合零售拆箱",
+    "risk": "SNI 认证必须，假货与水货冲击价格体系"
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "rank": 5,
+    "heat": 68,
+    "why": [
+     "墨西哥照明替换周期与电力成本推动 LED 普及，五金建材渠道强势，进口商偏好整柜采购"
+    ],
+    "channels": [
+     "Mercado Libre",
+     "本地建材批发商",
+     "Home Depot México",
+     "B2B 进口商"
+    ],
+    "entry": "以整柜混装方式发货，配西语包装与能效标识，主攻建材批发商做区域分销",
+    "risk": "NOM 认证与清关代理要求严格，汇率波动影响报价"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "发布工程与批发规格，承接中东与拉美整柜询盘",
+    "priority": 1
+   },
+   {
+    "name": "Hong Kong Electronics Fair 香港贸发局灯展",
+    "type": "展会",
+    "use": "对接照明进口商与工程采购方看样下单",
+    "priority": 2
+   },
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "欧美站做多规格混装，承接零售端替换需求",
+    "priority": 3
+   },
+   {
+    "name": "Global Sources 环球资源",
+    "type": "B2B",
+    "use": "维护照明类目买家资源，做定向报价",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 工程渠道开发",
+    "type": "社交",
+    "use": "定向联系中东与欧洲照明工程承包商",
+    "priority": 5
+   },
+   {
+    "name": "SGS / TÜV 检测服务",
+    "type": "数据",
+    "use": "完成 CE ErP UL 报告，作为投标必备材料",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "做工程案例与产品手册站，辅助询盘转化",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "P4P 只投工程词与高客单规格关键词，控制单条询盘成本",
+    "展会前后做定向关键词加投放承接流量"
+   ],
+   "organic": [
+    "国际站详情页做认证墙与光效曲线图，提高询盘质量",
+    "按国家做能效与认证分栏说明，减少无效问询",
+    "发布工程案例与装柜照片承接批发买家"
+   ],
+   "budget": "$500-1200/月，以询盘成本为唯一预算依据",
+   "kpi": "有效询盘转化率>8%，单询盘成本<$8，复购率>25%"
+  },
+  "sources": [
+   "Alibaba.com LED Bulbs 类目页",
+   "中国照明电器协会 出口动态",
+   "cifnews.com LED 照明出海分析",
+   "HKTDC 灯饰展官方买家报告"
+  ],
+  "confidence": "high"
+ },
+ {
+  "id": "smart-plug",
+  "name": "智能插座",
+  "aliases": [
+   "Smart Plug / WiFi Smart Socket",
+   "智能开关、WiFi插座",
+   "智能排插",
+   "定时插座",
+   "Smart Socket",
+   "Smart Plug",
+   "WiFi Smart Socket"
+  ],
+  "category": "智能家居",
+  "summary": "WiFi 计量智能插座，低成本引流款带动全屋智能生态",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 1,
+    "heat": 88,
+    "why": [
+     "美国家庭智能音箱渗透高，智能插座是最低门槛的语音控制入口，多人需求集中在节电与远程控制"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Walmart Marketplace",
+     "Best Buy",
+     "TikTok Shop US"
+    ],
+    "entry": "以四只装切入并接入主流语音平台，主打电费统计与定时功能，定价贴近冲动购买区间",
+    "risk": "UL 与 FCC 认证必须，App 稳定性直接影响差评"
+   },
+   {
+    "region": "欧洲",
+    "country": "英国",
+    "rank": 2,
+    "heat": 80,
+    "why": [
+     "英国电价高企推动家庭用智能插座监控用电，英规三脚插头是硬性门槛，节能诉求强"
+    ],
+    "channels": [
+     "Amazon.co.uk",
+     "Argos",
+     "Screwfix 五金渠道",
+     "Shopify 独立站"
+    ],
+    "entry": "主推带电量统计的英规款，强调电费监控与防过载，进入五金连锁做日常陈列",
+    "risk": "UKCA 认证与英规插头模具投入，需先备齐再上架"
+   },
+   {
+    "region": "亚太",
+    "country": "日本",
+    "rank": 3,
+    "heat": 72,
+    "why": [
+     "日本住宅插座密度低但智能家居生态活跃，用户偏好小巧不占位设计与静音继电器"
+    ],
+    "channels": [
+     "Amazon.co.jp",
+     "乐天市场",
+     "Yahoo!购物",
+     "家电量贩店"
+    ],
+    "entry": "以超小体积款切入并适配本地智能家居平台，主打不遮挡相邻插孔的设计优势",
+    "risk": "PSE 与技适认证要求严格，认证周期偏长"
+   },
+   {
+    "region": "东南亚",
+    "country": "泰国",
+    "rank": 4,
+    "heat": 66,
+    "why": [
+     "泰国电商增长快且智能家居认知提升，价格敏感度高，低价入门款容易在社交电商放量"
+    ],
+    "channels": [
+     "Shopee TH",
+     "Lazada TH",
+     "TikTok Shop TH",
+     "本地电器批发"
+    ],
+    "entry": "以低价单只装做引流款，配合套装组合提升客单，主打防雷与过载保护",
+    "risk": "价格战激烈，TISI 认证与插头标准需核实"
+   },
+   {
+    "region": "中东",
+    "country": "阿联酋",
+    "rank": 5,
+    "heat": 62,
+    "why": [
+     "阿联酋住宅与酒店智能化程度高，别墅家庭对远程控制与节能需求明显，客单价承受力较好"
+    ],
+    "channels": [
+     "Amazon.ae",
+     "Noon",
+     "本地智能家居集成商",
+     "Instagram 达人"
+    ],
+    "entry": "以多口排插加智能控制组合切入，面向别墅与酒店小批量项目供货，配英标插头",
+    "risk": "市场体量有限，需依赖项目单维持利润"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "美国站以多只装为主，做套装与单只双规格",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Ads（Sponsored Products）",
+    "type": "B2C",
+    "use": "投语音控制与定时插座相关长尾词控成本",
+    "priority": 2
+   },
+   {
+    "name": "TikTok Shop / TikTok 内容营销",
+    "type": "社交",
+    "use": "演示远程开关与电费统计场景，挂车转化",
+    "priority": 3
+   },
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "承接海外智能家居品牌的贴牌与固件定制",
+    "priority": 4
+   },
+   {
+    "name": "Canton Fair 广交会",
+    "type": "展会",
+    "use": "对接集成商与分销商，展示多规格插座方案",
+    "priority": 5
+   },
+   {
+    "name": "Jungle Scout / Helium 10",
+    "type": "数据",
+    "use": "监控竞品价格带与差评词，优化固件与卖点",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "围绕全屋智能方案做组合销售与复购",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "双轨并行（前期投流测款）",
+   "paid": [
+    "以低价引流款跑量，用品牌词防守利润款",
+    "投通用词抢语音控制与定时场景流量",
+    "节电与节庆季前加大投放"
+   ],
+   "organic": [
+    "主图标注适配的语音平台与插头规格",
+    "问答区说明 App 兼容性与断网可用性",
+    "套装组合提升客单价与评论池"
+   ],
+   "budget": "$600-1200/月，单 SKU 测试预算上限控制",
+   "kpi": "ACoS<30%，评分≥4.4，退货率<7%"
+  },
+  "sources": [
+   "Amazon.com Smart Plugs 类目页",
+   "cifnews.com 智能家居出海观察",
+   "baijing.cn 智能家居品类攻略",
+   "中国电子元件行业协会 公开信息"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "toaster",
+  "name": "烤面包机",
+  "aliases": [
+   "Toaster / Pop-up Toaster",
+   "吐司机、面包机、多士炉",
+   "烤面包机设备",
+   "早餐机",
+   "Bread Toaster",
+   "Toaster",
+   "Pop-up Toaster"
+  ],
+  "category": "厨房小家电",
+  "summary": "弹出式烤面包机，靠设计感与色彩做礼赠与换新",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 1,
+    "heat": 80,
+    "why": [
+     "美国人早餐习惯以吐司为主，烤面包机属婚房与租房标配小电，复古设计与彩色款易形成差异"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Target",
+     "Walmart Marketplace",
+     "Etsy 复古家居"
+    ],
+    "entry": "以复古彩色机身加四槽长槽款切入，主打颜值与均匀上色，做婚礼与开学生活场景",
+    "risk": "品类成熟毛利薄，需靠设计款避开价格战"
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "rank": 2,
+    "heat": 78,
+    "why": [
+     "德国家庭早餐与下午茶习惯稳定，对电器安全与做工细节要求高，本地品牌认知强但中端有空档"
+    ],
+    "channels": [
+     "Amazon.de",
+     "OTTO",
+     "MediaMarkt",
+     "本地家电连锁"
+    ],
+    "entry": "主推不锈钢高质感款并附德语说明书，做 CE 与 ERP 能效合规，走中端差异化定位",
+    "risk": "本地品牌占据心智，需长期做口碑与设计积累"
+   },
+   {
+    "region": "欧洲",
+    "country": "法国",
+    "rank": 3,
+    "heat": 72,
+    "why": [
+     "法国早餐以面包为主，带法棍加宽槽口需求特殊，家居审美导向明显，礼赠季节性强"
+    ],
+    "channels": [
+     "Amazon.fr",
+     "Cdiscount",
+     "Fnac 线上",
+     "独立站"
+    ],
+    "entry": "开发加宽槽口适配法棍的版本，用奶白与复古配色切入家居风格店，做礼盒包装",
+    "risk": "加宽槽口模具投入大，需先小批量验证需求"
+   },
+   {
+    "region": "亚太",
+    "country": "澳大利亚",
+    "rank": 4,
+    "heat": 66,
+    "why": [
+     "澳洲早餐文化贴近英式，家庭厨房空间大且偏好四槽款，电器安全与本地认证门槛明确"
+    ],
+    "channels": [
+     "Amazon.com.au",
+     "Kmart 与 Big W 供应商体系",
+     "The Good Guys",
+     "独立站"
+    ],
+    "entry": "以四槽大容量款切入，主推均匀上色与易清洁集屑盘，进入连锁商超做价格带补位",
+    "risk": "RCM 认证必须，商超账期与压价会压缩利润"
+   },
+   {
+    "region": "拉美",
+    "country": "墨西哥",
+    "rank": 5,
+    "heat": 58,
+    "why": [
+     "墨西哥早餐消费面包与三明治普遍，对低价实用款接受度高，电商平台上厨房小电增速明显"
+    ],
+    "channels": [
+     "Mercado Libre",
+     "Amazon.com.mx",
+     "Walmart México",
+     "本地批发市场"
+    ],
+    "entry": "以两槽基础款低价切入走量，主图突出快速出餐与易清洁，先完成 NOM 认证",
+    "risk": "低价内卷严重，需靠整柜发货摊薄物流成本"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "美国与德国站双线，凸出色卡与尺寸对照",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Ads（Sponsored Products）",
+    "type": "B2C",
+    "use": "投复古与婚礼场景词，避开价格战主词",
+    "priority": 2
+   },
+   {
+    "name": "Pinterest / Instagram 家居内容",
+    "type": "社交",
+    "use": "做厨房台面风格图，承接设计驱动型流量",
+    "priority": 3
+   },
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "承接欧洲与澳洲连锁商超的贴牌订单",
+    "priority": 4
+   },
+   {
+    "name": "Canton Fair 广交会",
+    "type": "展会",
+    "use": "现场展示新款色系，锁定期货订单",
+    "priority": 5
+   },
+   {
+    "name": "Jungle Scout / Helium 10",
+    "type": "数据",
+    "use": "比对竞品色系与价格带，规划差异化型号",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "做厨房小电风格搭配站，承接社媒流量",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "只投设计差异款与礼赠季词，控制 ACOS",
+    "竞品定投主攻四槽大容量与复古设计对比"
+   ],
+   "organic": [
+    "主图用色彩搭配与厨房场景突出颜值差异",
+    "与家居博主合作做台面改造内容",
+    "评价区引导晒出早餐场景图提升信任"
+   ],
+   "budget": "$400-900/月，以礼赠季前集中投放",
+   "kpi": "ACoS<25%，评分≥4.5，退货率<6%"
+  },
+  "sources": [
+   "Amazon.com Toasters 类目页",
+   "cifnews.com 厨房小电出海分析",
+   "中国机电产品进出口商会 小家电出口简报",
+   "OTTO 平台厨房电器类目页"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "humidifier",
+  "name": "家用加湿器",
+  "aliases": [
+   "Humidifier / Mist Humidifier",
+   "加湿器、喷雾机、香薰机（常被混称）",
+   "加湿设备",
+   "冷雾加湿器",
+   "Ultrasonic Humidifier",
+   "Humidifier",
+   "Mist Humidifier"
+  ],
+  "category": "环境电器",
+  "summary": "超声波冷雾加湿器，季节性强、靠功能细节做差异化",
+  "markets": [
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 1,
+    "heat": 84,
+    "why": [
+     "美国东北与中西部冬季干燥，加湿器属季节性刚需，对静音与婴儿房场景关注度高，换机周期性采购明显"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Walmart Marketplace",
+     "Target 线上",
+     "Bed Bath 类家居家电渠道"
+    ],
+    "entry": "以婴儿房静音款切入，主打无灯无噪与易清洗水箱，先在秋季备货抢冬季旺季",
+    "risk": "季节性极强，滞销库存压力大，需精准控货"
+   },
+   {
+    "region": "亚太",
+    "country": "韩国",
+    "rank": 2,
+    "heat": 80,
+    "why": [
+     "韩国家庭冬季使用地暖导致室内极度干燥，对加湿器卫生与杀菌能力高度敏感，用户教育成熟"
+    ],
+    "channels": [
+     "Coupang",
+     "Naver Smart Store",
+     "11st",
+     "家电渠道"
+    ],
+    "entry": "主推可拆洗水箱与杀菌模块，强调卫生安全与清洁便利，先做 KC 认证再上架",
+    "risk": "卫生事件敏感度高，需提供可验证的清洁结构"
+   },
+   {
+    "region": "欧洲",
+    "country": "英国",
+    "rank": 3,
+    "heat": 70,
+    "why": [
+     "英国冬季供暖配合高湿度环境，用户更关注霉菌与过敏问题，蒸发式加湿器接受度逐渐提升"
+    ],
+    "channels": [
+     "Amazon.co.uk",
+     "Argos",
+     "Boots 母婴渠道",
+     "独立站"
+    ],
+    "entry": "以蒸发式无雾款切入做差异化，主打不过度加湿与母婴适用，配英规插头与 UKCA 认证",
+    "risk": "无雾款单价偏低，需靠套装与滤芯复购补利"
+   },
+   {
+    "region": "中东",
+    "country": "沙特",
+    "rank": 4,
+    "heat": 66,
+    "why": [
+     "沙特空调长期运行导致室内干燥，加湿需求全年存在，住宅面积大对容量与静音要求高"
+    ],
+    "channels": [
+     "Amazon.sa",
+     "Noon",
+     "本地家电连锁",
+     "Instagram 达人"
+    ],
+    "entry": "主推大容量与长时间续航款，配阿拉伯语操作界面，进入家电连锁做季节陈列",
+    "risk": "高温环境下水路易滋生细菌，需强化卫生设计"
+   },
+   {
+    "region": "拉美",
+    "country": "智利",
+    "rank": 5,
+    "heat": 56,
+    "why": [
+     "智利中南部冬季湿冷且供暖普及，中等收入家庭对加湿小电接受度上升，电商渠道扩张快"
+    ],
+    "channels": [
+     "Mercado Libre",
+     "Falabella 线上",
+     "Paris 零售",
+     "本地电器批发"
+    ],
+    "entry": "以中容量性价比款切入，主打静音与香薰二合一，配合冬季前预售活动铺货",
+    "risk": "市场体量小，需靠季节性集中出货控制库存"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "美国站秋季备货，主打婴儿房与卧室场景",
+    "priority": 1
+   },
+   {
+    "name": "Amazon Ads（Sponsored Products）",
+    "type": "B2C",
+    "use": "按季节提前一个月投干燥与婴儿房词",
+    "priority": 2
+   },
+   {
+    "name": "TikTok / YouTube 场景内容",
+    "type": "社交",
+    "use": "做卧室湿度与睡眠改善内容做种草",
+    "priority": 3
+   },
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "承接中东与拉美的季节性批发与贴牌订单",
+    "priority": 4
+   },
+   {
+    "name": "Canton Fair 广交会",
+    "type": "展会",
+    "use": "对接家电进口商，谈季节性整柜采购",
+    "priority": 5
+   },
+   {
+    "name": "SGS / TÜV 检测服务",
+    "type": "数据",
+    "use": "完成 ETL 与 CE 报告，满足平台电器上架要求",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "做季节提醒与滤芯复购，拉长用户生命周期",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "旺季前一个月集中投放干燥与婴儿房关键词",
+    "用竞品定投主打静音与清洁便利对比",
+    "淡季降低预算保排名"
+   ],
+   "organic": [
+    "主图展示水箱可拆洗结构，直击清洁痛点",
+    "做湿度科普内容建立专业形象",
+    "问答区解释白粉问题与水质适配"
+   ],
+   "budget": "$500-1000/月，旺季翻倍",
+   "kpi": "ACoS<30%，转化率>8%，退货率<7%"
+  },
+  "sources": [
+   "Amazon.com Humidifiers 类目页",
+   "cifnews.com 环境电器出海分析",
+   "baijing.cn 家居电器品类攻略",
+   "中国机电产品进出口商会 家电出口简报"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "id": "water-purifier",
+  "name": "家用净水器",
+  "aliases": [
+   "Water Purifier / Under Sink RO Water Filter",
+   "净水机、净水设备、滤水器",
+   "纯水机",
+   "饮水机（常被混称）",
+   "RO Water Purifier",
+   "Water Purifier",
+   "Under Sink RO Water Filter"
+  ],
+  "category": "环境电器",
+  "summary": "厨下反渗透净水器，认证壁垒高、复购滤芯利润稳",
+  "markets": [
+   {
+    "region": "中东",
+    "country": "沙特",
+    "rank": 1,
+    "heat": 86,
+    "why": [
+     "沙特自来水以海水淡化为主、管网老化导致口感与信任度问题，家庭净水器属刚需，客单价承受力高"
+    ],
+    "channels": [
+     "本地水处理经销商",
+     "Amazon.sa",
+     "Noon",
+     "工程项目渠道"
+    ],
+    "entry": "以厨下 RO 五级过滤款切入，主打除盐口感与本地水质适配，找本地安装服务商做交付闭环",
+    "risk": "SASO 与水效认证必须，本地安装售后是关键成败点"
+   },
+   {
+    "region": "亚太",
+    "country": "印度",
+    "rank": 2,
+    "heat": 84,
+    "why": [
+     "印度多数城市自来水 TDS 偏高，RO 净水器被视为家庭必需品，品牌认知与售后网络决定复购"
+    ],
+    "channels": [
+     "Amazon.in",
+     "Flipkart",
+     "本地经销商网络",
+     "家电连锁"
+    ],
+    "entry": "以低价机身加滤芯年包模式切入，先建 2-3 个城市的安装与售后网点，主推 TDS 显示功能",
+    "risk": "滤芯供应与售后覆盖不到位将迅速失去口碑"
+   },
+   {
+    "region": "东南亚",
+    "country": "越南",
+    "rank": 3,
+    "heat": 76,
+    "why": [
+     "越南自来水硬度与杂质问题普遍，家庭对直饮净水需求上升，价格敏感但渠道分销成熟"
+    ],
+    "channels": [
+     "Shopee VN",
+     "Lazada VN",
+     "本地家电批发",
+     "水处理专卖店"
+    ],
+    "entry": "以厨下加台式双产品线覆盖不同预算，主打滤芯更换提醒功能，配本地安装培训",
+    "risk": "低价水货冲击价格体系，需做防伪与渠道管控"
+   },
+   {
+    "region": "北美",
+    "country": "美国",
+    "rank": 4,
+    "heat": 72,
+    "why": [
+     "美国部分社区对自来水品质关注上升，厨下 RO 系统与冰箱滤芯需求稳，渠道以家装与电商为主"
+    ],
+    "channels": [
+     "Amazon.com",
+     "Home Depot 供应商体系",
+     "Lowe's",
+     "Shopify 独立站"
+    ],
+    "entry": "以 NSF 认证为信用背书切入，主打无桶设计与快速换芯，走家装渠道做安装绑定",
+    "risk": "NSF 认证与水管接口标准严格，认证周期与费用高"
+   },
+   {
+    "region": "欧洲",
+    "country": "德国",
+    "rank": 5,
+    "heat": 64,
+    "why": [
+     "德国饮用水标准高但部分老建筑管网老化，净水设备在高端家庭与餐饮小型场景有稳定需求"
+    ],
+    "channels": [
+     "Amazon.de",
+     "本地水处理专营商",
+     "建材连锁",
+     "B2B 小型商用渠道"
+    ],
+    "entry": "以台下式紧凑款切入，主打 CE 与 DVGW 相关合规与德语文档，走专业渠道而非低价电商",
+    "risk": "本地标准严格且用户教育成本高，短期放量难"
+   }
+  ],
+  "tools": [
+   {
+    "name": "Alibaba 国际站",
+    "type": "B2B",
+    "use": "发布 RO 整机与滤芯型号，承接中东与印度经销询盘",
+    "priority": 1
+   },
+   {
+    "name": "本地水处理经销商渠道开发",
+    "type": "B2B",
+    "use": "在目标国建区域独家代理，配套安装与滤芯供应",
+    "priority": 2
+   },
+   {
+    "name": "Aquatech / WQA 国际水处理展",
+    "type": "展会",
+    "use": "对接全球水处理分销商与 OEM 买家",
+    "priority": 3
+   },
+   {
+    "name": "SGS / NSF 检测认证服务",
+    "type": "数据",
+    "use": "完成 NSF 与 CE 报告，作为渠道准入材料",
+    "priority": 4
+   },
+   {
+    "name": "LinkedIn 渠道与工程开发",
+    "type": "社交",
+    "use": "定向联系水务工程商与家电批发商",
+    "priority": 5
+   },
+   {
+    "name": "Amazon Seller Central",
+    "type": "B2C",
+    "use": "美国与沙特站做品牌露出与滤芯复购",
+    "priority": 6
+   },
+   {
+    "name": "Shopify 独立站",
+    "type": "独立站",
+    "use": "承载产品手册与滤芯订阅，辅助经销商下单",
+    "priority": 7
+   }
+  ],
+  "adStrategy": {
+   "verdict": "自然流为主",
+   "paid": [
+    "只投高意图关键词（按国家水质与安装需求），控制单询盘成本",
+    "展会与区域推广期做定向加投"
+   ],
+   "organic": [
+    "国际站详情页做认证墙与滤芯寿命曲线，筛掉低质询盘",
+    "按国家水质做差异化内容，建立专业信任",
+    "整理安装案例与换芯流程，降低售后摩擦"
+   ],
+   "budget": "$500-1500/月，以单条有效询盘成本为准绳",
+   "kpi": "有效询盘率>10%，单询盘成本<$15，滤芯年度复购率>40%"
+  },
+  "sources": [
+   "Alibaba.com Water Purifiers 类目页",
+   "cifnews.com 净水设备出海分析",
+   "中国水利企业协会 公开信息",
+   "Aquatech 展会官方买家数据摘要"
+  ],
+  "confidence": "medium"
+ }
+]
